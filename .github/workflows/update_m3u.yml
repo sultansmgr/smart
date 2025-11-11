@@ -9,11 +9,14 @@ on:
 jobs:
   update-m3u:
     permissions:
-      contents: write # 👈 BU SATIR, DOSYAYI DEPONUZA YAZMA İZNİ VERİR (403/128 HATASINI ÇÖZER)
+      contents: write # ✅ Mutlaka olması gereken dosya yazma izni
     runs-on: ubuntu-latest
     steps:
       - name: ⬇️ Depoyu Çek
         uses: actions/checkout@v4
+        with:
+          # Yetkilendirme için GITHUB_TOKEN'i açıkça kullan.
+          token: ${{ secrets.GITHUB_TOKEN }} 
 
       - name: 📦 M3U İçeriğini Worker URL'den Çekme
         id: fetch_m3u

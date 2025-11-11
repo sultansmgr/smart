@@ -4,7 +4,7 @@ on:
     # Her gün öğlen 12:00 UTC'de çalışır
     - cron: '0 12 * * *'
   workflow_dispatch:
-    # İsteğe bağlı: Depo sayfasından manuel olarak çalıştırmaya izin verir
+    # Depo sayfasından manuel olarak çalıştırmaya izin verir
 
 jobs:
   update-m3u:
@@ -19,14 +19,16 @@ jobs:
           # DİKKAT: Aşağıdaki URL'yi kendi Worker URL'niz ile değiştirin
           WORKER_URL="http://smart.aio-digital.workers.dev/TV.php?ID=https://zipzaptv.com/"
           
-          # Worker'dan gelen içeriği bir dosyaya kaydet
-          curl -sS "$WORKER_URL" > ZipZAP.m3u
+          # curl komutuna bir User-Agent eklenerek çekim denenecek
+          curl -sS -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" "$WORKER_URL" > ZipZAP.m3u
           
       - name: ⚙️ Değişiklik Var mı Kontrol Et
         id: git_status
-        run: echo "changes=$(git status --porcelain)" >> $GITHUB_OUTPUT
+        # ZipZAP.m3u dosyasında bir değişiklik olup olmadığını kontrol eder
+        run: echo "changes=$(git status --porcelain ZipZAP.m3u)" >> $GITHUB_OUTPUT
 
       - name: ⬆️ Değişiklikleri Kaydet (Commit) ve Gönder (Push)
+        # Sadece değişiklik varsa commit ve push yapar
         if: ${{ steps.git_status.outputs.changes != '' }}
         run: |
           git config user.name "GitHub Actions Bot"

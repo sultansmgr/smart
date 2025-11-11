@@ -40,4 +40,6 @@ jobs:
           git config user.email "action@github.com"
           git add ZipZAP.m3u
           git commit -m "Auto update: Fetch latest ZipZAP M3U from Worker"
+          # 🚨 ÇÖZÜM BURADA: Önce depodaki son değişiklikleri çek
+          git pull --rebase
           git push

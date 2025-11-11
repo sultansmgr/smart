@@ -1,0 +1,267 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Polsat 2 HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/501.png",Polsat 2 HD
+http://live.polskie-tv.workers.dev/?ID=1
+#EXTINF:-1 tvg-id="2" tvg-name="TVP 1 HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/502.png",TVP 1 HD
+http://live.polskie-tv.workers.dev/?ID=2
+#EXTINF:-1 tvg-id="3" tvg-name="TVP 2 HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/503.png",TVP 2 HD
+http://live.polskie-tv.workers.dev/?ID=3
+#EXTINF:-1 tvg-id="4" tvg-name="TVP 3" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/504.png",TVP 3
+http://live.polskie-tv.workers.dev/?ID=4
+#EXTINF:-1 tvg-id="5" tvg-name="tvn HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/505.png",tvn HD
+http://live.polskie-tv.workers.dev/?ID=5
+#EXTINF:-1 tvg-id="33" tvg-name="TV4 HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/533.png",TV4 HD
+http://live.polskie-tv.workers.dev/?ID=33
+#EXTINF:-1 tvg-id="39" tvg-name="Polsat Play HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/539.png",Polsat Play HD
+http://live.polskie-tv.workers.dev/?ID=39
+#EXTINF:-1 tvg-id="49" tvg-name="Zoom TV" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/549.png",Zoom TV
+http://live.polskie-tv.workers.dev/?ID=49
+#EXTINF:-1 tvg-id="52" tvg-name="TVN 7" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/552.png",TVN 7
+http://live.polskie-tv.workers.dev/?ID=52
+#EXTINF:-1 tvg-id="57" tvg-name="WP" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/557.png",WP
+http://live.polskie-tv.workers.dev/?ID=57
+#EXTINF:-1 tvg-id="74" tvg-name="TVS" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/574.png",TVS
+http://live.polskie-tv.workers.dev/?ID=74
+#EXTINF:-1 tvg-id="75" tvg-name="Super Polsat" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/575.png",Super Polsat
+http://live.polskie-tv.workers.dev/?ID=75
+#EXTINF:-1 tvg-id="76" tvg-name="TVP Kultura" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/576.png",TVP Kultura
+http://live.polskie-tv.workers.dev/?ID=76
+#EXTINF:-1 tvg-id="77" tvg-name="Polsat HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/577.png",Polsat HD
+http://live.polskie-tv.workers.dev/?ID=77
+#EXTINF:-1 tvg-id="81" tvg-name="TVR" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/581.png",TVR
+http://live.polskie-tv.workers.dev/?ID=81
+#EXTINF:-1 tvg-id="92" tvg-name="TVP HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/592.png",TVP HD
+http://live.polskie-tv.workers.dev/?ID=92
+#EXTINF:-1 tvg-id="101" tvg-name="Fokus TV" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/601.png",Fokus TV
+http://live.polskie-tv.workers.dev/?ID=101
+#EXTINF:-1 tvg-id="10" tvg-name="Canal+ Premium HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/510.png",Canal+ Premium HD
+http://live.polskie-tv.workers.dev/?ID=10
+#EXTINF:-1 tvg-id="14" tvg-name="HBO HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/514.png",HBO HD
+http://live.polskie-tv.workers.dev/?ID=14
+#EXTINF:-1 tvg-id="15" tvg-name="HBO 2" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/515.png",HBO 2
+http://live.polskie-tv.workers.dev/?ID=15
+#EXTINF:-1 tvg-id="16" tvg-name="Cinemax" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/516.png",Cinemax
+http://live.polskie-tv.workers.dev/?ID=16
+#EXTINF:-1 tvg-id="19" tvg-name="Canal+ Seriale" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/519.png",Canal+ Seriale
+http://live.polskie-tv.workers.dev/?ID=19
+#EXTINF:-1 tvg-id="20" tvg-name="FilmBox Premium HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/520.png",FilmBox Premium HD
+http://live.polskie-tv.workers.dev/?ID=20
+#EXTINF:-1 tvg-id="23" tvg-name="HBO 3" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/523.png",HBO 3
+http://live.polskie-tv.workers.dev/?ID=23
+#EXTINF:-1 tvg-id="24" tvg-name="Polsat Film HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/524.png",Polsat Film HD
+http://live.polskie-tv.workers.dev/?ID=24
+#EXTINF:-1 tvg-id="38" tvg-name="Ale Kino+ HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/538.png",Ale Kino+ HD
+http://live.polskie-tv.workers.dev/?ID=38
+#EXTINF:-1 tvg-id="53" tvg-name="TV Puls" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/553.png",TV Puls
+http://live.polskie-tv.workers.dev/?ID=53
+#EXTINF:-1 tvg-id="58" tvg-name="13 Ulica" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/558.png",13 Ulica
+http://live.polskie-tv.workers.dev/?ID=58
+#EXTINF:-1 tvg-id="59" tvg-name="AXN" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/559.png",AXN
+http://live.polskie-tv.workers.dev/?ID=59
+#EXTINF:-1 tvg-id="131" tvg-name="Filmbox Arthouse" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/631.png",Filmbox Arthouse
+http://live.polskie-tv.workers.dev/?ID=131
+#EXTINF:-1 tvg-id="73" tvg-name="Epic Drama" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/573.png",Epic Drama
+http://live.polskie-tv.workers.dev/?ID=73
+#EXTINF:-1 tvg-id="82" tvg-name="TVP Seriale" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/582.png",TVP Seriale
+http://live.polskie-tv.workers.dev/?ID=82
+#EXTINF:-1 tvg-id="83" tvg-name="AXN White" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/583.png",AXN White
+http://live.polskie-tv.workers.dev/?ID=83
+#EXTINF:-1 tvg-id="84" tvg-name="AXN Black" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/584.png",AXN Black
+http://live.polskie-tv.workers.dev/?ID=84
+#EXTINF:-1 tvg-id="88" tvg-name="TVN Fabula" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/588.png",TVN Fabula
+http://live.polskie-tv.workers.dev/?ID=88
+#EXTINF:-1 tvg-id="90" tvg-name="TVN Style" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/590.png",TVN Style
+http://live.polskie-tv.workers.dev/?ID=90
+#EXTINF:-1 tvg-id="102" tvg-name="Polsat Seriale" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/602.png",Polsat Seriale
+http://live.polskie-tv.workers.dev/?ID=102
+#EXTINF:-1 tvg-id="93" tvg-name="FOX HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/593.png",FOX HD
+http://live.polskie-tv.workers.dev/?ID=93
+#EXTINF:-1 tvg-id="100" tvg-name="Filmbox Extra" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/600.png",Filmbox Extra
+http://live.polskie-tv.workers.dev/?ID=100
+#EXTINF:-1 tvg-id="91" tvg-name="Kino Polska" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/591.png",Kino Polska
+http://live.polskie-tv.workers.dev/?ID=91
+#EXTINF:-1 tvg-id="106" tvg-name="WB" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/606.png",WB
+http://live.polskie-tv.workers.dev/?ID=106
+#EXTINF:-1 tvg-id="110" tvg-name="Filmbox Action" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/610.png",Filmbox Action
+http://live.polskie-tv.workers.dev/?ID=110
+#EXTINF:-1 tvg-id="111" tvg-name="TV 6" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/611.png",TV 6
+http://live.polskie-tv.workers.dev/?ID=111
+#EXTINF:-1 tvg-id="113" tvg-name="AXN Spin HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/613.png",AXN Spin HD
+http://live.polskie-tv.workers.dev/?ID=113
+#EXTINF:-1 tvg-id="114" tvg-name="Filmbox Family" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/614.png",Filmbox Family
+http://live.polskie-tv.workers.dev/?ID=114
+#EXTINF:-1 tvg-id="115" tvg-name="Comedy Central  HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/615.png",Comedy Central  HD
+http://live.polskie-tv.workers.dev/?ID=115
+#EXTINF:-1 tvg-id="119" tvg-name="Stopklatka" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/619.png",Stopklatka
+http://live.polskie-tv.workers.dev/?ID=119
+#EXTINF:-1 tvg-id="120" tvg-name="Kino TV" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/620.png",Kino TV
+http://live.polskie-tv.workers.dev/?ID=120
+#EXTINF:-1 tvg-id="121" tvg-name="Canal+ Film" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/621.png",Canal+ Film
+http://live.polskie-tv.workers.dev/?ID=121
+#EXTINF:-1 tvg-id="126" tvg-name="Cinemax 2" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/626.png",Cinemax 2
+http://live.polskie-tv.workers.dev/?ID=126
+#EXTINF:-1 tvg-id="133" tvg-name="Film Café" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/633.png",Film Café
+http://live.polskie-tv.workers.dev/?ID=133
+#EXTINF:-1 tvg-id="50" tvg-name="TVN 24" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/550.png",TVN 24
+http://live.polskie-tv.workers.dev/?ID=50
+#EXTINF:-1 tvg-id="51" tvg-name="TVN 24 BiS" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/551.png",TVN 24 BiS
+http://live.polskie-tv.workers.dev/?ID=51
+#EXTINF:-1 tvg-id="55" tvg-name="TVP Info" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/555.png",TVP Info
+http://live.polskie-tv.workers.dev/?ID=55
+#EXTINF:-1 tvg-id="56" tvg-name="Polsat 2 News" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/556.png",Polsat 2 News
+http://live.polskie-tv.workers.dev/?ID=56
+#EXTINF:-1 tvg-id="65" tvg-name="TV Republika" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/565.png",TV Republika
+http://live.polskie-tv.workers.dev/?ID=65
+#EXTINF:-1 tvg-id="78" tvg-name="Polsat News HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/578.png",Polsat News HD
+http://live.polskie-tv.workers.dev/?ID=78
+#EXTINF:-1 tvg-id="79" tvg-name="CNN" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/579.png",CNN
+http://live.polskie-tv.workers.dev/?ID=79
+#EXTINF:-1 tvg-id="80" tvg-name="TVP Polonia" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/580.png",TVP Polonia
+http://live.polskie-tv.workers.dev/?ID=80
+#EXTINF:-1 tvg-id="6" tvg-name="Polsat Sport HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/506.png",Polsat Sport HD
+http://live.polskie-tv.workers.dev/?ID=6
+#EXTINF:-1 tvg-id="7" tvg-name="Eleven Sports 1" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/507.png",Eleven Sports 1
+http://live.polskie-tv.workers.dev/?ID=7
+#EXTINF:-1 tvg-id="8" tvg-name="Polsat Sport 2" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/508.png",Polsat Sport 2
+http://live.polskie-tv.workers.dev/?ID=8
+#EXTINF:-1 tvg-id="11" tvg-name="Canal+ Sport HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/511.png",Canal+ Sport HD
+http://live.polskie-tv.workers.dev/?ID=11
+#EXTINF:-1 tvg-id="12" tvg-name="Polsat Sport Premium 2" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/512.png",Polsat Sport Premium 2
+http://live.polskie-tv.workers.dev/?ID=12
+#EXTINF:-1 tvg-id="13" tvg-name="Canal+ 360" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/513.png",Canal+ 360
+http://live.polskie-tv.workers.dev/?ID=13
+#EXTINF:-1 tvg-id="17" tvg-name="Eurosport 1" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/517.png",Eurosport 1
+http://live.polskie-tv.workers.dev/?ID=17
+#EXTINF:-1 tvg-id="18" tvg-name="Eurosport 2" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/518.png",Eurosport 2
+http://live.polskie-tv.workers.dev/?ID=18
+#EXTINF:-1 tvg-id="21" tvg-name="Eleven Sports 2" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/521.png",Eleven Sports 2
+http://live.polskie-tv.workers.dev/?ID=21
+#EXTINF:-1 tvg-id="22" tvg-name="Eleven Sports 3" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/522.png",Eleven Sports 3
+http://live.polskie-tv.workers.dev/?ID=22
+#EXTINF:-1 tvg-id="35" tvg-name="TVP Sport HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/535.png",TVP Sport HD
+http://live.polskie-tv.workers.dev/?ID=35
+#EXTINF:-1 tvg-id="41" tvg-name="Canal + Sport 2 HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/541.png",Canal + Sport 2 HD
+http://live.polskie-tv.workers.dev/?ID=41
+#EXTINF:-1 tvg-id="42" tvg-name="Canal + Sport 3 HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/542.png",Canal + Sport 3 HD
+http://live.polskie-tv.workers.dev/?ID=42
+#EXTINF:-1 tvg-id="43" tvg-name="Canal + Sport 4 HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/543.png",Canal + Sport 4 HD
+http://live.polskie-tv.workers.dev/?ID=43
+#EXTINF:-1 tvg-id="44" tvg-name="Eleven Sports 4" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/544.png",Eleven Sports 4
+http://live.polskie-tv.workers.dev/?ID=44
+#EXTINF:-1 tvg-id="45" tvg-name="Canal + Sport 5" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/545.png",Canal + Sport 5
+http://live.polskie-tv.workers.dev/?ID=45
+#EXTINF:-1 tvg-id="46" tvg-name="Polsat Sport 3" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/546.png",Polsat Sport 3
+http://live.polskie-tv.workers.dev/?ID=46
+#EXTINF:-1 tvg-id="47" tvg-name="Fightklub HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/547.png",Fightklub HD
+http://live.polskie-tv.workers.dev/?ID=47
+#EXTINF:-1 tvg-id="61" tvg-name="Polsat Sport Premium 1" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/561.png",Polsat Sport Premium 1
+http://live.polskie-tv.workers.dev/?ID=61
+#EXTINF:-1 tvg-id="89" tvg-name="Fightbox HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/589.png",Fightbox HD
+http://live.polskie-tv.workers.dev/?ID=89
+#EXTINF:-1 tvg-id="97" tvg-name="Golf Channel" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/597.png",Golf Channel
+http://live.polskie-tv.workers.dev/?ID=97
+#EXTINF:-1 tvg-id="117" tvg-name="Polsat Games" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/617.png",Polsat Games
+http://live.polskie-tv.workers.dev/?ID=117
+#EXTINF:-1 tvg-id="122" tvg-name="Canal+ Extra 1" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/622.png",Canal+ Extra 1
+http://live.polskie-tv.workers.dev/?ID=122
+#EXTINF:-1 tvg-id="123" tvg-name="Canal+ Extra 2" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/623.png",Canal+ Extra 2
+http://live.polskie-tv.workers.dev/?ID=123
+#EXTINF:-1 tvg-id="124" tvg-name="Canal+ Extra 3" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/624.png",Canal+ Extra 3
+http://live.polskie-tv.workers.dev/?ID=124
+#EXTINF:-1 tvg-id="125" tvg-name="Canal+ Extra 4" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/625.png",Canal+ Extra 4
+http://live.polskie-tv.workers.dev/?ID=125
+#EXTINF:-1 tvg-id="132" tvg-name="Motowizja" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/632.png",Motowizja
+http://live.polskie-tv.workers.dev/?ID=132
+#EXTINF:-1 tvg-id="134" tvg-name="Polsat Sport Fight" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/634.png",Polsat Sport Fight
+http://live.polskie-tv.workers.dev/?ID=134
+#EXTINF:-1 tvg-id="9" tvg-name="JimJam PL" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/509.png",JimJam PL
+http://live.polskie-tv.workers.dev/?ID=9
+#EXTINF:-1 tvg-id="25" tvg-name="Boomerang HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/525.png",Boomerang HD
+http://live.polskie-tv.workers.dev/?ID=25
+#EXTINF:-1 tvg-id="26" tvg-name="Disney Channel HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/526.png",Disney Channel HD
+http://live.polskie-tv.workers.dev/?ID=26
+#EXTINF:-1 tvg-id="28" tvg-name="Cartoon Network HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/528.png",Cartoon Network HD
+http://live.polskie-tv.workers.dev/?ID=28
+#EXTINF:-1 tvg-id="29" tvg-name="Disney Junior" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/529.png",Disney Junior
+http://live.polskie-tv.workers.dev/?ID=29
+#EXTINF:-1 tvg-id="30" tvg-name="MiniMini+ HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/530.png",MiniMini+ HD
+http://live.polskie-tv.workers.dev/?ID=30
+#EXTINF:-1 tvg-id="31" tvg-name="TVP ABC" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/531.png",TVP ABC
+http://live.polskie-tv.workers.dev/?ID=31
+#EXTINF:-1 tvg-id="40" tvg-name="Teletoon+ HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/540.png",Teletoon+ HD
+http://live.polskie-tv.workers.dev/?ID=40
+#EXTINF:-1 tvg-id="54" tvg-name="TV Puls 2" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/554.png",TV Puls 2
+http://live.polskie-tv.workers.dev/?ID=54
+#EXTINF:-1 tvg-id="99" tvg-name="Disney XD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/599.png",Disney XD
+http://live.polskie-tv.workers.dev/?ID=99
+#EXTINF:-1 tvg-id="116" tvg-name="Nick Jr" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/616.png",Nick Jr
+http://live.polskie-tv.workers.dev/?ID=116
+#EXTINF:-1 tvg-id="27" tvg-name="Power TV" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/527.png",Power TV
+http://live.polskie-tv.workers.dev/?ID=27
+#EXTINF:-1 tvg-id="32" tvg-name="Metro" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/532.png",Metro
+http://live.polskie-tv.workers.dev/?ID=32
+#EXTINF:-1 tvg-id="36" tvg-name="Polsat Cafe HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/536.png",Polsat Cafe HD
+http://live.polskie-tv.workers.dev/?ID=36
+#EXTINF:-1 tvg-id="48" tvg-name="Polo TV" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/548.png",Polo TV
+http://live.polskie-tv.workers.dev/?ID=48
+#EXTINF:-1 tvg-id="63" tvg-name="TTV" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/563.png",TTV
+http://live.polskie-tv.workers.dev/?ID=63
+#EXTINF:-1 tvg-id="64" tvg-name="TVP Rozrywka" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/564.png",TVP Rozrywka
+http://live.polskie-tv.workers.dev/?ID=64
+#EXTINF:-1 tvg-id="66" tvg-name="Kino Polska Muzyka" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/566.png",Kino Polska Muzyka
+http://live.polskie-tv.workers.dev/?ID=66
+#EXTINF:-1 tvg-id="67" tvg-name="Polsat Music" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/567.png",Polsat Music
+http://live.polskie-tv.workers.dev/?ID=67
+#EXTINF:-1 tvg-id="71" tvg-name="TLC" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/571.png",TLC
+http://live.polskie-tv.workers.dev/?ID=71
+#EXTINF:-1 tvg-id="72" tvg-name="HGTV" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/572.png",HGTV
+http://live.polskie-tv.workers.dev/?ID=72
+#EXTINF:-1 tvg-id="85" tvg-name="MCM Top" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/585.png",MCM Top
+http://live.polskie-tv.workers.dev/?ID=85
+#EXTINF:-1 tvg-id="98" tvg-name="StarsTV" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/598.png",StarsTV
+http://live.polskie-tv.workers.dev/?ID=98
+#EXTINF:-1 tvg-id="104" tvg-name="Food Network " group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/604.png",Food Network 
+http://live.polskie-tv.workers.dev/?ID=104
+#EXTINF:-1 tvg-id="105" tvg-name="TVN Turbo" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/605.png",TVN Turbo
+http://live.polskie-tv.workers.dev/?ID=105
+#EXTINF:-1 tvg-id="60" tvg-name="BBC FIRST" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/560.png",BBC FIRST
+http://live.polskie-tv.workers.dev/?ID=60
+#EXTINF:-1 tvg-id="112" tvg-name="Active Family" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/612.png",Active Family
+http://live.polskie-tv.workers.dev/?ID=112
+#EXTINF:-1 tvg-id="118" tvg-name="Polsat Rodzina" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/618.png",Polsat Rodzina
+http://live.polskie-tv.workers.dev/?ID=118
+#EXTINF:-1 tvg-id="34" tvg-name="TVP Historia" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/534.png",TVP Historia
+http://live.polskie-tv.workers.dev/?ID=34
+#EXTINF:-1 tvg-id="37" tvg-name="Planete+ HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/537.png",Planete+ HD
+http://live.polskie-tv.workers.dev/?ID=37
+#EXTINF:-1 tvg-id="62" tvg-name="Domo+" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/562.png",Domo+
+http://live.polskie-tv.workers.dev/?ID=62
+#EXTINF:-1 tvg-id="68" tvg-name="Animal Planet HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/568.png",Animal Planet HD
+http://live.polskie-tv.workers.dev/?ID=68
+#EXTINF:-1 tvg-id="69" tvg-name="Nat Geo Wild" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/569.png",Nat Geo Wild
+http://live.polskie-tv.workers.dev/?ID=69
+#EXTINF:-1 tvg-id="70" tvg-name="Discovery Channel HD" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/570.png",Discovery Channel HD
+http://live.polskie-tv.workers.dev/?ID=70
+#EXTINF:-1 tvg-id="86" tvg-name="Viasat Nature" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/586.png",Viasat Nature
+http://live.polskie-tv.workers.dev/?ID=86
+#EXTINF:-1 tvg-id="87" tvg-name="Viasat Explore" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/587.png",Viasat Explore
+http://live.polskie-tv.workers.dev/?ID=87
+#EXTINF:-1 tvg-id="94" tvg-name="Discovery Science" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/594.png",Discovery Science
+http://live.polskie-tv.workers.dev/?ID=94
+#EXTINF:-1 tvg-id="95" tvg-name="CBS Reality" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/595.png",CBS Reality
+http://live.polskie-tv.workers.dev/?ID=95
+#EXTINF:-1 tvg-id="96" tvg-name="Crime and Investigation" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/596.png",Crime and Investigation
+http://live.polskie-tv.workers.dev/?ID=96
+#EXTINF:-1 tvg-id="103" tvg-name="Viasat History" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/603.png",Viasat History
+http://live.polskie-tv.workers.dev/?ID=103
+#EXTINF:-1 tvg-id="107" tvg-name="Discovery Historia" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/607.png",Discovery Historia
+http://live.polskie-tv.workers.dev/?ID=107
+#EXTINF:-1 tvg-id="109" tvg-name="H2" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/609.png",H2
+http://live.polskie-tv.workers.dev/?ID=109
+#EXTINF:-1 tvg-id="127" tvg-name="Canal+ Dokument" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/627.png",Canal+ Dokument
+http://live.polskie-tv.workers.dev/?ID=127
+#EXTINF:-1 tvg-id="128" tvg-name="SciFi" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/628.png",SciFi
+http://live.polskie-tv.workers.dev/?ID=128
+#EXTINF:-1 tvg-id="129" tvg-name="National Geographic" group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/629.png",National Geographic
+http://live.polskie-tv.workers.dev/?ID=129
+#EXTINF:-1 tvg-id="130" tvg-name="Discovery Investigation " group-title="PolskieTV" tvg-logo="https://www.polskie.tv/play/images/logos/630.png",Discovery Investigation 
+http://live.polskie-tv.workers.dev/?ID=130

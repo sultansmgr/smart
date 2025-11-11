@@ -1,27 +1,36 @@
 name: Update ZipZAP M3U
 on:
   schedule:
+    # Her gün öğlen 12:00 UTC'de çalışır
     - cron: '0 12 * * *'
   workflow_dispatch:
+    # Depo sayfasından manuel olarak çalıştırmaya izin verir
 
 jobs:
   update-m3u:
     permissions:
-      contents: write # YENİ EKLENEN SATIR
+      contents: write # 👈 BU SATIR, PUSH HATASINI (403) ÇÖZER.
     runs-on: ubuntu-latest
     steps:
       - name: ⬇️ Depoyu Çek
         uses: actions/checkout@v4
-      # ... diğer adımlarınız devam ediyor
+
       - name: 📦 M3U İçeriğini Worker URL'den Çekme
         id: fetch_m3u
         run: |
+          # DİKKAT: Aşağıdaki URL'yi kendi Worker URL'niz ile değiştirin
           WORKER_URL="http://smart.aio-digital.workers.dev/TV.php?ID=https://zipzaptv.com/"
+          
+          # curl komutuna bir User-Agent eklenerek çekim denenecek
           curl -sS -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" "$WORKER_URL" > ZipZAP.m3u
+          
       - name: ⚙️ Değişiklik Var mı Kontrol Et
         id: git_status
+        # ZipZAP.m3u dosyasında bir değişiklik olup olmadığını kontrol eder
         run: echo "changes=$(git status --porcelain ZipZAP.m3u)" >> $GITHUB_OUTPUT
+
       - name: ⬆️ Değişiklikleri Kaydet (Commit) ve Gönder (Push)
+        # Sadece değişiklik varsa commit ve push yapar
         if: ${{ steps.git_status.outputs.changes != '' }}
         run: |
           git config user.name "GitHub Actions Bot"

@@ -1,8 +1,8 @@
 name: Update ZipZAP M3U
 on:
   schedule:
-    # Her gün öğlen 12:00 UTC'de çalışır
-    - cron: '0 12 * * *'
+    # Her saatin 0. dakikasında (saat başında) çalışır (Günde 24 kez)
+    - cron: '0 * * * *'
   workflow_dispatch:
     # Depo sayfasından manuel olarak çalıştırmaya izin verir
 

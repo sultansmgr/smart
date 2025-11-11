@@ -9,7 +9,7 @@ on:
 jobs:
   update-m3u:
     permissions:
-      contents: write # 👈 BU SATIR, PUSH HATASINI (403) ÇÖZER.
+      contents: write # 👈 BU SATIR, DOSYAYI DEPONUZA YAZMA İZNİ VERİR (403/128 HATASINI ÇÖZER)
     runs-on: ubuntu-latest
     steps:
       - name: ⬇️ Depoyu Çek

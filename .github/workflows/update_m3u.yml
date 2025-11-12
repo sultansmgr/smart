@@ -1,45 +1,53 @@
 name: Update ZipZAP M3U
+
 on:
   schedule:
-    # Her saatin 0. dakikasında (saat başında) çalışır (Günde 24 kez)
-    - cron: '0 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
-    # Depo sayfasından manuel olarak çalıştırmaya izin verir
 
 jobs:
   update-m3u:
-    permissions:
-      contents: write # ✅ Mutlaka olması gereken dosya yazma izni
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - name: ⬇️ Depoyu Çek
         uses: actions/checkout@v4
         with:
-          # Yetkilendirme için GITHUB_TOKEN'i açıkça kullan.
-          token: ${{ secrets.GITHUB_TOKEN }} 
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 📦 M3U İçeriğini Worker URL'den Çekme
+      - name: 📦 M3U İçeriğini PHP URL'den Çek
         id: fetch_m3u
         run: |
-          # DİKKAT: Aşağıdaki URL'yi kendi Worker URL'niz ile değiştirin
-          WORKER_URL="http://smart.aio-digital.workers.dev/TV.php?ID=https://zipzaptv.com/"
-          
-          # curl komutuna bir User-Agent eklenerek çekim denenecek
-          curl -sS -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" "$WORKER_URL" > ZipZAP.m3u
-          
+          PHP_URL="http://sultansmart.byethost11.com/Digital.php?ID=https://zipzaptv.com/"
+          echo "🔗 Veri çekiliyor: $PHP_URL"
+
+          curl -L -sS -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" "$PHP_URL" -o ZipZAP.m3u
+
+          echo "✅ Dosya indirildi, ilk 10 satır:"
+          head -n 10 ZipZAP.m3u || echo "❌ Dosya boş"
+
+      - name: 🔍 Dosya kontrol
+        run: |
+          ls -lh ZipZAP.m3u || echo "❌ Dosya bulunamadı"
+          file ZipZAP.m3u || true
+
       - name: ⚙️ Değişiklik Var mı Kontrol Et
         id: git_status
-        # ZipZAP.m3u dosyasında bir değişiklik olup olmadığını kontrol eder
-        run: echo "changes=$(git status --porcelain ZipZAP.m3u)" >> $GITHUB_OUTPUT
+        run: |
+          if git diff --quiet ZipZAP.m3u; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
 
-      - name: ⬆️ Değişiklikleri Kaydet (Commit) ve Gönder (Push)
-        # Sadece değişiklik varsa commit ve push yapar
-        if: ${{ steps.git_status.outputs.changes != '' }}
+      - name: ⬆️ Değişiklikleri Commit ve Push Et
+        if: ${{ steps.git_status.outputs.changes == 'true' }}
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "action@github.com"
           git add ZipZAP.m3u
-          git commit -m "Auto update: Fetch latest ZipZAP M3U from Worker"
-          # 🚨 ÇÖZÜM BURADA: Önce depodaki son değişiklikleri çek
+          git commit -m "Auto update: Fetch latest ZipZAP M3U from PHP source"
           git pull --rebase
-          git push
+          git push origin main

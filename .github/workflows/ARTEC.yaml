@@ -2,8 +2,7 @@ name: Update ARTEC M3U
 
 on:
   schedule:
-    # Her saatin 0. dakikasında (saat başında) çalışır (Günde 24 kez)
-    - cron: '0 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
     # Depo sayfasından manuel olarak çalıştırmaya izin verir
 
@@ -49,3 +48,4 @@ jobs:
           git commit -m "Auto update: Fetch latest ARTEC M3U from PHP source"
           git pull --rebase
           git push origin main
+

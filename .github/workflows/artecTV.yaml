@@ -1,0 +1,53 @@
+name: artecTV
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: ⬇️ Depoyu Çek
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 📦 M3U İçeriğini PHP URL'den Çek
+        id: fetch_m3u
+        run: |
+          PHP_URL="http://sultansmart.byethost11.com/Digital.php?ID=https://artec.tv/"
+          echo "🔗 Veri çekiliyor: $PHP_URL"
+
+          curl -L -sS -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" "$PHP_URL" -o ARTEC.m3u
+
+          echo "✅ Dosya indirildi, ilk 10 satır:"
+          head -n 10 ARTEC.m3u || echo "❌ Dosya boş"
+
+      - name: 🔍 Dosya kontrol
+        run: |
+          ls -lh ARTEC.m3u || echo "❌ Dosya bulunamadı"
+          file ARTEC.m3u || true
+
+      - name: ⚙️ Değişiklik Var mı Kontrol Et
+        id: git_status
+        run: |
+          if git diff --quiet ARTEC.m3u; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: ⬆️ Değişiklikleri Commit ve Push Et
+        if: ${{ steps.git_status.outputs.changes == 'true' }}
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "action@github.com"
+          git add ARTEC.m3u
+          git commit -m "Auto update: Fetch latest ARTEC M3U from PHP source"
+          git pull --rebase
+          git push origin main

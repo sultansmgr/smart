@@ -1,0 +1,45 @@
+name: Update ARTEC M3U
+on:
+  schedule:
+    # Her saatin 0. dakikasında (saat başında) çalışır (Günde 24 kez)
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    # Depo sayfasından manuel olarak çalıştırmaya izin verir
+
+jobs:
+  update-m3u:
+    permissions:
+      contents: write # ✅ Mutlaka olması gereken dosya yazma izni
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Depoyu Çek
+        uses: actions/checkout@v4
+        with:
+          # Yetkilendirme için GITHUB_TOKEN'i açıkça kullan.
+          token: ${{ secrets.GITHUB_TOKEN }} 
+
+      - name: 📦 M3U İçeriğini PHP URL'den Çekme
+        id: fetch_m3u
+        run: |
+          # DİKKAT: Aşağıdaki URL'yi kendi Worker URL'niz ile değiştirin
+          PHP_URL="http://sultansmart.byethost11.com/Digital.php?ID=https://artec.tv/"
+          
+          # curl komutuna bir User-Agent eklenerek çekim denenecek
+          curl -sS -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" "$PHP_URL" > ARTEC.m3u
+          
+      - name: ⚙️ Değişiklik Var mı Kontrol Et
+        id: git_status
+        # ARTEC.m3u dosyasında bir değişiklik olup olmadığını kontrol eder
+        run: echo "changes=$(git status --porcelain ARTEC.m3u)" >> $GITHUB_OUTPUT
+
+      - name: ⬆️ Değişiklikleri Kaydet (Commit) ve Gönder (Push)
+        # Sadece değişiklik varsa commit ve push yapar
+        if: ${{ steps.git_status.outputs.changes != '' }}
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "action@github.com"
+          git add ARTEC.m3u
+          git commit -m "Auto update: Fetch latest ARTEC M3U from Worker"
+          # 🚨 ÇÖZÜM BURADA: Önce depodaki son değişiklikleri çek
+          git pull --rebase
+          git push

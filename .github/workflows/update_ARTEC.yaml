@@ -2,34 +2,36 @@ name: Update ARTEC M3U
 
 on:
   schedule:
-    # Her saatin 0. dakikasında (saat başında) çalışır (Günde 24 kez)
-    - cron: '0 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
-    # Depo sayfasından manuel olarak çalıştırmaya izin verir
 
 jobs:
   update-m3u:
-    permissions:
-      contents: write # ✅ Dosya yazma izni gerekli
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: ⬇️ Depoyu Çek
         uses: actions/checkout@v4
         with:
-          # GITHUB_TOKEN kullanarak yetkilendirme yap
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 📦 M3U İçeriğini PHP URL'den Çek
         id: fetch_m3u
         run: |
-          # 🔗 Kendi PHP/Worker URL'ni buraya koy
           PHP_URL="http://sultansmart.byethost11.com/Digital.php?ID=https://artec.tv/"
+          echo "🔗 Veri çekiliyor: $PHP_URL"
 
-          echo "M3U verisi çekiliyor: $PHP_URL"
-          curl -sS -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" "$PHP_URL" -o ARTEC.m3u
+          curl -L -sS -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" "$PHP_URL" -o ARTEC.m3u
 
-          echo "✅ M3U dosyası güncellendi."
+          echo "✅ Dosya indirildi, ilk 10 satır:"
+          head -n 10 ARTEC.m3u || echo "❌ Dosya boş"
+
+      - name: 🔍 Dosya kontrol
+        run: |
+          ls -lh ARTEC.m3u || echo "❌ Dosya bulunamadı"
+          file ARTEC.m3u || true
 
       - name: ⚙️ Değişiklik Var mı Kontrol Et
         id: git_status

@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TRT 1" group-title="Ulusal" tvg-logo="https://yt3.ggpht.com/Ar9s9sZNclvmZN1l7GfIdnAQjh_ZkVhGMx6Dy5PHbq2keR9ijkPMFkk9VxZnIEnTf0MrXfSU4g",TRT 1
+#EXTVLCOPT:http-user-agent=MarkClark
+http://live.mobi-tv.workers.dev/?ID=trt-1
+#EXTINF:-1 tvg-name="SHOW" group-title="Ulusal" tvg-logo="https://yt3.ggpht.com/cLKgkpYAa2ebb0i0r0tRIrEwsytAyj9NEq6al0OQuhVh4QoVuClFzF1ODvSigcOpiXCyuo15Ew",SHOW
+#EXTVLCOPT:http-user-agent=MarkClark
+http://live.mobi-tv.workers.dev/?ID=show-tv
+#EXTINF:-1 tvg-name="KANAL D" group-title="Ulusal" tvg-logo="https://yt3.ggpht.com/PzOJKJhVUhYaGIpB79ya1FZaWNSlXGCG1ZXKd_q-yOh_8JbGT-dRiVWPz11UJEKpGFd49YhGjG8",KANAL D
+#EXTVLCOPT:http-user-agent=MarkClark
+http://live.mobi-tv.workers.dev/?ID=kanal-d
+#EXTINF:-1 tvg-name="ATV" group-title="Ulusal" tvg-logo="https://yt3.ggpht.com/rGaatci_rjFWnwKiycOnIolZYkXz8SeTNVMz4G_45i_flLh_toDIBKT6ctxlDH8b7vqW4Cc_-XY",ATV
+#EXTVLCOPT:http-user-agent=MarkClark
+http://live.mobi-tv.workers.dev/?ID=atv
+#EXTINF:-1 tvg-name="STAR" group-title="Ulusal" tvg-logo="https://yt3.ggpht.com/RZMwSCEwuSYV3R0X10cizuB4Pf_FOPPJrI-JnKytQoAe6gdScle1iWxj-5ApcILVT2hFZmCa0w",STAR
+#EXTVLCOPT:http-user-agent=MarkClark
+http://live.mobi-tv.workers.dev/?ID=star-tv
+#EXTINF:-1 tvg-name="TV8" group-title="Ulusal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mnwqLdHqFXbkm6QwloGNJ1EX5N3Z8klIpdSF59MRbbLxU",TV8
+#EXTVLCOPT:http-user-agent=MarkClark
+http://live.mobi-tv.workers.dev/?ID=tv8
+#EXTINF:-1 tvg-name="NOW" group-title="Ulusal" tvg-logo="https://yt3.ggpht.com/uLs2ZkqijBRkGlO0nSIJJpF_BJZhxdtaVq5lQXDnnwPTS41FekCPAqVz0ZU2RZjfhlvClkw-BQ",NOW
+#EXTVLCOPT:http-user-agent=MarkClark
+http://live.mobi-tv.workers.dev/?ID=now-tv
+#EXTINF:-1 tvg-name="KANAL 7" group-title="Ulusal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mnZRsE_zsJ1SHoJGEED56N-HWGKoZ932IHgAt5QKerBeA",KANAL 7
+#EXTVLCOPT:http-user-agent=MarkClark
+http://live.mobi-tv.workers.dev/?ID=kanal-7

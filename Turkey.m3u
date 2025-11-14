@@ -1,33 +1,33 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT 1" group-title="Ulusal" tvg-logo="https://yt3.ggpht.com/Ar9s9sZNclvmZN1l7GfIdnAQjh_ZkVhGMx6Dy5PHbq2keR9ijkPMFkk9VxZnIEnTf0MrXfSU4g",TRT 1
-#EXTVLCOPT:http-user-agent=Mark💀Clark
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
 http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/trt1canli-yayin/2
 #EXTINF:-1 tvg-name="SHOW" group-title="Ulusal" tvg-logo="https://yt3.ggpht.com/cLKgkpYAa2ebb0i0r0tRIrEwsytAyj9NEq6al0OQuhVh4QoVuClFzF1ODvSigcOpiXCyuo15Ew",SHOW
-#EXTVLCOPT:http-user-agent=Mark💀Clark
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
 http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/showtv-canli
 #EXTINF:-1 tvg-name="KANAL D" group-title="Ulusal" tvg-logo="https://yt3.ggpht.com/PzOJKJhVUhYaGIpB79ya1FZaWNSlXGCG1ZXKd_q-yOh_8JbGT-dRiVWPz11UJEKpGFd49YhGjG8",KANAL D
-#EXTVLCOPT:http-user-agent=Mark💀Clark
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
 http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/kanal-d-canli-mobil
 #EXTINF:-1 tvg-name="ATV" group-title="Ulusal" tvg-logo="https://yt3.ggpht.com/rGaatci_rjFWnwKiycOnIolZYkXz8SeTNVMz4G_45i_flLh_toDIBKT6ctxlDH8b7vqW4Cc_-XY",ATV
-#EXTVLCOPT:http-user-agent=Mark💀Clark
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
 http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/atvcanli-hd-izle
 #EXTINF:-1 tvg-name="STAR" group-title="Ulusal" tvg-logo="https://yt3.ggpht.com/RZMwSCEwuSYV3R0X10cizuB4Pf_FOPPJrI-JnKytQoAe6gdScle1iWxj-5ApcILVT2hFZmCa0w",STAR
-#EXTVLCOPT:http-user-agent=Mark💀Clark
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
 http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/startvcanli-hd
 #EXTINF:-1 tvg-name="TV8" group-title="Ulusal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mnwqLdHqFXbkm6QwloGNJ1EX5N3Z8klIpdSF59MRbbLxU",TV8
-#EXTVLCOPT:http-user-agent=Mark💀Clark
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
 http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/tv8-canlihd-yayinizle
 #EXTINF:-1 tvg-name="NOW" group-title="Ulusal" tvg-logo="https://yt3.ggpht.com/uLs2ZkqijBRkGlO0nSIJJpF_BJZhxdtaVq5lQXDnnwPTS41FekCPAqVz0ZU2RZjfhlvClkw-BQ",NOW
-#EXTVLCOPT:http-user-agent=Mark💀Clark
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
 http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/nowtvcanli
 #EXTINF:-1 tvg-name="KANAL 7" group-title="Ulusal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mnZRsE_zsJ1SHoJGEED56N-HWGKoZ932IHgAt5QKerBeA",KANAL 7
-#EXTVLCOPT:http-user-agent=Mark💀Clark
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
 http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/kanal-7-canli-hd
 #EXTINF:-1 tvg-name="BEYAZ TV" group-title="Ulusal" tvg-logo="https://yt3.ggpht.com/8VIBQeTnnj4v_4Xj-XlsYeaIUtGYrdzzKRgRCOjVcixAGLBCOFSRVRwSrk5MjXH_8wkq3N6ZdA",BEYAZ TV
-#EXTVLCOPT:http-user-agent=Mark💀Clark
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
 http://live.mobi-tv.workers.dev/?ID=beyaz-tv
 #EXTINF:-1 tvg-name="TLC" group-title="Ulusal" tvg-logo="https://yt3.ggpht.com/7uTWS1ZIhWMlKkvEKCCdfhAG9gf9PmkZ8RTz-6Zxmxlzfr0dN6uM6iaoZWNHz3_AQ0AggW3z5w",TLC
-#EXTVLCOPT:http-user-agent=Mark💀Clark
+#EXTVLCOPT:http-user-agent=Mark💀Clark 
 http://live.mobi-tv.workers.dev/?ID=tlc-tv
 #EXTINF:-1 tvg-name="DMAX" group-title="Ulusal" tvg-logo="https://yt3.ggpht.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g",DMAX
 #EXTVLCOPT:http-user-agent=Mark💀Clark
@@ -74,3 +74,4 @@ http://live.mobi-tv.workers.dev/?ID=tv5
 #EXTINF:-1 tvg-name="meltem" group-title="Ulusal" tvg-logo="https://yt3.ggpht.com/eMIcu6v6cddCN3-ZWrWNwzNNmi82g_YONDdHoDpw1BBfwszOuBtO-YN2eAkgVivkbK0-qzZJ",meltem
 #EXTVLCOPT:http-user-agent=Mark💀Clark
 http://live.mobi-tv.workers.dev/?ID=meltem-tv
+

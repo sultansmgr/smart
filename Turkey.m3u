@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TV8" group-title="Ulusal" tvg-logo="https://tv.canli.mobi/kanallar/trt1-canli-kesintisiz.png",TV8
+#EXTINF:-1 tvg-name="TV8" group-title="Ulusal" tvg-logo="https://tv.canli.mobi/kanallar/tv8-canlihd.png",TV8
 #EXTVLCOPT:http-user-agent=Mark💀Clark Android
 http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/tv8-canlihd-yayinizle
 #EXTINF:-1 tvg-name="TRT 1" group-title="Ulusal" tvg-logo="https://tv.canli.mobi/kanallar/trt1-canli-kesintisiz.png",TRT 1
@@ -89,3 +89,90 @@ http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/trt2canli
 #EXTINF:-1 tvg-name="TRT World" group-title="Ulusal" tvg-logo="https://tv.canli.mobi/kanallar/trt-world.png",TRT World
 #EXTVLCOPT:http-user-agent=Mark💀Clark Android
 http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/trtworld
+#EXTINF:-1 tvg-name="TRT HABER" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/trt-haber.png",TRT HABER
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/trthabercanli
+#EXTINF:-1 tvg-name="HABERTURK" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/haberturk-canli.png",HABERTURK
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/haberturk-canli
+#EXTINF:-1 tvg-name="A Haber" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/a-haber-1.png",A Haber
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/a-haber-canli
+#EXTINF:-1 tvg-name="NTV" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/ntv-canli.png",NTV
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/ntvcanli-hd-izle
+#EXTINF:-1 tvg-name="CNNTURK" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/cnnturk-canli-hd.png",CNNTURK
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/cnnturk-canli-hd
+#EXTINF:-1 tvg-name="Haber Global" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/haber-global.png",Haber Global
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/haber-global
+#EXTINF:-1 tvg-name="Halk Tv" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/halk-tv.png",Halk Tv
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/halk-tv-canli-izle
+#EXTINF:-1 tvg-name="Tele1" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/tele1.png",Tele1
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/tele1
+#EXTINF:-1 tvg-name="SÖZCÜ TV" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/sozcu-tv-canli.png",SÖZCÜ TV
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/sozcu-tv-canli
+#EXTINF:-1 tvg-name="Kanal 24" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/24-tv.png",Kanal 24
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/kanal-24
+#EXTINF:-1 tvg-name="EKOTURK" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/ekoturk-tv.png",EKOTURK
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/ekoturk-tv
+#EXTINF:-1 tvg-name="TGRT Haber" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/tgrt-haber.png",TGRT Haber
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/tgrthaber-canli
+#EXTINF:-1 tvg-name="TBMM Tv" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/tbmm-tv.png",TBMM Tv
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/tbmm-tv
+#EXTINF:-1 tvg-name="ULKE TV" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/ulke-tv.png",ULKE TV
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/ulke-tv-canli
+#EXTINF:-1 tvg-name="Tv100" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/tv-100.png",Tv100
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/tv100
+#EXTINF:-1 tvg-name="KRT Tv" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/krt-tv.png",KRT Tv
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/krt-tv
+#EXTINF:-1 tvg-name="BengÃ¼tÃ¼rk Tv" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/benguturk-tv.png",BengÃ¼tÃ¼rk Tv
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/benguturk-tv
+#EXTINF:-1 tvg-name="TVNET" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/tv-net.png",TVNET
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/tv-net
+#EXTINF:-1 tvg-name="Akit Tv" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/akit-tv.png",Akit Tv
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/akit-tv
+#EXTINF:-1 tvg-name="Kanal B" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/kanal-b.png",Kanal B
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/kanal-b
+#EXTINF:-1 tvg-name="Bloomberg HT" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/bloomberg-ht.png",Bloomberg HT
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/bloomberg-ht-canli-hd
+#EXTINF:-1 tvg-name="Ulusal Kanal" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/ulusal-kanal.png",Ulusal Kanal
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/ulusal-kanal
+#EXTINF:-1 tvg-name="A Para" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/a-para.png",A Para
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/a-para
+#EXTINF:-1 tvg-name="TRT TURK" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/trt-turk.png",TRT TURK
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/trtturkizle
+#EXTINF:-1 tvg-name="TH TURK Haber" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/th-turk-haber.png",TH TURK Haber
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/th-turk-haber
+#EXTINF:-1 tvg-name="Milli Piyango TV" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/milli-piyango-tv.png",Milli Piyango TV
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/milli-piyango-tv
+#EXTINF:-1 tvg-name="BBN TURK" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/bbn-turk.png",BBN TURK
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/bbn-turk
+#EXTINF:-1 tvg-name="Uzay Haber" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/uzay-haber.png",Uzay Haber
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/uzay-haber
+#EXTINF:-1 tvg-name="Cadde Tv" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/cadde-tv.png",Cadde Tv
+#EXTVLCOPT:http-user-agent=Mark💀Clark Android
+http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/cadde-tv

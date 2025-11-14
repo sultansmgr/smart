@@ -137,7 +137,7 @@ http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/tv100
 #EXTINF:-1 tvg-name="KRT Tv" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/krt-tv.png",KRT Tv
 #EXTVLCOPT:http-user-agent=Mark💀Clark Android
 http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/krt-tv
-#EXTINF:-1 tvg-name="BengÃ¼tÃ¼rk Tv" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/benguturk-tv.png",BengÃ¼tÃ¼rk Tv
+#EXTINF:-1 tvg-name="BENGUTURK" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/benguturk-tv.png",BENGUTURK
 #EXTVLCOPT:http-user-agent=Mark💀Clark Android
 http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/benguturk-tv
 #EXTINF:-1 tvg-name="TVNET" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/tv-net.png",TVNET
@@ -176,3 +176,4 @@ http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/uzay-haber
 #EXTINF:-1 tvg-name="Cadde Tv" group-title="Haber" tvg-logo="https://tv.canli.mobi/kanallar/cadde-tv.png",Cadde Tv
 #EXTVLCOPT:http-user-agent=Mark💀Clark Android
 http://live.mobi-tv.workers.dev/?ID=https://tv.canli.mobi/cadde-tv
+

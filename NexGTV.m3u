@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LIV801" tvg-name="DD National" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN891/67630b093cfac-35946.png",DD National
+http://nexgtv.tv-live.workers.dev/?ID=LIV801
+#EXTINF:-1 tvg-id="LIV88158792" tvg-name="DD Uttar Pradesh" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN96892049/673ee6ee7d8e3-75149.jpeg",DD Uttar Pradesh
+http://nexgtv.tv-live.workers.dev/?ID=LIV88158792
+#EXTINF:-1 tvg-id="LIV88254691" tvg-name="DD Rajasthan" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN96997633/673ee7594f586-87130.jpeg",DD Rajasthan
+http://nexgtv.tv-live.workers.dev/?ID=LIV88254691
+#EXTINF:-1 tvg-id="LIV87847961" tvg-name="DD Punjabi" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN96539629/67494c1896430-85327.jpeg",DD Punjabi
+http://nexgtv.tv-live.workers.dev/?ID=LIV87847961
+#EXTINF:-1 tvg-id="LIV799" tvg-name="DD Malayalam" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN889/673efc3213c44-46079.jpeg",DD Malayalam
+http://nexgtv.tv-live.workers.dev/?ID=LIV799
+#EXTINF:-1 tvg-id="LIV738" tvg-name="MK Television" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN826/673f17be443a6-50814.jpeg",MK Television
+http://nexgtv.tv-live.workers.dev/?ID=LIV738
+#EXTINF:-1 tvg-id="LIV789" tvg-name="Nepal 1" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN880/673f01e68b578-32451.jpeg",Nepal 1
+http://nexgtv.tv-live.workers.dev/?ID=LIV789
+#EXTINF:-1 tvg-id="LIV800" tvg-name="DD Marathi" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN890/673ef99e41814-63452.jpeg",DD Marathi
+http://nexgtv.tv-live.workers.dev/?ID=LIV800
+#EXTINF:-1 tvg-id="LIV797" tvg-name="DD Bangla" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN887/67494c94af14f-84932.jpeg",DD Bangla
+http://nexgtv.tv-live.workers.dev/?ID=LIV797
+#EXTINF:-1 tvg-id="LIV794" tvg-name="Tamilan Television" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN884/6763e98120215-98506.jpeg",Tamilan Television
+http://nexgtv.tv-live.workers.dev/?ID=LIV794
+#EXTINF:-1 tvg-id="LIV813" tvg-name="Makkal Tv" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN902/673ef6e6ede5a-46273.jpeg",Makkal Tv
+http://nexgtv.tv-live.workers.dev/?ID=LIV813
+#EXTINF:-1 tvg-id="LIV87628997" tvg-name="DD Yadagiri" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN96382408/67495bddd2cd4-51420.jpeg",DD Yadagiri
+http://nexgtv.tv-live.workers.dev/?ID=LIV87628997
+#EXTINF:-1 tvg-id="LIV87715673" tvg-name="DD Urdu" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN96472594/673f1dfc98992-90183.jpeg",DD Urdu
+http://nexgtv.tv-live.workers.dev/?ID=LIV87715673
+#EXTINF:-1 tvg-id="LIV87936902" tvg-name="DD Chandana" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN96673430/673f1db70e285-10742.jpeg",DD Chandana
+http://nexgtv.tv-live.workers.dev/?ID=LIV87936902
+#EXTINF:-1 tvg-id="LIV837" tvg-name="Oscar Movies" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN924/673eea089274c-36125.jpeg",Oscar Movies
+http://nexgtv.tv-live.workers.dev/?ID=LIV837
+#EXTINF:-1 tvg-id="LIV839" tvg-name="nexGTv Hollywood Movies" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN926/673ee97fc8954-51734.jpeg",nexGTv Hollywood Movies
+http://nexgtv.tv-live.workers.dev/?ID=LIV839
+#EXTINF:-1 tvg-id="LIV805" tvg-name="E24" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN895/673ef78822aea-28509.jpeg",E24
+http://nexgtv.tv-live.workers.dev/?ID=LIV805
+#EXTINF:-1 tvg-id="LIV784" tvg-name="DD Sports" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN875/673f03c205508-46521.jpeg",DD Sports
+http://nexgtv.tv-live.workers.dev/?ID=LIV784
+#EXTINF:-1 tvg-id="LIV703" tvg-name="News Nation" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN793/6763eaaa23ecd-71850.jpeg",News Nation
+http://nexgtv.tv-live.workers.dev/?ID=LIV703
+#EXTINF:-1 tvg-id="LIV87427947" tvg-name="DD News" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN96145918/677e6bebd6a71-69317.jpeg",DD News
+http://nexgtv.tv-live.workers.dev/?ID=LIV87427947
+#EXTINF:-1 tvg-id="LIV88959650" tvg-name="Media9" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN97912948/673ee15b71edf-61270.jpeg",Media9
+http://nexgtv.tv-live.workers.dev/?ID=LIV88959650
+#EXTINF:-1 tvg-id="LIV814" tvg-name="News 24" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN903/6763eafa9bc91-47981.jpeg",News 24
+http://nexgtv.tv-live.workers.dev/?ID=LIV814
+#EXTINF:-1 tvg-id="LIV798" tvg-name="DD India" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN888/673efc8a358da-92048.jpeg",DD India
+http://nexgtv.tv-live.workers.dev/?ID=LIV798
+#EXTINF:-1 tvg-id="LIV731" tvg-name="Janta TV" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN819/673f1860c4186-64325.jpeg",Janta TV
+http://nexgtv.tv-live.workers.dev/?ID=LIV731
+#EXTINF:-1 tvg-id="LIV750" tvg-name="TV5 Monde Asie" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN838/673f13a20d8fa-38502.jpeg",TV5 Monde Asie
+http://nexgtv.tv-live.workers.dev/?ID=LIV750
+#EXTINF:-1 tvg-id="LIV751" tvg-name="TV 100" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN839/673f1367e0b77-40917.jpeg",TV 100
+http://nexgtv.tv-live.workers.dev/?ID=LIV751
+#EXTINF:-1 tvg-id="LIV749" tvg-name="Total TV" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN837/67625d9111228-81905.jpeg",Total TV
+http://nexgtv.tv-live.workers.dev/?ID=LIV749
+#EXTINF:-1 tvg-id="LIV716" tvg-name="Sansad TV HD" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN804/67495c3ab3111-43596.jpeg",Sansad TV HD
+http://nexgtv.tv-live.workers.dev/?ID=LIV716
+#EXTINF:-1 tvg-id="LIV758" tvg-name="JK Channel" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN847/673f1262a1f11-48352.jpeg",JK Channel
+http://nexgtv.tv-live.workers.dev/?ID=LIV758
+#EXTINF:-1 tvg-id="LIV842" tvg-name="Shraddha" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN929/67630e624af5a-91250.jpeg",Shraddha
+http://nexgtv.tv-live.workers.dev/?ID=LIV842
+#EXTINF:-1 tvg-id="LIV717" tvg-name="Sanskruti TV" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN805/673f1b4cea8a0-52874.jpeg",Sanskruti TV
+http://nexgtv.tv-live.workers.dev/?ID=LIV717
+#EXTINF:-1 tvg-id="LIV740" tvg-name="Om Shanti TV" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN828/673f155b4914e-09582.jpeg",Om Shanti TV
+http://nexgtv.tv-live.workers.dev/?ID=LIV740
+#EXTINF:-1 tvg-id="LIV785" tvg-name="Ishwar TV" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN876/673f039550eb0-06715.jpeg",Ishwar TV
+http://nexgtv.tv-live.workers.dev/?ID=LIV785
+#EXTINF:-1 tvg-id="LIV746" tvg-name="Shiksha TV" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN834/673f140010ffb-73856.jpeg",Shiksha TV
+http://nexgtv.tv-live.workers.dev/?ID=LIV746
+#EXTINF:-1 tvg-id="LIV736" tvg-name="Lakshya Tv" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN824/673f17de45425-37824.jpeg",Lakshya Tv
+http://nexgtv.tv-live.workers.dev/?ID=LIV736
+#EXTINF:-1 tvg-id="LIV730" tvg-name="Harvest TV 24x7" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN818/673f19f100335-31246.jpeg",Harvest TV 24x7
+http://nexgtv.tv-live.workers.dev/?ID=LIV730
+#EXTINF:-1 tvg-id="LIV728" tvg-name="Fateh TV" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN816/6756948b093ab-19402.jpeg",Fateh TV
+http://nexgtv.tv-live.workers.dev/?ID=LIV728
+#EXTINF:-1 tvg-id="LIV725" tvg-name="Channel Win" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN812/673f1ae6ecd15-27386.jpeg",Channel Win
+http://nexgtv.tv-live.workers.dev/?ID=LIV725
+#EXTINF:-1 tvg-id="LIV775" tvg-name="Shubhsandesh" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN864/673f07071b23a-32140.jpeg",Shubhsandesh
+http://nexgtv.tv-live.workers.dev/?ID=LIV775
+#EXTINF:-1 tvg-id="LIV752" tvg-name="Calvary TV" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN840/673f132c87779-29307.jpeg",Calvary TV
+http://nexgtv.tv-live.workers.dev/?ID=LIV752
+#EXTINF:-1 tvg-id="LIV795" tvg-name="Sri Sankara TV" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN885/673f014e5b236-82314.jpeg",Sri Sankara TV
+http://nexgtv.tv-live.workers.dev/?ID=LIV795
+#EXTINF:-1 tvg-id="LIV793" tvg-name="Salvation TV" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN883/673f01b63e378-57136.jpeg",Salvation TV
+http://nexgtv.tv-live.workers.dev/?ID=LIV793
+#EXTINF:-1 tvg-id="LIV816" tvg-name="Powervision" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN905/673ef65f6b2bf-42986.jpeg",Powervision
+http://nexgtv.tv-live.workers.dev/?ID=LIV816
+#EXTINF:-1 tvg-id="LIV724" tvg-name="Channel 316" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN811/673f1b12d3000-28570.jpeg",Channel 316
+http://nexgtv.tv-live.workers.dev/?ID=LIV724
+#EXTINF:-1 tvg-id="LIV822" tvg-name="TV9 Mumbai" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN909/67630e7de0b63-75238.jpeg",TV9 Mumbai
+http://nexgtv.tv-live.workers.dev/?ID=LIV822
+#EXTINF:-1 tvg-id="LIV723" tvg-name="Assam Talks" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN810/673f1b293d269-30495.jpeg",Assam Talks
+http://nexgtv.tv-live.workers.dev/?ID=LIV723
+#EXTINF:-1 tvg-id="LIV783" tvg-name="CVR News" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN874/673f052602a1f-48650.jpeg",CVR News
+http://nexgtv.tv-live.workers.dev/?ID=LIV783
+#EXTINF:-1 tvg-id="LIV823" tvg-name="TV9 Telugu" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN911/673eeaaaa9f3f-98416.jpeg",TV9 Telugu
+http://nexgtv.tv-live.workers.dev/?ID=LIV823
+#EXTINF:-1 tvg-id="LIV734" tvg-name="Kalinga TV" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN822/673f181cb7f05-13246.jpeg",Kalinga TV
+http://nexgtv.tv-live.workers.dev/?ID=LIV734
+#EXTINF:-1 tvg-id="LIV819" tvg-name="TV9 Gujarati" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN907/673eebff911bb-05739.jpeg",TV9 Gujarati
+http://nexgtv.tv-live.workers.dev/?ID=LIV819
+#EXTINF:-1 tvg-id="LIV811" tvg-name="Kairali People" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN900/673ef739b8a6f-51230.jpeg",Kairali People
+http://nexgtv.tv-live.workers.dev/?ID=LIV811
+#EXTINF:-1 tvg-id="LIV727" tvg-name="DY 365" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN815/673f1a91e9f8e-43750.jpeg",DY 365
+http://nexgtv.tv-live.workers.dev/?ID=LIV727
+#EXTINF:-1 tvg-id="LIV742" tvg-name="Prag News" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN830/673f1516a7160-50183.jpeg",Prag News
+http://nexgtv.tv-live.workers.dev/?ID=LIV742
+#EXTINF:-1 tvg-id="LIV774" tvg-name="Sathiyam TV" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN863/673f075f523c4-81579.jpeg",Sathiyam TV
+http://nexgtv.tv-live.workers.dev/?ID=LIV774
+#EXTINF:-1 tvg-id="LIV757" tvg-name="Jai Maharashtra News" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN845/673f1291482c1-68421.jpeg",Jai Maharashtra News
+http://nexgtv.tv-live.workers.dev/?ID=LIV757
+#EXTINF:-1 tvg-id="LIV779" tvg-name="TV 5" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN869/673f06afea73e-45328.jpeg",TV 5
+http://nexgtv.tv-live.workers.dev/?ID=LIV779
+#EXTINF:-1 tvg-id="LIV787" tvg-name="Kolkata TV" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN878/673f0327a21f8-98076.jpeg",Kolkata TV
+http://nexgtv.tv-live.workers.dev/?ID=LIV787
+#EXTINF:-1 tvg-id="LIV824" tvg-name="VTV" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN912/65a8f52d45a21-32486.png",VTV
+http://nexgtv.tv-live.workers.dev/?ID=LIV824
+#EXTINF:-1 tvg-id="LIV820" tvg-name="TV9 Kannada" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN908/673eeba3df8d0-95620.jpeg",TV9 Kannada
+http://nexgtv.tv-live.workers.dev/?ID=LIV820
+#EXTINF:-1 tvg-id="LIV798" tvg-name="DD India" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN888/673efc8a358da-92048.jpeg",DD India
+http://nexgtv.tv-live.workers.dev/?ID=LIV798
+#EXTINF:-1 tvg-id="LIV87593908" tvg-name="DD Tamil" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN96291741/673f1e4403142-79203.jpeg",DD Tamil
+http://nexgtv.tv-live.workers.dev/?ID=LIV87593908
+#EXTINF:-1 tvg-id="LIV87241400" tvg-name="DD Bharti" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN95972196/673ee81b29a36-26749.jpeg",DD Bharti
+http://nexgtv.tv-live.workers.dev/?ID=LIV87241400
+#EXTINF:-1 tvg-id="LIV88036846" tvg-name="DD Bihar" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN96716941/673f1d2d58806-83095.jpeg",DD Bihar
+http://nexgtv.tv-live.workers.dev/?ID=LIV88036846
+#EXTINF:-1 tvg-id="LIV87395277" tvg-name="DD Kisan" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN96042177/673ee7df2577b-64975.jpeg",DD Kisan
+http://nexgtv.tv-live.workers.dev/?ID=LIV87395277
+#EXTINF:-1 tvg-id="LIV743" tvg-name="Prime Asia" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN831/673f1491dc7d1-52349.jpeg",Prime Asia
+http://nexgtv.tv-live.workers.dev/?ID=LIV743
+#EXTINF:-1 tvg-id="LIV760" tvg-name="Kaumudy TV" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN849/1678797789.png",Kaumudy TV
+http://nexgtv.tv-live.workers.dev/?ID=LIV760
+#EXTINF:-1 tvg-id="LIV782" tvg-name="Chardikala Time TV" group-title="NexgTV" tvg-logo="https://image.nexgtv.com/image/livetv/CHN873/673f05a72afac-96314.jpeg",Chardikala Time TV
+http://nexgtv.tv-live.workers.dev/?ID=LIV782

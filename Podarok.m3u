@@ -1,0 +1,503 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="526" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/1/1_orig220_132.png",Первый
+http://tv.padarok.workers.dev/?ID=526
+#EXTINF:-1 tvg-id="525" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/1/544_pervyj_kanal_8.png",Первый канал Всемирная Сеть
+http://tv.padarok.workers.dev/?ID=525
+#EXTINF:-1 tvg-id="527" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/205/1_HD_grau.png",Первый канал HD
+http://tv.padarok.workers.dev/?ID=527
+#EXTINF:-1 tvg-id="528" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/1/pervie4.png",Первый Канал (+4)
+http://tv.padarok.workers.dev/?ID=528
+#EXTINF:-1 tvg-id="529" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/18/__98_rtr_planeta_evropa.png",РТР Россия
+http://tv.padarok.workers.dev/?ID=529
+#EXTINF:-1 tvg-id="530" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/2/247_550_rossiya_6.png",Россия 1
+http://tv.padarok.workers.dev/?ID=530
+#EXTINF:-1 tvg-id="531" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/225/225.png",Россия HD
+http://tv.padarok.workers.dev/?ID=531
+#EXTINF:-1 tvg-id="532" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/2/rossia4.png",Россия 1 (+6)
+http://tv.padarok.workers.dev/?ID=532
+#EXTINF:-1 tvg-id="533" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/6/5_15_rossiya_kultura.png",Россия-К
+http://tv.padarok.workers.dev/?ID=533
+#EXTINF:-1 tvg-id="534" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/20/____ntv_mir_baltik.png",НТВ Мир
+http://tv.padarok.workers.dev/?ID=534
+#EXTINF:-1 tvg-id="535" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/27/____ntv_8.png",НТВ
+http://tv.padarok.workers.dev/?ID=535
+#EXTINF:-1 tvg-id="536" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/4/4_1346_ntv_hd.png",НТВ HD
+http://tv.padarok.workers.dev/?ID=536
+#EXTINF:-1 tvg-id="537" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/27/ntv4.png",НТВ (+4)
+http://tv.padarok.workers.dev/?ID=537
+#EXTINF:-1 tvg-id="538" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/22/2214_1215_ntv_pravo.png",НТВ Право
+http://tv.padarok.workers.dev/?ID=538
+#EXTINF:-1 tvg-id="539" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/23/103_13_ren_tv.png",Рен ТВ
+http://tv.padarok.workers.dev/?ID=539
+#EXTINF:-1 tvg-id="540" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/23/103_13_ren_tv.png",Рен ТВ HD
+http://tv.padarok.workers.dev/?ID=540
+#EXTINF:-1 tvg-id="543" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/201/201.png",Звезда
+http://tv.padarok.workers.dev/?ID=543
+#EXTINF:-1 tvg-id="544" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/237/237.png",Звезда HD
+http://tv.padarok.workers.dev/?ID=544
+#EXTINF:-1 tvg-id="545" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/227/227.png",Звезда Плюс HD
+http://tv.padarok.workers.dev/?ID=545
+#EXTINF:-1 tvg-id="547" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/200/200.png",Победа HD
+http://tv.padarok.workers.dev/?ID=547
+#EXTINF:-1 tvg-id="844" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/334/334.jpeg",Центральное телевидение
+http://tv.padarok.workers.dev/?ID=844
+#EXTINF:-1 tvg-id="548" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/199/domaschnie.png",Домашний
+http://tv.padarok.workers.dev/?ID=548
+#EXTINF:-1 tvg-id="550" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/202/202.png",Пятый канал
+http://tv.padarok.workers.dev/?ID=550
+#EXTINF:-1 tvg-id="552" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/228/228.png",ТВ Центр
+http://tv.padarok.workers.dev/?ID=552
+#EXTINF:-1 tvg-id="553" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/203/203.png",ТНТ
+http://tv.padarok.workers.dev/?ID=553
+#EXTINF:-1 tvg-id="554" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/280/280.png",ТНТ HD
+http://tv.padarok.workers.dev/?ID=554
+#EXTINF:-1 tvg-id="556" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/226/226.png",ТНТ4
+http://tv.padarok.workers.dev/?ID=556
+#EXTINF:-1 tvg-id="557" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/240/perec.png",Перец
+http://tv.padarok.workers.dev/?ID=557
+#EXTINF:-1 tvg-id="558" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/15/che.png",Че
+http://tv.padarok.workers.dev/?ID=558
+#EXTINF:-1 tvg-id="826" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/317/317.png",Анекдот ТВ
+http://tv.padarok.workers.dev/?ID=826
+#EXTINF:-1 tvg-id="559" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/28/rtvi.png",RTVI
+http://tv.padarok.workers.dev/?ID=559
+#EXTINF:-1 tvg-id="561" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/281/281.png",СТС HD
+http://tv.padarok.workers.dev/?ID=561
+#EXTINF:-1 tvg-id="563" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/31/ctclove.png",СТС Love
+http://tv.padarok.workers.dev/?ID=563
+#EXTINF:-1 tvg-id="564" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/242/subbota.png",Суббота
+http://tv.padarok.workers.dev/?ID=564
+#EXTINF:-1 tvg-id="565" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/12/kvn.png",КВН ТВ
+http://tv.padarok.workers.dev/?ID=565
+#EXTINF:-1 tvg-id="566" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/32/sarafan.png",Сарафан ТВ
+http://tv.padarok.workers.dev/?ID=566
+#EXTINF:-1 tvg-id="568" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/277/277.png",Пятница HD
+http://tv.padarok.workers.dev/?ID=568
+#EXTINF:-1 tvg-id="827" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/318/318.png",Поехали !
+http://tv.padarok.workers.dev/?ID=827
+#EXTINF:-1 tvg-id="569" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/13/108_49_yu.png",Ю
+http://tv.padarok.workers.dev/?ID=569
+#EXTINF:-1 tvg-id="570" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/34/1000_880_otr.png",ОТР
+http://tv.padarok.workers.dev/?ID=570
+#EXTINF:-1 tvg-id="571" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/35/300133_965_mir_hd.png",Мир HD
+http://tv.padarok.workers.dev/?ID=571
+#EXTINF:-1 tvg-id="572" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/38/bel2.png",Беларусь 2
+http://tv.padarok.workers.dev/?ID=572
+#EXTINF:-1 tvg-id="573" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/39/del3.png",Беларусь 3
+http://tv.padarok.workers.dev/?ID=573
+#EXTINF:-1 tvg-id="574" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/14/1_0_1_32A_CE_1_3200000_0_0_0.png",2x2
+http://tv.padarok.workers.dev/?ID=574
+#EXTINF:-1 tvg-id="575" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/230/230.png",БелРос
+http://tv.padarok.workers.dev/?ID=575
+#EXTINF:-1 tvg-id="815" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/172/172220_132.png",Грозный
+http://tv.padarok.workers.dev/?ID=815
+#EXTINF:-1 tvg-id="576" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/41/ont.png",ОНТ
+http://tv.padarok.workers.dev/?ID=576
+#EXTINF:-1 tvg-id="577" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/42/dogd.png",Дождь
+http://tv.padarok.workers.dev/?ID=577
+#EXTINF:-1 tvg-id="578" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/43/ross24.png",Россия-24
+http://tv.padarok.workers.dev/?ID=578
+#EXTINF:-1 tvg-id="579" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/44/moskva24.png",Москва 24
+http://tv.padarok.workers.dev/?ID=579
+#EXTINF:-1 tvg-id="580" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/45/106_838_mir_24.png",Мир 24
+http://tv.padarok.workers.dev/?ID=580
+#EXTINF:-1 tvg-id="581" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/46/rbk.png",РБК
+http://tv.padarok.workers.dev/?ID=581
+#EXTINF:-1 tvg-id="582" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/229/229.png",Известия HD
+http://tv.padarok.workers.dev/?ID=582
+#EXTINF:-1 tvg-id="583" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/47/euronews.png",Euronews
+http://tv.padarok.workers.dev/?ID=583
+#EXTINF:-1 tvg-id="584" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/48/nostalgia.png",Ностальгия
+http://tv.padarok.workers.dev/?ID=584
+#EXTINF:-1 tvg-id="585" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/49/retro.png",Ретро
+http://tv.padarok.workers.dev/?ID=585
+#EXTINF:-1 tvg-id="586" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/50/tv_3.png",ТВ-3
+http://tv.padarok.workers.dev/?ID=586
+#EXTINF:-1 tvg-id="587" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/51/mosfilm.png",Мосфильм
+http://tv.padarok.workers.dev/?ID=587
+#EXTINF:-1 tvg-id="588" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/52/100025_303_vremya.png",Время
+http://tv.padarok.workers.dev/?ID=588
+#EXTINF:-1 tvg-id="590" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/54/START_WORLD_HD.png",START WORLD HD
+http://tv.padarok.workers.dev/?ID=590
+#EXTINF:-1 tvg-id="591" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/55/STAR_CINEMA_HD.png",STAR CINEMA HD
+http://tv.padarok.workers.dev/?ID=591
+#EXTINF:-1 tvg-id="592" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/56/STAR_FAMALY_HD.png",STAR FAMALY HD
+http://tv.padarok.workers.dev/?ID=592
+#EXTINF:-1 tvg-id="593" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/57/rodnoe_kino.png",Родное Кино
+http://tv.padarok.workers.dev/?ID=593
+#EXTINF:-1 tvg-id="594" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/253/253220_132.png",Любимое Кино
+http://tv.padarok.workers.dev/?ID=594
+#EXTINF:-1 tvg-id="829" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/319/319.png",Любимое HD
+http://tv.padarok.workers.dev/?ID=829
+#EXTINF:-1 tvg-id="595" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/68/68.jpeg",Душевное HD
+http://tv.padarok.workers.dev/?ID=595
+#EXTINF:-1 tvg-id="596" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/58/1_0_1_1A8_CA_1_3200000_0_0_0.png",Русский Иллюзион
+http://tv.padarok.workers.dev/?ID=596
+#EXTINF:-1 tvg-id="597" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/59/1_0_19_386_CF_1_3200000_0_0_0.png",Иллюзион +
+http://tv.padarok.workers.dev/?ID=597
+#EXTINF:-1 tvg-id="598" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/60/1_0_16_2D5_CD_1_3200000_0_0_0.png",Дом Кино
+http://tv.padarok.workers.dev/?ID=598
+#EXTINF:-1 tvg-id="599" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/61/1991_1045_dom_kino_premium_hd.png",Дом Кино Премиум HD
+http://tv.padarok.workers.dev/?ID=599
+#EXTINF:-1 tvg-id="600" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/62/naschmuzskoe.png",Наше Мужское HD
+http://tv.padarok.workers.dev/?ID=600
+#EXTINF:-1 tvg-id="601" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/63/63.png",Блокбастер HD
+http://tv.padarok.workers.dev/?ID=601
+#EXTINF:-1 tvg-id="602" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/64/1_0_1_2BE_CD_1_3200000_0_0_0.png",Русский Роман
+http://tv.padarok.workers.dev/?ID=602
+#EXTINF:-1 tvg-id="603" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/65/1_0_1_2C3_CD_1_3200000_0_0_0.png",Русский Бестселлер
+http://tv.padarok.workers.dev/?ID=603
+#EXTINF:-1 tvg-id="604" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/66/1_0_1_2BF_CD_1_3200000_0_0_0.png",Русский Детектив
+http://tv.padarok.workers.dev/?ID=604
+#EXTINF:-1 tvg-id="605" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/69/romantichnoe.png",Романтичное HD
+http://tv.padarok.workers.dev/?ID=605
+#EXTINF:-1 tvg-id="606" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/254/254.png",Наше HD
+http://tv.padarok.workers.dev/?ID=606
+#EXTINF:-1 tvg-id="607" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/70/1_0_19_38C_CF_1_3200000_0_0_0.png",НТВ Хит
+http://tv.padarok.workers.dev/?ID=607
+#EXTINF:-1 tvg-id="608" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/71/1_0_16_338_CE_1_3200000_0_0_0.png",Мир Сериала
+http://tv.padarok.workers.dev/?ID=608
+#EXTINF:-1 tvg-id="609" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/72/1_0_16_334_CE_1_3200000_0_0_0.png",Кино ТВ HD
+http://tv.padarok.workers.dev/?ID=609
+#EXTINF:-1 tvg-id="610" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/73/1_0_16_392_CF_1_3200000_0_0_0.png",Мужское Кино HD
+http://tv.padarok.workers.dev/?ID=610
+#EXTINF:-1 tvg-id="611" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/74/1_0_16_195_CA_1_3200000_0_0_0.png",НТВ Сериал
+http://tv.padarok.workers.dev/?ID=611
+#EXTINF:-1 tvg-id="612" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/75/1_0_1_2CD_CD_1_3200000_0_0_0.png",Кинохит HD
+http://tv.padarok.workers.dev/?ID=612
+#EXTINF:-1 tvg-id="613" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/76/1_0_1_391_CF_1_3200000_0_0_0.png",Киномикс HD
+http://tv.padarok.workers.dev/?ID=613
+#EXTINF:-1 tvg-id="614" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/77/1_0_1_336_CE_1_3200000_0_0_0.png",Киносемья HD
+http://tv.padarok.workers.dev/?ID=614
+#EXTINF:-1 tvg-id="615" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/78/291_292_kinokomediya.png",Кинокомедия HD
+http://tv.padarok.workers.dev/?ID=615
+#EXTINF:-1 tvg-id="616" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/79/1_0_1_2CF_CD_1_3200000_0_0_0.png",Киносвидание
+http://tv.padarok.workers.dev/?ID=616
+#EXTINF:-1 tvg-id="617" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/80/541_293_indijskoe_kino.png",Индийское Кино
+http://tv.padarok.workers.dev/?ID=617
+#EXTINF:-1 tvg-id="618" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/81/1_0_16_72_65_1_3200000_0_0_0.png",Viju TV1000 Action HD
+http://tv.padarok.workers.dev/?ID=618
+#EXTINF:-1 tvg-id="619" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/82/1_0_16_73_65_1_3200000_0_0_0.png",Viju TV 1000 HD
+http://tv.padarok.workers.dev/?ID=619
+#EXTINF:-1 tvg-id="620" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/83/1_0_16_71_65_1_3200000_0_0_0.png",Viju TV1000 Русское кино HD
+http://tv.padarok.workers.dev/?ID=620
+#EXTINF:-1 tvg-id="621" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/263/263.png",Viasat Kino World  HD
+http://tv.padarok.workers.dev/?ID=621
+#EXTINF:-1 tvg-id="622" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/84/1_0_1_12D_C9_1_3200000_0_0_0.png",Viju+ Premiere HD
+http://tv.padarok.workers.dev/?ID=622
+#EXTINF:-1 tvg-id="623" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/85/1_0_1_12E_C9_1_3200000_0_0_0.png",Viju+ Megahit HD
+http://tv.padarok.workers.dev/?ID=623
+#EXTINF:-1 tvg-id="624" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/86/1_0_1_12F_C9_1_3200000_0_0_0.png",Viju+ Comedy HD
+http://tv.padarok.workers.dev/?ID=624
+#EXTINF:-1 tvg-id="625" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/87/1_0_1_138_C9_1_3200000_0_0_0.png",Viju+ Serial HD
+http://tv.padarok.workers.dev/?ID=625
+#EXTINF:-1 tvg-id="626" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/88/premialnoehd.png",Премиальное HD
+http://tv.padarok.workers.dev/?ID=626
+#EXTINF:-1 tvg-id="627" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/89/1_0_19_D6_66_1_3200000_0_0_0.png",Sony Sci-Fi
+http://tv.padarok.workers.dev/?ID=627
+#EXTINF:-1 tvg-id="628" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/90/1_0_1_104D_1A_44_300000_0_0_0.png",Hollywood HD
+http://tv.padarok.workers.dev/?ID=628
+#EXTINF:-1 tvg-id="629" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/91/NST.png",НСТ
+http://tv.padarok.workers.dev/?ID=629
+#EXTINF:-1 tvg-id="630" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/92/300059_5_fox_hd.png",Fox HD
+http://tv.padarok.workers.dev/?ID=630
+#EXTINF:-1 tvg-id="631" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/93/schockir.png",Шокирующее HD
+http://tv.padarok.workers.dev/?ID=631
+#EXTINF:-1 tvg-id="632" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/94/94.png",Amedia Hit HD
+http://tv.padarok.workers.dev/?ID=632
+#EXTINF:-1 tvg-id="633" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/95/1_0_1_326_CE_1_3200000_0_0_0.png",A1 HD
+http://tv.padarok.workers.dev/?ID=633
+#EXTINF:-1 tvg-id="634" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/96/1_0_19_335_CE_1_3200000_0_0_0.png",A2 HD
+http://tv.padarok.workers.dev/?ID=634
+#EXTINF:-1 tvg-id="635" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/97/97.png",Amedia Premium
+http://tv.padarok.workers.dev/?ID=635
+#EXTINF:-1 tvg-id="636" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/98/1_0_16_1AA_CA_1_3200000_0_0_0.png",Еврокино HD
+http://tv.padarok.workers.dev/?ID=636
+#EXTINF:-1 tvg-id="637" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/99/1_0_19_2CB_CD_1_3200000_0_0_0.png",Bolt HD
+http://tv.padarok.workers.dev/?ID=637
+#EXTINF:-1 tvg-id="638" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/265/NzMxNC5wbmc.png",Кинеко HD
+http://tv.padarok.workers.dev/?ID=638
+#EXTINF:-1 tvg-id="640" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/100/__390_feniks_kino.png",Феникс+Кино
+http://tv.padarok.workers.dev/?ID=640
+#EXTINF:-1 tvg-id="642" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/102/1391_739_nickelodeon_hd.png",Nickelodeon HD
+http://tv.padarok.workers.dev/?ID=642
+#EXTINF:-1 tvg-id="643" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/243/243.png",Солнце
+http://tv.padarok.workers.dev/?ID=643
+#EXTINF:-1 tvg-id="644" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/244/244.png",O!
+http://tv.padarok.workers.dev/?ID=644
+#EXTINF:-1 tvg-id="645" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/103/1_0_1_6A_65_1_3200000_0_0_0.png",Карусель
+http://tv.padarok.workers.dev/?ID=645
+#EXTINF:-1 tvg-id="790" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/278/278.png",Капитан фантастика
+http://tv.padarok.workers.dev/?ID=790
+#EXTINF:-1 tvg-id="646" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/104/1_0_1_25C_CC_1_3200000_0_0_0.png",Мульт
+http://tv.padarok.workers.dev/?ID=646
+#EXTINF:-1 tvg-id="647" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/105/100049_596_gulli_girl.png",Gulli Girl
+http://tv.padarok.workers.dev/?ID=647
+#EXTINF:-1 tvg-id="648" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/106/1_0_19_205_CB_1_3200000_0_0_0.png",TiJi
+http://tv.padarok.workers.dev/?ID=648
+#EXTINF:-1 tvg-id="649" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/107/100049_454_jim_jam.png",JimJam
+http://tv.padarok.workers.dev/?ID=649
+#EXTINF:-1 tvg-id="650" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/108/ctckids.png",СТС Kids HD
+http://tv.padarok.workers.dev/?ID=650
+#EXTINF:-1 tvg-id="653" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/109/2212_1209_v_gostyah_u_skazki.png",В гостях у сказки
+http://tv.padarok.workers.dev/?ID=653
+#EXTINF:-1 tvg-id="654" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/110/1_0_1_39A_CF_1_3200000_0_0_0.png",RU.TV
+http://tv.padarok.workers.dev/?ID=654
+#EXTINF:-1 tvg-id="797" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/287/287.png",Bridge HD
+http://tv.padarok.workers.dev/?ID=797
+#EXTINF:-1 tvg-id="798" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/288/288.png",Bridge TV Русский Хит
+http://tv.padarok.workers.dev/?ID=798
+#EXTINF:-1 tvg-id="788" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/142/vmirezhivhd.png",Шансон ТВ
+http://tv.padarok.workers.dev/?ID=788
+#EXTINF:-1 tvg-id="655" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/111/europa_plus_tv.png",Europa Plus TV
+http://tv.padarok.workers.dev/?ID=655
+#EXTINF:-1 tvg-id="656" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/112/1_0_1_CF_66_1_3200000_0_0_0.png",ТНТ Music
+http://tv.padarok.workers.dev/?ID=656
+#EXTINF:-1 tvg-id="657" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/113/113220_132.png",Музыка Первого
+http://tv.padarok.workers.dev/?ID=657
+#EXTINF:-1 tvg-id="658" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/114/__412_russian_music_box.png",Russian Music Box
+http://tv.padarok.workers.dev/?ID=658
+#EXTINF:-1 tvg-id="660" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/115/1_0_1_2C5_CD_1_3200000_0_0_0.png",ЖАРА
+http://tv.padarok.workers.dev/?ID=660
+#EXTINF:-1 tvg-id="661" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/116/laminor.png",Ля-Минор
+http://tv.padarok.workers.dev/?ID=661
+#EXTINF:-1 tvg-id="662" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/256/256.png",Первый музыкальный Россия HD
+http://tv.padarok.workers.dev/?ID=662
+#EXTINF:-1 tvg-id="663" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/257/257.png",OneBY
+http://tv.padarok.workers.dev/?ID=663
+#EXTINF:-1 tvg-id="664" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/258/258.png",Retro Music
+http://tv.padarok.workers.dev/?ID=664
+#EXTINF:-1 tvg-id="665" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/259/259.png",Krone Hit TV
+http://tv.padarok.workers.dev/?ID=665
+#EXTINF:-1 tvg-id="666" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/117/mtv_live.png",MTV Live
+http://tv.padarok.workers.dev/?ID=666
+#EXTINF:-1 tvg-id="667" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/260/wmeste.png",Вместе-РФ
+http://tv.padarok.workers.dev/?ID=667
+#EXTINF:-1 tvg-id="668" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/118/118.png",Телекафе
+http://tv.padarok.workers.dev/?ID=668
+#EXTINF:-1 tvg-id="669" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/119/119220_132.png",Психология 21
+http://tv.padarok.workers.dev/?ID=669
+#EXTINF:-1 tvg-id="821" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/312/312.png",Доктор
+http://tv.padarok.workers.dev/?ID=821
+#EXTINF:-1 tvg-id="670" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/261/prosweschenie.png",Просвещение
+http://tv.padarok.workers.dev/?ID=670
+#EXTINF:-1 tvg-id="816" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/307/307.png",Союэ
+http://tv.padarok.workers.dev/?ID=816
+#EXTINF:-1 tvg-id="782" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/268/268.png",ТБН
+http://tv.padarok.workers.dev/?ID=782
+#EXTINF:-1 tvg-id="789" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/41/ont.png",GNC
+http://tv.padarok.workers.dev/?ID=789
+#EXTINF:-1 tvg-id="786" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/45/106_838_mir_24.png",Три Ангела HD
+http://tv.padarok.workers.dev/?ID=786
+#EXTINF:-1 tvg-id="784" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/269/tochka.png",Точка ТВ
+http://tv.padarok.workers.dev/?ID=784
+#EXTINF:-1 tvg-id="785" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/270/taina.png",Тайна ТВ
+http://tv.padarok.workers.dev/?ID=785
+#EXTINF:-1 tvg-id="671" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/120/1_0_1_325_CE_1_3200000_0_0_0.png",Кухня ТВ
+http://tv.padarok.workers.dev/?ID=671
+#EXTINF:-1 tvg-id="672" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/121/4097_0_1_A46_521_D_0_0_0_0.png",FoodTime
+http://tv.padarok.workers.dev/?ID=672
+#EXTINF:-1 tvg-id="675" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/123/4097_0_1_38_521_D_0_0_0_0.png",Авто Плюс
+http://tv.padarok.workers.dev/?ID=675
+#EXTINF:-1 tvg-id="817" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/308/308.png",RTD
+http://tv.padarok.workers.dev/?ID=817
+#EXTINF:-1 tvg-id="819" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/310/310.png",360°
+http://tv.padarok.workers.dev/?ID=819
+#EXTINF:-1 tvg-id="676" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/124/4097_0_1_59_521_D_0_0_0_0.png",Совершенно Секретно
+http://tv.padarok.workers.dev/?ID=676
+#EXTINF:-1 tvg-id="678" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/126/1_0_1_57F_4_64_DE80000_0_0_0.png",History HD
+http://tv.padarok.workers.dev/?ID=678
+#EXTINF:-1 tvg-id="679" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/127/1_0_19_3C5_D0_1_3200000_0_0_0.png",История
+http://tv.padarok.workers.dev/?ID=679
+#EXTINF:-1 tvg-id="680" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/128/nano.png",Nano TV
+http://tv.padarok.workers.dev/?ID=680
+#EXTINF:-1 tvg-id="681" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/129/1_0_1_5EE_5_64_DE80000_0_0_0.png",ID Xtra
+http://tv.padarok.workers.dev/?ID=681
+#EXTINF:-1 tvg-id="682" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/130/224_41_discovery_science.png",Discovery Science
+http://tv.padarok.workers.dev/?ID=682
+#EXTINF:-1 tvg-id="683" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/131/1_0_1_75_65_1_3200000_0_0_0.png",Viju History HD
+http://tv.padarok.workers.dev/?ID=683
+#EXTINF:-1 tvg-id="684" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/132/300134_938_discovery_rossiya_hd.png",Discovery HD
+http://tv.padarok.workers.dev/?ID=684
+#EXTINF:-1 tvg-id="685" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/133/1_0_1_326_4_3_2080000_0_0_0.png",National Geographic Channel HD
+http://tv.padarok.workers.dev/?ID=685
+#EXTINF:-1 tvg-id="686" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/134/1_0_1_327_4_3_2080000_0_0_0.png",National Geographic Wild HD
+http://tv.padarok.workers.dev/?ID=686
+#EXTINF:-1 tvg-id="687" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/135/usadba_1.png",Усадьба
+http://tv.padarok.workers.dev/?ID=687
+#EXTINF:-1 tvg-id="822" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/313/313.png",Большая Азия
+http://tv.padarok.workers.dev/?ID=822
+#EXTINF:-1 tvg-id="688" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/136/1_0_1_9CE_18_44_300000_0_0_0.png",Animal Planet HD
+http://tv.padarok.workers.dev/?ID=688
+#EXTINF:-1 tvg-id="689" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/137/1_0_16_3CA_D0_1_3200000_0_0_0.png",Живая планета
+http://tv.padarok.workers.dev/?ID=689
+#EXTINF:-1 tvg-id="690" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/138/1_0_1_133_C9_1_3200000_0_0_0.png",Живая природа HD
+http://tv.padarok.workers.dev/?ID=690
+#EXTINF:-1 tvg-id="691" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/139/domschiw.png",Домашние животные
+http://tv.padarok.workers.dev/?ID=691
+#EXTINF:-1 tvg-id="692" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/142/vmirezhivhd.png",В мире животных
+http://tv.padarok.workers.dev/?ID=692
+#EXTINF:-1 tvg-id="693" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/143/1_0_1_276_2_3_2080000_0_0_0.png",Дикая Охота HD
+http://tv.padarok.workers.dev/?ID=693
+#EXTINF:-1 tvg-id="694" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/144/1_0_19_2D1_CD_1_3200000_0_0_0.png",Дикий
+http://tv.padarok.workers.dev/?ID=694
+#EXTINF:-1 tvg-id="695" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/145/1_0_16_393_CF_1_3200000_0_0_0.png",Охота и рыбалка
+http://tv.padarok.workers.dev/?ID=695
+#EXTINF:-1 tvg-id="696" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/146/ochryb.png",Охотник и рыболов
+http://tv.padarok.workers.dev/?ID=696
+#EXTINF:-1 tvg-id="697" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/147/1_0_1_196_CA_1_3200000_0_0_0.png",Дикая Рыбалка HD
+http://tv.padarok.workers.dev/?ID=697
+#EXTINF:-1 tvg-id="698" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/148/1_0_19_1A4_CA_1_3200000_0_0_0.png",Диалоги о рыбалке HD
+http://tv.padarok.workers.dev/?ID=698
+#EXTINF:-1 tvg-id="699" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/149/1786_924_avto_24_hd.png",Авто24 HD
+http://tv.padarok.workers.dev/?ID=699
+#EXTINF:-1 tvg-id="700" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/150/1_0_19_332_CE_1_3200000_0_0_0.png",Мужской
+http://tv.padarok.workers.dev/?ID=700
+#EXTINF:-1 tvg-id="701" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/151/1_0_16_3D3_D0_1_3200000_0_0_0.png",Матч ТВ HD
+http://tv.padarok.workers.dev/?ID=701
+#EXTINF:-1 tvg-id="702" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/3/match_1.png",Матч ТВ
+http://tv.padarok.workers.dev/?ID=702
+#EXTINF:-1 tvg-id="703" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/153/4097_0_1_39_521_D_0_0_0_0.png",Матч! Футбол 1 HD
+http://tv.padarok.workers.dev/?ID=703
+#EXTINF:-1 tvg-id="704" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/154/1_0_16_3B7_D0_1_3200000_0_0_0.png",Матч! Футбол 1
+http://tv.padarok.workers.dev/?ID=704
+#EXTINF:-1 tvg-id="705" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/155/4097_0_1_3D_521_D_0_0_0_0.png",Матч! Футбол 2 HD
+http://tv.padarok.workers.dev/?ID=705
+#EXTINF:-1 tvg-id="706" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/156/1_0_16_3B8_D0_1_3200000_0_0_0.png",Матч! Футбол 2
+http://tv.padarok.workers.dev/?ID=706
+#EXTINF:-1 tvg-id="707" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/157/4097_0_1_5F_521_D_0_0_0_0.png",Матч! Футбол 3 HD
+http://tv.padarok.workers.dev/?ID=707
+#EXTINF:-1 tvg-id="708" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/158/matsch.png",Матч! Футбол 3
+http://tv.padarok.workers.dev/?ID=708
+#EXTINF:-1 tvg-id="709" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/159/1_0_1_D4_66_1_3200000_0_0_0.png",МАТЧ ПРЕМЬЕР HD
+http://tv.padarok.workers.dev/?ID=709
+#EXTINF:-1 tvg-id="710" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/160/1_0_19_3C7_D0_1_3200000_0_0_0.png",Матч! Игра HD
+http://tv.padarok.workers.dev/?ID=710
+#EXTINF:-1 tvg-id="711" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/161/1_0_16_3C4_D0_1_3200000_0_0_0.png",Матч! Арена HD
+http://tv.padarok.workers.dev/?ID=711
+#EXTINF:-1 tvg-id="712" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/162/1018_32_match_planeta.png",Матч! Планета
+http://tv.padarok.workers.dev/?ID=712
+#EXTINF:-1 tvg-id="713" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/163/4097_0_1_3C_521_D_0_0_0_0.png",Матч! Боец
+http://tv.padarok.workers.dev/?ID=713
+#EXTINF:-1 tvg-id="714" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/164/1_0_1F_1051_1A_44_310000_0_0_0.png",Setanta Спорт HD
+http://tv.padarok.workers.dev/?ID=714
+#EXTINF:-1 tvg-id="715" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/165/khl.png",КХЛ
+http://tv.padarok.workers.dev/?ID=715
+#EXTINF:-1 tvg-id="716" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/166/166.png",КХЛ Prime
+http://tv.padarok.workers.dev/?ID=716
+#EXTINF:-1 tvg-id="841" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/328/328.png",Окко Спорт HD
+http://tv.padarok.workers.dev/?ID=841
+#EXTINF:-1 tvg-id="843" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/331/331.png",Окко Футбол
+http://tv.padarok.workers.dev/?ID=843
+#EXTINF:-1 tvg-id="842" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/330/330.png",Окко.Прайм Спорт
+http://tv.padarok.workers.dev/?ID=842
+#EXTINF:-1 tvg-id="717" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/167/eurosport_1_HD.png",Eurosport HD
+http://tv.padarok.workers.dev/?ID=717
+#EXTINF:-1 tvg-id="718" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/168/eurosport_2.png",Eurosport 2 HD
+http://tv.padarok.workers.dev/?ID=718
+#EXTINF:-1 tvg-id="719" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/169/1851_1062_boks_tv.png",БОКС ТВ
+http://tv.padarok.workers.dev/?ID=719
+#EXTINF:-1 tvg-id="720" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/170/mma_tv.png",MMA-TV.com
+http://tv.padarok.workers.dev/?ID=720
+#EXTINF:-1 tvg-id="721" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/171/171.png",Удар ТВ
+http://tv.padarok.workers.dev/?ID=721
+#EXTINF:-1 tvg-id="723" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/250/250.png",Мир Белогорья
+http://tv.padarok.workers.dev/?ID=723
+#EXTINF:-1 tvg-id="726" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/222/1_0_1_1982_107B_55_310000_0_0_0.png",Новий канал
+http://tv.padarok.workers.dev/?ID=726
+#EXTINF:-1 tvg-id="727" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/221/221.png",Интер
+http://tv.padarok.workers.dev/?ID=727
+#EXTINF:-1 tvg-id="728" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/174/1_0_1_1A18_10_55_300000_0_0_0.png",1+1 International
+http://tv.padarok.workers.dev/?ID=728
+#EXTINF:-1 tvg-id="729" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/175/1_0_19_1978_107B_55_300000_0_0_0.png",ICTV
+http://tv.padarok.workers.dev/?ID=729
+#EXTINF:-1 tvg-id="730" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/176/CTB.png",СТБ
+http://tv.padarok.workers.dev/?ID=730
+#EXTINF:-1 tvg-id="732" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/178/1_0_1_17DE_C_55_310000_0_0_0.png",ТЕТ
+http://tv.padarok.workers.dev/?ID=732
+#EXTINF:-1 tvg-id="733" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/179/enterfilm.png",Enter-фильм
+http://tv.padarok.workers.dev/?ID=733
+#EXTINF:-1 tvg-id="746" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/187/1_0_1_1DC9_2B_55_300000_0_0_0.png",5 канал
+http://tv.padarok.workers.dev/?ID=746
+#EXTINF:-1 tvg-id="750" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/198/198.png",Das Erste
+http://tv.padarok.workers.dev/?ID=750
+#EXTINF:-1 tvg-id="793" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/283/283.png",One HD
+http://tv.padarok.workers.dev/?ID=793
+#EXTINF:-1 tvg-id="751" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/190/zdf.png",ZDF
+http://tv.padarok.workers.dev/?ID=751
+#EXTINF:-1 tvg-id="752" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/191/zdf_neo.png",ZDF NEO HD
+http://tv.padarok.workers.dev/?ID=752
+#EXTINF:-1 tvg-id="772" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/252/252.png",MDR
+http://tv.padarok.workers.dev/?ID=772
+#EXTINF:-1 tvg-id="771" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/231/231.png",NDR HD
+http://tv.padarok.workers.dev/?ID=771
+#EXTINF:-1 tvg-id="753" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/206/206.png",Pro7
+http://tv.padarok.workers.dev/?ID=753
+#EXTINF:-1 tvg-id="825" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/316/316.png",PRO Sieben Maxx
+http://tv.padarok.workers.dev/?ID=825
+#EXTINF:-1 tvg-id="754" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/193/300059_5_rtl_hd.png",RTL
+http://tv.padarok.workers.dev/?ID=754
+#EXTINF:-1 tvg-id="820" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/311/311.png",RTL UP
+http://tv.padarok.workers.dev/?ID=820
+#EXTINF:-1 tvg-id="755" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/194/300059_5_rt_l2_hd.png",RTL 2
+http://tv.padarok.workers.dev/?ID=755
+#EXTINF:-1 tvg-id="756" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/204/204.png",RTL NITRO
+http://tv.padarok.workers.dev/?ID=756
+#EXTINF:-1 tvg-id="757" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/195/1_0_1_2E9B_411_1_C00000_0_0_0.png",Super RTL
+http://tv.padarok.workers.dev/?ID=757
+#EXTINF:-1 tvg-id="758" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/196/sat1_hd.png",SAT1 HD
+http://tv.padarok.workers.dev/?ID=758
+#EXTINF:-1 tvg-id="759" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/216/216.png",SAT.1 Gold HD
+http://tv.padarok.workers.dev/?ID=759
+#EXTINF:-1 tvg-id="760" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/208/208.png",Vox HD
+http://tv.padarok.workers.dev/?ID=760
+#EXTINF:-1 tvg-id="761" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/207/207.png",Kabel Eins HD
+http://tv.padarok.workers.dev/?ID=761
+#EXTINF:-1 tvg-id="823" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/314/314.png",Kabel Eins Docu
+http://tv.padarok.workers.dev/?ID=823
+#EXTINF:-1 tvg-id="762" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/214/214.png",KiKA
+http://tv.padarok.workers.dev/?ID=762
+#EXTINF:-1 tvg-id="763" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/215/215.png",Disney Channel
+http://tv.padarok.workers.dev/?ID=763
+#EXTINF:-1 tvg-id="764" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/213/213.png",Toggo Plus HD
+http://tv.padarok.workers.dev/?ID=764
+#EXTINF:-1 tvg-id="765" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/218/218.png",N-tv
+http://tv.padarok.workers.dev/?ID=765
+#EXTINF:-1 tvg-id="766" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/217/217.png",DMAX
+http://tv.padarok.workers.dev/?ID=766
+#EXTINF:-1 tvg-id="824" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/315/315.png",SIXX
+http://tv.padarok.workers.dev/?ID=824
+#EXTINF:-1 tvg-id="677" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/125/300131_691_tlc_hd.png",TLC HD
+http://tv.padarok.workers.dev/?ID=677
+#EXTINF:-1 tvg-id="792" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/282/282.png",Sport1 HD
+http://tv.padarok.workers.dev/?ID=792
+#EXTINF:-1 tvg-id="814" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/306/306.png",Sky Sport F1 HD
+http://tv.padarok.workers.dev/?ID=814
+#EXTINF:-1 tvg-id="767" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/219/219.png",Deluxe Music
+http://tv.padarok.workers.dev/?ID=767
+#EXTINF:-1 tvg-id="769" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/210/210.png",Servus
+http://tv.padarok.workers.dev/?ID=769
+#EXTINF:-1 tvg-id="770" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/209/1031.1031",Arte HD
+http://tv.padarok.workers.dev/?ID=770
+#EXTINF:-1 tvg-id="773" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/220/220.png",HSE24
+http://tv.padarok.workers.dev/?ID=773
+#EXTINF:-1 tvg-id="775" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/232/232.png",WDR HD
+http://tv.padarok.workers.dev/?ID=775
+#EXTINF:-1 tvg-id="828" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/52/100025_303_vremya.png",тест
+http://tv.padarok.workers.dev/?ID=828
+#EXTINF:-1 tvg-id="838" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/14/1_0_1_32A_CE_1_3200000_0_0_0.png",test
+http://tv.padarok.workers.dev/?ID=838
+#EXTINF:-1 tvg-id="839" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/332/332.png",test1
+http://tv.padarok.workers.dev/?ID=839
+#EXTINF:-1 tvg-id="840" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/333/333.png",test2
+http://tv.padarok.workers.dev/?ID=840
+#EXTINF:-1 tvg-id="776" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/234/234.png",Brazzers
+http://tv.padarok.workers.dev/?ID=776
+#EXTINF:-1 tvg-id="777" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/235/Private.png",Private
+http://tv.padarok.workers.dev/?ID=777
+#EXTINF:-1 tvg-id="778" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/236/236.png",Hustler HD
+http://tv.padarok.workers.dev/?ID=778
+#EXTINF:-1 tvg-id="779" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/247/247.png",O-la-la
+http://tv.padarok.workers.dev/?ID=779
+#EXTINF:-1 tvg-id="780" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/246/246.png",Redlight HD
+http://tv.padarok.workers.dev/?ID=780

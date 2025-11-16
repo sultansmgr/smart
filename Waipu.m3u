@@ -1,0 +1,753 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="trfox" tvg-name="NOW" tvg-logo="https://images.wpstr.tv/station/trfox/1f067cb9/hd/overlay?res=320x180",NOW
+http://tv.waipu.workers.dev/?ID=trfox
+#EXTINF:-1 tvg-id="atvavrupa" tvg-name="ATV Avrupa" tvg-logo="https://images.wpstr.tv/station/atvavrupa/5ff7fc46/hd/overlay?res=320x180",ATV Avrupa
+http://tv.waipu.workers.dev/?ID=atvavrupa
+#EXTINF:-1 tvg-id="eurod" tvg-name="Euro D" tvg-logo="https://images.wpstr.tv/station/eurod/027b5477/hd/overlay?res=320x180",Euro D
+http://tv.waipu.workers.dev/?ID=eurod
+#EXTINF:-1 tvg-id="eurostar" tvg-name="Euro Star" tvg-logo="https://images.wpstr.tv/station/eurostar/11146a0a/hd/overlay?res=320x180",Euro Star
+http://tv.waipu.workers.dev/?ID=eurostar
+#EXTINF:-1 tvg-id="showturk" tvg-name="Show Turk" tvg-logo="https://images.wpstr.tv/station/showturk/0d2df0ca/hd/overlay?res=320x180",Show Turk
+http://tv.waipu.workers.dev/?ID=showturk
+#EXTINF:-1 tvg-id="tv8int" tvg-name="TV8 International" tvg-logo="https://images.wpstr.tv/station/tv8int/26a97e4d/hd/overlay?res=320x180",TV8 International
+http://tv.waipu.workers.dev/?ID=tv8int
+#EXTINF:-1 tvg-id="trt1" tvg-name="TRT1" tvg-logo="https://images.wpstr.tv/station/trt1/e90d06f9/hd/overlay?res=320x180",TRT1
+http://tv.waipu.workers.dev/?ID=trt1
+#EXTINF:-1 tvg-id="tgrteu" tvg-name="TGRT EU" tvg-logo="https://images.wpstr.tv/station/tgrteu/b21d2f68/hd/overlay?res=320x180",TGRT EU
+http://tv.waipu.workers.dev/?ID=tgrteu
+#EXTINF:-1 tvg-id="trtcocuk" tvg-name="TRT Çocuk" tvg-logo="https://images.wpstr.tv/station/trtcocuk/45e663c5/hd/overlay?res=320x180",TRT Çocuk
+http://tv.waipu.workers.dev/?ID=trtcocuk
+#EXTINF:-1 tvg-id="cnntuerk" tvg-name="CNN Türk" tvg-logo="https://images.wpstr.tv/station/cnntuerk/d4577980/hd/overlay?res=320x180",CNN Türk
+http://tv.waipu.workers.dev/?ID=cnntuerk
+#EXTINF:-1 tvg-id="haberturk" tvg-name="HABERTURK" tvg-logo="https://images.wpstr.tv/station/haberturk/a9b739bd/hd/overlay?res=320x180",HABERTURK
+http://tv.waipu.workers.dev/?ID=haberturk
+#EXTINF:-1 tvg-id="ahaber" tvg-name="A Haber" tvg-logo="https://images.wpstr.tv/station/ahaber/b4d02c9f/hd/overlay?res=320x180",A Haber
+http://tv.waipu.workers.dev/?ID=ahaber
+#EXTINF:-1 tvg-id="trkanal7avrupa" tvg-name="Kanal 7" tvg-logo="https://images.wpstr.tv/station/trkanal7avrupa/cabd02d2/hd/overlay?res=320x180",Kanal 7
+http://tv.waipu.workers.dev/?ID=trkanal7avrupa
+#EXTINF:-1 tvg-id="trthaber" tvg-name="TRT Haber" tvg-logo="https://images.wpstr.tv/station/trthaber/7d14098f/hd/overlay?res=320x180",TRT Haber
+http://tv.waipu.workers.dev/?ID=trthaber
+#EXTINF:-1 tvg-id="tgrthaber" tvg-name="TGRT Haber" tvg-logo="https://images.wpstr.tv/station/tgrthaber/ebc77a48/hd/overlay?res=320x180",TGRT Haber
+http://tv.waipu.workers.dev/?ID=tgrthaber
+#EXTINF:-1 tvg-id="24v" tvg-name="24 TV" tvg-logo="https://images.wpstr.tv/station/24v/da8e4751/hd/overlay?res=320x180",24 TV
+http://tv.waipu.workers.dev/?ID=24v
+#EXTINF:-1 tvg-id="trtspor" tvg-name="TRT Spor" tvg-logo="https://images.wpstr.tv/station/trtspor/5a4b4513/hd/overlay?res=320x180",TRT Spor
+http://tv.waipu.workers.dev/?ID=trtspor
+#EXTINF:-1 tvg-id="aspor" tvg-name="A Spor" tvg-logo="https://images.wpstr.tv/station/aspor/296f8301/hd/overlay?res=320x180",A Spor
+http://tv.waipu.workers.dev/?ID=aspor
+#EXTINF:-1 tvg-id="trtbelgesel" tvg-name="TRT Belgesel" tvg-logo="https://images.wpstr.tv/station/trtbelgesel/b9cb18eb/hd/overlay?res=320x180",TRT Belgesel
+http://tv.waipu.workers.dev/?ID=trtbelgesel
+#EXTINF:-1 tvg-id="tgrtbelgesel" tvg-name="TGRT Belgesel" tvg-logo="https://images.wpstr.tv/station/tgrtbelgesel/a515a15f/hd/overlay?res=320x180",TGRT Belgesel
+http://tv.waipu.workers.dev/?ID=tgrtbelgesel
+#EXTINF:-1 tvg-id="a2t" tvg-name="A2" tvg-logo="https://images.wpstr.tv/station/a2t/90da8361/hd/overlay?res=320x180",A2
+http://tv.waipu.workers.dev/?ID=a2t
+#EXTINF:-1 tvg-id="teve2" tvg-name="teve2" tvg-logo="https://images.wpstr.tv/station/teve2/fd43a3bb/hd/overlay?res=320x180",teve2
+http://tv.waipu.workers.dev/?ID=teve2
+#EXTINF:-1 tvg-id="360tv" tvg-name="360 TV" tvg-logo="https://images.wpstr.tv/station/360tv/fcc0cd8d/hd/overlay?res=320x180",360 TV
+http://tv.waipu.workers.dev/?ID=360tv
+#EXTINF:-1 tvg-id="tv4" tvg-name="TV 4" tvg-logo="https://images.wpstr.tv/station/tv4/5582c203/hd/overlay?res=320x180",TV 4
+http://tv.waipu.workers.dev/?ID=tv4
+#EXTINF:-1 tvg-id="trtmuezik" tvg-name="TRT Müzik" tvg-logo="https://images.wpstr.tv/station/trtmuezik/351caeef/hd/overlay?res=320x180",TRT Müzik
+http://tv.waipu.workers.dev/?ID=trtmuezik
+#EXTINF:-1 tvg-id="trttuerk" tvg-name="TRT Türk" tvg-logo="https://images.wpstr.tv/station/trttuerk/4271d3a1/hd/overlay?res=320x180",TRT Türk
+http://tv.waipu.workers.dev/?ID=trttuerk
+#EXTINF:-1 tvg-id="trtkurdi" tvg-name="TRT Kurdî" tvg-logo="https://images.wpstr.tv/station/trtkurdi/ef21e445/hd/overlay?res=320x180",TRT Kurdî
+http://tv.waipu.workers.dev/?ID=trtkurdi
+#EXTINF:-1 tvg-id="trtarapca" tvg-name="TRT Arabi" tvg-logo="https://images.wpstr.tv/station/trtarapca/b8cae87a/hd/overlay?res=320x180",TRT Arabi
+http://tv.waipu.workers.dev/?ID=trtarapca
+#EXTINF:-1 tvg-id="trtworld" tvg-name="TRT World" tvg-logo="https://images.wpstr.tv/station/trtworld/f3fd321b/hd/overlay?res=320x180",TRT World
+http://tv.waipu.workers.dev/?ID=trtworld
+#EXTINF:-1 tvg-id="anews" tvg-name="A News" tvg-logo="https://images.wpstr.tv/station/anews/56de7a82/hd/overlay?res=320x180",A News
+http://tv.waipu.workers.dev/?ID=anews
+#EXTINF:-1 tvg-id="beyaz" tvg-name="Beyaz TV" tvg-logo="https://images.wpstr.tv/station/beyaz/8d5a110d/hd/overlay?res=320x180",Beyaz TV
+http://tv.waipu.workers.dev/?ID=beyaz
+#EXTINF:-1 tvg-id="trtavaz" tvg-name="TRT Avaz" tvg-logo="https://images.wpstr.tv/station/trtavaz/3afba8b7/hd/overlay?res=320x180",TRT Avaz
+http://tv.waipu.workers.dev/?ID=trtavaz
+#EXTINF:-1 tvg-id="flashhaber" tvg-name="Flash Haber" tvg-logo="https://images.wpstr.tv/station/flashhaber/46288333/hd/overlay?res=320x180",Flash Haber
+http://tv.waipu.workers.dev/?ID=flashhaber
+#EXTINF:-1 tvg-id="diyanet" tvg-name="Diyanet TV" tvg-logo="https://images.wpstr.tv/station/diyanet/0d2cc097/hd/overlay?res=320x180",Diyanet TV
+http://tv.waipu.workers.dev/?ID=diyanet
+#EXTINF:-1 tvg-id="tv100" tvg-name="TV100" tvg-logo="https://images.wpstr.tv/station/tv100/8210e378/hd/overlay?res=320x180",TV100
+http://tv.waipu.workers.dev/?ID=tv100
+#EXTINF:-1 tvg-id="ard" tvg-name="Das Erste" tvg-logo="https://images.wpstr.tv/station/ard/13f3e0f0/hd/overlay?res=320x180",Das Erste
+http://tv.waipu.workers.dev/?ID=ard
+#EXTINF:-1 tvg-id="zdf" tvg-name="ZDF" tvg-logo="https://images.wpstr.tv/station/zdf/74d6f9f9/hd/overlay?res=320x180",ZDF
+http://tv.waipu.workers.dev/?ID=zdf
+#EXTINF:-1 tvg-id="srf1" tvg-name="SRF 1" tvg-logo="https://images.wpstr.tv/station/srf1/394d9cc1/hd/overlay?res=320x180",SRF 1
+http://tv.waipu.workers.dev/?ID=srf1
+#EXTINF:-1 tvg-id="srf2" tvg-name="SRF 2" tvg-logo="https://images.wpstr.tv/station/srf2/f8949d78/hd/overlay?res=320x180",SRF 2
+http://tv.waipu.workers.dev/?ID=srf2
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL" tvg-logo="https://images.wpstr.tv/station/rtl/7f467b35/hd/overlay?res=320x180",RTL
+http://tv.waipu.workers.dev/?ID=rtl
+#EXTINF:-1 tvg-id="sat1" tvg-name="SAT.1" tvg-logo="https://images.wpstr.tv/station/sat1/d3f99bee/hd/overlay?res=320x180",SAT.1
+http://tv.waipu.workers.dev/?ID=sat1
+#EXTINF:-1 tvg-id="pro7" tvg-name="ProSieben" tvg-logo="https://images.wpstr.tv/station/pro7/97cd877d/hd/overlay?res=320x180",ProSieben
+http://tv.waipu.workers.dev/?ID=pro7
+#EXTINF:-1 tvg-id="vox" tvg-name="VOX" tvg-logo="https://images.wpstr.tv/station/vox/33c5968d/hd/overlay?res=320x180",VOX
+http://tv.waipu.workers.dev/?ID=vox
+#EXTINF:-1 tvg-id="ntv" tvg-name="n-tv" tvg-logo="https://images.wpstr.tv/station/ntv/b71927b9/hd/overlay?res=320x180",n-tv
+http://tv.waipu.workers.dev/?ID=ntv
+#EXTINF:-1 tvg-id="n24" tvg-name="WELT" tvg-logo="https://images.wpstr.tv/station/n24/3d7529a3/hd/overlay?res=320x180",WELT
+http://tv.waipu.workers.dev/?ID=n24
+#EXTINF:-1 tvg-id="tagesschau24" tvg-name="tagesschau24" tvg-logo="https://images.wpstr.tv/station/tagesschau24/91448dff/hd/overlay?res=320x180",tagesschau24
+http://tv.waipu.workers.dev/?ID=tagesschau24
+#EXTINF:-1 tvg-id="zdfinfo" tvg-name="ZDFinfo" tvg-logo="https://images.wpstr.tv/station/zdfinfo/29ff9c38/hd/overlay?res=320x180",ZDFinfo
+http://tv.waipu.workers.dev/?ID=zdfinfo
+#EXTINF:-1 tvg-id="phoenix" tvg-name="phoenix" tvg-logo="https://images.wpstr.tv/station/phoenix/52157a94/hd/overlay?res=320x180",phoenix
+http://tv.waipu.workers.dev/?ID=phoenix
+#EXTINF:-1 tvg-id="bbc_world_news_europe" tvg-name="BBC News" tvg-logo="https://images.wpstr.tv/station/bbc_world_news_europe/b22b554c/hd/overlay?res=320x180",BBC News
+http://tv.waipu.workers.dev/?ID=bbc_world_news_europe
+#EXTINF:-1 tvg-id="zdfneo" tvg-name="ZDFneo" tvg-logo="https://images.wpstr.tv/station/zdfneo/a4169661/hd/overlay?res=320x180",ZDFneo
+http://tv.waipu.workers.dev/?ID=zdfneo
+#EXTINF:-1 tvg-id="einsfestival" tvg-name="ONE" tvg-logo="https://images.wpstr.tv/station/einsfestival/33f72af2/hd/overlay?res=320x180",ONE
+http://tv.waipu.workers.dev/?ID=einsfestival
+#EXTINF:-1 tvg-id="arte" tvg-name="ARTE" tvg-logo="https://images.wpstr.tv/station/arte/7913d072/hd/overlay?res=320x180",ARTE
+http://tv.waipu.workers.dev/?ID=arte
+#EXTINF:-1 tvg-id="3sat" tvg-name="3sat" tvg-logo="https://images.wpstr.tv/station/3sat/e45376a9/hd/overlay?res=320x180",3sat
+http://tv.waipu.workers.dev/?ID=3sat
+#EXTINF:-1 tvg-id="kabeleins" tvg-name="Kabel Eins" tvg-logo="https://images.wpstr.tv/station/kabeleins/0db6b3a0/hd/overlay?res=320x180",Kabel Eins
+http://tv.waipu.workers.dev/?ID=kabeleins
+#EXTINF:-1 tvg-id="rtl2" tvg-name="RTLZWEI" tvg-logo="https://images.wpstr.tv/station/rtl2/89d52a50/hd/overlay?res=320x180",RTLZWEI
+http://tv.waipu.workers.dev/?ID=rtl2
+#EXTINF:-1 tvg-id="kika" tvg-name="KiKA" tvg-logo="https://images.wpstr.tv/station/kika/0e71aacc/hd/overlay?res=320x180",KiKA
+http://tv.waipu.workers.dev/?ID=kika
+#EXTINF:-1 tvg-id="superrtl" tvg-name="SUPER RTL" tvg-logo="https://images.wpstr.tv/station/superrtl/865194ad/hd/overlay?res=320x180",SUPER RTL
+http://tv.waipu.workers.dev/?ID=superrtl
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://images.wpstr.tv/station/nickelodeon/f260eb70/hd/overlay?res=320x180",Nickelodeon
+http://tv.waipu.workers.dev/?ID=nickelodeon
+#EXTINF:-1 tvg-id="bralpha" tvg-name="ARD-alpha" tvg-logo="https://images.wpstr.tv/station/bralpha/8be63fda/hd/overlay?res=320x180",ARD-alpha
+http://tv.waipu.workers.dev/?ID=bralpha
+#EXTINF:-1 tvg-id="n24doku" tvg-name="N24 Doku" tvg-logo="https://images.wpstr.tv/station/n24doku/8e23088b/hd/overlay?res=320x180",N24 Doku
+http://tv.waipu.workers.dev/?ID=n24doku
+#EXTINF:-1 tvg-id="geo" tvg-name="GEO Television" tvg-logo="https://images.wpstr.tv/station/geo/b1c1c0bf/hd/overlay?res=320x180",GEO Television
+http://tv.waipu.workers.dev/?ID=geo
+#EXTINF:-1 tvg-id="spiegelgeschichte" tvg-name="SPIEGEL Geschichte" tvg-logo="https://images.wpstr.tv/station/spiegelgeschichte/f254d53b/hd/overlay?res=320x180",SPIEGEL Geschichte
+http://tv.waipu.workers.dev/?ID=spiegelgeschichte
+#EXTINF:-1 tvg-id="sport1" tvg-name="SPORT1" tvg-logo="https://images.wpstr.tv/station/sport1/14eb14ae/hd/overlay?res=320x180",SPORT1
+http://tv.waipu.workers.dev/?ID=sport1
+#EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" tvg-logo="https://images.wpstr.tv/station/eurosport1/8da18d60/hd/overlay?res=320x180",Eurosport 1
+http://tv.waipu.workers.dev/?ID=eurosport1
+#EXTINF:-1 tvg-id="dmax" tvg-name="DMAX" tvg-logo="https://images.wpstr.tv/station/dmax/9b319bf5/hd/overlay?res=320x180",DMAX
+http://tv.waipu.workers.dev/?ID=dmax
+#EXTINF:-1 tvg-id="brsued" tvg-name="BR Süd" tvg-logo="https://images.wpstr.tv/station/brsued/4c497ecc/hd/overlay?res=320x180",BR Süd
+http://tv.waipu.workers.dev/?ID=brsued
+#EXTINF:-1 tvg-id="mdr_sachsen" tvg-name="MDR Sachsen" tvg-logo="https://images.wpstr.tv/station/mdr_sachsen/5673ac36/hd/overlay?res=320x180",MDR Sachsen
+http://tv.waipu.workers.dev/?ID=mdr_sachsen
+#EXTINF:-1 tvg-id="n3_ni" tvg-name="NDR Niedersachsen" tvg-logo="https://images.wpstr.tv/station/n3_ni/280d7bd1/hd/overlay?res=320x180",NDR Niedersachsen
+http://tv.waipu.workers.dev/?ID=n3_ni
+#EXTINF:-1 tvg-id="rbb_berlin" tvg-name="RBB Berlin" tvg-logo="https://images.wpstr.tv/station/rbb_berlin/5c726bd5/hd/overlay?res=320x180",RBB Berlin
+http://tv.waipu.workers.dev/?ID=rbb_berlin
+#EXTINF:-1 tvg-id="swr_bw" tvg-name="SWR Baden-Württemberg" tvg-logo="https://images.wpstr.tv/station/swr_bw/ac9e7bc5/hd/overlay?res=320x180",SWR Baden-Württemberg
+http://tv.waipu.workers.dev/?ID=swr_bw
+#EXTINF:-1 tvg-id="wdr_koeln" tvg-name="WDR Köln" tvg-logo="https://images.wpstr.tv/station/wdr_koeln/69284d63/hd/overlay?res=320x180",WDR Köln
+http://tv.waipu.workers.dev/?ID=wdr_koeln
+#EXTINF:-1 tvg-id="hr" tvg-name="hr-fernsehen" tvg-logo="https://images.wpstr.tv/station/hr/f449d093/hd/overlay?res=320x180",hr-fernsehen
+http://tv.waipu.workers.dev/?ID=hr
+#EXTINF:-1 tvg-id="n3_bremen" tvg-name="Radio Bremen" tvg-logo="https://images.wpstr.tv/station/n3_bremen/69e82cf5/hd/overlay?res=320x180",Radio Bremen
+http://tv.waipu.workers.dev/?ID=n3_bremen
+#EXTINF:-1 tvg-id="sr" tvg-name="SR" tvg-logo="https://images.wpstr.tv/station/sr/fe7000e1/hd/overlay?res=320x180",SR
+http://tv.waipu.workers.dev/?ID=sr
+#EXTINF:-1 tvg-id="weihnachtskino" tvg-name="Weihnachtskino" tvg-logo="https://images.wpstr.tv/station/weihnachtskino/202b2ca4/hd/overlay?res=320x180",Weihnachtskino
+http://tv.waipu.workers.dev/?ID=weihnachtskino
+#EXTINF:-1 tvg-id="christmaschannel" tvg-name="The Christmas Channel" tvg-logo="https://images.wpstr.tv/station/christmaschannel/33b239c5/hd/overlay?res=320x180",The Christmas Channel
+http://tv.waipu.workers.dev/?ID=christmaschannel
+#EXTINF:-1 tvg-id="rtlcrime" tvg-name="RTL Crime" tvg-logo="https://images.wpstr.tv/station/rtlcrime/69cde3fd/hd/overlay?res=320x180",RTL Crime
+http://tv.waipu.workers.dev/?ID=rtlcrime
+#EXTINF:-1 tvg-id="universaltv" tvg-name="Universal TV" tvg-logo="https://images.wpstr.tv/station/universaltv/5b022c9d/hd/overlay?res=320x180",Universal TV
+http://tv.waipu.workers.dev/?ID=universaltv
+#EXTINF:-1 tvg-id="axnblack" tvg-name="AXN Black" tvg-logo="https://images.wpstr.tv/station/axnblack/e7baf647/hd/overlay?res=320x180",AXN Black
+http://tv.waipu.workers.dev/?ID=axnblack
+#EXTINF:-1 tvg-id="axnblackcatchup" tvg-name="AXN Black Catch-Up" tvg-logo="https://images.wpstr.tv/station/axnblackcatchup/373aaa5d/hd/overlay?res=320x180",AXN Black Catch-Up
+http://tv.waipu.workers.dev/?ID=axnblackcatchup
+#EXTINF:-1 tvg-id="13thstreet" tvg-name="13th Street" tvg-logo="https://images.wpstr.tv/station/13thstreet/8ee882d5/hd/overlay?res=320x180",13th Street
+http://tv.waipu.workers.dev/?ID=13thstreet
+#EXTINF:-1 tvg-id="axnwhite" tvg-name="AXN White" tvg-logo="https://images.wpstr.tv/station/axnwhite/b17a1d2c/hd/overlay?res=320x180",AXN White
+http://tv.waipu.workers.dev/?ID=axnwhite
+#EXTINF:-1 tvg-id="axnwhitecatchup" tvg-name="AXN White Catch-Up" tvg-logo="https://images.wpstr.tv/station/axnwhitecatchup/e9b950e6/hd/overlay?res=320x180",AXN White Catch-Up
+http://tv.waipu.workers.dev/?ID=axnwhitecatchup
+#EXTINF:-1 tvg-id="tntfilm" tvg-name="WARNER TV FILM" tvg-logo="https://images.wpstr.tv/station/tntfilm/a5e7da7d/hd/overlay?res=320x180",WARNER TV FILM
+http://tv.waipu.workers.dev/?ID=tntfilm
+#EXTINF:-1 tvg-id="syfy" tvg-name="SYFY" tvg-logo="https://images.wpstr.tv/station/syfy/50d7bf3e/hd/overlay?res=320x180",SYFY
+http://tv.waipu.workers.dev/?ID=syfy
+#EXTINF:-1 tvg-id="kabeleinsclassics" tvg-name="Kabel Eins CLASSICS" tvg-logo="https://images.wpstr.tv/station/kabeleinsclassics/535a5372/hd/overlay?res=320x180",Kabel Eins CLASSICS
+http://tv.waipu.workers.dev/?ID=kabeleinsclassics
+#EXTINF:-1 tvg-id="tntserie" tvg-name="WARNER TV SERIE" tvg-logo="https://images.wpstr.tv/station/tntserie/7c1da238/hd/overlay?res=320x180",WARNER TV SERIE
+http://tv.waipu.workers.dev/?ID=tntserie
+#EXTINF:-1 tvg-id="tntcomedy" tvg-name="WARNER TV COMEDY" tvg-logo="https://images.wpstr.tv/station/tntcomedy/dcd0fe56/hd/overlay?res=320x180",WARNER TV COMEDY
+http://tv.waipu.workers.dev/?ID=tntcomedy
+#EXTINF:-1 tvg-id="prosiebenfun" tvg-name="ProSieben FUN" tvg-logo="https://images.wpstr.tv/station/prosiebenfun/d6fb0e7c/hd/overlay?res=320x180",ProSieben FUN
+http://tv.waipu.workers.dev/?ID=prosiebenfun
+#EXTINF:-1 tvg-id="rtlpassion" tvg-name="RTL Passion" tvg-logo="https://images.wpstr.tv/station/rtlpassion/2b06a022/hd/overlay?res=320x180",RTL Passion
+http://tv.waipu.workers.dev/?ID=rtlpassion
+#EXTINF:-1 tvg-id="sat1emotions" tvg-name="SAT.1 emotions" tvg-logo="https://images.wpstr.tv/station/sat1emotions/d700ce4e/hd/overlay?res=320x180",SAT.1 emotions
+http://tv.waipu.workers.dev/?ID=sat1emotions
+#EXTINF:-1 tvg-id="rtlliving" tvg-name="RTL Living" tvg-logo="https://images.wpstr.tv/station/rtlliving/fa60f4d6/hd/overlay?res=320x180",RTL Living
+http://tv.waipu.workers.dev/?ID=rtlliving
+#EXTINF:-1 tvg-id="disney" tvg-name="Disney Channel" tvg-logo="https://images.wpstr.tv/station/disney/5ea4ef9b/hd/overlay?res=320x180",Disney Channel
+http://tv.waipu.workers.dev/?ID=disney
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://images.wpstr.tv/station/tlc/a0870f12/hd/overlay?res=320x180",TLC
+http://tv.waipu.workers.dev/?ID=tlc
+#EXTINF:-1 tvg-id="sixx" tvg-name="sixx" tvg-logo="https://images.wpstr.tv/station/sixx/ffc1c599/hd/overlay?res=320x180",sixx
+http://tv.waipu.workers.dev/?ID=sixx
+#EXTINF:-1 tvg-id="voxup" tvg-name="VOXup" tvg-logo="https://images.wpstr.tv/station/voxup/166f8f5f/hd/overlay?res=320x180",VOXup
+http://tv.waipu.workers.dev/?ID=voxup
+#EXTINF:-1 tvg-id="sat1gold" tvg-name="SAT.1 GOLD" tvg-logo="https://images.wpstr.tv/station/sat1gold/1b908a36/hd/overlay?res=320x180",SAT.1 GOLD
+http://tv.waipu.workers.dev/?ID=sat1gold
+#EXTINF:-1 tvg-id="rtlplus" tvg-name="RTLup" tvg-logo="https://images.wpstr.tv/station/rtlplus/2b3b43b6/hd/overlay?res=320x180",RTLup
+http://tv.waipu.workers.dev/?ID=rtlplus
+#EXTINF:-1 tvg-id="comedy_central" tvg-name="Comedy Central" tvg-logo="https://images.wpstr.tv/station/comedy_central/018a31b5/hd/overlay?res=320x180",Comedy Central
+http://tv.waipu.workers.dev/?ID=comedy_central
+#EXTINF:-1 tvg-id="prosieben_maxx" tvg-name="ProSieben MAXX" tvg-logo="https://images.wpstr.tv/station/prosieben_maxx/737efcbf/hd/overlay?res=320x180",ProSieben MAXX
+http://tv.waipu.workers.dev/?ID=prosieben_maxx
+#EXTINF:-1 tvg-id="rtlnitro" tvg-name="NITRO" tvg-logo="https://images.wpstr.tv/station/rtlnitro/a9644a64/hd/overlay?res=320x180",NITRO
+http://tv.waipu.workers.dev/?ID=rtlnitro
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-logo="https://images.wpstr.tv/station/mtv/aa338957/hd/overlay?res=320x180",MTV
+http://tv.waipu.workers.dev/?ID=mtv
+#EXTINF:-1 tvg-id="tele5" tvg-name="TELE 5" tvg-logo="https://images.wpstr.tv/station/tele5/92127733/hd/overlay?res=320x180",TELE 5
+http://tv.waipu.workers.dev/?ID=tele5
+#EXTINF:-1 tvg-id="filmtastic" tvg-name="FILMTASTIC" tvg-logo="https://images.wpstr.tv/station/filmtastic/ef0cf97b/hd/overlay?res=320x180",FILMTASTIC
+http://tv.waipu.workers.dev/?ID=filmtastic
+#EXTINF:-1 tvg-id="cinemaofhearts" tvg-name="Cinema of Hearts" tvg-logo="https://images.wpstr.tv/station/cinemaofhearts/ddeeb737/hd/overlay?res=320x180",Cinema of Hearts
+http://tv.waipu.workers.dev/?ID=cinemaofhearts
+#EXTINF:-1 tvg-id="filmtotal" tvg-name="Film Total" tvg-logo="https://images.wpstr.tv/station/filmtotal/cd606ee4/hd/overlay?res=320x180",Film Total
+http://tv.waipu.workers.dev/?ID=filmtotal
+#EXTINF:-1 tvg-id="kinowelt" tvg-name="KinoweltTV" tvg-logo="https://images.wpstr.tv/station/kinowelt/5f83c1e4/hd/overlay?res=320x180",KinoweltTV
+http://tv.waipu.workers.dev/?ID=kinowelt
+#EXTINF:-1 tvg-id="kinoweltcatchup" tvg-name="KinoweltTV Catch-Up" tvg-logo="https://images.wpstr.tv/station/kinoweltcatchup/08ca8239/hd/overlay?res=320x180",KinoweltTV Catch-Up
+http://tv.waipu.workers.dev/?ID=kinoweltcatchup
+#EXTINF:-1 tvg-id="cirkus" tvg-name="Cirkus Krimi" tvg-logo="https://images.wpstr.tv/station/cirkus/1aa5bd7e/hd/overlay?res=320x180",Cirkus Krimi
+http://tv.waipu.workers.dev/?ID=cirkus
+#EXTINF:-1 tvg-id="serienhits" tvg-name="Serien Hits" tvg-logo="https://images.wpstr.tv/station/serienhits/7276fff7/hd/overlay?res=320x180",Serien Hits
+http://tv.waipu.workers.dev/?ID=serienhits
+#EXTINF:-1 tvg-id="romance" tvg-name="Romance TV" tvg-logo="https://images.wpstr.tv/station/romance/94f3792a/hd/overlay?res=320x180",Romance TV
+http://tv.waipu.workers.dev/?ID=romance
+#EXTINF:-1 tvg-id="romancecatchup" tvg-name="Romance TV Catch-Up" tvg-logo="https://images.wpstr.tv/station/romancecatchup/dfd43a8d/hd/overlay?res=320x180",Romance TV Catch-Up
+http://tv.waipu.workers.dev/?ID=romancecatchup
+#EXTINF:-1 tvg-id="lovepassion" tvg-name="Love & Passion" tvg-logo="https://images.wpstr.tv/station/lovepassion/2112b581/hd/overlay?res=320x180",Love & Passion
+http://tv.waipu.workers.dev/?ID=lovepassion
+#EXTINF:-1 tvg-id="fernsehenmitherz" tvg-name="Fernsehen mit Herz" tvg-logo="https://images.wpstr.tv/station/fernsehenmitherz/c4105261/hd/overlay?res=320x180",Fernsehen mit Herz
+http://tv.waipu.workers.dev/?ID=fernsehenmitherz
+#EXTINF:-1 tvg-id="heimatkanal" tvg-name="Heimatkanal" tvg-logo="https://images.wpstr.tv/station/heimatkanal/0a2164be/hd/overlay?res=320x180",Heimatkanal
+http://tv.waipu.workers.dev/?ID=heimatkanal
+#EXTINF:-1 tvg-id="krimiklassiker" tvg-name="ARD Plus Krimiklassiker" tvg-logo="https://images.wpstr.tv/station/krimiklassiker/fee5b724/hd/overlay?res=320x180",ARD Plus Krimiklassiker
+http://tv.waipu.workers.dev/?ID=krimiklassiker
+#EXTINF:-1 tvg-id="zdfkrimi" tvg-name="ZDF Krimi" tvg-logo="https://images.wpstr.tv/station/zdfkrimi/e468e38c/hd/overlay?res=320x180",ZDF Krimi
+http://tv.waipu.workers.dev/?ID=zdfkrimi
+#EXTINF:-1 tvg-id="filmlegenden" tvg-name="Filmlegenden" tvg-logo="https://images.wpstr.tv/station/filmlegenden/09b15d30/hd/overlay?res=320x180",Filmlegenden
+http://tv.waipu.workers.dev/?ID=filmlegenden
+#EXTINF:-1 tvg-id="arthousecnma" tvg-name="CNMA Arthouse" tvg-logo="https://images.wpstr.tv/station/arthousecnma/c4ca6211/hd/overlay?res=320x180",CNMA Arthouse
+http://tv.waipu.workers.dev/?ID=arthousecnma
+#EXTINF:-1 tvg-id="filmboxarthouse" tvg-name="Filmbox Arthouse" tvg-logo="https://images.wpstr.tv/station/filmboxarthouse/f5aa33d4/hd/overlay?res=320x180",Filmbox Arthouse
+http://tv.waipu.workers.dev/?ID=filmboxarthouse
+#EXTINF:-1 tvg-id="silverline" tvg-name="Silverline" tvg-logo="https://images.wpstr.tv/station/silverline/ca74f72a/hd/overlay?res=320x180",Silverline
+http://tv.waipu.workers.dev/?ID=silverline
+#EXTINF:-1 tvg-id="silverlinecatchupat" tvg-name="Silverline Catch-Up" tvg-logo="https://images.wpstr.tv/station/silverlinecatchupat/bc9c191f/hd/overlay?res=320x180",Silverline Catch-Up
+http://tv.waipu.workers.dev/?ID=silverlinecatchupat
+#EXTINF:-1 tvg-id="bloodymovies" tvg-name="Bloody Movies" tvg-logo="https://images.wpstr.tv/station/bloodymovies/702bd3e7/hd/overlay?res=320x180",Bloody Movies
+http://tv.waipu.workers.dev/?ID=bloodymovies
+#EXTINF:-1 tvg-id="homeofhorror" tvg-name="Home of Horror" tvg-logo="https://images.wpstr.tv/station/homeofhorror/b48da713/hd/overlay?res=320x180",Home of Horror
+http://tv.waipu.workers.dev/?ID=homeofhorror
+#EXTINF:-1 tvg-id="obsessiontv" tvg-name="ObsessionTV" tvg-logo="https://images.wpstr.tv/station/obsessiontv/9f72822b/hd/overlay?res=320x180",ObsessionTV
+http://tv.waipu.workers.dev/?ID=obsessiontv
+#EXTINF:-1 tvg-id="darkromance" tvg-name="Dark Romance" tvg-logo="https://images.wpstr.tv/station/darkromance/35630095/hd/overlay?res=320x180",Dark Romance
+http://tv.waipu.workers.dev/?ID=darkromance
+#EXTINF:-1 tvg-id="hotpassion" tvg-name="Hot Passion" tvg-logo="https://images.wpstr.tv/station/hotpassion/38a48c15/hd/overlay?res=320x180",Hot Passion
+http://tv.waipu.workers.dev/?ID=hotpassion
+#EXTINF:-1 tvg-id="pridetv" tvg-name="PRIDEtv" tvg-logo="https://images.wpstr.tv/station/pridetv/e682a788/hd/overlay?res=320x180",PRIDEtv
+http://tv.waipu.workers.dev/?ID=pridetv
+#EXTINF:-1 tvg-id="artflix" tvg-name="ARTFLIX - Filmklassiker" tvg-logo="https://images.wpstr.tv/station/artflix/4a9fe851/hd/overlay?res=320x180",ARTFLIX - Filmklassiker
+http://tv.waipu.workers.dev/?ID=artflix
+#EXTINF:-1 tvg-id="ddrtv" tvg-name="DDR TV-Archiv" tvg-logo="https://images.wpstr.tv/station/ddrtv/fb59b25f/hd/overlay?res=320x180",DDR TV-Archiv
+http://tv.waipu.workers.dev/?ID=ddrtv
+#EXTINF:-1 tvg-id="zombieworld" tvg-name="Zombieworld" tvg-logo="https://images.wpstr.tv/station/zombieworld/41b3b4cc/hd/overlay?res=320x180",Zombieworld
+http://tv.waipu.workers.dev/?ID=zombieworld
+#EXTINF:-1 tvg-id="screamtime" tvg-name="Screamtime" tvg-logo="https://images.wpstr.tv/station/screamtime/a49e1172/hd/overlay?res=320x180",Screamtime
+http://tv.waipu.workers.dev/?ID=screamtime
+#EXTINF:-1 tvg-id="toptruecrime" tvg-name="TOP TRUE CRIME" tvg-logo="https://images.wpstr.tv/station/toptruecrime/39c8b8f3/hd/overlay?res=320x180",TOP TRUE CRIME
+http://tv.waipu.workers.dev/?ID=toptruecrime
+#EXTINF:-1 tvg-id="crimeinvestigationclips" tvg-name="Crime + Investigation Clips" tvg-logo="https://images.wpstr.tv/station/crimeinvestigationclips/66d71955/hd/overlay?res=320x180",Crime + Investigation Clips
+http://tv.waipu.workers.dev/?ID=crimeinvestigationclips
+#EXTINF:-1 tvg-id="realcrime" tvg-name="Real Crime Deutschland" tvg-logo="https://images.wpstr.tv/station/realcrime/2487a06b/hd/overlay?res=320x180",Real Crime Deutschland
+http://tv.waipu.workers.dev/?ID=realcrime
+#EXTINF:-1 tvg-id="crimetime" tvg-name="CRIME TIME" tvg-logo="https://images.wpstr.tv/station/crimetime/4e821861/hd/overlay?res=320x180",CRIME TIME
+http://tv.waipu.workers.dev/?ID=crimetime
+#EXTINF:-1 tvg-id="wedotruestories" tvg-name="wedo true stories" tvg-logo="https://images.wpstr.tv/station/wedotruestories/2ebb3ece/hd/overlay?res=320x180",wedo true stories
+http://tv.waipu.workers.dev/?ID=wedotruestories
+#EXTINF:-1 tvg-id="filmrise" tvg-name="FilmRise Serien" tvg-logo="https://images.wpstr.tv/station/filmrise/faecc651/hd/overlay?res=320x180",FilmRise Serien
+http://tv.waipu.workers.dev/?ID=filmrise
+#EXTINF:-1 tvg-id="kultkrimi" tvg-name="KultKrimi" tvg-logo="https://images.wpstr.tv/station/kultkrimi/45da634e/hd/overlay?res=320x180",KultKrimi
+http://tv.waipu.workers.dev/?ID=kultkrimi
+#EXTINF:-1 tvg-id="krimikollegen" tvg-name="Crimify" tvg-logo="https://images.wpstr.tv/station/krimikollegen/537b0d34/hd/overlay?res=320x180",Crimify
+http://tv.waipu.workers.dev/?ID=krimikollegen
+#EXTINF:-1 tvg-id="tvklassiker" tvg-name="TV-Klassiker" tvg-logo="https://images.wpstr.tv/station/tvklassiker/35369cad/hd/overlay?res=320x180",TV-Klassiker
+http://tv.waipu.workers.dev/?ID=tvklassiker
+#EXTINF:-1 tvg-id="fernsehschaetze" tvg-name="Fernsehschätze" tvg-logo="https://images.wpstr.tv/station/fernsehschaetze/3b30f592/hd/overlay?res=320x180",Fernsehschätze
+http://tv.waipu.workers.dev/?ID=fernsehschaetze
+#EXTINF:-1 tvg-id="xfactor" tvg-name="X-Factor by Filmrise" tvg-logo="https://images.wpstr.tv/station/xfactor/3ed5b482/hd/overlay?res=320x180",X-Factor by Filmrise
+http://tv.waipu.workers.dev/?ID=xfactor
+#EXTINF:-1 tvg-id="topscifi" tvg-name="TOP SCI-FI" tvg-logo="https://images.wpstr.tv/station/topscifi/f5154f31/hd/overlay?res=320x180",TOP SCI-FI
+http://tv.waipu.workers.dev/?ID=topscifi
+#EXTINF:-1 tvg-id="utopja" tvg-name="Utopja" tvg-logo="https://images.wpstr.tv/station/utopja/c48c645d/hd/overlay?res=320x180",Utopja
+http://tv.waipu.workers.dev/?ID=utopja
+#EXTINF:-1 tvg-id="netzkino" tvg-name="Netzkino" tvg-logo="https://images.wpstr.tv/station/netzkino/3a518e34/hd/overlay?res=320x180",Netzkino
+http://tv.waipu.workers.dev/?ID=netzkino
+#EXTINF:-1 tvg-id="alleskino" tvg-name="Deutsche Filme" tvg-logo="https://images.wpstr.tv/station/alleskino/6e178ea8/hd/overlay?res=320x180",Deutsche Filme
+http://tv.waipu.workers.dev/?ID=alleskino
+#EXTINF:-1 tvg-id="moviedome" tvg-name="Moviedome" tvg-logo="https://images.wpstr.tv/station/moviedome/0d45d7e8/hd/overlay?res=320x180",Moviedome
+http://tv.waipu.workers.dev/?ID=moviedome
+#EXTINF:-1 tvg-id="mymovie" tvg-name="myMOVIE" tvg-logo="https://images.wpstr.tv/station/mymovie/04c15d0a/hd/overlay?res=320x180",myMOVIE
+http://tv.waipu.workers.dev/?ID=mymovie
+#EXTINF:-1 tvg-id="fabella" tvg-name="Fabella" tvg-logo="https://images.wpstr.tv/station/fabella/b0ffca67/hd/overlay?res=320x180",Fabella
+http://tv.waipu.workers.dev/?ID=fabella
+#EXTINF:-1 tvg-id="himmlischeskino" tvg-name="Himmlisches Kino" tvg-logo="https://images.wpstr.tv/station/himmlischeskino/90bb38e2/hd/overlay?res=320x180",Himmlisches Kino
+http://tv.waipu.workers.dev/?ID=himmlischeskino
+#EXTINF:-1 tvg-id="watchmoviesnow" tvg-name="WatchMoviesNow" tvg-logo="https://images.wpstr.tv/station/watchmoviesnow/a04036ee/hd/overlay?res=320x180",WatchMoviesNow
+http://tv.waipu.workers.dev/?ID=watchmoviesnow
+#EXTINF:-1 tvg-id="topfilme" tvg-name="Top Filme" tvg-logo="https://images.wpstr.tv/station/topfilme/b5a9d79b/hd/overlay?res=320x180",Top Filme
+http://tv.waipu.workers.dev/?ID=topfilme
+#EXTINF:-1 tvg-id="bigtime" tvg-name="Bigtime - Spielfilme" tvg-logo="https://images.wpstr.tv/station/bigtime/cc6f866c/hd/overlay?res=320x180",Bigtime - Spielfilme
+http://tv.waipu.workers.dev/?ID=bigtime
+#EXTINF:-1 tvg-id="moviesphere" tvg-name="Moviesphere" tvg-logo="https://images.wpstr.tv/station/moviesphere/51e765df/hd/overlay?res=320x180",Moviesphere
+http://tv.waipu.workers.dev/?ID=moviesphere
+#EXTINF:-1 tvg-id="cinenet" tvg-name="CiNENET" tvg-logo="https://images.wpstr.tv/station/cinenet/e594e416/hd/overlay?res=320x180",CiNENET
+http://tv.waipu.workers.dev/?ID=cinenet
+#EXTINF:-1 tvg-id="80s90stv" tvg-name="80s90s TV" tvg-logo="https://images.wpstr.tv/station/80s90stv/57a40358/hd/overlay?res=320x180",80s90s TV
+http://tv.waipu.workers.dev/?ID=80s90stv
+#EXTINF:-1 tvg-id="filmpalast" tvg-name="Filmpalast" tvg-logo="https://images.wpstr.tv/station/filmpalast/cbbb75b6/hd/overlay?res=320x180",Filmpalast
+http://tv.waipu.workers.dev/?ID=filmpalast
+#EXTINF:-1 tvg-id="planetmovies" tvg-name="Planet Movies" tvg-logo="https://images.wpstr.tv/station/planetmovies/8cb4bdaa/hd/overlay?res=320x180",Planet Movies
+http://tv.waipu.workers.dev/?ID=planetmovies
+#EXTINF:-1 tvg-id="watch4crime" tvg-name="wedo movies" tvg-logo="https://images.wpstr.tv/station/watch4crime/014a1963/hd/overlay?res=320x180",wedo movies
+http://tv.waipu.workers.dev/?ID=watch4crime
+#EXTINF:-1 tvg-id="hakunan" tvg-name="Hakunan" tvg-logo="https://images.wpstr.tv/station/hakunan/54b22e6b/hd/overlay?res=320x180",Hakunan
+http://tv.waipu.workers.dev/?ID=hakunan
+#EXTINF:-1 tvg-id="craction" tvg-name="Top Serien" tvg-logo="https://images.wpstr.tv/station/craction/9e68a8d6/hd/overlay?res=320x180",Top Serien
+http://tv.waipu.workers.dev/?ID=craction
+#EXTINF:-1 tvg-id="herzfrequenztv" tvg-name="Herzfrequenz" tvg-logo="https://images.wpstr.tv/station/herzfrequenztv/29337588/hd/overlay?res=320x180",Herzfrequenz
+http://tv.waipu.workers.dev/?ID=herzfrequenztv
+#EXTINF:-1 tvg-id="zdftelenovela" tvg-name="ZDF Telenovela" tvg-logo="https://images.wpstr.tv/station/zdftelenovela/ce9a39dc/hd/overlay?res=320x180",ZDF Telenovela
+http://tv.waipu.workers.dev/?ID=zdftelenovela
+#EXTINF:-1 tvg-id="comedyshows" tvg-name="Comedy & Shows" tvg-logo="https://images.wpstr.tv/station/comedyshows/74d0a293/hd/overlay?res=320x180",Comedy & Shows
+http://tv.waipu.workers.dev/?ID=comedyshows
+#EXTINF:-1 tvg-id="discovery" tvg-name="Discovery Channel" tvg-logo="https://images.wpstr.tv/station/discovery/76b82655/hd/overlay?res=320x180",Discovery Channel
+http://tv.waipu.workers.dev/?ID=discovery
+#EXTINF:-1 tvg-id="thehistorychannel" tvg-name="HISTORY" tvg-logo="https://images.wpstr.tv/station/thehistorychannel/f86c6c08/hd/overlay?res=320x180",HISTORY
+http://tv.waipu.workers.dev/?ID=thehistorychannel
+#EXTINF:-1 tvg-id="spiegelwissen" tvg-name="Curiosity Channel" tvg-logo="https://images.wpstr.tv/station/spiegelwissen/2e85dc64/hd/overlay?res=320x180",Curiosity Channel
+http://tv.waipu.workers.dev/?ID=spiegelwissen
+#EXTINF:-1 tvg-id="crimeinvestigation" tvg-name="Crime + Investigation" tvg-logo="https://images.wpstr.tv/station/crimeinvestigation/8560fc6f/hd/overlay?res=320x180",Crime + Investigation
+http://tv.waipu.workers.dev/?ID=crimeinvestigation
+#EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" tvg-logo="https://images.wpstr.tv/station/animalplanet/d0c4489d/hd/overlay?res=320x180",Animal Planet
+http://tv.waipu.workers.dev/?ID=animalplanet
+#EXTINF:-1 tvg-id="natgeo" tvg-name="National Geographic" tvg-logo="https://images.wpstr.tv/station/natgeo/5e79004a/hd/overlay?res=320x180",National Geographic
+http://tv.waipu.workers.dev/?ID=natgeo
+#EXTINF:-1 tvg-id="natgeowild" tvg-name="National Geographic WILD" tvg-logo="https://images.wpstr.tv/station/natgeowild/a7d4bad9/hd/overlay?res=320x180",National Geographic WILD
+http://tv.waipu.workers.dev/?ID=natgeowild
+#EXTINF:-1 tvg-id="planet" tvg-name="Bergblick" tvg-logo="https://images.wpstr.tv/station/planet/26d10a59/hd/overlay?res=320x180",Bergblick
+http://tv.waipu.workers.dev/?ID=planet
+#EXTINF:-1 tvg-id="docubox" tvg-name="DocuBox" tvg-logo="https://images.wpstr.tv/station/docubox/221de2bf/hd/overlay?res=320x180",DocuBox
+http://tv.waipu.workers.dev/?ID=docubox
+#EXTINF:-1 tvg-id="kabeleinsdoku" tvg-name="Kabel Eins Doku" tvg-logo="https://images.wpstr.tv/station/kabeleinsdoku/a1efa9b6/hd/overlay?res=320x180",Kabel Eins Doku
+http://tv.waipu.workers.dev/?ID=kabeleinsdoku
+#EXTINF:-1 tvg-id="dokusat" tvg-name="DOKUSAT" tvg-logo="https://images.wpstr.tv/station/dokusat/da375c8a/hd/overlay?res=320x180",DOKUSAT
+http://tv.waipu.workers.dev/?ID=dokusat
+#EXTINF:-1 tvg-id="adventure" tvg-name="Adventure Channel" tvg-logo="https://images.wpstr.tv/station/adventure/2dad9f4d/hd/overlay?res=320x180",Adventure Channel
+http://tv.waipu.workers.dev/?ID=adventure
+#EXTINF:-1 tvg-id="abenteuerwissen" tvg-name="Abenteuer Wissen" tvg-logo="https://images.wpstr.tv/station/abenteuerwissen/ea43f44b/hd/overlay?res=320x180",Abenteuer Wissen
+http://tv.waipu.workers.dev/?ID=abenteuerwissen
+#EXTINF:-1 tvg-id="doityourself" tvg-name="Do it yourself" tvg-logo="https://images.wpstr.tv/station/doityourself/c4f97ac4/hd/overlay?res=320x180",Do it yourself
+http://tv.waipu.workers.dev/?ID=doityourself
+#EXTINF:-1 tvg-id="hgtv" tvg-name="Home & Garden TV" tvg-logo="https://images.wpstr.tv/station/hgtv/ec2de078/hd/overlay?res=320x180",Home & Garden TV
+http://tv.waipu.workers.dev/?ID=hgtv
+#EXTINF:-1 tvg-id="landlust" tvg-name="Landlust TV" tvg-logo="https://images.wpstr.tv/station/landlust/0ac19159/hd/overlay?res=320x180",Landlust TV
+http://tv.waipu.workers.dev/?ID=landlust
+#EXTINF:-1 tvg-id="weltderwunder" tvg-name="Welt der Wunder" tvg-logo="https://images.wpstr.tv/station/weltderwunder/32edd290/hd/overlay?res=320x180",Welt der Wunder
+http://tv.waipu.workers.dev/?ID=weltderwunder
+#EXTINF:-1 tvg-id="derspiegel" tvg-name="DER SPIEGEL" tvg-logo="https://images.wpstr.tv/station/derspiegel/4856f553/hd/overlay?res=320x180",DER SPIEGEL
+http://tv.waipu.workers.dev/?ID=derspiegel
+#EXTINF:-1 tvg-id="spiegelkonflikte" tvg-name="SPIEGEL TV Konflikte" tvg-logo="https://images.wpstr.tv/station/spiegelkonflikte/0b057329/hd/overlay?res=320x180",SPIEGEL TV Konflikte
+http://tv.waipu.workers.dev/?ID=spiegelkonflikte
+#EXTINF:-1 tvg-id="focustv" tvg-name="FOCUS TV Reportage" tvg-logo="https://images.wpstr.tv/station/focustv/784318d5/hd/overlay?res=320x180",FOCUS TV Reportage
+http://tv.waipu.workers.dev/?ID=focustv
+#EXTINF:-1 tvg-id="mystory" tvg-name="mySTORY" tvg-logo="https://images.wpstr.tv/station/mystory/c1811915/hd/overlay?res=320x180",mySTORY
+http://tv.waipu.workers.dev/?ID=mystory
+#EXTINF:-1 tvg-id="rechtgerechtigkeit" tvg-name="Recht & Gerechtigkeit" tvg-logo="https://images.wpstr.tv/station/rechtgerechtigkeit/c01cc0a0/hd/overlay?res=320x180",Recht & Gerechtigkeit
+http://tv.waipu.workers.dev/?ID=rechtgerechtigkeit
+#EXTINF:-1 tvg-id="rechtordnung" tvg-name="Einsatz & Ordnung" tvg-logo="https://images.wpstr.tv/station/rechtordnung/9d80483f/hd/overlay?res=320x180",Einsatz & Ordnung
+http://tv.waipu.workers.dev/?ID=rechtordnung
+#EXTINF:-1 tvg-id="realstories" tvg-name="Extreme Jobs" tvg-logo="https://images.wpstr.tv/station/realstories/9e0b5773/hd/overlay?res=320x180",Extreme Jobs
+http://tv.waipu.workers.dev/?ID=realstories
+#EXTINF:-1 tvg-id="einsatzamlimit" tvg-name="Einsatz am Limit" tvg-logo="https://images.wpstr.tv/station/einsatzamlimit/af7725a1/hd/overlay?res=320x180",Einsatz am Limit
+http://tv.waipu.workers.dev/?ID=einsatzamlimit
+#EXTINF:-1 tvg-id="galileo" tvg-name="Galileo" tvg-logo="https://images.wpstr.tv/station/galileo/a3597ec8/hd/overlay?res=320x180",Galileo
+http://tv.waipu.workers.dev/?ID=galileo
+#EXTINF:-1 tvg-id="watchdokus" tvg-name="Watch Dokus" tvg-logo="https://images.wpstr.tv/station/watchdokus/260111ae/hd/overlay?res=320x180",Watch Dokus
+http://tv.waipu.workers.dev/?ID=watchdokus
+#EXTINF:-1 tvg-id="doku" tvg-name="DOKU" tvg-logo="https://images.wpstr.tv/station/doku/d4149c2f/hd/overlay?res=320x180",DOKU
+http://tv.waipu.workers.dev/?ID=doku
+#EXTINF:-1 tvg-id="curiositynow" tvg-name="Curiosity Now" tvg-logo="https://images.wpstr.tv/station/curiositynow/2b52f04e/hd/overlay?res=320x180",Curiosity Now
+http://tv.waipu.workers.dev/?ID=curiositynow
+#EXTINF:-1 tvg-id="oneterra" tvg-name="One Terra" tvg-logo="https://images.wpstr.tv/station/oneterra/e0d90fb5/hd/overlay?res=320x180",One Terra
+http://tv.waipu.workers.dev/?ID=oneterra
+#EXTINF:-1 tvg-id="marcopolo" tvg-name="Marco Polo" tvg-logo="https://images.wpstr.tv/station/marcopolo/5a436974/hd/overlay?res=320x180",Marco Polo
+http://tv.waipu.workers.dev/?ID=marcopolo
+#EXTINF:-1 tvg-id="bbctravel" tvg-name="BBC Travel" tvg-logo="https://images.wpstr.tv/station/bbctravel/719bb9fc/hd/overlay?res=320x180",BBC Travel
+http://tv.waipu.workers.dev/?ID=bbctravel
+#EXTINF:-1 tvg-id="travelxp" tvg-name="travelxp" tvg-logo="https://images.wpstr.tv/station/travelxp/f1a47c5d/hd/overlay?res=320x180",travelxp
+http://tv.waipu.workers.dev/?ID=travelxp
+#EXTINF:-1 tvg-id="xplorefree" tvg-name="XPLORE" tvg-logo="https://images.wpstr.tv/station/xplorefree/b9c83832/hd/overlay?res=320x180",XPLORE
+http://tv.waipu.workers.dev/?ID=xplorefree
+#EXTINF:-1 tvg-id="terramater" tvg-name="Terra Mater WILD" tvg-logo="https://images.wpstr.tv/station/terramater/2de460ad/hd/overlay?res=320x180",Terra Mater WILD
+http://tv.waipu.workers.dev/?ID=terramater
+#EXTINF:-1 tvg-id="earthstories" tvg-name="Earth Stories" tvg-logo="https://images.wpstr.tv/station/earthstories/285dcb75/hd/overlay?res=320x180",Earth Stories
+http://tv.waipu.workers.dev/?ID=earthstories
+#EXTINF:-1 tvg-id="tierweltlive" tvg-name="TIERWELT Live" tvg-logo="https://images.wpstr.tv/station/tierweltlive/fca67632/hd/overlay?res=320x180",TIERWELT Live
+http://tv.waipu.workers.dev/?ID=tierweltlive
+#EXTINF:-1 tvg-id="waidwerk" tvg-name="Waidwerk" tvg-logo="https://images.wpstr.tv/station/waidwerk/3cca9312/hd/overlay?res=320x180",Waidwerk
+http://tv.waipu.workers.dev/?ID=waidwerk
+#EXTINF:-1 tvg-id="wirangeln" tvg-name="Wir angeln" tvg-logo="https://images.wpstr.tv/station/wirangeln/22f3f030/hd/overlay?res=320x180",Wir angeln
+http://tv.waipu.workers.dev/?ID=wirangeln
+#EXTINF:-1 tvg-id="historyclips" tvg-name="HISTORY CLIPS" tvg-logo="https://images.wpstr.tv/station/historyclips/7db7d4e2/hd/overlay?res=320x180",HISTORY CLIPS
+http://tv.waipu.workers.dev/?ID=historyclips
+#EXTINF:-1 tvg-id="bbchistory" tvg-name="BBC History" tvg-logo="https://images.wpstr.tv/station/bbchistory/6b190c02/hd/overlay?res=320x180",BBC History
+http://tv.waipu.workers.dev/?ID=bbchistory
+#EXTINF:-1 tvg-id="timeline" tvg-name="Timeline Deutschland" tvg-logo="https://images.wpstr.tv/station/timeline/7f810233/hd/overlay?res=320x180",Timeline Deutschland
+http://tv.waipu.workers.dev/?ID=timeline
+#EXTINF:-1 tvg-id="moconomy" tvg-name="Moconomy" tvg-logo="https://images.wpstr.tv/station/moconomy/c6b11469/hd/overlay?res=320x180",Moconomy
+http://tv.waipu.workers.dev/?ID=moconomy
+#EXTINF:-1 tvg-id="breakinglab" tvg-name="Breaking Lab" tvg-logo="https://images.wpstr.tv/station/breakinglab/f8674150/hd/overlay?res=320x180",Breaking Lab
+http://tv.waipu.workers.dev/?ID=breakinglab
+#EXTINF:-1 tvg-id="bauforum24" tvg-name="Bauforum24" tvg-logo="https://images.wpstr.tv/station/bauforum24/da914822/hd/overlay?res=320x180",Bauforum24
+http://tv.waipu.workers.dev/?ID=bauforum24
+#EXTINF:-1 tvg-id="miniaturwunderland" tvg-name="Miniaturwunderland" tvg-logo="https://images.wpstr.tv/station/miniaturwunderland/e2eb5732/hd/overlay?res=320x180",Miniaturwunderland
+http://tv.waipu.workers.dev/?ID=miniaturwunderland
+#EXTINF:-1 tvg-id="df1" tvg-name="DF1" tvg-logo="https://images.wpstr.tv/station/df1/a27f7ee2/hd/overlay?res=320x180",DF1
+http://tv.waipu.workers.dev/?ID=df1
+#EXTINF:-1 tvg-id="dazn1" tvg-name="DAZN 1" tvg-logo="https://images.wpstr.tv/station/dazn1/4b997762/hd/overlay?res=320x180",DAZN 1
+http://tv.waipu.workers.dev/?ID=dazn1
+#EXTINF:-1 tvg-id="dazn2" tvg-name="DAZN 2" tvg-logo="https://images.wpstr.tv/station/dazn2/72b5541f/hd/overlay?res=320x180",DAZN 2
+http://tv.waipu.workers.dev/?ID=dazn2
+#EXTINF:-1 tvg-id="sbl0" tvg-name="Sky Sport Bundesliga" tvg-logo="https://images.wpstr.tv/station/sbl0/75b61544/hd/overlay?res=320x180",Sky Sport Bundesliga
+http://tv.waipu.workers.dev/?ID=sbl0
+#EXTINF:-1 tvg-id="sbl1" tvg-name="Sky Sport Bundesliga 1" tvg-logo="https://images.wpstr.tv/station/sbl1/fccfebb3/hd/overlay?res=320x180",Sky Sport Bundesliga 1
+http://tv.waipu.workers.dev/?ID=sbl1
+#EXTINF:-1 tvg-id="sbl2" tvg-name="Sky Sport Bundesliga 2" tvg-logo="https://images.wpstr.tv/station/sbl2/68ddecca/hd/overlay?res=320x180",Sky Sport Bundesliga 2
+http://tv.waipu.workers.dev/?ID=sbl2
+#EXTINF:-1 tvg-id="sbl3" tvg-name="Sky Sport Bundesliga 3" tvg-logo="https://images.wpstr.tv/station/sbl3/96b972ee/hd/overlay?res=320x180",Sky Sport Bundesliga 3
+http://tv.waipu.workers.dev/?ID=sbl3
+#EXTINF:-1 tvg-id="sbl4" tvg-name="Sky Sport Bundesliga 4" tvg-logo="https://images.wpstr.tv/station/sbl4/573008af/hd/overlay?res=320x180",Sky Sport Bundesliga 4
+http://tv.waipu.workers.dev/?ID=sbl4
+#EXTINF:-1 tvg-id="sbl5" tvg-name="Sky Sport Bundesliga 5" tvg-logo="https://images.wpstr.tv/station/sbl5/aa9c3573/hd/overlay?res=320x180",Sky Sport Bundesliga 5
+http://tv.waipu.workers.dev/?ID=sbl5
+#EXTINF:-1 tvg-id="sbl6" tvg-name="Sky Sport Bundesliga 6" tvg-logo="https://images.wpstr.tv/station/sbl6/c5a08056/hd/overlay?res=320x180",Sky Sport Bundesliga 6
+http://tv.waipu.workers.dev/?ID=sbl6
+#EXTINF:-1 tvg-id="sbl7" tvg-name="Sky Sport Bundesliga 7" tvg-logo="https://images.wpstr.tv/station/sbl7/96f15fc9/hd/overlay?res=320x180",Sky Sport Bundesliga 7
+http://tv.waipu.workers.dev/?ID=sbl7
+#EXTINF:-1 tvg-id="sbl8" tvg-name="Sky Sport Bundesliga 8" tvg-logo="https://images.wpstr.tv/station/sbl8/582f334e/hd/overlay?res=320x180",Sky Sport Bundesliga 8
+http://tv.waipu.workers.dev/?ID=sbl8
+#EXTINF:-1 tvg-id="sbl9" tvg-name="Sky Sport Bundesliga 9" tvg-logo="https://images.wpstr.tv/station/sbl9/9d087c6e/hd/overlay?res=320x180",Sky Sport Bundesliga 9
+http://tv.waipu.workers.dev/?ID=sbl9
+#EXTINF:-1 tvg-id="sbl10" tvg-name="Sky Sport Bundesliga 10" tvg-logo="https://images.wpstr.tv/station/sbl10/261d2eff/hd/overlay?res=320x180",Sky Sport Bundesliga 10
+http://tv.waipu.workers.dev/?ID=sbl10
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="https://images.wpstr.tv/station/eurosport2/3fa23325/hd/overlay?res=320x180",Eurosport 2
+http://tv.waipu.workers.dev/?ID=eurosport2
+#EXTINF:-1 tvg-id="sport1plus" tvg-name="SPORTDIGITAL1+" tvg-logo="https://images.wpstr.tv/station/sport1plus/3f632bc5/hd/overlay?res=320x180",SPORTDIGITAL1+
+http://tv.waipu.workers.dev/?ID=sport1plus
+#EXTINF:-1 tvg-id="esports1" tvg-name="eSportsONE" tvg-logo="https://images.wpstr.tv/station/esports1/30bcbd54/hd/overlay?res=320x180",eSportsONE
+http://tv.waipu.workers.dev/?ID=esports1
+#EXTINF:-1 tvg-id="amsc" tvg-name="auto motor sport channel" tvg-logo="https://images.wpstr.tv/station/amsc/ff5b6de0/hd/overlay?res=320x180",auto motor sport channel
+http://tv.waipu.workers.dev/?ID=amsc
+#EXTINF:-1 tvg-id="motorvision" tvg-name="MOTORVISION+" tvg-logo="https://images.wpstr.tv/station/motorvision/add443a5/hd/overlay?res=320x180",MOTORVISION+
+http://tv.waipu.workers.dev/?ID=motorvision
+#EXTINF:-1 tvg-id="sportdigital" tvg-name="SPORTDIGITAL FUSSBALL" tvg-logo="https://images.wpstr.tv/station/sportdigital/12bca7d8/hd/overlay?res=320x180",SPORTDIGITAL FUSSBALL
+http://tv.waipu.workers.dev/?ID=sportdigital
+#EXTINF:-1 tvg-id="tennischannel" tvg-name="Tennis Channel" tvg-logo="https://images.wpstr.tv/station/tennischannel/b728bb18/hd/overlay?res=320x180",Tennis Channel
+http://tv.waipu.workers.dev/?ID=tennischannel
+#EXTINF:-1 tvg-id="edgesport" tvg-name="Sportdigital EDGE" tvg-logo="https://images.wpstr.tv/station/edgesport/c4898aa3/hd/overlay?res=320x180",Sportdigital EDGE
+http://tv.waipu.workers.dev/?ID=edgesport
+#EXTINF:-1 tvg-id="gametoon" tvg-name="Gametoon" tvg-logo="https://images.wpstr.tv/station/gametoon/9893ee2f/hd/overlay?res=320x180",Gametoon
+http://tv.waipu.workers.dev/?ID=gametoon
+#EXTINF:-1 tvg-id="fastnfunbox" tvg-name="Fast & FunBox" tvg-logo="https://images.wpstr.tv/station/fastnfunbox/ba506940/hd/overlay?res=320x180",Fast & FunBox
+http://tv.waipu.workers.dev/?ID=fastnfunbox
+#EXTINF:-1 tvg-id="fight24" tvg-name="Fight24" tvg-logo="https://images.wpstr.tv/station/fight24/7c4fa8d3/hd/overlay?res=320x180",Fight24
+http://tv.waipu.workers.dev/?ID=fight24
+#EXTINF:-1 tvg-id="fightbox" tvg-name="FightBox" tvg-logo="https://images.wpstr.tv/station/fightbox/b49d73ea/hd/overlay?res=320x180",FightBox
+http://tv.waipu.workers.dev/?ID=fightbox
+#EXTINF:-1 tvg-id="daznfast" tvg-name="DAZN FAST" tvg-logo="https://images.wpstr.tv/station/daznfast/ebb43bab/hd/overlay?res=320x180",DAZN FAST
+http://tv.waipu.workers.dev/?ID=daznfast
+#EXTINF:-1 tvg-id="daznrise" tvg-name="DAZN RISE" tvg-logo="https://images.wpstr.tv/station/daznrise/9a8e5e81/hd/overlay?res=320x180",DAZN RISE
+http://tv.waipu.workers.dev/?ID=daznrise
+#EXTINF:-1 tvg-id="redbull" tvg-name="Red Bull TV" tvg-logo="https://images.wpstr.tv/station/redbull/8de2b3ab/hd/overlay?res=320x180",Red Bull TV
+http://tv.waipu.workers.dev/?ID=redbull
+#EXTINF:-1 tvg-id="redbullexplore" tvg-name="Red Bull TV Extreme" tvg-logo="https://images.wpstr.tv/station/redbullexplore/5084beee/hd/overlay?res=320x180",Red Bull TV Extreme
+http://tv.waipu.workers.dev/?ID=redbullexplore
+#EXTINF:-1 tvg-id="worldoffreesports" tvg-name="WORLD OF FREESPORTS" tvg-logo="https://images.wpstr.tv/station/worldoffreesports/10986cc1/hd/overlay?res=320x180",WORLD OF FREESPORTS
+http://tv.waipu.workers.dev/?ID=worldoffreesports
+#EXTINF:-1 tvg-id="wedosports" tvg-name="wedo sports" tvg-logo="https://images.wpstr.tv/station/wedosports/32cf468f/hd/overlay?res=320x180",wedo sports
+http://tv.waipu.workers.dev/?ID=wedosports
+#EXTINF:-1 tvg-id="insighttv" tvg-name="INPLUS" tvg-logo="https://images.wpstr.tv/station/insighttv/66eed2ca/hd/overlay?res=320x180",INPLUS
+http://tv.waipu.workers.dev/?ID=insighttv
+#EXTINF:-1 tvg-id="eotv" tvg-name="More Than Sports TV" tvg-logo="https://images.wpstr.tv/station/eotv/f5781936/hd/overlay?res=320x180",More Than Sports TV
+http://tv.waipu.workers.dev/?ID=eotv
+#EXTINF:-1 tvg-id="mtstvh" tvg-name="More Than Sports TV Highlights" tvg-logo="https://images.wpstr.tv/station/mtstvh/63fa1c3b/hd/overlay?res=320x180",More Than Sports TV Highlights
+http://tv.waipu.workers.dev/?ID=mtstvh
+#EXTINF:-1 tvg-id="1000ps" tvg-name="1000PS" tvg-logo="https://images.wpstr.tv/station/1000ps/fb0f2728/hd/overlay?res=320x180",1000PS
+http://tv.waipu.workers.dev/?ID=1000ps
+#EXTINF:-1 tvg-id="automotorsporttv" tvg-name="auto motor sport tv" tvg-logo="https://images.wpstr.tv/station/automotorsporttv/704f4edf/hd/overlay?res=320x180",auto motor sport tv
+http://tv.waipu.workers.dev/?ID=automotorsporttv
+#EXTINF:-1 tvg-id="adactv" tvg-name="ADAC TV" tvg-logo="https://images.wpstr.tv/station/adactv/fad90c84/hd/overlay?res=320x180",ADAC TV
+http://tv.waipu.workers.dev/?ID=adactv
+#EXTINF:-1 tvg-id="motorvisionclassics" tvg-name="MOTORVISION CLASSIC" tvg-logo="https://images.wpstr.tv/station/motorvisionclassics/7e4a3fee/hd/overlay?res=320x180",MOTORVISION CLASSIC
+http://tv.waipu.workers.dev/?ID=motorvisionclassics
+#EXTINF:-1 tvg-id="motorvisiontvfree" tvg-name="MOTORVISION" tvg-logo="https://images.wpstr.tv/station/motorvisiontvfree/ce8add88/hd/overlay?res=320x180",MOTORVISION
+http://tv.waipu.workers.dev/?ID=motorvisiontvfree
+#EXTINF:-1 tvg-id="bbctopgear" tvg-name="BBC Top Gear" tvg-logo="https://images.wpstr.tv/station/bbctopgear/b840d399/hd/overlay?res=320x180",BBC Top Gear
+http://tv.waipu.workers.dev/?ID=bbctopgear
+#EXTINF:-1 tvg-id="jpperformance" tvg-name="JP Performance" tvg-logo="https://images.wpstr.tv/station/jpperformance/f2308c9d/hd/overlay?res=320x180",JP Performance
+http://tv.waipu.workers.dev/?ID=jpperformance
+#EXTINF:-1 tvg-id="abt" tvg-name="Daniel Abt" tvg-logo="https://images.wpstr.tv/station/abt/87b6f891/hd/overlay?res=320x180",Daniel Abt
+http://tv.waipu.workers.dev/?ID=abt
+#EXTINF:-1 tvg-id="rot" tvg-name="Rocket Beans TV" tvg-logo="https://images.wpstr.tv/station/rot/da690d93/hd/overlay?res=320x180",Rocket Beans TV
+http://tv.waipu.workers.dev/?ID=rot
+#EXTINF:-1 tvg-id="gronkh" tvg-name="Gronkh" tvg-logo="https://images.wpstr.tv/station/gronkh/60f4a895/hd/overlay?res=320x180",Gronkh
+http://tv.waipu.workers.dev/?ID=gronkh
+#EXTINF:-1 tvg-id="domtendo" tvg-name="Domtendo" tvg-logo="https://images.wpstr.tv/station/domtendo/f8eb54dc/hd/overlay?res=320x180",Domtendo
+http://tv.waipu.workers.dev/?ID=domtendo
+#EXTINF:-1 tvg-id="nickjr" tvg-name="Nick Jr." tvg-logo="https://images.wpstr.tv/station/nickjr/9bc786e7/hd/overlay?res=320x180",Nick Jr.
+http://tv.waipu.workers.dev/?ID=nickjr
+#EXTINF:-1 tvg-id="toggoplus" tvg-name="TOGGO plus" tvg-logo="https://images.wpstr.tv/station/toggoplus/e0ba4635/hd/overlay?res=320x180",TOGGO plus
+http://tv.waipu.workers.dev/?ID=toggoplus
+#EXTINF:-1 tvg-id="naruto" tvg-name="NARUTO" tvg-logo="https://images.wpstr.tv/station/naruto/53390cd8/hd/overlay?res=320x180",NARUTO
+http://tv.waipu.workers.dev/?ID=naruto
+#EXTINF:-1 tvg-id="spielmit" tvg-name="Spiel mit!" tvg-logo="https://images.wpstr.tv/station/spielmit/875fe948/hd/overlay?res=320x180",Spiel mit!
+http://tv.waipu.workers.dev/?ID=spielmit
+#EXTINF:-1 tvg-id="kiddinxkids" tvg-name="Kiddinx Kids" tvg-logo="https://images.wpstr.tv/station/kiddinxkids/455b2331/hd/overlay?res=320x180",Kiddinx Kids
+http://tv.waipu.workers.dev/?ID=kiddinxkids
+#EXTINF:-1 tvg-id="kartoon" tvg-name="Kartoon Channel" tvg-logo="https://images.wpstr.tv/station/kartoon/903c5e51/hd/overlay?res=320x180",Kartoon Channel
+http://tv.waipu.workers.dev/?ID=kartoon
+#EXTINF:-1 tvg-id="kixi" tvg-name="nanoki" tvg-logo="https://images.wpstr.tv/station/kixi/bab6d25e/hd/overlay?res=320x180",nanoki
+http://tv.waipu.workers.dev/?ID=kixi
+#EXTINF:-1 tvg-id="ric" tvg-name="RiC" tvg-logo="https://images.wpstr.tv/station/ric/3d1742a7/hd/overlay?res=320x180",RiC
+http://tv.waipu.workers.dev/?ID=ric
+#EXTINF:-1 tvg-id="cosmoundwanda" tvg-name="Cosmo & Wanda" tvg-logo="https://images.wpstr.tv/station/cosmoundwanda/d842a074/hd/overlay?res=320x180",Cosmo & Wanda
+http://tv.waipu.workers.dev/?ID=cosmoundwanda
+#EXTINF:-1 tvg-id="janosch" tvg-name="Janoschs Traumstunde" tvg-logo="https://images.wpstr.tv/station/janosch/c224eb76/hd/overlay?res=320x180",Janoschs Traumstunde
+http://tv.waipu.workers.dev/?ID=janosch
+#EXTINF:-1 tvg-id="hoppipolla" tvg-name="HOPPIPOLLA" tvg-logo="https://images.wpstr.tv/station/hoppipolla/6c438f04/hd/overlay?res=320x180",HOPPIPOLLA
+http://tv.waipu.workers.dev/?ID=hoppipolla
+#EXTINF:-1 tvg-id="myanimationkids" tvg-name="My Animation Kids" tvg-logo="https://images.wpstr.tv/station/myanimationkids/313838f5/hd/overlay?res=320x180",My Animation Kids
+http://tv.waipu.workers.dev/?ID=myanimationkids
+#EXTINF:-1 tvg-id="looloo" tvg-name="LooLoo Kids TV" tvg-logo="https://images.wpstr.tv/station/looloo/8a535ac1/hd/overlay?res=320x180",LooLoo Kids TV
+http://tv.waipu.workers.dev/?ID=looloo
+#EXTINF:-1 tvg-id="amusekids" tvg-name="Car City & Friends" tvg-logo="https://images.wpstr.tv/station/amusekids/6dab515f/hd/overlay?res=320x180",Car City & Friends
+http://tv.waipu.workers.dev/?ID=amusekids
+#EXTINF:-1 tvg-id="storyzoo" tvg-name="StoryZoo & Friends" tvg-logo="https://images.wpstr.tv/station/storyzoo/15c8dc7b/hd/overlay?res=320x180",StoryZoo & Friends
+http://tv.waipu.workers.dev/?ID=storyzoo
+#EXTINF:-1 tvg-id="waipuinfo" tvg-name="waipu.tv Info" tvg-logo="https://images.wpstr.tv/station/waipuinfo/6382e3f3/hd/overlay?res=320x180",waipu.tv Info
+http://tv.waipu.workers.dev/?ID=waipuinfo
+#EXTINF:-1 tvg-id="waiputvhighlights" tvg-name="waipu.tv Highlights" tvg-logo="https://images.wpstr.tv/station/waiputvhighlights/32855f85/hd/overlay?res=320x180",waipu.tv Highlights
+http://tv.waipu.workers.dev/?ID=waiputvhighlights
+#EXTINF:-1 tvg-id="aljazeera_en" tvg-name="Al Jazeera English" tvg-logo="https://images.wpstr.tv/station/aljazeera_en/d90edd44/hd/overlay?res=320x180",Al Jazeera English
+http://tv.waipu.workers.dev/?ID=aljazeera_en
+#EXTINF:-1 tvg-id="ewtn" tvg-name="EWTN katholisches TV" tvg-logo="https://images.wpstr.tv/station/ewtn/c7e63c27/hd/overlay?res=320x180",EWTN katholisches TV
+http://tv.waipu.workers.dev/?ID=ewtn
+#EXTINF:-1 tvg-id="ktv" tvg-name="K-TV" tvg-logo="https://images.wpstr.tv/station/ktv/88b6fbac/hd/overlay?res=320x180",K-TV
+http://tv.waipu.workers.dev/?ID=ktv
+#EXTINF:-1 tvg-id="hopetv" tvg-name="Hope TV" tvg-logo="https://images.wpstr.tv/station/hopetv/4d6b7a97/hd/overlay?res=320x180",Hope TV
+http://tv.waipu.workers.dev/?ID=hopetv
+#EXTINF:-1 tvg-id="bibel" tvg-name="Bibel TV" tvg-logo="https://images.wpstr.tv/station/bibel/7c70f609/hd/overlay?res=320x180",Bibel TV
+http://tv.waipu.workers.dev/?ID=bibel
+#EXTINF:-1 tvg-id="cnbc_europe" tvg-name="CNBC Europe" tvg-logo="https://images.wpstr.tv/station/cnbc_europe/a6b395d1/hd/overlay?res=320x180",CNBC Europe
+http://tv.waipu.workers.dev/?ID=cnbc_europe
+#EXTINF:-1 tvg-id="cnn_europe" tvg-name="CNN Europe" tvg-logo="https://images.wpstr.tv/station/cnn_europe/ebc3f3d6/hd/overlay?res=320x180",CNN Europe
+http://tv.waipu.workers.dev/?ID=cnn_europe
+#EXTINF:-1 tvg-id="euronews" tvg-name="euronews" tvg-logo="https://images.wpstr.tv/station/euronews/c0df2910/hd/overlay?res=320x180",euronews
+http://tv.waipu.workers.dev/?ID=euronews
+#EXTINF:-1 tvg-id="france24_en" tvg-name="France 24 EN" tvg-logo="https://images.wpstr.tv/station/france24_en/883e3bc6/hd/overlay?res=320x180",France 24 EN
+http://tv.waipu.workers.dev/?ID=france24_en
+#EXTINF:-1 tvg-id="nhk" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://images.wpstr.tv/station/nhk/b7911b86/hd/overlay?res=320x180",NHK WORLD-JAPAN
+http://tv.waipu.workers.dev/?ID=nhk
+#EXTINF:-1 tvg-id="brnord" tvg-name="BR Nord" tvg-logo="https://images.wpstr.tv/station/brnord/122f6468/hd/overlay?res=320x180",BR Nord
+http://tv.waipu.workers.dev/?ID=brnord
+#EXTINF:-1 tvg-id="tvbayernregional" tvg-name="TV Bayern Regional" tvg-logo="https://images.wpstr.tv/station/tvbayernregional/c38ea913/hd/overlay?res=320x180",TV Bayern Regional
+http://tv.waipu.workers.dev/?ID=tvbayernregional
+#EXTINF:-1 tvg-id="mdr_st" tvg-name="MDR Sachsen-Anhalt" tvg-logo="https://images.wpstr.tv/station/mdr_st/5cbc7962/hd/overlay?res=320x180",MDR Sachsen-Anhalt
+http://tv.waipu.workers.dev/?ID=mdr_st
+#EXTINF:-1 tvg-id="mdr_th" tvg-name="MDR Thüringen" tvg-logo="https://images.wpstr.tv/station/mdr_th/6806835d/hd/overlay?res=320x180",MDR Thüringen
+http://tv.waipu.workers.dev/?ID=mdr_th
+#EXTINF:-1 tvg-id="n3_hamburg" tvg-name="NDR Hamburg" tvg-logo="https://images.wpstr.tv/station/n3_hamburg/e34b584d/hd/overlay?res=320x180",NDR Hamburg
+http://tv.waipu.workers.dev/?ID=n3_hamburg
+#EXTINF:-1 tvg-id="n3_mv" tvg-name="NDR Mecklenburg-Vorpommern" tvg-logo="https://images.wpstr.tv/station/n3_mv/eb3ea0e3/hd/overlay?res=320x180",NDR Mecklenburg-Vorpommern
+http://tv.waipu.workers.dev/?ID=n3_mv
+#EXTINF:-1 tvg-id="n3_sh" tvg-name="NDR Schleswig-Holstein" tvg-logo="https://images.wpstr.tv/station/n3_sh/5861c67b/hd/overlay?res=320x180",NDR Schleswig-Holstein
+http://tv.waipu.workers.dev/?ID=n3_sh
+#EXTINF:-1 tvg-id="rbb_bb" tvg-name="RBB Brandenburg" tvg-logo="https://images.wpstr.tv/station/rbb_bb/8c910c0f/hd/overlay?res=320x180",RBB Brandenburg
+http://tv.waipu.workers.dev/?ID=rbb_bb
+#EXTINF:-1 tvg-id="swr_rp" tvg-name="SWR Rheinland-Pfalz" tvg-logo="https://images.wpstr.tv/station/swr_rp/6e05ed97/hd/overlay?res=320x180",SWR Rheinland-Pfalz
+http://tv.waipu.workers.dev/?ID=swr_rp
+#EXTINF:-1 tvg-id="wdr_ac" tvg-name="WDR Aachen" tvg-logo="https://images.wpstr.tv/station/wdr_ac/952916cb/hd/overlay?res=320x180",WDR Aachen
+http://tv.waipu.workers.dev/?ID=wdr_ac
+#EXTINF:-1 tvg-id="wdr_bi" tvg-name="WDR Bielefeld" tvg-logo="https://images.wpstr.tv/station/wdr_bi/df207d54/hd/overlay?res=320x180",WDR Bielefeld
+http://tv.waipu.workers.dev/?ID=wdr_bi
+#EXTINF:-1 tvg-id="wdr_bn" tvg-name="WDR Bonn" tvg-logo="https://images.wpstr.tv/station/wdr_bn/146fdc54/hd/overlay?res=320x180",WDR Bonn
+http://tv.waipu.workers.dev/?ID=wdr_bn
+#EXTINF:-1 tvg-id="wdr_do" tvg-name="WDR Dortmund" tvg-logo="https://images.wpstr.tv/station/wdr_do/1ee9e948/hd/overlay?res=320x180",WDR Dortmund
+http://tv.waipu.workers.dev/?ID=wdr_do
+#EXTINF:-1 tvg-id="wdr_du" tvg-name="WDR Duisburg" tvg-logo="https://images.wpstr.tv/station/wdr_du/870ab047/hd/overlay?res=320x180",WDR Duisburg
+http://tv.waipu.workers.dev/?ID=wdr_du
+#EXTINF:-1 tvg-id="wdr_d" tvg-name="WDR Düsseldorf" tvg-logo="https://images.wpstr.tv/station/wdr_d/ede3c8bc/hd/overlay?res=320x180",WDR Düsseldorf
+http://tv.waipu.workers.dev/?ID=wdr_d
+#EXTINF:-1 tvg-id="wdr_e" tvg-name="WDR Essen" tvg-logo="https://images.wpstr.tv/station/wdr_e/7c00bdbb/hd/overlay?res=320x180",WDR Essen
+http://tv.waipu.workers.dev/?ID=wdr_e
+#EXTINF:-1 tvg-id="wdr_ms" tvg-name="WDR Münster" tvg-logo="https://images.wpstr.tv/station/wdr_ms/f70a04e0/hd/overlay?res=320x180",WDR Münster
+http://tv.waipu.workers.dev/?ID=wdr_ms
+#EXTINF:-1 tvg-id="wdr_si" tvg-name="WDR Siegen" tvg-logo="https://images.wpstr.tv/station/wdr_si/c705d1c8/hd/overlay?res=320x180",WDR Siegen
+http://tv.waipu.workers.dev/?ID=wdr_si
+#EXTINF:-1 tvg-id="wdr_w" tvg-name="WDR Wuppertal" tvg-logo="https://images.wpstr.tv/station/wdr_w/fa562d1d/hd/overlay?res=320x180",WDR Wuppertal
+http://tv.waipu.workers.dev/?ID=wdr_w
+#EXTINF:-1 tvg-id="handystar" tvg-name="Handystar.tv" tvg-logo="https://images.wpstr.tv/station/handystar/3f5dafa9/hd/overlay?res=320x180",Handystar.tv
+http://tv.waipu.workers.dev/?ID=handystar
+#EXTINF:-1 tvg-id="home_shopping_europe" tvg-name="HSE" tvg-logo="https://images.wpstr.tv/station/home_shopping_europe/e5a28066/hd/overlay?res=320x180",HSE
+http://tv.waipu.workers.dev/?ID=home_shopping_europe
+#EXTINF:-1 tvg-id="qvc" tvg-name="QVC" tvg-logo="https://images.wpstr.tv/station/qvc/bcab21de/hd/overlay?res=320x180",QVC
+http://tv.waipu.workers.dev/?ID=qvc
+#EXTINF:-1 tvg-id="channel21" tvg-name="Channel21" tvg-logo="https://images.wpstr.tv/station/channel21/e3cfa72d/hd/overlay?res=320x180",Channel21
+http://tv.waipu.workers.dev/?ID=channel21
+#EXTINF:-1 tvg-id="wir24" tvg-name="Wir24.tv - Der Haushalts Channel" tvg-logo="https://images.wpstr.tv/station/wir24/3148f76e/hd/overlay?res=320x180",Wir24.tv - Der Haushalts Channel
+http://tv.waipu.workers.dev/?ID=wir24
+#EXTINF:-1 tvg-id="sonnenklar" tvg-name="sonnenklar.TV" tvg-logo="https://images.wpstr.tv/station/sonnenklar/b75711f7/hd/overlay?res=320x180",sonnenklar.TV
+http://tv.waipu.workers.dev/?ID=sonnenklar
+#EXTINF:-1 tvg-id="flex_derrheinfallambient" tvg-name="Der Rheinfall - Ambient" tvg-logo="https://images.wpstr.tv/station/flex_derrheinfallambient/da39a3ee/hd/overlay?res=320x180",Der Rheinfall - Ambient
+http://tv.waipu.workers.dev/?ID=flex_derrheinfallambient
+#EXTINF:-1 tvg-id="flex_bachlaufimfruehlingambient" tvg-name="Bachlauf im Frühling - Ambient" tvg-logo="https://images.wpstr.tv/station/flex_bachlaufimfruehlingambient/da39a3ee/hd/overlay?res=320x180",Bachlauf im Frühling - Ambient
+http://tv.waipu.workers.dev/?ID=flex_bachlaufimfruehlingambient
+#EXTINF:-1 tvg-id="flex_waldbadenambient" tvg-name="Waldbaden - Ambient" tvg-logo="https://images.wpstr.tv/station/flex_waldbadenambient/da39a3ee/hd/overlay?res=320x180",Waldbaden - Ambient
+http://tv.waipu.workers.dev/?ID=flex_waldbadenambient
+#EXTINF:-1 tvg-id="flex_lagerfeuerambient" tvg-name="Lagerfeuer - Ambient" tvg-logo="https://images.wpstr.tv/station/flex_lagerfeuerambient/da39a3ee/hd/overlay?res=320x180",Lagerfeuer - Ambient
+http://tv.waipu.workers.dev/?ID=flex_lagerfeuerambient
+#EXTINF:-1 tvg-id="flex_amkaminambient" tvg-name="Romantischer Abend am Kamin - Ambient" tvg-logo="https://images.wpstr.tv/station/flex_amkaminambient/da39a3ee/hd/overlay?res=320x180",Romantischer Abend am Kamin - Ambient
+http://tv.waipu.workers.dev/?ID=flex_amkaminambient
+#EXTINF:-1 tvg-id="flex_loungedeluxe" tvg-name="Lounge Deluxe" tvg-logo="https://images.wpstr.tv/station/flex_loungedeluxe/da39a3ee/hd/overlay?res=320x180",Lounge Deluxe
+http://tv.waipu.workers.dev/?ID=flex_loungedeluxe
+#EXTINF:-1 tvg-id="flex_zenderrelax" tvg-name="Zender Relax" tvg-logo="https://images.wpstr.tv/station/flex_zenderrelax/da39a3ee/hd/overlay?res=320x180",Zender Relax
+http://tv.waipu.workers.dev/?ID=flex_zenderrelax
+#EXTINF:-1 tvg-id="flex_xplorestaedtetrip" tvg-name="xplore Städtetrip" tvg-logo="https://images.wpstr.tv/station/flex_xplorestaedtetrip/da39a3ee/hd/overlay?res=320x180",xplore Städtetrip
+http://tv.waipu.workers.dev/?ID=flex_xplorestaedtetrip
+#EXTINF:-1 tvg-id="flex_geschichtenfuxholzen" tvg-name="Geschichten aus Fuxholzen" tvg-logo="https://images.wpstr.tv/station/flex_geschichtenfuxholzen/da39a3ee/hd/overlay?res=320x180",Geschichten aus Fuxholzen
+http://tv.waipu.workers.dev/?ID=flex_geschichtenfuxholzen
+#EXTINF:-1 tvg-id="flex_fairlyoddparents" tvg-name="Fairly OddParents" tvg-logo="https://images.wpstr.tv/station/flex_fairlyoddparents/da39a3ee/hd/overlay?res=320x180",Fairly OddParents
+http://tv.waipu.workers.dev/?ID=flex_fairlyoddparents
+#EXTINF:-1 tvg-id="flex_foodiesparadise" tvg-name="Foodies Paradise" tvg-logo="https://images.wpstr.tv/station/flex_foodiesparadise/da39a3ee/hd/overlay?res=320x180",Foodies Paradise
+http://tv.waipu.workers.dev/?ID=flex_foodiesparadise
+#EXTINF:-1 tvg-id="flex_riskanterouten" tvg-name="Riskante Routen" tvg-logo="https://images.wpstr.tv/station/flex_riskanterouten/da39a3ee/hd/overlay?res=320x180",Riskante Routen
+http://tv.waipu.workers.dev/?ID=flex_riskanterouten
+#EXTINF:-1 tvg-id="flex_vonderleineaufdentisch" tvg-name="Von der Leine auf den Tisch" tvg-logo="https://images.wpstr.tv/station/flex_vonderleineaufdentisch/da39a3ee/hd/overlay?res=320x180",Von der Leine auf den Tisch
+http://tv.waipu.workers.dev/?ID=flex_vonderleineaufdentisch
+#EXTINF:-1 tvg-id="flex_dietieraerzte" tvg-name="Die Tierärzte" tvg-logo="https://images.wpstr.tv/station/flex_dietieraerzte/da39a3ee/hd/overlay?res=320x180",Die Tierärzte
+http://tv.waipu.workers.dev/?ID=flex_dietieraerzte
+#EXTINF:-1 tvg-id="flex_dieerdevonoben" tvg-name="Die Erde von oben" tvg-logo="https://images.wpstr.tv/station/flex_dieerdevonoben/da39a3ee/hd/overlay?res=320x180",Die Erde von oben
+http://tv.waipu.workers.dev/?ID=flex_dieerdevonoben
+#EXTINF:-1 tvg-id="flex_waiputvinfochannel" tvg-name="waipu.tv Infochannel" tvg-logo="https://images.wpstr.tv/station/flex_waiputvinfochannel/da39a3ee/hd/overlay?res=320x180",waipu.tv Infochannel
+http://tv.waipu.workers.dev/?ID=flex_waiputvinfochannel
+#EXTINF:-1 tvg-id="jukebox" tvg-name="Jukebox" tvg-logo="https://images.wpstr.tv/station/jukebox/a08c7acb/hd/overlay?res=320x180",Jukebox
+http://tv.waipu.workers.dev/?ID=jukebox
+#EXTINF:-1 tvg-id="360tunebox" tvg-name="360 Tune Box" tvg-logo="https://images.wpstr.tv/station/360tunebox/31c53e72/hd/overlay?res=320x180",360 Tune Box
+http://tv.waipu.workers.dev/?ID=360tunebox
+#EXTINF:-1 tvg-id="mtvlive" tvg-name="MTV Live" tvg-logo="https://images.wpstr.tv/station/mtvlive/4b11d1c4/hd/overlay?res=320x180",MTV Live
+http://tv.waipu.workers.dev/?ID=mtvlive
+#EXTINF:-1 tvg-id="gutelaune" tvg-name="Gute Laune TV" tvg-logo="https://images.wpstr.tv/station/gutelaune/0c36779c/hd/overlay?res=320x180",Gute Laune TV
+http://tv.waipu.workers.dev/?ID=gutelaune
+#EXTINF:-1 tvg-id="deluxetv" tvg-name="DELUXE MUSIC" tvg-logo="https://images.wpstr.tv/station/deluxetv/54dbedd1/hd/overlay?res=320x180",DELUXE MUSIC
+http://tv.waipu.workers.dev/?ID=deluxetv
+#EXTINF:-1 tvg-id="musicboxclassic" tvg-name="Music Box Classic" tvg-logo="https://images.wpstr.tv/station/musicboxclassic/1a279106/hd/overlay?res=320x180",Music Box Classic
+http://tv.waipu.workers.dev/?ID=musicboxclassic
+#EXTINF:-1 tvg-id="metalrocks" tvg-name="Metal.Rocks" tvg-logo="https://images.wpstr.tv/station/metalrocks/d6143e5b/hd/overlay?res=320x180",Metal.Rocks
+http://tv.waipu.workers.dev/?ID=metalrocks
+#EXTINF:-1 tvg-id="xitehits" tvg-name="XITE Hits" tvg-logo="https://images.wpstr.tv/station/xitehits/4d7225c2/hd/overlay?res=320x180",XITE Hits
+http://tv.waipu.workers.dev/?ID=xitehits
+#EXTINF:-1 tvg-id="quello" tvg-name="Qello Concerts by Stingray" tvg-logo="https://images.wpstr.tv/station/quello/57b3893e/hd/overlay?res=320x180",Qello Concerts by Stingray
+http://tv.waipu.workers.dev/?ID=quello
+#EXTINF:-1 tvg-id="deluxedance" tvg-name="DELUXE DANCE by Kontor" tvg-logo="https://images.wpstr.tv/station/deluxedance/117dfd7a/hd/overlay?res=320x180",DELUXE DANCE by Kontor
+http://tv.waipu.workers.dev/?ID=deluxedance
+#EXTINF:-1 tvg-id="xiterb" tvg-name="xite R&B Classic Jams" tvg-logo="https://images.wpstr.tv/station/xiterb/8de12fcc/hd/overlay?res=320x180",xite R&B Classic Jams
+http://tv.waipu.workers.dev/?ID=xiterb
+#EXTINF:-1 tvg-id="deluxerap" tvg-name="DELUXE RAP" tvg-logo="https://images.wpstr.tv/station/deluxerap/59151c8b/hd/overlay?res=320x180",DELUXE RAP
+http://tv.waipu.workers.dev/?ID=deluxerap
+#EXTINF:-1 tvg-id="deutschesmusikfernsehen" tvg-name="DMF" tvg-logo="https://images.wpstr.tv/station/deutschesmusikfernsehen/4f46fb30/hd/overlay?res=320x180",DMF
+http://tv.waipu.workers.dev/?ID=deutschesmusikfernsehen
+#EXTINF:-1 tvg-id="moviemusic" tvg-name="Movie Music by Stingray" tvg-logo="https://images.wpstr.tv/station/moviemusic/60b8b631/hd/overlay?res=320x180",Movie Music by Stingray
+http://tv.waipu.workers.dev/?ID=moviemusic
+#EXTINF:-1 tvg-id="stingrayclassica" tvg-name="Stingray Classica" tvg-logo="https://images.wpstr.tv/station/stingrayclassica/5f211dca/hd/overlay?res=320x180",Stingray Classica
+http://tv.waipu.workers.dev/?ID=stingrayclassica
+#EXTINF:-1 tvg-id="qwest" tvg-name="QWEST TV" tvg-logo="https://images.wpstr.tv/station/qwest/e11da816/hd/overlay?res=320x180",QWEST TV
+http://tv.waipu.workers.dev/?ID=qwest
+#EXTINF:-1 tvg-id="deluxelounge" tvg-name="DELUXE LOUNGE" tvg-logo="https://images.wpstr.tv/station/deluxelounge/c7570d51/hd/overlay?res=320x180",DELUXE LOUNGE
+http://tv.waipu.workers.dev/?ID=deluxelounge
+#EXTINF:-1 tvg-id="fashionbox" tvg-name="FashionBox" tvg-logo="https://images.wpstr.tv/station/fashionbox/5e294f3f/hd/overlay?res=320x180",FashionBox
+http://tv.waipu.workers.dev/?ID=fashionbox
+#EXTINF:-1 tvg-id="fashiontv" tvg-name="Fashion TV" tvg-logo="https://images.wpstr.tv/station/fashiontv/61e24ef7/hd/overlay?res=320x180",Fashion TV
+http://tv.waipu.workers.dev/?ID=fashiontv
+#EXTINF:-1 tvg-id="midnitehaute" tvg-name="Midnite Haute" tvg-logo="https://images.wpstr.tv/station/midnitehaute/6d2ff8b0/hd/overlay?res=320x180",Midnite Haute
+http://tv.waipu.workers.dev/?ID=midnitehaute
+#EXTINF:-1 tvg-id="kaminfeuer" tvg-name="Kaminfeuer" tvg-logo="https://images.wpstr.tv/station/kaminfeuer/97ddaef6/hd/overlay?res=320x180",Kaminfeuer
+http://tv.waipu.workers.dev/?ID=kaminfeuer
+#EXTINF:-1 tvg-id="aquarium" tvg-name="Aquarium" tvg-logo="https://images.wpstr.tv/station/aquarium/8c9d236c/hd/overlay?res=320x180",Aquarium
+http://tv.waipu.workers.dev/?ID=aquarium
+#EXTINF:-1 tvg-id="time2rlx" tvg-name="time2Rlx" tvg-logo="https://images.wpstr.tv/station/time2rlx/5e7deb5d/hd/overlay?res=320x180",time2Rlx
+http://tv.waipu.workers.dev/?ID=time2rlx
+#EXTINF:-1 tvg-id="zender" tvg-name="Zender" tvg-logo="https://images.wpstr.tv/station/zender/773acb8f/hd/overlay?res=320x180",Zender
+http://tv.waipu.workers.dev/?ID=zender
+#EXTINF:-1 tvg-id="royalworld" tvg-name="Royalworld - Adel & Dynastien" tvg-logo="https://images.wpstr.tv/station/royalworld/de57cb14/hd/overlay?res=320x180",Royalworld - Adel & Dynastien
+http://tv.waipu.workers.dev/?ID=royalworld
+#EXTINF:-1 tvg-id="buntetv" tvg-name="BUNTE" tvg-logo="https://images.wpstr.tv/station/buntetv/0acfc53e/hd/overlay?res=320x180",BUNTE
+http://tv.waipu.workers.dev/?ID=buntetv
+#EXTINF:-1 tvg-id="taff" tvg-name="taff" tvg-logo="https://images.wpstr.tv/station/taff/8b0acc15/hd/overlay?res=320x180",taff
+http://tv.waipu.workers.dev/?ID=taff
+#EXTINF:-1 tvg-id="teamharrison" tvg-name="Team Harrison" tvg-logo="https://images.wpstr.tv/station/teamharrison/e3c391ff/hd/overlay?res=320x180",Team Harrison
+http://tv.waipu.workers.dev/?ID=teamharrison
+#EXTINF:-1 tvg-id="sallyswelt" tvg-name="Sallys Welt" tvg-logo="https://images.wpstr.tv/station/sallyswelt/fa85587b/hd/overlay?res=320x180",Sallys Welt
+http://tv.waipu.workers.dev/?ID=sallyswelt
+#EXTINF:-1 tvg-id="justcooking" tvg-name="Just Cooking" tvg-logo="https://images.wpstr.tv/station/justcooking/9b9b1983/hd/overlay?res=320x180",Just Cooking
+http://tv.waipu.workers.dev/?ID=justcooking
+#EXTINF:-1 tvg-id="bbcfood" tvg-name="BBC Food" tvg-logo="https://images.wpstr.tv/station/bbcfood/79b6ad49/hd/overlay?res=320x180",BBC Food
+http://tv.waipu.workers.dev/?ID=bbcfood
+#EXTINF:-1 tvg-id="meisterderkueche" tvg-name="Meister der Küche" tvg-logo="https://images.wpstr.tv/station/meisterderkueche/6eaff4be/hd/overlay?res=320x180",Meister der Küche
+http://tv.waipu.workers.dev/?ID=meisterderkueche
+#EXTINF:-1 tvg-id="alexibexi" tvg-name="AlexiBexi" tvg-logo="https://images.wpstr.tv/station/alexibexi/e10fd98f/hd/overlay?res=320x180",AlexiBexi
+http://tv.waipu.workers.dev/?ID=alexibexi
+#EXTINF:-1 tvg-id="heyaaron" tvg-name="Hey Aaron!!!" tvg-logo="https://images.wpstr.tv/station/heyaaron/ed8e0bc6/hd/overlay?res=320x180",Hey Aaron!!!
+http://tv.waipu.workers.dev/?ID=heyaaron
+#EXTINF:-1 tvg-id="bestofthevoice" tvg-name="Best of The Voice" tvg-logo="https://images.wpstr.tv/station/bestofthevoice/0dde1345/hd/overlay?res=320x180",Best of The Voice
+http://tv.waipu.workers.dev/?ID=bestofthevoice
+#EXTINF:-1 tvg-id="bigbrother" tvg-name="Big Brother Classics" tvg-logo="https://images.wpstr.tv/station/bigbrother/ccaccc1b/hd/overlay?res=320x180",Big Brother Classics
+http://tv.waipu.workers.dev/?ID=bigbrother
+#EXTINF:-1 tvg-id="rtlzweifamilies" tvg-name="RTLZWEI Families" tvg-logo="https://images.wpstr.tv/station/rtlzweifamilies/88a96a8f/hd/overlay?res=320x180",RTLZWEI Families
+http://tv.waipu.workers.dev/?ID=rtlzweifamilies
+#EXTINF:-1 tvg-id="rtlzweiclips" tvg-name="RTLZWEI Clips" tvg-logo="https://images.wpstr.tv/station/rtlzweiclips/5bb21597/hd/overlay?res=320x180",RTLZWEI Clips
+http://tv.waipu.workers.dev/?ID=rtlzweiclips
+#EXTINF:-1 tvg-id="kalktv" tvg-name="KalkTV" tvg-logo="https://images.wpstr.tv/station/kalktv/bb9ac370/hd/overlay?res=320x180",KalkTV
+http://tv.waipu.workers.dev/?ID=kalktv
+#EXTINF:-1 tvg-id="bestofcomedy" tvg-name="Best of Comedy" tvg-logo="https://images.wpstr.tv/station/bestofcomedy/9a30c677/hd/overlay?res=320x180",Best of Comedy
+http://tv.waipu.workers.dev/?ID=bestofcomedy
+#EXTINF:-1 tvg-id="standup" tvg-name="Stand-Up Comedy" tvg-logo="https://images.wpstr.tv/station/standup/f87eee30/hd/overlay?res=320x180",Stand-Up Comedy
+http://tv.waipu.workers.dev/?ID=standup
+#EXTINF:-1 tvg-id="bully" tvg-name="Michael Bully Herbig" tvg-logo="https://images.wpstr.tv/station/bully/d12488f6/hd/overlay?res=320x180",Michael Bully Herbig
+http://tv.waipu.workers.dev/?ID=bully
+#EXTINF:-1 tvg-id="stromberg" tvg-name="Stromberg" tvg-logo="https://images.wpstr.tv/station/stromberg/b5abeb50/hd/overlay?res=320x180",Stromberg
+http://tv.waipu.workers.dev/?ID=stromberg
+#EXTINF:-1 tvg-id="pastewka" tvg-name="Pastewka" tvg-logo="https://images.wpstr.tv/station/pastewka/828cf91e/hd/overlay?res=320x180",Pastewka
+http://tv.waipu.workers.dev/?ID=pastewka
+#EXTINF:-1 tvg-id="ladykracher" tvg-name="Ladykracher" tvg-logo="https://images.wpstr.tv/station/ladykracher/a809466e/hd/overlay?res=320x180",Ladykracher
+http://tv.waipu.workers.dev/?ID=ladykracher
+#EXTINF:-1 tvg-id="myspasstv" tvg-name="MySpass TV" tvg-logo="https://images.wpstr.tv/station/myspasstv/677a5f1e/hd/overlay?res=320x180",MySpass TV
+http://tv.waipu.workers.dev/?ID=myspasstv
+#EXTINF:-1 tvg-id="exatest2" tvg-name="EXATEST2" tvg-logo="https://images.wpstr.tv/station/exatest2/da39a3ee/hd/overlay?res=320x180",EXATEST2
+http://tv.waipu.workers.dev/?ID=exatest2
+#EXTINF:-1 tvg-id="exatest4" tvg-name="EXATEST4" tvg-logo="https://images.wpstr.tv/station/exatest4/da39a3ee/hd/overlay?res=320x180",EXATEST4
+http://tv.waipu.workers.dev/?ID=exatest4
+#EXTINF:-1 tvg-id="exatest6" tvg-name="EXATEST6" tvg-logo="https://images.wpstr.tv/station/exatest6/da39a3ee/hd/overlay?res=320x180",EXATEST6
+http://tv.waipu.workers.dev/?ID=exatest6
+#EXTINF:-1 tvg-id="exatest15" tvg-name="EXATEST15" tvg-logo="https://images.wpstr.tv/station/exatest15/da39a3ee/hd/overlay?res=320x180",EXATEST15
+http://tv.waipu.workers.dev/?ID=exatest15
+#EXTINF:-1 tvg-id="exatestnewtv" tvg-name="EXATEST NewTV" tvg-logo="https://images.wpstr.tv/station/exatestnewtv/da39a3ee/hd/overlay?res=320x180",EXATEST NewTV
+http://tv.waipu.workers.dev/?ID=exatestnewtv

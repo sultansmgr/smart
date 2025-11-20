@@ -1,831 +1,831 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="cnl" tvg-name="CNL Україна" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0064.jpg",CNL Україна
-http://tv.you.workers.dev/?ID=64
+http://live.youtv.workers.dev/?ID=64
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0065.jpg",CNN
-http://tv.you.workers.dev/?ID=65
+http://live.youtv.workers.dev/?ID=65
 #EXTINF:-1 tvg-id="da-vinci-hd" tvg-name="Da Vinci HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0067.jpg",Da Vinci HD
-http://tv.you.workers.dev/?ID=67
+http://live.youtv.workers.dev/?ID=67
 #EXTINF:-1 tvg-id="dw-hd" tvg-name="Deutsche Welle HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0072.jpg",Deutsche Welle HD
-http://tv.you.workers.dev/?ID=72
+http://live.youtv.workers.dev/?ID=72
 #EXTINF:-1 tvg-id="discovery" tvg-name="Discovery" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0076.jpg",Discovery
-http://tv.you.workers.dev/?ID=76
+http://live.youtv.workers.dev/?ID=76
 #EXTINF:-1 tvg-id="ducktv-hd" tvg-name="DuckTV HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0083.jpg",DuckTV HD
-http://tv.you.workers.dev/?ID=83
+http://live.youtv.workers.dev/?ID=83
 #EXTINF:-1 tvg-id="euronews" tvg-name="Euronews" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0088.jpg",Euronews
-http://tv.you.workers.dev/?ID=88
+http://live.youtv.workers.dev/?ID=88
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0091.jpg",Eurosport 2
-http://tv.you.workers.dev/?ID=91
+http://live.youtv.workers.dev/?ID=91
 #EXTINF:-1 tvg-id="eurosport1-hd" tvg-name="Eurosport 1 HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0094.jpg",Eurosport 1 HD
-http://tv.you.workers.dev/?ID=94
+http://live.youtv.workers.dev/?ID=94
 #EXTINF:-1 tvg-id="ewtn" tvg-name="EWTN" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0095.jpg",EWTN
-http://tv.you.workers.dev/?ID=95
+http://live.youtv.workers.dev/?ID=95
 #EXTINF:-1 tvg-id="france24" tvg-name="France24" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0106.jpg",France24
-http://tv.you.workers.dev/?ID=106
+http://live.youtv.workers.dev/?ID=106
 #EXTINF:-1 tvg-id="france24-fr-hd" tvg-name="France24 Français HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0107.jpg",France24 Français HD
-http://tv.you.workers.dev/?ID=107
+http://live.youtv.workers.dev/?ID=107
 #EXTINF:-1 tvg-id="gully-girl" tvg-name="Gulli Girl" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0110.jpg",Gulli Girl
-http://tv.you.workers.dev/?ID=110
+http://live.youtv.workers.dev/?ID=110
 #EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0159.jpg",Nick Jr
-http://tv.you.workers.dev/?ID=159
+http://live.youtv.workers.dev/?ID=159
 #EXTINF:-1 tvg-id="nickelodeon-hd" tvg-name="Nickelodeon HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0160.jpg",Nickelodeon HD
-http://tv.you.workers.dev/?ID=160
+http://live.youtv.workers.dev/?ID=160
 #EXTINF:-1 tvg-id="otv" tvg-name="ОТВ" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0164.jpg",ОТВ
-http://tv.you.workers.dev/?ID=164
+http://live.youtv.workers.dev/?ID=164
 #EXTINF:-1 tvg-id="bigudi" tvg-name="Бігуді" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0178.jpg",Бігуді
-http://tv.you.workers.dev/?ID=178
+http://live.youtv.workers.dev/?ID=178
 #EXTINF:-1 tvg-id="tiji" tvg-name="TiJi" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0207.jpg",TiJi
-http://tv.you.workers.dev/?ID=207
+http://live.youtv.workers.dev/?ID=207
 #EXTINF:-1 tvg-id="travel-food-hd" tvg-name="Travel&Food HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0215.jpg",Travel&Food HD
-http://tv.you.workers.dev/?ID=215
+http://live.youtv.workers.dev/?ID=215
 #EXTINF:-1 tvg-id="viasatkino-action-hd" tvg-name="Viasat Kino Action HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0217.jpg",Viasat Kino Action HD
-http://tv.you.workers.dev/?ID=217
+http://live.youtv.workers.dev/?ID=217
 #EXTINF:-1 tvg-id="viasatkino-comedy-hd" tvg-name="Viasat Kino Comedy HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0219.jpg",Viasat Kino Comedy HD
-http://tv.you.workers.dev/?ID=219
+http://live.youtv.workers.dev/?ID=219
 #EXTINF:-1 tvg-id="viasatkino-hd" tvg-name="Viasat Kino HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0221.jpg",Viasat Kino HD
-http://tv.you.workers.dev/?ID=221
+http://live.youtv.workers.dev/?ID=221
 #EXTINF:-1 tvg-id="viasatkino-world" tvg-name="Viasat Kino World" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0226.jpg",Viasat Kino World
-http://tv.you.workers.dev/?ID=226
+http://live.youtv.workers.dev/?ID=226
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="Viasat Explore" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0234.jpg",Viasat Explore
-http://tv.you.workers.dev/?ID=234
+http://live.youtv.workers.dev/?ID=234
 #EXTINF:-1 tvg-id="viasat-history-hd" tvg-name="Viasat History HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0237.jpg",Viasat History HD
-http://tv.you.workers.dev/?ID=237
+http://live.youtv.workers.dev/?ID=237
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viasat Nature" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0238.jpg",Viasat Nature
-http://tv.you.workers.dev/?ID=238
+http://live.youtv.workers.dev/?ID=238
 #EXTINF:-1 tvg-id="suspilne-dnirpo-hd" tvg-name="Суспільне Дніпро HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0287.jpg",Суспільне Дніпро HD
-http://tv.you.workers.dev/?ID=287
+http://live.youtv.workers.dev/?ID=287
 #EXTINF:-1 tvg-id="interplus" tvg-name="Інтер+" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0321.jpg",Інтер+
-http://tv.you.workers.dev/?ID=321
+http://live.youtv.workers.dev/?ID=321
 #EXTINF:-1 tvg-id="kiev-hd" tvg-name="КИЇВ24 HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0339.jpg",КИЇВ24 HD
-http://tv.you.workers.dev/?ID=339
+http://live.youtv.workers.dev/?ID=339
 #EXTINF:-1 tvg-id="suspilne-kultura-hd" tvg-name="Суспільне Культура HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0359.jpg",Суспільне Культура HD
-http://tv.you.workers.dev/?ID=359
+http://live.youtv.workers.dev/?ID=359
 #EXTINF:-1 tvg-id="nadiya" tvg-name="Надія" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0392.jpg",Надія
-http://tv.you.workers.dev/?ID=392
+http://live.youtv.workers.dev/?ID=392
 #EXTINF:-1 tvg-id="suspilne-krim-hd" tvg-name="Суспільне Крим HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0446.jpg",Суспільне Крим HD
-http://tv.you.workers.dev/?ID=446
+http://live.youtv.workers.dev/?ID=446
 #EXTINF:-1 tvg-id="rada-hd" tvg-name="Рада HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0487.jpg",Рада HD
-http://tv.you.workers.dev/?ID=487
+http://live.youtv.workers.dev/?ID=487
 #EXTINF:-1 tvg-id="sontse" tvg-name="Сонце" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0522.jpg",Сонце
-http://tv.you.workers.dev/?ID=522
+http://live.youtv.workers.dev/?ID=522
 #EXTINF:-1 tvg-id="suspilne-uzgorod-hd" tvg-name="Суспільне Ужгород HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0573.jpg",Суспільне Ужгород HD
-http://tv.you.workers.dev/?ID=573
+http://live.youtv.workers.dev/?ID=573
 #EXTINF:-1 tvg-id="pryamoy-hd" tvg-name="Прямий HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0585.jpg",Прямий HD
-http://tv.you.workers.dev/?ID=585
+http://live.youtv.workers.dev/?ID=585
 #EXTINF:-1 tvg-id="suspilne-chernivci-hd" tvg-name="Суспільне Чернівці HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0588.jpg",Суспільне Чернівці HD
-http://tv.you.workers.dev/?ID=588
+http://live.youtv.workers.dev/?ID=588
 #EXTINF:-1 tvg-id="unian-hd" tvg-name="УНІАН Серіал HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0599.jpg",УНІАН Серіал HD
-http://tv.you.workers.dev/?ID=599
+http://live.youtv.workers.dev/?ID=599
 #EXTINF:-1 tvg-id="suspilne-kyiv-hd" tvg-name="Суспільне Київ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0613.jpg",Суспільне Київ HD
-http://tv.you.workers.dev/?ID=613
+http://live.youtv.workers.dev/?ID=613
 #EXTINF:-1 tvg-id="chernomorskaya-trk" tvg-name="Капучино TV HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0615.jpg",Капучино TV HD
-http://tv.you.workers.dev/?ID=615
+http://live.youtv.workers.dev/?ID=615
 #EXTINF:-1 tvg-id="pershiy-zakhidniy" tvg-name="Перший Західний" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0656.jpg",Перший Західний
-http://tv.you.workers.dev/?ID=656
+http://live.youtv.workers.dev/?ID=656
 #EXTINF:-1 tvg-id="history-hd" tvg-name="History HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0676.jpg",History HD
-http://tv.you.workers.dev/?ID=676
+http://live.youtv.workers.dev/?ID=676
 #EXTINF:-1 tvg-id="englishclubhd" tvg-name="English Club HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0818.jpg",English Club HD
-http://tv.you.workers.dev/?ID=818
+http://live.youtv.workers.dev/?ID=818
 #EXTINF:-1 tvg-id="xsport-hd" tvg-name="XSport HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0819.jpg",XSport HD
-http://tv.you.workers.dev/?ID=819
+http://live.youtv.workers.dev/?ID=819
 #EXTINF:-1 tvg-id="belsat" tvg-name="Белсат TV" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/0832.jpg",Белсат TV
-http://tv.you.workers.dev/?ID=832
+http://live.youtv.workers.dev/?ID=832
 #EXTINF:-1 tvg-id="rudana" tvg-name="Рудана" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/1242.jpg",Рудана
-http://tv.you.workers.dev/?ID=1242
+http://live.youtv.workers.dev/?ID=1242
 #EXTINF:-1 tvg-id="tvp-polonoa" tvg-name="TVP Polonia" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/1395.jpg",TVP Polonia
-http://tv.you.workers.dev/?ID=1395
+http://live.youtv.workers.dev/?ID=1395
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="Hollywood HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/1411.jpg",Hollywood HD
-http://tv.you.workers.dev/?ID=1411
+http://live.youtv.workers.dev/?ID=1411
 #EXTINF:-1 tvg-id="ftvua-hd" tvg-name="Fashiontv (Ukraine) HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/1594.jpg",Fashiontv (Ukraine) HD
-http://tv.you.workers.dev/?ID=1594
+http://live.youtv.workers.dev/?ID=1594
 #EXTINF:-1 tvg-id="suspilne-vinnitsa-hd" tvg-name="Суспільне Вінниця HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/1674.jpg",Суспільне Вінниця HD
-http://tv.you.workers.dev/?ID=1674
+http://live.youtv.workers.dev/?ID=1674
 #EXTINF:-1 tvg-id="vita-tv" tvg-name="Віта ТБ" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/1675.jpg",Віта ТБ
-http://tv.you.workers.dev/?ID=1675
+http://live.youtv.workers.dev/?ID=1675
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/1736.jpg",Bollywood HD
-http://tv.you.workers.dev/?ID=1736
+http://live.youtv.workers.dev/?ID=1736
 #EXTINF:-1 tvg-id="eumusic-hd" tvg-name="EU Music HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/1769.jpg",EU Music HD
-http://tv.you.workers.dev/?ID=1769
+http://live.youtv.workers.dev/?ID=1769
 #EXTINF:-1 tvg-id="setanta-sports-hd" tvg-name="Setanta Sports HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/1787.jpg",Setanta Sports HD
-http://tv.you.workers.dev/?ID=1787
+http://live.youtv.workers.dev/?ID=1787
 #EXTINF:-1 tvg-id="milady-television" tvg-name="Milady Television" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/1846.jpg",Milady Television
-http://tv.you.workers.dev/?ID=1846
+http://live.youtv.workers.dev/?ID=1846
 #EXTINF:-1 tvg-id="espreso-tv-hd" tvg-name="Еспресо TV HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/1941.jpg",Еспресо TV HD
-http://tv.you.workers.dev/?ID=1941
+http://live.youtv.workers.dev/?ID=1941
 #EXTINF:-1 tvg-id="svarogichi" tvg-name="Сварожичи" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/2000.jpg",Сварожичи
-http://tv.you.workers.dev/?ID=2000
+http://live.youtv.workers.dev/?ID=2000
 #EXTINF:-1 tvg-id="dacha-hd" tvg-name="Дача HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/2101.jpg",Дача HD
-http://tv.you.workers.dev/?ID=2101
+http://live.youtv.workers.dev/?ID=2101
 #EXTINF:-1 tvg-id="musicbox-polska-hd" tvg-name="Music Box Polska HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/2120.jpg",Music Box Polska HD
-http://tv.you.workers.dev/?ID=2120
+http://live.youtv.workers.dev/?ID=2120
 #EXTINF:-1 tvg-id="filmuadrama-hd" tvg-name="FILMUA Drama HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/2341.jpg",FILMUA Drama HD
-http://tv.you.workers.dev/?ID=2341
+http://live.youtv.workers.dev/?ID=2341
 #EXTINF:-1 tvg-id="star-cinema-hd" tvg-name="Star Cinema HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/2460.jpg",Star Cinema HD
-http://tv.you.workers.dev/?ID=2460
+http://live.youtv.workers.dev/?ID=2460
 #EXTINF:-1 tvg-id="televsesvit-hd" tvg-name="Телевсесвіт HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/2527.jpg",Телевсесвіт HD
-http://tv.you.workers.dev/?ID=2527
+http://live.youtv.workers.dev/?ID=2527
 #EXTINF:-1 tvg-id="tvp-info-hd" tvg-name="TVP Info HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/2619.jpg",TVP Info HD
-http://tv.you.workers.dev/?ID=2619
+http://live.youtv.workers.dev/?ID=2619
 #EXTINF:-1 tvg-id="setanta-sports-plus-hd" tvg-name="Setanta Sports+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/2714.jpg",Setanta Sports+ HD
-http://tv.you.workers.dev/?ID=2714
+http://live.youtv.workers.dev/?ID=2714
 #EXTINF:-1 tvg-id="kvartal-tv" tvg-name="Квартал ТВ" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/2779.jpg",Квартал ТВ
-http://tv.you.workers.dev/?ID=2779
+http://live.youtv.workers.dev/?ID=2779
 #EXTINF:-1 tvg-id="nastoyashee-vremya-hd" tvg-name="Настоящее Время HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/2791.jpg",Настоящее Время HD
-http://tv.you.workers.dev/?ID=2791
+http://live.youtv.workers.dev/?ID=2791
 #EXTINF:-1 tvg-id="rai" tvg-name="РАІ" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/2812.jpg",РАІ
-http://tv.you.workers.dev/?ID=2812
+http://live.youtv.workers.dev/?ID=2812
 #EXTINF:-1 tvg-id="bolt-hd" tvg-name="Bolt HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/2920.jpg",Bolt HD
-http://tv.you.workers.dev/?ID=2920
+http://live.youtv.workers.dev/?ID=2920
 #EXTINF:-1 tvg-id="karavan tvкараван тв" tvg-name="Караван TV" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/2987.jpg",Караван TV
-http://tv.you.workers.dev/?ID=2987
+http://live.youtv.workers.dev/?ID=2987
 #EXTINF:-1 tvg-id="suspilne-zitomir-hd" tvg-name="Суспільне Житомир HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3075.jpg",Суспільне Житомир HD
-http://tv.you.workers.dev/?ID=3075
+http://live.youtv.workers.dev/?ID=3075
 #EXTINF:-1 tvg-id="telekanal-novostey-24-hd" tvg-name="24 канал HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3171.jpg",24 канал HD
-http://tv.you.workers.dev/?ID=3171
+http://live.youtv.workers.dev/?ID=3171
 #EXTINF:-1 tvg-id="natali" tvg-name="Наталі" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3249.jpg",Наталі
-http://tv.you.workers.dev/?ID=3249
+http://live.youtv.workers.dev/?ID=3249
 #EXTINF:-1 tvg-id="suspilne-rivne-hd" tvg-name="Суспільне Рівне HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3263.jpg",Суспільне Рівне HD
-http://tv.you.workers.dev/?ID=3263
+http://live.youtv.workers.dev/?ID=3263
 #EXTINF:-1 tvg-id="epic-drama" tvg-name="Epic Drama HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3266.jpg",Epic Drama HD
-http://tv.you.workers.dev/?ID=3266
+http://live.youtv.workers.dev/?ID=3266
 #EXTINF:-1 tvg-id="pravdatut-lviv-hd" tvg-name="ПравдаТУТ Львів HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3268.jpg",ПравдаТУТ Львів HD
-http://tv.you.workers.dev/?ID=3268
+http://live.youtv.workers.dev/?ID=3268
 #EXTINF:-1 tvg-id="suspilne-donbas-hd" tvg-name="Суспільне Донбас HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3270.jpg",Суспільне Донбас HD
-http://tv.you.workers.dev/?ID=3270
+http://live.youtv.workers.dev/?ID=3270
 #EXTINF:-1 tvg-id="niki-junior-hd" tvg-name="Niki Junior HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3273.jpg",Niki Junior HD
-http://tv.you.workers.dev/?ID=3273
+http://live.youtv.workers.dev/?ID=3273
 #EXTINF:-1 tvg-id="niki-kids-hd" tvg-name="Niki Kids HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3274.jpg",Niki Kids HD
-http://tv.you.workers.dev/?ID=3274
+http://live.youtv.workers.dev/?ID=3274
 #EXTINF:-1 tvg-id="megogo-live-hd" tvg-name="MEGOGO MUSIC HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3277.jpg",MEGOGO MUSIC HD
-http://tv.you.workers.dev/?ID=3277
+http://live.youtv.workers.dev/?ID=3277
 #EXTINF:-1 tvg-id="oboz-tv-hd" tvg-name="Obozrevatel HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3278.jpg",Obozrevatel HD
-http://tv.you.workers.dev/?ID=3278
+http://live.youtv.workers.dev/?ID=3278
 #EXTINF:-1 tvg-id="pershiyhd" tvg-name="Перший HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3282.jpg",Перший HD
-http://tv.you.workers.dev/?ID=3282
+http://live.youtv.workers.dev/?ID=3282
 #EXTINF:-1 tvg-id="366-hd" tvg-name="36,6 HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3283.jpg",36,6 HD
-http://tv.you.workers.dev/?ID=3283
+http://live.youtv.workers.dev/?ID=3283
 #EXTINF:-1 tvg-id="8-channel-hd" tvg-name="8 КАНАЛ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3284.jpg",8 КАНАЛ HD
-http://tv.you.workers.dev/?ID=3284
+http://live.youtv.workers.dev/?ID=3284
 #EXTINF:-1 tvg-id="atr-hd" tvg-name="ATR HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3285.jpg",ATR HD
-http://tv.you.workers.dev/?ID=3285
+http://live.youtv.workers.dev/?ID=3285
 #EXTINF:-1 tvg-id="4ever-music-hd" tvg-name="4ever music hd" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3293.jpg",4ever music hd
-http://tv.you.workers.dev/?ID=3293
+http://live.youtv.workers.dev/?ID=3293
 #EXTINF:-1 tvg-id="dorama-hd" tvg-name="Дорама HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3295.jpg",Дорама HD
-http://tv.you.workers.dev/?ID=3295
+http://live.youtv.workers.dev/?ID=3295
 #EXTINF:-1 tvg-id="svitlo-hd" tvg-name="Світло HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3296.jpg",Світло HD
-http://tv.you.workers.dev/?ID=3296
+http://live.youtv.workers.dev/?ID=3296
 #EXTINF:-1 tvg-id="newchristian" tvg-name="Новый христианский" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3298.jpg",Новый христианский
-http://tv.you.workers.dev/?ID=3298
+http://live.youtv.workers.dev/?ID=3298
 #EXTINF:-1 tvg-id="dytynec" tvg-name="Дитинець" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3299.jpg",Дитинець
-http://tv.you.workers.dev/?ID=3299
+http://live.youtv.workers.dev/?ID=3299
 #EXTINF:-1 tvg-id="filmua-live" tvg-name="FilmUA LIVE HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3302.jpg",FilmUA LIVE HD
-http://tv.you.workers.dev/?ID=3302
+http://live.youtv.workers.dev/?ID=3302
 #EXTINF:-1 tvg-id="1plus1-marathon-hd" tvg-name="1+1 Марафон HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3305.jpg",1+1 Марафон HD
-http://tv.you.workers.dev/?ID=3305
+http://live.youtv.workers.dev/?ID=3305
 #EXTINF:-1 tvg-id="ictv-hd" tvg-name="ICTV HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3307.jpg",ICTV HD
-http://tv.you.workers.dev/?ID=3307
+http://live.youtv.workers.dev/?ID=3307
 #EXTINF:-1 tvg-id="stb-hd" tvg-name="СТБ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3308.jpg",СТБ HD
-http://tv.you.workers.dev/?ID=3308
+http://live.youtv.workers.dev/?ID=3308
 #EXTINF:-1 tvg-id="m1-hd" tvg-name="М1 HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3309.jpg",М1 HD
-http://tv.you.workers.dev/?ID=3309
+http://live.youtv.workers.dev/?ID=3309
 #EXTINF:-1 tvg-id="m2-hd" tvg-name="М2 HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3310.jpg",М2 HD
-http://tv.you.workers.dev/?ID=3310
+http://live.youtv.workers.dev/?ID=3310
 #EXTINF:-1 tvg-id="novyy-kanal-hd" tvg-name="Новий канал HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3311.jpg",Новий канал HD
-http://tv.you.workers.dev/?ID=3311
+http://live.youtv.workers.dev/?ID=3311
 #EXTINF:-1 tvg-id="oce-hd" tvg-name="ОЦЕ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3312.jpg",ОЦЕ HD
-http://tv.you.workers.dev/?ID=3312
+http://live.youtv.workers.dev/?ID=3312
 #EXTINF:-1 tvg-id="suspilne-odesa-hd" tvg-name="Суспільне Одеса HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3331.jpg",Суспільне Одеса HD
-http://tv.you.workers.dev/?ID=3331
+http://live.youtv.workers.dev/?ID=3331
 #EXTINF:-1 tvg-id="suspilne-chernigiv-hd" tvg-name="Суспільне Чернігів HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3332.jpg",Суспільне Чернігів HD
-http://tv.you.workers.dev/?ID=3332
+http://live.youtv.workers.dev/?ID=3332
 #EXTINF:-1 tvg-id="fishing" tvg-name="Рибалка HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3339.jpg",Рибалка HD
-http://tv.you.workers.dev/?ID=3339
+http://live.youtv.workers.dev/?ID=3339
 #EXTINF:-1 tvg-id="genuine-tv-hd" tvg-name="Genuine TV HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3353.jpg",Genuine TV HD
-http://tv.you.workers.dev/?ID=3353
+http://live.youtv.workers.dev/?ID=3353
 #EXTINF:-1 tvg-id="navigator-tv-hd" tvg-name="NavigatorTV HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3359.jpg",NavigatorTV HD
-http://tv.you.workers.dev/?ID=3359
+http://live.youtv.workers.dev/?ID=3359
 #EXTINF:-1 tvg-id="ua-tv-hd" tvg-name="Freeдом HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3405.jpg",Freeдом HD
-http://tv.you.workers.dev/?ID=3405
+http://live.youtv.workers.dev/?ID=3405
 #EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3447.jpg",Hollywood
-http://tv.you.workers.dev/?ID=3447
+http://live.youtv.workers.dev/?ID=3447
 #EXTINF:-1 tvg-id="national-geographic-hd" tvg-name="National Geographic HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3461.jpg",National Geographic HD
-http://tv.you.workers.dev/?ID=3461
+http://live.youtv.workers.dev/?ID=3461
 #EXTINF:-1 tvg-id="fox-hd" tvg-name="FX HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3465.jpg",FX HD
-http://tv.you.workers.dev/?ID=3465
+http://live.youtv.workers.dev/?ID=3465
 #EXTINF:-1 tvg-id="2plus2-hd" tvg-name="2+2 HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3466.jpg",2+2 HD
-http://tv.you.workers.dev/?ID=3466
+http://live.youtv.workers.dev/?ID=3466
 #EXTINF:-1 tvg-id="tet-hd" tvg-name="ТЕТ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3467.jpg",ТЕТ HD
-http://tv.you.workers.dev/?ID=3467
+http://live.youtv.workers.dev/?ID=3467
 #EXTINF:-1 tvg-id="5-kanal-hd" tvg-name="5 Канал HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3471.jpg",5 Канал HD
-http://tv.you.workers.dev/?ID=3471
+http://live.youtv.workers.dev/?ID=3471
 #EXTINF:-1 tvg-id="suspilne-kharkiv-hd" tvg-name="Суспільне Харків HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3479.jpg",Суспільне Харків HD
-http://tv.you.workers.dev/?ID=3479
+http://live.youtv.workers.dev/?ID=3479
 #EXTINF:-1 tvg-id="suspilne-zaporzzia-hd" tvg-name="Суспільне Запоріжжя HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3480.jpg",Суспільне Запоріжжя HD
-http://tv.you.workers.dev/?ID=3480
+http://live.youtv.workers.dev/?ID=3480
 #EXTINF:-1 tvg-id="suspilne-lviv-hd" tvg-name="Суспільне Львів HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3481.jpg",Суспільне Львів HD
-http://tv.you.workers.dev/?ID=3481
+http://live.youtv.workers.dev/?ID=3481
 #EXTINF:-1 tvg-id="kuskus-hd" tvg-name="Кус Кус HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3488.jpg",Кус Кус HD
-http://tv.you.workers.dev/?ID=3488
+http://live.youtv.workers.dev/?ID=3488
 #EXTINF:-1 tvg-id="plyusplyus-hd" tvg-name="ПЛЮСПЛЮС HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3527.jpg",ПЛЮСПЛЮС HD
-http://tv.you.workers.dev/?ID=3527
+http://live.youtv.workers.dev/?ID=3527
 #EXTINF:-1 tvg-id="lale-hd" tvg-name="Lale HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3531.jpg",Lale HD
-http://tv.you.workers.dev/?ID=3531
+http://live.youtv.workers.dev/?ID=3531
 #EXTINF:-1 tvg-id="viasatkino-megahit-hd" tvg-name="Viasat Kino Megahit HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3542.jpg",Viasat Kino Megahit HD
-http://tv.you.workers.dev/?ID=3542
+http://live.youtv.workers.dev/?ID=3542
 #EXTINF:-1 tvg-id="suspilne-poltava-hd" tvg-name="Суспільне Полтава HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3544.jpg",Суспільне Полтава HD
-http://tv.you.workers.dev/?ID=3544
+http://live.youtv.workers.dev/?ID=3544
 #EXTINF:-1 tvg-id="suspilne-lutsk-hd" tvg-name="Суспільне Луцьк HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3578.jpg",Суспільне Луцьк HD
-http://tv.you.workers.dev/?ID=3578
+http://live.youtv.workers.dev/?ID=3578
 #EXTINF:-1 tvg-id="iceland-hd" tvg-name="Ісландія HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3579.jpg",Ісландія HD
-http://tv.you.workers.dev/?ID=3579
+http://live.youtv.workers.dev/?ID=3579
 #EXTINF:-1 tvg-id="suspilne-cherkasi-hd" tvg-name="Суспільне Черкаси HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3580.jpg",Суспільне Черкаси HD
-http://tv.you.workers.dev/?ID=3580
+http://live.youtv.workers.dev/?ID=3580
 #EXTINF:-1 tvg-id="suspilne-sumy-hd" tvg-name="Суспільне Суми HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3581.jpg",Суспільне Суми HD
-http://tv.you.workers.dev/?ID=3581
+http://live.youtv.workers.dev/?ID=3581
 #EXTINF:-1 tvg-id="suspilne-ternopil-hd" tvg-name="Суспільне Тернопіль HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3582.jpg",Суспільне Тернопіль HD
-http://tv.you.workers.dev/?ID=3582
+http://live.youtv.workers.dev/?ID=3582
 #EXTINF:-1 tvg-id="suspilne-mykolaiv-hd" tvg-name="Суспільне Миколаїв HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3583.jpg",Суспільне Миколаїв HD
-http://tv.you.workers.dev/?ID=3583
+http://live.youtv.workers.dev/?ID=3583
 #EXTINF:-1 tvg-id="suspilne-khmelnitskiy-hd" tvg-name="Суспільне Хмельницький HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3584.jpg",Суспільне Хмельницький HD
-http://tv.you.workers.dev/?ID=3584
+http://live.youtv.workers.dev/?ID=3584
 #EXTINF:-1 tvg-id="suspilne-kherson-hd" tvg-name="Суспільне Херсон HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3585.jpg",Суспільне Херсон HD
-http://tv.you.workers.dev/?ID=3585
+http://live.youtv.workers.dev/?ID=3585
 #EXTINF:-1 tvg-id="suspilne-ivano-frankivsk-hd" tvg-name="Суспільне Івано-Франківськ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3586.jpg",Суспільне Івано-Франківськ HD
-http://tv.you.workers.dev/?ID=3586
+http://live.youtv.workers.dev/?ID=3586
 #EXTINF:-1 tvg-id="suspilne-kropivnitsky-hd" tvg-name="Суспільне Кропивницький HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3587.jpg",Суспільне Кропивницький HD
-http://tv.you.workers.dev/?ID=3587
+http://live.youtv.workers.dev/?ID=3587
 #EXTINF:-1 tvg-id="apostrof-tv-hd" tvg-name="Апостроф TV HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3588.jpg",Апостроф TV HD
-http://tv.you.workers.dev/?ID=3588
+http://live.youtv.workers.dev/?ID=3588
 #EXTINF:-1 tvg-id="eko-tv-hd" tvg-name="ЕКО TV HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3589.jpg",ЕКО TV HD
-http://tv.you.workers.dev/?ID=3589
+http://live.youtv.workers.dev/?ID=3589
 #EXTINF:-1 tvg-id="nta" tvg-name="NTA" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3596.jpg",NTA
-http://tv.you.workers.dev/?ID=3596
+http://live.youtv.workers.dev/?ID=3596
 #EXTINF:-1 tvg-id="carsandstars-hd" tvg-name="Cars & Stars HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3598.jpg",Cars & Stars HD
-http://tv.you.workers.dev/?ID=3598
+http://live.youtv.workers.dev/?ID=3598
 #EXTINF:-1 tvg-id="aqua-stream" tvg-name="AquaStream HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3601.jpg",AquaStream HD
-http://tv.you.workers.dev/?ID=3601
+http://live.youtv.workers.dev/?ID=3601
 #EXTINF:-1 tvg-id="transmissia-hd" tvg-name="ТрансМісія HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3602.jpg",ТрансМісія HD
-http://tv.you.workers.dev/?ID=3602
+http://live.youtv.workers.dev/?ID=3602
 #EXTINF:-1 tvg-id="catastrofa-online-hd" tvg-name="Катастрофа Online HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3603.jpg",Катастрофа Online HD
-http://tv.you.workers.dev/?ID=3603
+http://live.youtv.workers.dev/?ID=3603
 #EXTINF:-1 tvg-id="x-stream-hd" tvg-name="X-Stream HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3604.jpg",X-Stream HD
-http://tv.you.workers.dev/?ID=3604
+http://live.youtv.workers.dev/?ID=3604
 #EXTINF:-1 tvg-id="spacestream-hd" tvg-name="SpaceStream HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3605.jpg",SpaceStream HD
-http://tv.you.workers.dev/?ID=3605
+http://live.youtv.workers.dev/?ID=3605
 #EXTINF:-1 tvg-id="profact-hd" tvg-name="ProФакт HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3606.jpg",ProФакт HD
-http://tv.you.workers.dev/?ID=3606
+http://live.youtv.workers.dev/?ID=3606
 #EXTINF:-1 tvg-id="ecosystem-hd" tvg-name="Екосистема HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3607.jpg",Екосистема HD
-http://tv.you.workers.dev/?ID=3607
+http://live.youtv.workers.dev/?ID=3607
 #EXTINF:-1 tvg-id="relaxon-hd" tvg-name="RelaxON HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3608.jpg",RelaxON HD
-http://tv.you.workers.dev/?ID=3608
+http://live.youtv.workers.dev/?ID=3608
 #EXTINF:-1 tvg-id="camin-hd" tvg-name="Камін HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3609.jpg",Камін HD
-http://tv.you.workers.dev/?ID=3609
+http://live.youtv.workers.dev/?ID=3609
 #EXTINF:-1 tvg-id="zooztream-hd" tvg-name="ZooStream HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3610.jpg",ZooStream HD
-http://tv.you.workers.dev/?ID=3610
+http://live.youtv.workers.dev/?ID=3610
 #EXTINF:-1 tvg-id="multstream-hd" tvg-name="MultStream HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3611.jpg",MultStream HD
-http://tv.you.workers.dev/?ID=3611
+http://live.youtv.workers.dev/?ID=3611
 #EXTINF:-1 tvg-id="streamcity-hd" tvg-name="StreamCity HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3612.jpg",StreamCity HD
-http://tv.you.workers.dev/?ID=3612
+http://live.youtv.workers.dev/?ID=3612
 #EXTINF:-1 tvg-id="prostogame-hd" tvg-name="ProstoGame HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3613.jpg",ProstoGame HD
-http://tv.you.workers.dev/?ID=3613
+http://live.youtv.workers.dev/?ID=3613
 #EXTINF:-1 tvg-id="traileron-hd" tvg-name="TrailerON HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3614.jpg",TrailerON HD
-http://tv.you.workers.dev/?ID=3614
+http://live.youtv.workers.dev/?ID=3614
 #EXTINF:-1 tvg-id="recreation-hd" tvg-name="RecreatiON HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3615.jpg",RecreatiON HD
-http://tv.you.workers.dev/?ID=3615
+http://live.youtv.workers.dev/?ID=3615
 #EXTINF:-1 tvg-id="aquarium-hd" tvg-name="Aquarium HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3616.jpg",Aquarium HD
-http://tv.you.workers.dev/?ID=3616
+http://live.youtv.workers.dev/?ID=3616
 #EXTINF:-1 tvg-id="prostodrive-hd" tvg-name="ProstoDrive HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3617.jpg",ProstoDrive HD
-http://tv.you.workers.dev/?ID=3617
+http://live.youtv.workers.dev/?ID=3617
 #EXTINF:-1 tvg-id="inrating-hd" tvg-name="InRating HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3618.jpg",InRating HD
-http://tv.you.workers.dev/?ID=3618
+http://live.youtv.workers.dev/?ID=3618
 #EXTINF:-1 tvg-id="provence" tvg-name="Provence" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3627.jpg",Provence
-http://tv.you.workers.dev/?ID=3627
+http://live.youtv.workers.dev/?ID=3627
 #EXTINF:-1 tvg-id="inter-hd" tvg-name="Інтер HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3655.jpg",Інтер HD
-http://tv.you.workers.dev/?ID=3655
+http://live.youtv.workers.dev/?ID=3655
 #EXTINF:-1 tvg-id="pixel-hd" tvg-name="Піксель TV HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3656.jpg",Піксель TV HD
-http://tv.you.workers.dev/?ID=3656
+http://live.youtv.workers.dev/?ID=3656
 #EXTINF:-1 tvg-id="ntn-hd" tvg-name="НТН HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3657.jpg",НТН HD
-http://tv.you.workers.dev/?ID=3657
+http://live.youtv.workers.dev/?ID=3657
 #EXTINF:-1 tvg-id="k1-hd" tvg-name="К1 HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3658.jpg",К1 HD
-http://tv.you.workers.dev/?ID=3658
+http://live.youtv.workers.dev/?ID=3658
 #EXTINF:-1 tvg-id="k2-hd" tvg-name="К2 HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3659.jpg",К2 HD
-http://tv.you.workers.dev/?ID=3659
+http://live.youtv.workers.dev/?ID=3659
 #EXTINF:-1 tvg-id="mega-hd" tvg-name="Мега HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3660.jpg",Мега HD
-http://tv.you.workers.dev/?ID=3660
+http://live.youtv.workers.dev/?ID=3660
 #EXTINF:-1 tvg-id="zoom-hd" tvg-name="Zoom HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3661.jpg",Zoom HD
-http://tv.you.workers.dev/?ID=3661
+http://live.youtv.workers.dev/?ID=3661
 #EXTINF:-1 tvg-id="enterfilm-hd" tvg-name="Enter-фільм HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3662.jpg",Enter-фільм HD
-http://tv.you.workers.dev/?ID=3662
+http://live.youtv.workers.dev/?ID=3662
 #EXTINF:-1 tvg-id="kinokazka-hd" tvg-name="KinoKazka HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3666.jpg",KinoKazka HD
-http://tv.you.workers.dev/?ID=3666
+http://live.youtv.workers.dev/?ID=3666
 #EXTINF:-1 tvg-id="black-hd" tvg-name="Black HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3667.jpg",Black HD
-http://tv.you.workers.dev/?ID=3667
+http://live.youtv.workers.dev/?ID=3667
 #EXTINF:-1 tvg-id="7-kanal" tvg-name="7 канал" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3668.jpg",7 канал
-http://tv.you.workers.dev/?ID=3668
+http://live.youtv.workers.dev/?ID=3668
 #EXTINF:-1 tvg-id="1tvkr" tvg-name="Первый городской HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3678.jpg",Первый городской HD
-http://tv.you.workers.dev/?ID=3678
+http://live.youtv.workers.dev/?ID=3678
 #EXTINF:-1 tvg-id="mtm" tvg-name="МТМ Запоріжжя" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3679.jpg",МТМ Запоріжжя
-http://tv.you.workers.dev/?ID=3679
+http://live.youtv.workers.dev/?ID=3679
 #EXTINF:-1 tvg-id="mart-hd" tvg-name="Март HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3680.jpg",Март HD
-http://tv.you.workers.dev/?ID=3680
+http://live.youtv.workers.dev/?ID=3680
 #EXTINF:-1 tvg-id="koncurent" tvg-name="Конкурент" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3685.jpg",Конкурент
-http://tv.you.workers.dev/?ID=3685
+http://live.youtv.workers.dev/?ID=3685
 #EXTINF:-1 tvg-id="equalympic-hd" tvg-name="Equalympic HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3688.jpg",Equalympic HD
-http://tv.you.workers.dev/?ID=3688
+http://live.youtv.workers.dev/?ID=3688
 #EXTINF:-1 tvg-id="dom-hd" tvg-name="Дім HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3689.jpg",Дім HD
-http://tv.you.workers.dev/?ID=3689
+http://live.youtv.workers.dev/?ID=3689
 #EXTINF:-1 tvg-id="classic-music" tvg-name="Classic Music" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3696.jpg",Classic Music
-http://tv.you.workers.dev/?ID=3696
+http://live.youtv.workers.dev/?ID=3696
 #EXTINF:-1 tvg-id="mirgorod" tvg-name="Миргород" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3700.jpg",Миргород
-http://tv.you.workers.dev/?ID=3700
+http://live.youtv.workers.dev/?ID=3700
 #EXTINF:-1 tvg-id="tva" tvg-name="TVA" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3707.jpg",TVA
-http://tv.you.workers.dev/?ID=3707
+http://live.youtv.workers.dev/?ID=3707
 #EXTINF:-1 tvg-id="prosto-zima-hd" tvg-name="Просто Зима HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3709.jpg",Просто Зима HD
-http://tv.you.workers.dev/?ID=3709
+http://live.youtv.workers.dev/?ID=3709
 #EXTINF:-1 tvg-id="prosto-relax-hd" tvg-name="Просто Релакс HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3710.jpg",Просто Релакс HD
-http://tv.you.workers.dev/?ID=3710
+http://live.youtv.workers.dev/?ID=3710
 #EXTINF:-1 tvg-id="xsport-plus-hd" tvg-name="Xsport+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3711.jpg",Xsport+ HD
-http://tv.you.workers.dev/?ID=3711
+http://live.youtv.workers.dev/?ID=3711
 #EXTINF:-1 tvg-id="prosto-waterfall-hd" tvg-name="Просто Водоспад HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3713.jpg",Просто Водоспад HD
-http://tv.you.workers.dev/?ID=3713
+http://live.youtv.workers.dev/?ID=3713
 #EXTINF:-1 tvg-id="utravel-hd" tvg-name="Utravel HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3715.jpg",Utravel HD
-http://tv.you.workers.dev/?ID=3715
+http://live.youtv.workers.dev/?ID=3715
 #EXTINF:-1 tvg-id="prosto-les-hd" tvg-name="Просто Ліс HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3716.jpg",Просто Ліс HD
-http://tv.you.workers.dev/?ID=3716
+http://live.youtv.workers.dev/?ID=3716
 #EXTINF:-1 tvg-id="top-seriali" tvg-name="Топ Серіали" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3718.jpg",Топ Серіали
-http://tv.you.workers.dev/?ID=3718
+http://live.youtv.workers.dev/?ID=3718
 #EXTINF:-1 tvg-id="no-comments-hd" tvg-name="NO COMMENTS HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3721.jpg",NO COMMENTS HD
-http://tv.you.workers.dev/?ID=3721
+http://live.youtv.workers.dev/?ID=3721
 #EXTINF:-1 tvg-id="chronicle-of-war-hd" tvg-name="Хроніка Війни HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3722.jpg",Хроніка Війни HD
-http://tv.you.workers.dev/?ID=3722
+http://live.youtv.workers.dev/?ID=3722
 #EXTINF:-1 tvg-id="prosto-vogon-hd" tvg-name="Просто Вогонь HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3723.jpg",Просто Вогонь HD
-http://tv.you.workers.dev/?ID=3723
+http://live.youtv.workers.dev/?ID=3723
 #EXTINF:-1 tvg-id="prosto-tropiki-hd" tvg-name="Просто Тропіки HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3724.jpg",Просто Тропіки HD
-http://tv.you.workers.dev/?ID=3724
+http://live.youtv.workers.dev/?ID=3724
 #EXTINF:-1 tvg-id="prosto-terasa-hd" tvg-name="Просто Тераса HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3725.jpg",Просто Тераса HD
-http://tv.you.workers.dev/?ID=3725
+http://live.youtv.workers.dev/?ID=3725
 #EXTINF:-1 tvg-id="prosto-osin-hd" tvg-name="Просто Осінь HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3726.jpg",Просто Осінь HD
-http://tv.you.workers.dev/?ID=3726
+http://live.youtv.workers.dev/?ID=3726
 #EXTINF:-1 tvg-id="prosto-rika-hd" tvg-name="Просто Ріка HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3727.jpg",Просто Ріка HD
-http://tv.you.workers.dev/?ID=3727
+http://live.youtv.workers.dev/?ID=3727
 #EXTINF:-1 tvg-id="prosto-junhli-hd" tvg-name="Просто Джунглі HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3728.jpg",Просто Джунглі HD
-http://tv.you.workers.dev/?ID=3728
+http://live.youtv.workers.dev/?ID=3728
 #EXTINF:-1 tvg-id="pershyi-podilskyi" tvg-name="Перший Подільський" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3729.jpg",Перший Подільський
-http://tv.you.workers.dev/?ID=3729
+http://live.youtv.workers.dev/?ID=3729
 #EXTINF:-1 tvg-id="prosto-gory-hd" tvg-name="Просто Гори HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3730.jpg",Просто Гори HD
-http://tv.you.workers.dev/?ID=3730
+http://live.youtv.workers.dev/?ID=3730
 #EXTINF:-1 tvg-id="prosto-ozero-hd" tvg-name="Просто Озеро HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3731.jpg",Просто Озеро HD
-http://tv.you.workers.dev/?ID=3731
+http://live.youtv.workers.dev/?ID=3731
 #EXTINF:-1 tvg-id="prosto-mult-hd" tvg-name="Повний Мульт HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3732.jpg",Повний Мульт HD
-http://tv.you.workers.dev/?ID=3732
+http://live.youtv.workers.dev/?ID=3732
 #EXTINF:-1 tvg-id="prosto-fishing-hd" tvg-name="Prosto Fishing HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3733.jpg",Prosto Fishing HD
-http://tv.you.workers.dev/?ID=3733
+http://live.youtv.workers.dev/?ID=3733
 #EXTINF:-1 tvg-id="prosto-waterpool-hd" tvg-name="Просто Басейн HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3734.jpg",Просто Басейн HD
-http://tv.you.workers.dev/?ID=3734
+http://live.youtv.workers.dev/?ID=3734
 #EXTINF:-1 tvg-id="4ever-cinema-hd" tvg-name="4ever Cinema HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3737.jpg",4ever Cinema HD
-http://tv.you.workers.dev/?ID=3737
+http://live.youtv.workers.dev/?ID=3737
 #EXTINF:-1 tvg-id="travel-xp-hd" tvg-name="Travel XP HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3738.jpg",Travel XP HD
-http://tv.you.workers.dev/?ID=3738
+http://live.youtv.workers.dev/?ID=3738
 #EXTINF:-1 tvg-id="kraevid-hd" tvg-name="Краєвид HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3740.jpg",Краєвид HD
-http://tv.you.workers.dev/?ID=3740
+http://live.youtv.workers.dev/?ID=3740
 #EXTINF:-1 tvg-id="prosto-beach-hd" tvg-name="Просто Пляж HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3741.jpg",Просто Пляж HD
-http://tv.you.workers.dev/?ID=3741
+http://live.youtv.workers.dev/?ID=3741
 #EXTINF:-1 tvg-id="flora-hd" tvg-name="Флора HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3770.jpg",Флора HD
-http://tv.you.workers.dev/?ID=3770
+http://live.youtv.workers.dev/?ID=3770
 #EXTINF:-1 tvg-id="fox-life-hd" tvg-name="FX Life HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3771.jpg",FX Life HD
-http://tv.you.workers.dev/?ID=3771
+http://live.youtv.workers.dev/?ID=3771
 #EXTINF:-1 tvg-id="prosto-sad-hd" tvg-name="Просто Сад HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3772.jpg",Просто Сад HD
-http://tv.you.workers.dev/?ID=3772
+http://live.youtv.workers.dev/?ID=3772
 #EXTINF:-1 tvg-id="cine-hit-hd" tvg-name="Cine+ Hit HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3776.jpg",Cine+ Hit HD
-http://tv.you.workers.dev/?ID=3776
+http://live.youtv.workers.dev/?ID=3776
 #EXTINF:-1 tvg-id="cine-kids-hd" tvg-name="Cine+ Kids HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3777.jpg",Cine+ Kids HD
-http://tv.you.workers.dev/?ID=3777
+http://live.youtv.workers.dev/?ID=3777
 #EXTINF:-1 tvg-id="continent-e-hd" tvg-name="Continent E HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3778.jpg",Continent E HD
-http://tv.you.workers.dev/?ID=3778
+http://live.youtv.workers.dev/?ID=3778
 #EXTINF:-1 tvg-id="trainstream-hd" tvg-name="TrainStream HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3779.jpg",TrainStream HD
-http://tv.you.workers.dev/?ID=3779
+http://live.youtv.workers.dev/?ID=3779
 #EXTINF:-1 tvg-id="palaie-kreml-hd" tvg-name="ПАЛАЄ кремль HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3780.jpg",ПАЛАЄ кремль HD
-http://tv.you.workers.dev/?ID=3780
+http://live.youtv.workers.dev/?ID=3780
 #EXTINF:-1 tvg-id="moskva-palaie-hd" tvg-name="москва ПАЛАЄ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3781.jpg",москва ПАЛАЄ HD
-http://tv.you.workers.dev/?ID=3781
+http://live.youtv.workers.dev/?ID=3781
 #EXTINF:-1 tvg-id="Krymskyimist-hd" tvg-name="Кримський міст у ВОГНІ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3782.jpg",Кримський міст у ВОГНІ HD
-http://tv.you.workers.dev/?ID=3782
+http://live.youtv.workers.dev/?ID=3782
 #EXTINF:-1 tvg-id="aviastream-hd" tvg-name="Aviastream HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3783.jpg",Aviastream HD
-http://tv.you.workers.dev/?ID=3783
+http://live.youtv.workers.dev/?ID=3783
 #EXTINF:-1 tvg-id="nashe-lyubimoe-kino-hd" tvg-name="Наше улюблене кіно HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3788.jpg",Наше улюблене кіно HD
-http://tv.you.workers.dev/?ID=3788
+http://live.youtv.workers.dev/?ID=3788
 #EXTINF:-1 tvg-id="oneplanet-hd" tvg-name="OnePlanet HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3789.jpg",OnePlanet HD
-http://tv.you.workers.dev/?ID=3789
+http://live.youtv.workers.dev/?ID=3789
 #EXTINF:-1 tvg-id="ictv2-hd" tvg-name="ICTV2 HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3790.jpg",ICTV2 HD
-http://tv.you.workers.dev/?ID=3790
+http://live.youtv.workers.dev/?ID=3790
 #EXTINF:-1 tvg-id="1plus1-ukraine" tvg-name="1+1 Україна HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3793.jpg",1+1 Україна HD
-http://tv.you.workers.dev/?ID=3793
+http://live.youtv.workers.dev/?ID=3793
 #EXTINF:-1 tvg-id="medychnyi-hd" tvg-name="Медичний HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3794.jpg",Медичний HD
-http://tv.you.workers.dev/?ID=3794
+http://live.youtv.workers.dev/?ID=3794
 #EXTINF:-1 tvg-id="muzvartv-hd" tvg-name="MUZVAR TV HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3795.jpg",MUZVAR TV HD
-http://tv.you.workers.dev/?ID=3795
+http://live.youtv.workers.dev/?ID=3795
 #EXTINF:-1 tvg-id="prosto-night-hd" tvg-name="Prosto Night HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3796.jpg",Prosto Night HD
-http://tv.you.workers.dev/?ID=3796
+http://live.youtv.workers.dev/?ID=3796
 #EXTINF:-1 tvg-id="4ever-theater-hd" tvg-name="4ever Theater HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3797.jpg",4ever Theater HD
-http://tv.you.workers.dev/?ID=3797
+http://live.youtv.workers.dev/?ID=3797
 #EXTINF:-1 tvg-id="4ever-drama-hd" tvg-name="4ever Drama HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3798.jpg",4ever Drama HD
-http://tv.you.workers.dev/?ID=3798
+http://live.youtv.workers.dev/?ID=3798
 #EXTINF:-1 tvg-id="uamusic-hd" tvg-name="UA Music HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3799.jpg",UA Music HD
-http://tv.you.workers.dev/?ID=3799
+http://live.youtv.workers.dev/?ID=3799
 #EXTINF:-1 tvg-id="kinoliving-hd" tvg-name="Kinoliving HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3800.jpg",Kinoliving HD
-http://tv.you.workers.dev/?ID=3800
+http://live.youtv.workers.dev/?ID=3800
 #EXTINF:-1 tvg-id="underwater-hd" tvg-name="Підводний світ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3801.jpg",Підводний світ HD
-http://tv.you.workers.dev/?ID=3801
+http://live.youtv.workers.dev/?ID=3801
 #EXTINF:-1 tvg-id="prostorain-hd" tvg-name="Просто Дощ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3802.jpg",Просто Дощ HD
-http://tv.you.workers.dev/?ID=3802
+http://live.youtv.workers.dev/?ID=3802
 #EXTINF:-1 tvg-id="prosto-ukraine-hd" tvg-name="Prosto Ukraine HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3803.jpg",Prosto Ukraine HD
-http://tv.you.workers.dev/?ID=3803
+http://live.youtv.workers.dev/?ID=3803
 #EXTINF:-1 tvg-id="polonyna-hd" tvg-name="Полонина HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3804.jpg",Полонина HD
-http://tv.you.workers.dev/?ID=3804
+http://live.youtv.workers.dev/?ID=3804
 #EXTINF:-1 tvg-id="ostwest24-hd" tvg-name="OstWest24 HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3805.jpg",OstWest24 HD
-http://tv.you.workers.dev/?ID=3805
+http://live.youtv.workers.dev/?ID=3805
 #EXTINF:-1 tvg-id="viva-latino-hd" tvg-name="Viva Latino HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3806.jpg",Viva Latino HD
-http://tv.you.workers.dev/?ID=3806
+http://live.youtv.workers.dev/?ID=3806
 #EXTINF:-1 tvg-id="cine-legend" tvg-name="Cine+ Legend" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3809.jpg",Cine+ Legend
-http://tv.you.workers.dev/?ID=3809
+http://live.youtv.workers.dev/?ID=3809
 #EXTINF:-1 tvg-id="cine-hd" tvg-name="Cine+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3812.jpg",Cine+ HD
-http://tv.you.workers.dev/?ID=3812
+http://live.youtv.workers.dev/?ID=3812
 #EXTINF:-1 tvg-id="wildtv-hd" tvg-name="WILD TV HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3813.jpg",WILD TV HD
-http://tv.you.workers.dev/?ID=3813
+http://live.youtv.workers.dev/?ID=3813
 #EXTINF:-1 tvg-id="kinowood-hd" tvg-name="KINOWOOD HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3814.jpg",KINOWOOD HD
-http://tv.you.workers.dev/?ID=3814
+http://live.youtv.workers.dev/?ID=3814
 #EXTINF:-1 tvg-id="army-tv" tvg-name="Армія ТБ" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3921.jpg",Армія ТБ
-http://tv.you.workers.dev/?ID=3921
+http://live.youtv.workers.dev/?ID=3921
 #EXTINF:-1 tvg-id="my-ukraina" tvg-name="Ми — Україна" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3922.jpg",Ми — Україна
-http://tv.you.workers.dev/?ID=3922
+http://live.youtv.workers.dev/?ID=3922
 #EXTINF:-1 tvg-id="upl-tv" tvg-name="UPL.TV HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3950.jpg",UPL.TV HD
-http://tv.you.workers.dev/?ID=3950
+http://live.youtv.workers.dev/?ID=3950
 #EXTINF:-1 tvg-id="prosto-park-hd" tvg-name="Prosto Park HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3953.jpg",Prosto Park HD
-http://tv.you.workers.dev/?ID=3953
+http://live.youtv.workers.dev/?ID=3953
 #EXTINF:-1 tvg-id="kinosweet-hd" tvg-name="Kinosweet HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3954.jpg",Kinosweet HD
-http://tv.you.workers.dev/?ID=3954
+http://live.youtv.workers.dev/?ID=3954
 #EXTINF:-1 tvg-id="suspilne-sport-hd" tvg-name="Суспільне Спорт 4K" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3960.jpg",Суспільне Спорт 4K
-http://tv.you.workers.dev/?ID=3960
+http://live.youtv.workers.dev/?ID=3960
 #EXTINF:-1 tvg-id="divisport-hd" tvg-name="DIVISPORT HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3961.jpg",DIVISPORT HD
-http://tv.you.workers.dev/?ID=3961
+http://live.youtv.workers.dev/?ID=3961
 #EXTINF:-1 tvg-id="rivne-1" tvg-name="Рівне-1" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3964.jpg",Рівне-1
-http://tv.you.workers.dev/?ID=3964
+http://live.youtv.workers.dev/?ID=3964
 #EXTINF:-1 tvg-id="region" tvg-name="D1" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3966.jpg",D1
-http://tv.you.workers.dev/?ID=3966
+http://live.youtv.workers.dev/?ID=3966
 #EXTINF:-1 tvg-id="sfera-tv" tvg-name="Сфера ТВ" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3967.jpg",Сфера ТВ
-http://tv.you.workers.dev/?ID=3967
+http://live.youtv.workers.dev/?ID=3967
 #EXTINF:-1 tvg-id="dnipro-tv" tvg-name="ДніпроTV" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3968.jpg",ДніпроTV
-http://tv.you.workers.dev/?ID=3968
+http://live.youtv.workers.dev/?ID=3968
 #EXTINF:-1 tvg-id="irt-poltava" tvg-name="ІРТ Полтава" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3969.jpg",ІРТ Полтава
-http://tv.you.workers.dev/?ID=3969
+http://live.youtv.workers.dev/?ID=3969
 #EXTINF:-1 tvg-id="misto-plus" tvg-name="Місто+" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3970.jpg",Місто+
-http://tv.you.workers.dev/?ID=3970
+http://live.youtv.workers.dev/?ID=3970
 #EXTINF:-1 tvg-id="11channel" tvg-name="11 Канал" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3971.jpg",11 Канал
-http://tv.you.workers.dev/?ID=3971
+http://live.youtv.workers.dev/?ID=3971
 #EXTINF:-1 tvg-id="itv" tvg-name="itv" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3972.jpg",itv
-http://tv.you.workers.dev/?ID=3972
+http://live.youtv.workers.dev/?ID=3972
 #EXTINF:-1 tvg-id="poltavsketv" tvg-name="poltavske.tv" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3973.jpg",poltavske.tv
-http://tv.you.workers.dev/?ID=3973
+http://live.youtv.workers.dev/?ID=3973
 #EXTINF:-1 tvg-id="videkon" tvg-name="Відікон" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3976.jpg",Відікон
-http://tv.you.workers.dev/?ID=3976
+http://live.youtv.workers.dev/?ID=3976
 #EXTINF:-1 tvg-id="irt" tvg-name="ІРТ" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3980.jpg",ІРТ
-http://tv.you.workers.dev/?ID=3980
+http://live.youtv.workers.dev/?ID=3980
 #EXTINF:-1 tvg-id="zoosweet-hd" tvg-name="Zoosweet HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3982.jpg",Zoosweet HD
-http://tv.you.workers.dev/?ID=3982
+http://live.youtv.workers.dev/?ID=3982
 #EXTINF:-1 tvg-id="dorama-plus-hd" tvg-name="Dorama Hit HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3995.jpg",Dorama Hit HD
-http://tv.you.workers.dev/?ID=3995
+http://live.youtv.workers.dev/?ID=3995
 #EXTINF:-1 tvg-id="flixsnip-hd" tvg-name="FlixSnip HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3996.jpg",FlixSnip HD
-http://tv.you.workers.dev/?ID=3996
+http://live.youtv.workers.dev/?ID=3996
 #EXTINF:-1 tvg-id="orel-reshka-hd" tvg-name="Орел & Решка+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/3999.jpg",Орел & Решка+ HD
-http://tv.you.workers.dev/?ID=3999
+http://live.youtv.workers.dev/?ID=3999
 #EXTINF:-1 tvg-id="veshdoc-hd" tvg-name="Речдок+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4000.jpg",Речдок+ HD
-http://tv.you.workers.dev/?ID=4000
+http://live.youtv.workers.dev/?ID=4000
 #EXTINF:-1 tvg-id="kino-serial-plus-hd" tvg-name="Кіно та серіали+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4001.jpg",Кіно та серіали+ HD
-http://tv.you.workers.dev/?ID=4001
+http://live.youtv.workers.dev/?ID=4001
 #EXTINF:-1 tvg-id="svit-navkolo-hd" tvg-name="Світ Навколо HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4002.jpg",Світ Навколо HD
-http://tv.you.workers.dev/?ID=4002
+http://live.youtv.workers.dev/?ID=4002
 #EXTINF:-1 tvg-id="viasat-serial-hd" tvg-name="Viasat Serial HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4003.jpg",Viasat Serial HD
-http://tv.you.workers.dev/?ID=4003
+http://live.youtv.workers.dev/?ID=4003
 #EXTINF:-1 tvg-id="horsetv-hd" tvg-name="Horse TV HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4006.jpg",Horse TV HD
-http://tv.you.workers.dev/?ID=4006
+http://live.youtv.workers.dev/?ID=4006
 #EXTINF:-1 tvg-id="one-planet-plus-hd" tvg-name="One Planet+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4014.jpg",One Planet+ HD
-http://tv.you.workers.dev/?ID=4014
+http://live.youtv.workers.dev/?ID=4014
 #EXTINF:-1 tvg-id="tvіi-serіal-hd" tvg-name="Твій серіал HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4020.jpg",Твій серіал HD
-http://tv.you.workers.dev/?ID=4020
+http://live.youtv.workers.dev/?ID=4020
 #EXTINF:-1 tvg-id="hotuiemo-razom-hd" tvg-name="Готуємо разом+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4039.jpg",Готуємо разом+ HD
-http://tv.you.workers.dev/?ID=4039
+http://live.youtv.workers.dev/?ID=4039
 #EXTINF:-1 tvg-id="stosuietsia-kozhnoho-hd" tvg-name="Стосується кожного+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4045.jpg",Стосується кожного+ HD
-http://tv.you.workers.dev/?ID=4045
+http://live.youtv.workers.dev/?ID=4045
 #EXTINF:-1 tvg-id="my-ukrainaplus-hd" tvg-name="Ми — Україна+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4053.jpg",Ми — Україна+ HD
-http://tv.you.workers.dev/?ID=4053
+http://live.youtv.workers.dev/?ID=4053
 #EXTINF:-1 tvg-id="upl-tv1" tvg-name="UPL.TV 1 HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4062.jpg",UPL.TV 1 HD
-http://tv.you.workers.dev/?ID=4062
+http://live.youtv.workers.dev/?ID=4062
 #EXTINF:-1 tvg-id="upl-tv2" tvg-name="UPL.TV 2 HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4063.jpg",UPL.TV 2 HD
-http://tv.you.workers.dev/?ID=4063
+http://live.youtv.workers.dev/?ID=4063
 #EXTINF:-1 tvg-id="upl-tv3" tvg-name="UPL.TV 3 HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4064.jpg",UPL.TV 3 HD
-http://tv.you.workers.dev/?ID=4064
+http://live.youtv.workers.dev/?ID=4064
 #EXTINF:-1 tvg-id="svit-navyvorit-hd" tvg-name="Світ навиворіт+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4076.jpg",Світ навиворіт+ HD
-http://tv.you.workers.dev/?ID=4076
+http://live.youtv.workers.dev/?ID=4076
 #EXTINF:-1 tvg-id="humor-hd" tvg-name="Гумор+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4077.jpg",Гумор+ HD
-http://tv.you.workers.dev/?ID=4077
+http://live.youtv.workers.dev/?ID=4077
 #EXTINF:-1 tvg-id="zhvl-hd" tvg-name="ЖВЛ+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4078.jpg",ЖВЛ+ HD
-http://tv.you.workers.dev/?ID=4078
+http://live.youtv.workers.dev/?ID=4078
 #EXTINF:-1 tvg-id="zahublenyy-svit-hd" tvg-name="Загублений світ+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4079.jpg",Загублений світ+ HD
-http://tv.you.workers.dev/?ID=4079
+http://live.youtv.workers.dev/?ID=4079
 #EXTINF:-1 tvg-id="odruzhennya-naoslip-hd" tvg-name="Одруження наосліп+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4080.jpg",Одруження наосліп+ HD
-http://tv.you.workers.dev/?ID=4080
+http://live.youtv.workers.dev/?ID=4080
 #EXTINF:-1 tvg-id="оper-za-vyklykom-hd" tvg-name="Опер за викликом+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4081.jpg",Опер за викликом+ HD
-http://tv.you.workers.dev/?ID=4081
+http://live.youtv.workers.dev/?ID=4081
 #EXTINF:-1 tvg-id="panyanka-selyanka-hd" tvg-name="Панянка-селянка+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4082.jpg",Панянка-селянка+ HD
-http://tv.you.workers.dev/?ID=4082
+http://live.youtv.workers.dev/?ID=4082
 #EXTINF:-1 tvg-id="simeyni-melodramy-hd" tvg-name="Сімейні мелодрами+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4083.jpg",Сімейні мелодрами+ HD
-http://tv.you.workers.dev/?ID=4083
+http://live.youtv.workers.dev/?ID=4083
 #EXTINF:-1 tvg-id="protses-hd" tvg-name="Процес HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4094.jpg",Процес HD
-http://tv.you.workers.dev/?ID=4094
+http://live.youtv.workers.dev/?ID=4094
 #EXTINF:-1 tvg-id="ictv-serial-hd" tvg-name="ICTV серіали HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4095.jpg",ICTV серіали HD
-http://tv.you.workers.dev/?ID=4095
+http://live.youtv.workers.dev/?ID=4095
 #EXTINF:-1 tvg-id="slidstvo-vedut-ekstrasensy-hd" tvg-name="Слідство ведуть екстрасенси HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4121.jpg",Слідство ведуть екстрасенси HD
-http://tv.you.workers.dev/?ID=4121
+http://live.youtv.workers.dev/?ID=4121
 #EXTINF:-1 tvg-id="supermom-hd" tvg-name="Супермама HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4127.jpg",Супермама HD
-http://tv.you.workers.dev/?ID=4127
+http://live.youtv.workers.dev/?ID=4127
 #EXTINF:-1 tvg-id="time-machine-hd" tvg-name="Машина часу HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4128.jpg",Машина часу HD
-http://tv.you.workers.dev/?ID=4128
+http://live.youtv.workers.dev/?ID=4128
 #EXTINF:-1 tvg-id="unfictional-stories-hd" tvg-name="Невигадані історії HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4129.jpg",Невигадані історії HD
-http://tv.you.workers.dev/?ID=4129
+http://live.youtv.workers.dev/?ID=4129
 #EXTINF:-1 tvg-id="tinyteen-hd" tvg-name="TinyTeen HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4130.jpg",TinyTeen HD
-http://tv.you.workers.dev/?ID=4130
+http://live.youtv.workers.dev/?ID=4130
 #EXTINF:-1 tvg-id="langlab-hd" tvg-name="LangLab HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4131.jpg",LangLab HD
-http://tv.you.workers.dev/?ID=4131
+http://live.youtv.workers.dev/?ID=4131
 #EXTINF:-1 tvg-id="lingotoons-hd" tvg-name="LingoToons HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4132.jpg",LingoToons HD
-http://tv.you.workers.dev/?ID=4132
+http://live.youtv.workers.dev/?ID=4132
 #EXTINF:-1 tvg-id="melodramy-hd" tvg-name="Мелодрами HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4133.jpg",Мелодрами HD
-http://tv.you.workers.dev/?ID=4133
+http://live.youtv.workers.dev/?ID=4133
 #EXTINF:-1 tvg-id="music-box-classic-hd" tvg-name="Music Box Classic HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4134.jpg",Music Box Classic HD
-http://tv.you.workers.dev/?ID=4134
+http://live.youtv.workers.dev/?ID=4134
 #EXTINF:-1 tvg-id="svit-plus-hd" tvg-name="Світ+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4136.jpg",Світ+ HD
-http://tv.you.workers.dev/?ID=4136
+http://live.youtv.workers.dev/?ID=4136
 #EXTINF:-1 tvg-id="odyn-za-vsikh-hd" tvg-name="Один за всіх HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4137.jpg",Один за всіх HD
-http://tv.you.workers.dev/?ID=4137
+http://live.youtv.workers.dev/?ID=4137
 #EXTINF:-1 tvg-id="pro-kyiv-hd" tvg-name="Про Київ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4138.jpg",Про Київ HD
-http://tv.you.workers.dev/?ID=4138
+http://live.youtv.workers.dev/?ID=4138
 #EXTINF:-1 tvg-id="tvoekino-action-hd" tvg-name="Твоє кіно Action HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4270.jpg",Твоє кіно Action HD
-http://tv.you.workers.dev/?ID=4270
+http://live.youtv.workers.dev/?ID=4270
 #EXTINF:-1 tvg-id="tvoekino-hit-hd" tvg-name="Твоє кіно Хіт HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4271.jpg",Твоє кіно Хіт HD
-http://tv.you.workers.dev/?ID=4271
+http://live.youtv.workers.dev/?ID=4271
 #EXTINF:-1 tvg-id="tvoekino-relax-hd" tvg-name="Твоє кіно Relax HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4272.jpg",Твоє кіно Relax HD
-http://tv.you.workers.dev/?ID=4272
+http://live.youtv.workers.dev/?ID=4272
 #EXTINF:-1 tvg-id="khronika-plus-hd" tvg-name="Хроніка+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4273.jpg",Хроніка+ HD
-http://tv.you.workers.dev/?ID=4273
+http://live.youtv.workers.dev/?ID=4273
 #EXTINF:-1 tvg-id="classic-movies-and-cartoons-hd" tvg-name="Classic Movies&Cartoons HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4276.jpg",Classic Movies&Cartoons HD
-http://tv.you.workers.dev/?ID=4276
+http://live.youtv.workers.dev/?ID=4276
 #EXTINF:-1 tvg-id="viasat-history-plus-hd" tvg-name="Viasat History Pro HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4277.jpg",Viasat History Pro HD
-http://tv.you.workers.dev/?ID=4277
+http://live.youtv.workers.dev/?ID=4277
 #EXTINF:-1 tvg-id="viasat-explore-plus-hd" tvg-name="Viasat Explore Pro HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4278.jpg",Viasat Explore Pro HD
-http://tv.you.workers.dev/?ID=4278
+http://live.youtv.workers.dev/?ID=4278
 #EXTINF:-1 tvg-id="viasat-nature-plus-hd" tvg-name="Viasat Nature Pro HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4279.jpg",Viasat Nature Pro HD
-http://tv.you.workers.dev/?ID=4279
+http://live.youtv.workers.dev/?ID=4279
 #EXTINF:-1 tvg-id="kriposna-hd" tvg-name="Кріпосна HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4280.jpg",Кріпосна HD
-http://tv.you.workers.dev/?ID=4280
+http://live.youtv.workers.dev/?ID=4280
 #EXTINF:-1 tvg-id="pes-hd" tvg-name="Пес HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4281.jpg",Пес HD
-http://tv.you.workers.dev/?ID=4281
+http://live.youtv.workers.dev/?ID=4281
 #EXTINF:-1 tvg-id="varyaty-hd" tvg-name="Варʼяти HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4282.jpg",Варʼяти HD
-http://tv.you.workers.dev/?ID=4282
+http://live.youtv.workers.dev/?ID=4282
 #EXTINF:-1 tvg-id="orel-i-reshka-morskyy-sezon-hd" tvg-name="Орел & Решка: Морський сезон HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4283.jpg",Орел & Решка: Морський сезон HD
-http://tv.you.workers.dev/?ID=4283
+http://live.youtv.workers.dev/?ID=4283
 #EXTINF:-1 tvg-id="veshdoc-1-hd" tvg-name="Речдок HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4284.jpg",Речдок HD
-http://tv.you.workers.dev/?ID=4284
+http://live.youtv.workers.dev/?ID=4284
 #EXTINF:-1 tvg-id="khashchi-hd" tvg-name="Хащі HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4285.jpg",Хащі HD
-http://tv.you.workers.dev/?ID=4285
+http://live.youtv.workers.dev/?ID=4285
 #EXTINF:-1 tvg-id="biographer-hd" tvg-name="Біографер HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4286.jpg",Біографер HD
-http://tv.you.workers.dev/?ID=4286
+http://live.youtv.workers.dev/?ID=4286
 #EXTINF:-1 tvg-id="lviv-ya-lyublyu-tv-hd" tvg-name="Львів. Я Люблю ТБ – канал Тараса Гаврика HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4287.jpg",Львів. Я Люблю ТБ – канал Тараса Гаврика HD
-http://tv.you.workers.dev/?ID=4287
+http://live.youtv.workers.dev/?ID=4287
 #EXTINF:-1 tvg-id="viktoryna-hd" tvg-name="Вікторина HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4288.jpg",Вікторина HD
-http://tv.you.workers.dev/?ID=4288
+http://live.youtv.workers.dev/?ID=4288
 #EXTINF:-1 tvg-id="znayem-24-hd" tvg-name="Знаєм 24 HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4289.jpg",Знаєм 24 HD
-http://tv.you.workers.dev/?ID=4289
+http://live.youtv.workers.dev/?ID=4289
 #EXTINF:-1 tvg-id="hollywood-glow-hd" tvg-name="Hollywood Glow HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4290.jpg",Hollywood Glow HD
-http://tv.you.workers.dev/?ID=4290
+http://live.youtv.workers.dev/?ID=4290
 #EXTINF:-1 tvg-id="family-is-hd" tvg-name="Family is HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4291.jpg",Family is HD
-http://tv.you.workers.dev/?ID=4291
+http://live.youtv.workers.dev/?ID=4291
 #EXTINF:-1 tvg-id="orel-i-reshka-morskyy-sezon-plus-hd" tvg-name="Орел & Решка: Морський сезон+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4292.jpg",Орел & Решка: Морський сезон+ HD
-http://tv.you.workers.dev/?ID=4292
+http://live.youtv.workers.dev/?ID=4292
 #EXTINF:-1 tvg-id="kriposna-plus-hd" tvg-name="Кріпосна+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4293.jpg",Кріпосна+ HD
-http://tv.you.workers.dev/?ID=4293
+http://live.youtv.workers.dev/?ID=4293
 #EXTINF:-1 tvg-id="orel-and-reshka-the-best-hd" tvg-name="Орел & Решка: The BEST HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4330.jpg",Орел & Решка: The BEST HD
-http://tv.you.workers.dev/?ID=4330
+http://live.youtv.workers.dev/?ID=4330
 #EXTINF:-1 tvg-id="rechdok-velyka-sprava-hd" tvg-name="Речдок: Велика справа HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4331.jpg",Речдок: Велика справа HD
-http://tv.you.workers.dev/?ID=4331
+http://live.youtv.workers.dev/?ID=4331
 #EXTINF:-1 tvg-id="khto-zna-shou-hd" tvg-name="Хто Зна Шоу HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4332.jpg",Хто Зна Шоу HD
-http://tv.you.workers.dev/?ID=4332
+http://live.youtv.workers.dev/?ID=4332
 #EXTINF:-1 tvg-id="orel-and-reshka-hd" tvg-name="Орел & Решка HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4333.jpg",Орел & Решка HD
-http://tv.you.workers.dev/?ID=4333
+http://live.youtv.workers.dev/?ID=4333
 #EXTINF:-1 tvg-id="classic-movies-and-cartoons-plus-hd" tvg-name="Classic Movies&Cartoons+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4334.jpg",Classic Movies&Cartoons+ HD
-http://tv.you.workers.dev/?ID=4334
+http://live.youtv.workers.dev/?ID=4334
 #EXTINF:-1 tvg-id="mistychni-istoriyi-hd" tvg-name="Містичні історії HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4335.jpg",Містичні історії HD
-http://tv.you.workers.dev/?ID=4335
+http://live.youtv.workers.dev/?ID=4335
 #EXTINF:-1 tvg-id="bardak-hd" tvg-name="Бардак HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4336.jpg",Бардак HD
-http://tv.you.workers.dev/?ID=4336
+http://live.youtv.workers.dev/?ID=4336
 #EXTINF:-1 tvg-id="humorhd" tvg-name="Гумор HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4337.jpg",Гумор HD
-http://tv.you.workers.dev/?ID=4337
+http://live.youtv.workers.dev/?ID=4337
 #EXTINF:-1 tvg-id="melodramy-plus-hd" tvg-name="Українські мелодрами HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4338.jpg",Українські мелодрами HD
-http://tv.you.workers.dev/?ID=4338
+http://live.youtv.workers.dev/?ID=4338
 #EXTINF:-1 tvg-id="medychni-serialy-hd" tvg-name="Медичні серіали HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4339.jpg",Медичні серіали HD
-http://tv.you.workers.dev/?ID=4339
+http://live.youtv.workers.dev/?ID=4339
 #EXTINF:-1 tvg-id="drama-hd" tvg-name="Драма HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4340.jpg",Драма HD
-http://tv.you.workers.dev/?ID=4340
+http://live.youtv.workers.dev/?ID=4340
 #EXTINF:-1 tvg-id="drama-tb-hd" tvg-name="Драма ТБ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4341.jpg",Драма ТБ HD
-http://tv.you.workers.dev/?ID=4341
+http://live.youtv.workers.dev/?ID=4341
 #EXTINF:-1 tvg-id="viasatexplore-plus-hd" tvg-name="Viasat Explore + HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4342.jpg",Viasat Explore + HD
-http://tv.you.workers.dev/?ID=4342
+http://live.youtv.workers.dev/?ID=4342
 #EXTINF:-1 tvg-id="viasatnature-plus-hd" tvg-name="Viasat Nature + HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4343.jpg",Viasat Nature + HD
-http://tv.you.workers.dev/?ID=4343
+http://live.youtv.workers.dev/?ID=4343
 #EXTINF:-1 tvg-id="viasathistory-plus-hd" tvg-name="Viasat History + HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4344.jpg",Viasat History + HD
-http://tv.you.workers.dev/?ID=4344
+http://live.youtv.workers.dev/?ID=4344
 #EXTINF:-1 tvg-id="korysna-prohrama-hd" tvg-name="Корисна програма HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4347.jpg",Корисна програма HD
-http://tv.you.workers.dev/?ID=4347
+http://live.youtv.workers.dev/?ID=4347
 #EXTINF:-1 tvg-id="na-troikh-hd" tvg-name="На трьох HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4349.jpg",На трьох HD
-http://tv.you.workers.dev/?ID=4349
+http://live.youtv.workers.dev/?ID=4349
 #EXTINF:-1 tvg-id="orel-i-reshka-chudesa-svitu-hd" tvg-name="О&Р Чудеса Світу HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4350.jpg",О&Р Чудеса Світу HD
-http://tv.you.workers.dev/?ID=4350
+http://live.youtv.workers.dev/?ID=4350
 #EXTINF:-1 tvg-id="nyukhach-hd" tvg-name="Нюхач HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4351.jpg",Нюхач HD
-http://tv.you.workers.dev/?ID=4351
+http://live.youtv.workers.dev/?ID=4351
 #EXTINF:-1 tvg-id="tayemnyy-ahent-plus-deshevo-ta-serdyto-hd" tvg-name="Таємний агент + Дешево та сердито HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4352.jpg",Таємний агент + Дешево та сердито HD
-http://tv.you.workers.dev/?ID=4352
+http://live.youtv.workers.dev/?ID=4352
 #EXTINF:-1 tvg-id="patsanky-hd" tvg-name="Пацанки HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4353.jpg",Пацанки HD
-http://tv.you.workers.dev/?ID=4353
+http://live.youtv.workers.dev/?ID=4353
 #EXTINF:-1 tvg-id="pes-plus-hd" tvg-name="Пес+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4357.jpg",Пес+ HD
-http://tv.you.workers.dev/?ID=4357
+http://live.youtv.workers.dev/?ID=4357
 #EXTINF:-1 tvg-id="zhvlhd" tvg-name="ЖВЛ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4358.jpg",ЖВЛ HD
-http://tv.you.workers.dev/?ID=4358
+http://live.youtv.workers.dev/?ID=4358
 #EXTINF:-1 tvg-id="komanda-plus-hd" tvg-name="Команда+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4359.jpg",Команда+ HD
-http://tv.you.workers.dev/?ID=4359
+http://live.youtv.workers.dev/?ID=4359
 #EXTINF:-1 tvg-id="tayemnytsi-dnk-hd" tvg-name="Таємниці ДНК HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4360.jpg",Таємниці ДНК HD
-http://tv.you.workers.dev/?ID=4360
+http://live.youtv.workers.dev/?ID=4360
 #EXTINF:-1 tvg-id="ulyubleni-melodramy-hd" tvg-name="Улюблені мелодрами HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4361.jpg",Улюблені мелодрами HD
-http://tv.you.workers.dev/?ID=4361
+http://live.youtv.workers.dev/?ID=4361
 #EXTINF:-1 tvg-id="osoblyvosti-nats-roboty-hd" tvg-name="Особливості Нац Роботи HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4362.jpg",Особливості Нац Роботи HD
-http://tv.you.workers.dev/?ID=4362
+http://live.youtv.workers.dev/?ID=4362
 #EXTINF:-1 tvg-id="dizel-show-hd" tvg-name="Дизель шоу HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4363.jpg",Дизель шоу HD
-http://tv.you.workers.dev/?ID=4363
+http://live.youtv.workers.dev/?ID=4363
 #EXTINF:-1 tvg-id="shykanemo-hd" tvg-name="Шиканемо HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4364.jpg",Шиканемо HD
-http://tv.you.workers.dev/?ID=4364
+http://live.youtv.workers.dev/?ID=4364
 #EXTINF:-1 tvg-id="ekstrasensy-hd" tvg-name="Екстрасенси HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4365.jpg",Екстрасенси HD
-http://tv.you.workers.dev/?ID=4365
+http://live.youtv.workers.dev/?ID=4365
 #EXTINF:-1 tvg-id="eksy-hd" tvg-name="Екси HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4366.jpg",Екси HD
-http://tv.you.workers.dev/?ID=4366
+http://live.youtv.workers.dev/?ID=4366
 #EXTINF:-1 tvg-id="zhinochyy-likar-hd" tvg-name="Жіночий лікар HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4367.jpg",Жіночий лікар HD
-http://tv.you.workers.dev/?ID=4367
+http://live.youtv.workers.dev/?ID=4367
 #EXTINF:-1 tvg-id="cherhovyy-likar-hd" tvg-name="Черговий лікар HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4368.jpg",Черговий лікар HD
-http://tv.you.workers.dev/?ID=4368
+http://live.youtv.workers.dev/?ID=4368
 #EXTINF:-1 tvg-id="dnk-svoi-hd" tvg-name="ДНК Свої HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4369.jpg",ДНК Свої HD
-http://tv.you.workers.dev/?ID=4369
+http://live.youtv.workers.dev/?ID=4369
 #EXTINF:-1 tvg-id="budte-zdorovi-hd" tvg-name="Будьте здорові HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4370.jpg",Будьте здорові HD
-http://tv.you.workers.dev/?ID=4370
+http://live.youtv.workers.dev/?ID=4370
 #EXTINF:-1 tvg-id="naykrashchi-melodramy-hd" tvg-name="Найкращі мелодрами HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4371.jpg",Найкращі мелодрами HD
-http://tv.you.workers.dev/?ID=4371
+http://live.youtv.workers.dev/?ID=4371
 #EXTINF:-1 tvg-id="zarobitchany-hd" tvg-name="Заробітчани HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4372.jpg",Заробітчани HD
-http://tv.you.workers.dev/?ID=4372
+http://live.youtv.workers.dev/?ID=4372
 #EXTINF:-1 tvg-id="aferysty-v-merezhakh-hd" tvg-name="Аферисти в мережах HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4373.jpg",Аферисти в мережах HD
-http://tv.you.workers.dev/?ID=4373
+http://live.youtv.workers.dev/?ID=4373
 #EXTINF:-1 tvg-id="vryatuyte-nashu-simyu-hd" tvg-name="Врятуйте нашу сім'ю HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4374.jpg",Врятуйте нашу сім'ю HD
-http://tv.you.workers.dev/?ID=4374
+http://live.youtv.workers.dev/?ID=4374
 #EXTINF:-1 tvg-id="vypadkovyy-svidok-hd" tvg-name="Випадковий свідок HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4375.jpg",Випадковий свідок HD
-http://tv.you.workers.dev/?ID=4375
+http://live.youtv.workers.dev/?ID=4375
 #EXTINF:-1 tvg-id="mistyka-i-tayemnytsi-hd" tvg-name="Містика і таємниці HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4376.jpg",Містика і таємниці HD
-http://tv.you.workers.dev/?ID=4376
+http://live.youtv.workers.dev/?ID=4376
 #EXTINF:-1 tvg-id="koly-my-vdoma-hd" tvg-name="Коли ми вдома HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4377.jpg",Коли ми вдома HD
-http://tv.you.workers.dev/?ID=4377
+http://live.youtv.workers.dev/?ID=4377
 #EXTINF:-1 tvg-id="gazda-plus-hd" tvg-name="Ґазда+ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4378.jpg",Ґазда+ HD
-http://tv.you.workers.dev/?ID=4378
+http://live.youtv.workers.dev/?ID=4378
 #EXTINF:-1 tvg-id="papanki-hd" tvg-name="Папаньки HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4379.jpg",Папаньки HD
-http://tv.you.workers.dev/?ID=4379
+http://live.youtv.workers.dev/?ID=4379
 #EXTINF:-1 tvg-id="budynochok-na-shchastya-hd" tvg-name="Будиночок на Щастя HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4380.jpg",Будиночок на Щастя HD
-http://tv.you.workers.dev/?ID=4380
+http://live.youtv.workers.dev/?ID=4380
 #EXTINF:-1 tvg-id="yurchyshyny-hd" tvg-name="Юрчишини HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4381.jpg",Юрчишини HD
-http://tv.you.workers.dev/?ID=4381
+http://live.youtv.workers.dev/?ID=4381
 #EXTINF:-1 tvg-id="kulinarnyy-miks-hd" tvg-name="Кулінарний мікс HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4382.jpg",Кулінарний мікс HD
-http://tv.you.workers.dev/?ID=4382
+http://live.youtv.workers.dev/?ID=4382
 #EXTINF:-1 tvg-id="survive-at-any-cost-hd" tvg-name="Вижити за будь-яку ціну HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4383.jpg",Вижити за будь-яку ціну HD
-http://tv.you.workers.dev/?ID=4383
+http://live.youtv.workers.dev/?ID=4383
 #EXTINF:-1 tvg-id="kryvavi-kvity-hd" tvg-name="Криваві квіти HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4384.jpg",Криваві квіти HD
-http://tv.you.workers.dev/?ID=4384
+http://live.youtv.workers.dev/?ID=4384
 #EXTINF:-1 tvg-id="stosuyetsya-kozhnoho-krashche-hd" tvg-name="Стосується кожного: Краще HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4385.jpg",Стосується кожного: Краще HD
-http://tv.you.workers.dev/?ID=4385
+http://live.youtv.workers.dev/?ID=4385
 #EXTINF:-1 tvg-id="district-officer-from-dvrz-hd" tvg-name="Дільничний з ДВРЗ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4386.jpg",Дільничний з ДВРЗ HD
-http://tv.you.workers.dev/?ID=4386
+http://live.youtv.workers.dev/?ID=4386
 #EXTINF:-1 tvg-id="autopsy-will-show-hd" tvg-name="Розтин Покаже HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4387.jpg",Розтин Покаже HD
-http://tv.you.workers.dev/?ID=4387
+http://live.youtv.workers.dev/?ID=4387
 #EXTINF:-1 tvg-id="catch-kaidash-hd" tvg-name="Спіймати Кайдаша HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4388.jpg",Спіймати Кайдаша HD
-http://tv.you.workers.dev/?ID=4388
+http://live.youtv.workers.dev/?ID=4388
 #EXTINF:-1 tvg-id="medical-series-hd" tvg-name="Лікарські серіали HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4389.jpg",Лікарські серіали HD
-http://tv.you.workers.dev/?ID=4389
+http://live.youtv.workers.dev/?ID=4389
 #EXTINF:-1 tvg-id="series-inspiring-drama-hd" tvg-name="Серіали: надихаюча драма HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4390.jpg",Серіали: надихаюча драма HD
-http://tv.you.workers.dev/?ID=4390
+http://live.youtv.workers.dev/?ID=4390
 #EXTINF:-1 tvg-id="series-about-village-hd" tvg-name="Серіали про Село HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4391.jpg",Серіали про Село HD
-http://tv.you.workers.dev/?ID=4391
+http://live.youtv.workers.dev/?ID=4391
 #EXTINF:-1 tvg-id="cop-from-the-past-hd" tvg-name="Коп з минулого HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4392.jpg",Коп з минулого HD
-http://tv.you.workers.dev/?ID=4392
+http://live.youtv.workers.dev/?ID=4392
 #EXTINF:-1 tvg-id="relatives-series-hd" tvg-name="Серіали про родичів HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4393.jpg",Серіали про родичів HD
-http://tv.you.workers.dev/?ID=4393
+http://live.youtv.workers.dev/?ID=4393
 #EXTINF:-1 tvg-id="youth-series-hd" tvg-name="Молодіжні серіали HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4394.jpg",Молодіжні серіали HD
-http://tv.you.workers.dev/?ID=4394
+http://live.youtv.workers.dev/?ID=4394
 #EXTINF:-1 tvg-id="series-police-stories-hd" tvg-name="Серіали: поліцейські історії HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4395.jpg",Серіали: поліцейські історії HD
-http://tv.you.workers.dev/?ID=4395
+http://live.youtv.workers.dev/?ID=4395
 #EXTINF:-1 tvg-id="series-weekdays-with-humor-hd" tvg-name="Серіали: будні з гумором HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4396.jpg",Серіали: будні з гумором HD
-http://tv.you.workers.dev/?ID=4396
+http://live.youtv.workers.dev/?ID=4396
 #EXTINF:-1 tvg-id="series-love-stories-hd" tvg-name="Серіали: історії кохання HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4397.jpg",Серіали: історії кохання HD
-http://tv.you.workers.dev/?ID=4397
+http://live.youtv.workers.dev/?ID=4397
 #EXTINF:-1 tvg-id="military-series-hd" tvg-name="Військові серіали HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4398.jpg",Військові серіали HD
-http://tv.you.workers.dev/?ID=4398
+http://live.youtv.workers.dev/?ID=4398
 #EXTINF:-1 tvg-id="series-love-and-dreams-hd" tvg-name="Серіали: кохання і мрії HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4399.jpg",Серіали: кохання і мрії HD
-http://tv.you.workers.dev/?ID=4399
+http://live.youtv.workers.dev/?ID=4399
 #EXTINF:-1 tvg-id="series-fates-and-trials-hd" tvg-name="Серіали: долі і випробування HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4400.jpg",Серіали: долі і випробування HD
-http://tv.you.workers.dev/?ID=4400
+http://live.youtv.workers.dev/?ID=4400
 #EXTINF:-1 tvg-id="series-family-humor-hd" tvg-name="Серіали: родинний гумор HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4401.jpg",Серіали: родинний гумор HD
-http://tv.you.workers.dev/?ID=4401
+http://live.youtv.workers.dev/?ID=4401
 #EXTINF:-1 tvg-id="series-detectives-and-crimes-hd" tvg-name="Серіали: детективи й злочини HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4402.jpg",Серіали: детективи й злочини HD
-http://tv.you.workers.dev/?ID=4402
+http://live.youtv.workers.dev/?ID=4402
 #EXTINF:-1 tvg-id="series-frontline-stories-hd" tvg-name="Серіали: фронтові історії HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4403.jpg",Серіали: фронтові історії HD
-http://tv.you.workers.dev/?ID=4403
+http://live.youtv.workers.dev/?ID=4403
 #EXTINF:-1 tvg-id="kozaky-hd" tvg-name="Козаки. Абсолютно брехлива історія HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4404.jpg",Козаки. Абсолютно брехлива історія HD
-http://tv.you.workers.dev/?ID=4404
+http://live.youtv.workers.dev/?ID=4404
 #EXTINF:-1 tvg-id="top-model-in-ukrainian-hd" tvg-name="Топ-модель по-українськи HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4409.jpg",Топ-модель по-українськи HD
-http://tv.you.workers.dev/?ID=4409
+http://live.youtv.workers.dev/?ID=4409
 #EXTINF:-1 tvg-id="marko-chervetti-hd" tvg-name="Марко Черветті HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4410.jpg",Марко Черветті HD
-http://tv.you.workers.dev/?ID=4410
+http://live.youtv.workers.dev/?ID=4410
 #EXTINF:-1 tvg-id="game-of-destiny-hd" tvg-name="Гра долі HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4413.jpg",Гра долі HD
-http://tv.you.workers.dev/?ID=4413
+http://live.youtv.workers.dev/?ID=4413
 #EXTINF:-1 tvg-id="ahuhuhu-hd" tvg-name="АГУГУГУ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4414.jpg",АГУГУГУ HD
-http://tv.you.workers.dev/?ID=4414
+http://live.youtv.workers.dev/?ID=4414
 #EXTINF:-1 tvg-id="classical-harmony-hd" tvg-name="Classical Harmony HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4415.jpg",Classical Harmony HD
-http://tv.you.workers.dev/?ID=4415
+http://live.youtv.workers.dev/?ID=4415
 #EXTINF:-1 tvg-id="world-of-cooking-hd" tvg-name="Світ кулінарії HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4416.jpg",Світ кулінарії HD
-http://tv.you.workers.dev/?ID=4416
+http://live.youtv.workers.dev/?ID=4416
 #EXTINF:-1 tvg-id="humor-tv-hd" tvg-name="Гумор ТБ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4417.jpg",Гумор ТБ HD
-http://tv.you.workers.dev/?ID=4417
+http://live.youtv.workers.dev/?ID=4417
 #EXTINF:-1 tvg-id="interesting-entertainment-hd" tvg-name="Цікаві розваги HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4418.jpg",Цікаві розваги HD
-http://tv.you.workers.dev/?ID=4418
+http://live.youtv.workers.dev/?ID=4418
 #EXTINF:-1 tvg-id="construction-and-repair-hd" tvg-name="Будівництво та ремонт HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4419.jpg",Будівництво та ремонт HD
-http://tv.you.workers.dev/?ID=4419
+http://live.youtv.workers.dev/?ID=4419
 #EXTINF:-1 tvg-id="your-best-profession-hd" tvg-name="Ваша найкраща професія HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4421.jpg",Ваша найкраща професія HD
-http://tv.you.workers.dev/?ID=4421
+http://live.youtv.workers.dev/?ID=4421
 #EXTINF:-1 tvg-id="interesting-and-informative-hd" tvg-name="Цікаво та пізнавально HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4422.jpg",Цікаво та пізнавально HD
-http://tv.you.workers.dev/?ID=4422
+http://live.youtv.workers.dev/?ID=4422
 #EXTINF:-1 tvg-id="travel-hd" tvg-name="Подорожі HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4423.jpg",Подорожі HD
-http://tv.you.workers.dev/?ID=4423
+http://live.youtv.workers.dev/?ID=4423
 #EXTINF:-1 tvg-id="music-hd" tvg-name="Музика HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4424.jpg",Музика HD
-http://tv.you.workers.dev/?ID=4424
+http://live.youtv.workers.dev/?ID=4424
 #EXTINF:-1 tvg-id="garden-and-vegetable-garden-hd" tvg-name="Сад і город HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4425.jpg",Сад і город HD
-http://tv.you.workers.dev/?ID=4425
+http://live.youtv.workers.dev/?ID=4425
 #EXTINF:-1 tvg-id="baby-hd" tvg-name="Малюк HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4426.jpg",Малюк HD
-http://tv.you.workers.dev/?ID=4426
+http://live.youtv.workers.dev/?ID=4426
 #EXTINF:-1 tvg-id="teenagers-hd" tvg-name="Тінейджерам HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4427.jpg",Тінейджерам HD
-http://tv.you.workers.dev/?ID=4427
+http://live.youtv.workers.dev/?ID=4427
 #EXTINF:-1 tvg-id="streamtime-hd" tvg-name="Стрімтайм HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4428.jpg",Стрімтайм HD
-http://tv.you.workers.dev/?ID=4428
+http://live.youtv.workers.dev/?ID=4428
 #EXTINF:-1 tvg-id="all-about-sports-hd" tvg-name="Все про спорт HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4429.jpg",Все про спорт HD
-http://tv.you.workers.dev/?ID=4429
+http://live.youtv.workers.dev/?ID=4429
 #EXTINF:-1 tvg-id="world-of-auto-motorcycle-technology-hd" tvg-name="Світ авто/мото техніки HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4430.jpg",Світ авто/мото техніки HD
-http://tv.you.workers.dev/?ID=4430
+http://live.youtv.workers.dev/?ID=4430
 #EXTINF:-1 tvg-id="hobby-hd" tvg-name="Хоббі HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4431.jpg",Хоббі HD
-http://tv.you.workers.dev/?ID=4431
+http://live.youtv.workers.dev/?ID=4431
 #EXTINF:-1 tvg-id="all-about-technology-hd" tvg-name="Все про техніку HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4432.jpg",Все про техніку HD
-http://tv.you.workers.dev/?ID=4432
+http://live.youtv.workers.dev/?ID=4432
 #EXTINF:-1 tvg-id="all-ukraine-speaks-hd" tvg-name="Говорить вся країна HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4433.jpg",Говорить вся країна HD
-http://tv.you.workers.dev/?ID=4433
+http://live.youtv.workers.dev/?ID=4433
 #EXTINF:-1 tvg-id="stories-about-ukrainians-hd" tvg-name="ІСТОРІЇ ПРО УКРАЇНЦІВ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4434.jpg",ІСТОРІЇ ПРО УКРАЇНЦІВ HD
-http://tv.you.workers.dev/?ID=4434
+http://live.youtv.workers.dev/?ID=4434
 #EXTINF:-1 tvg-id="chameleon-hd" tvg-name="Хамелеон HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4435.jpg",Хамелеон HD
-http://tv.you.workers.dev/?ID=4435
+http://live.youtv.workers.dev/?ID=4435
 #EXTINF:-1 tvg-id="mystique-hd" tvg-name="Містика HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4436.jpg",Містика HD
-http://tv.you.workers.dev/?ID=4436
+http://live.youtv.workers.dev/?ID=4436
 #EXTINF:-1 tvg-id="cossacks-hd" tvg-name="Козаки HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4437.jpg",Козаки HD
-http://tv.you.workers.dev/?ID=4437
+http://live.youtv.workers.dev/?ID=4437
 #EXTINF:-1 tvg-id="antipodes-hd" tvg-name="Антиподи HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4438.jpg",Антиподи HD
-http://tv.you.workers.dev/?ID=4438
+http://live.youtv.workers.dev/?ID=4438
 #EXTINF:-1 tvg-id="cynics-hd" tvg-name="Циніки HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4439.jpg",Циніки HD
-http://tv.you.workers.dev/?ID=4439
+http://live.youtv.workers.dev/?ID=4439
 #EXTINF:-1 tvg-id="tvoia-para-hd" tvg-name="Твоя Пара HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4440.jpg",Твоя Пара HD
-http://tv.you.workers.dev/?ID=4440
+http://live.youtv.workers.dev/?ID=4440
 #EXTINF:-1 tvg-id="rozpakuy-tv-hd" tvg-name="Розпакуй ТБ HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4441.jpg",Розпакуй ТБ HD
-http://tv.you.workers.dev/?ID=4441
+http://live.youtv.workers.dev/?ID=4441
 #EXTINF:-1 tvg-id="cartoon-country-hd" tvg-name="Країна Мультиків HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4442.jpg",Країна Мультиків HD
-http://tv.you.workers.dev/?ID=4442
+http://live.youtv.workers.dev/?ID=4442
 #EXTINF:-1 tvg-id="cartoons-hd" tvg-name="Cartoons HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4443.jpg",Cartoons HD
-http://tv.you.workers.dev/?ID=4443
+http://live.youtv.workers.dev/?ID=4443
 #EXTINF:-1 tvg-id="gazoon-hd" tvg-name="Газун: Звірячі пригоди HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4444.jpg",Газун: Звірячі пригоди HD
-http://tv.you.workers.dev/?ID=4444
+http://live.youtv.workers.dev/?ID=4444
 #EXTINF:-1 tvg-id="travel-book-hd" tvg-name="Книга-мандрівка HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4445.jpg",Книга-мандрівка HD
-http://tv.you.workers.dev/?ID=4445
+http://live.youtv.workers.dev/?ID=4445
 #EXTINF:-1 tvg-id="misho-and-robin-hd" tvg-name="Мішо та Робін HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4446.jpg",Мішо та Робін HD
-http://tv.you.workers.dev/?ID=4446
+http://live.youtv.workers.dev/?ID=4446
 #EXTINF:-1 tvg-id="crime-stories-hd" tvg-name="Кримінальні історії HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4447.jpg",Кримінальні історії HD
-http://tv.you.workers.dev/?ID=4447
+http://live.youtv.workers.dev/?ID=4447
 #EXTINF:-1 tvg-id="maincast-sport-hd" tvg-name="Maincast Sport HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4448.jpg",Maincast Sport HD
-http://tv.you.workers.dev/?ID=4448
+http://live.youtv.workers.dev/?ID=4448
 #EXTINF:-1 tvg-id="meditation-channel-hd" tvg-name="Meditation Channel HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4449.jpg",Meditation Channel HD
-http://tv.you.workers.dev/?ID=4449
+http://live.youtv.workers.dev/?ID=4449
 #EXTINF:-1 tvg-id="suspilne-sport" tvg-name="Суспільне Спорт HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4450.jpg",Суспільне Спорт HD
-http://tv.you.workers.dev/?ID=4450
+http://live.youtv.workers.dev/?ID=4450
 #EXTINF:-1 tvg-id="tuso-hd" tvg-name="ТЮСО HD" tvg-logo="https://static.youtv.com.ua/images/channels/1_square/4453.jpg",ТЮСО HD
-http://tv.you.workers.dev/?ID=4453
+http://live.youtv.workers.dev/?ID=4453

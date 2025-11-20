@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="hd-bnt-1-hd" tvg-name="BNT 1 HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-1-hd.png",BNT 1 HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-bnt-1-hd-online
+#EXTINF:-1 tvg-id="bnt-2" tvg-name="BNT 2" tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-2.png",BNT 2
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/bnt-2-online
+#EXTINF:-1 tvg-id="hd-bnt-3-hd" tvg-name="BNT 3 HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-3-hd.png",BNT 3 HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-bnt-3-hd-online
+#EXTINF:-1 tvg-id="bnt-4" tvg-name="BNT 4" tvg-logo="https://www.seirsanduk.net/images/tvlogo/bnt-4.png",BNT 4
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/bnt-4-online
+#EXTINF:-1 tvg-id="hd-nova-tv-hd" tvg-name="NOVA TV HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/nova-tv-hd.png",NOVA TV HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-nova-tv-hd-online
+#EXTINF:-1 tvg-id="hd-btv-hd" tvg-name="BTV HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-hd.png",BTV HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-btv-hd-online
+#EXTINF:-1 tvg-id="hd-btv-action-hd" tvg-name="BTV ACTION HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-action-hd.png",BTV ACTION HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-btv-action-hd-online
+#EXTINF:-1 tvg-id="btv-cinema" tvg-name="BTV CINEMA" tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-cinema.png",BTV CINEMA
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/btv-cinema-online
+#EXTINF:-1 tvg-id="btv-comedy" tvg-name="BTV COMEDY" tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-comedy.png",BTV COMEDY
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/btv-comedy-online
+#EXTINF:-1 tvg-id="btv-story" tvg-name="BTV STORY" tvg-logo="https://www.seirsanduk.net/images/tvlogo/btv-story.png",BTV STORY
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/btv-story-online
+#EXTINF:-1 tvg-id="bulgaria-on-air" tvg-name="BULGARIA ON AIR" tvg-logo="https://www.seirsanduk.net/images/tvlogo/bulgaria-on-air.png",BULGARIA ON AIR
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/bulgaria-on-air-online
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="CARTOON NETWORK" tvg-logo="https://www.seirsanduk.net/images/tvlogo/cartoon-network.png",CARTOON NETWORK
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/cartoon-network-online
+#EXTINF:-1 tvg-id="city-tv" tvg-name="CITY TV" tvg-logo="https://www.seirsanduk.net/images/tvlogo/city-tv.png",CITY TV
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/city-tv-online
+#EXTINF:-1 tvg-id="hd-code-fashion-tv-hd" tvg-name="CODE FASHION TV HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/code-fashion-tv-hd.png",CODE FASHION TV HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-code-fashion-tv-hd-online
+#EXTINF:-1 tvg-id="diema-family" tvg-name="DIEMA FAMILY" tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-family.png",DIEMA FAMILY
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/diema-family-online
+#EXTINF:-1 tvg-id="hd-diema-sport-hd" tvg-name="DIEMA SPORT HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-sport-hd.png",DIEMA SPORT HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-diema-sport-hd-online
+#EXTINF:-1 tvg-id="hd-diema-sport-2-hd" tvg-name="DIEMA SPORT 2 HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-sport-2-hd.png",DIEMA SPORT 2 HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-diema-sport-2-hd-online
+#EXTINF:-1 tvg-id="hd-diema-sport-3-hd" tvg-name="DIEMA SPORT 3 HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema-sport-3-hd.png",DIEMA SPORT 3 HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-diema-sport-3-hd-online
+#EXTINF:-1 tvg-id="diema" tvg-name="DIEMA" tvg-logo="https://www.seirsanduk.net/images/tvlogo/diema.png",DIEMA
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/diema-online
+#EXTINF:-1 tvg-id="disney-channel" tvg-name="DISNEY CHANNEL" tvg-logo="https://www.seirsanduk.net/images/tvlogo/disney-channel.png",DISNEY CHANNEL
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/disney-channel-online
+#EXTINF:-1 tvg-id="hd-discovery-channel-hd" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/discovery-channel-hd.png",DISCOVERY CHANNEL HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-discovery-channel-hd-online
+#EXTINF:-1 tvg-id="dstv" tvg-name="DSTV" tvg-logo="https://www.seirsanduk.net/images/tvlogo/dstv.png",DSTV
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/dstv-online
+#EXTINF:-1 tvg-id="e-kids" tvg-name="E KIDS" tvg-logo="https://www.seirsanduk.net/images/tvlogo/e-kids.png",E KIDS
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/e-kids-online
+#EXTINF:-1 tvg-id="hd-epic-drama-hd" tvg-name="EPIC DRAMA HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/epic-drama-hd.png",EPIC DRAMA HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-epic-drama-hd-online
+#EXTINF:-1 tvg-id="hd-eurosport-1-hd" tvg-name="EUROSPORT 1 HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/eurosport-1-hd.png",EUROSPORT 1 HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-eurosport-1-hd-online
+#EXTINF:-1 tvg-id="hd-eurosport-2-hd" tvg-name="EUROSPORT 2 HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/eurosport-2-hd.png",EUROSPORT 2 HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-eurosport-2-hd-online
+#EXTINF:-1 tvg-id="euronews-bulgaria" tvg-name="EURONEWS BULGARIA" tvg-logo="https://www.seirsanduk.net/images/tvlogo/euronews-bulgaria.png",EURONEWS BULGARIA
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/euronews-bulgaria-online
+#EXTINF:-1 tvg-id="evrokom" tvg-name="EVROKOM" tvg-logo="https://www.seirsanduk.net/images/tvlogo/evrokom.png",EVROKOM
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/evrokom-online
+#EXTINF:-1 tvg-id="folklor-tv" tvg-name="FOLKLOR TV" tvg-logo="https://www.seirsanduk.net/images/tvlogo/folklor-tv.png",FOLKLOR TV
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/folklor-tv-online
+#EXTINF:-1 tvg-id="hd-food-network-hd" tvg-name="FOOD NETWORK HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/food-network-hd.png",FOOD NETWORK HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-food-network-hd-online
+#EXTINF:-1 tvg-id="hd-star-crime-hd" tvg-name="STAR CRIME HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/star-crime-hd.png",STAR CRIME HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-star-crime-hd-online
+#EXTINF:-1 tvg-id="hd-star-channel-hd" tvg-name="STAR CHANNEL HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/star-channel-hd.png",STAR CHANNEL HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-star-channel-hd-online
+#EXTINF:-1 tvg-id="hd-star-life-hd" tvg-name="STAR LIFE HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/star-life-hd.png",STAR LIFE HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-star-life-hd-online
+#EXTINF:-1 tvg-id="hd-id-xtra-hd" tvg-name="ID XTRA HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/id-xtra-hd.png",ID XTRA HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-id-xtra-hd-online
+#EXTINF:-1 tvg-id="kanal-3" tvg-name="KANAL 3" tvg-logo="https://www.seirsanduk.net/images/tvlogo/kanal-3.png",KANAL 3
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/kanal-3-online
+#EXTINF:-1 tvg-id="kino-nova" tvg-name="KINO NOVA" tvg-logo="https://www.seirsanduk.net/images/tvlogo/kino-nova.png",KINO NOVA
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/kino-nova-online
+#EXTINF:-1 tvg-id="hd-max-sport-1-hd" tvg-name="MAX SPORT 1 HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-1-hd.png",MAX SPORT 1 HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-max-sport-1-hd-online
+#EXTINF:-1 tvg-id="hd-max-sport-2-hd" tvg-name="MAX SPORT 2 HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-2-hd.png",MAX SPORT 2 HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-max-sport-2-hd-online
+#EXTINF:-1 tvg-id="hd-max-sport-3-hd" tvg-name="MAX SPORT 3 HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-3-hd.png",MAX SPORT 3 HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-max-sport-3-hd-online
+#EXTINF:-1 tvg-id="hd-max-sport-4-hd" tvg-name="MAX SPORT 4 HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/max-sport-4-hd.png",MAX SPORT 4 HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-max-sport-4-hd-online
+#EXTINF:-1 tvg-id="hd-nat-geo-hd" tvg-name="NAT GEO HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/nat-geo-hd.png",NAT GEO HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-nat-geo-hd-online
+#EXTINF:-1 tvg-id="hd-nat-geo-wild-hd" tvg-name="NAT GEO WILD HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/nat-geo-wild-hd.png",NAT GEO WILD HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-nat-geo-wild-hd-online
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="NICK JR" tvg-logo="https://www.seirsanduk.net/images/tvlogo/nick-jr.png",NICK JR
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/nick-jr-online
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="NICKELODEON" tvg-logo="https://www.seirsanduk.net/images/tvlogo/nickelodeon.png",NICKELODEON
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/nickelodeon-online
+#EXTINF:-1 tvg-id="nicktoons" tvg-name="NICKTOONS" tvg-logo="https://www.seirsanduk.net/images/tvlogo/nicktoons.png",NICKTOONS
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/nicktoons-online
+#EXTINF:-1 tvg-id="hd-nova-news-hd" tvg-name="NOVA NEWS HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/nova-news-hd.png",NOVA NEWS HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-nova-news-hd-online
+#EXTINF:-1 tvg-id="hd-nova-sport-hd" tvg-name="NOVA SPORT HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/nova-sport-hd.png",NOVA SPORT HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-nova-sport-hd-online
+#EXTINF:-1 tvg-id="planeta-folk" tvg-name="PLANETA FOLK" tvg-logo="https://www.seirsanduk.net/images/tvlogo/planeta-folk.png",PLANETA FOLK
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/planeta-folk-online
+#EXTINF:-1 tvg-id="hd-planeta-hd" tvg-name="PLANETA HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/planeta-hd.png",PLANETA HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-planeta-hd-online
+#EXTINF:-1 tvg-id="hd-ring-bg-hd" tvg-name="RING BG HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/ring-bg-hd.png",RING BG HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-ring-bg-hd-online
+#EXTINF:-1 tvg-id="rodina-tv" tvg-name="RODINA TV" tvg-logo="https://www.seirsanduk.net/images/tvlogo/rodina-tv.png",RODINA TV
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/rodina-tv-online
+#EXTINF:-1 tvg-id="hd-78-tv-hd" tvg-name="78 TV HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/78-tv-hd.png",78 TV HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-78-tv-hd-online
+#EXTINF:-1 tvg-id="skat" tvg-name="SKAT" tvg-logo="https://www.seirsanduk.net/images/tvlogo/skat.png",SKAT
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/skat-online
+#EXTINF:-1 tvg-id="the-voice" tvg-name="THE VOICE" tvg-logo="https://www.seirsanduk.net/images/tvlogo/the-voice.png",THE VOICE
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/the-voice-online
+#EXTINF:-1 tvg-id="tiankov-tv" tvg-name="TIANKOV TV" tvg-logo="https://www.seirsanduk.net/images/tvlogo/tiankov-tv.png",TIANKOV TV
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/tiankov-tv-online
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://www.seirsanduk.net/images/tvlogo/tlc.png",TLC
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/tlc-online
+#EXTINF:-1 tvg-id="hd-travel-channel-hd" tvg-name="TRAVEL CHANNEL HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/travel-channel-hd.png",TRAVEL CHANNEL HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-travel-channel-hd-online
+#EXTINF:-1 tvg-id="travel-tv" tvg-name="TRAVEL TV" tvg-logo="https://www.seirsanduk.net/images/tvlogo/travel-tv.png",TRAVEL TV
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/travel-tv-online
+#EXTINF:-1 tvg-id="tv-1" tvg-name="TV 1" tvg-logo="https://www.seirsanduk.net/images/tvlogo/tv-1.png",TV 1
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/tv-1-online
+#EXTINF:-1 tvg-id="vtk" tvg-name="VTK" tvg-logo="https://www.seirsanduk.net/images/tvlogo/vtk.png",VTK
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/vtk-online
+#EXTINF:-1 tvg-id="hd-24-kitchen-hd" tvg-name="24 KITCHEN HD" tvg-logo="https://www.seirsanduk.net/images/tvlogo/24-kitchen-hd.png",24 KITCHEN HD
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/hd-24-kitchen-hd-online
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://www.seirsanduk.net/images/tvlogo/axn.png",AXN
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/axn-online
+#EXTINF:-1 tvg-id="axn-black" tvg-name="AXN BLACK" tvg-logo="https://www.seirsanduk.net/images/tvlogo/axn-black.png",AXN BLACK
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/axn-black-online
+#EXTINF:-1 tvg-id="axn-white" tvg-name="AXN WHITE" tvg-logo="https://www.seirsanduk.net/images/tvlogo/axn-white.png",AXN WHITE
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/axn-white-online
+#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="BLOOMBERG TV" tvg-logo="https://www.seirsanduk.net/images/tvlogo/bloomberg-tv.png",BLOOMBERG TV
+http://tv.seirsanduk.workers.dev/?ID=https://www.seirsanduk.net/bloomberg-tv-online

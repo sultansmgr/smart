@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MmV2GsqSHdM/hqdefault.jpg" group-title="Yabancı Film",Fall
-#EXTVLCOPT:http-referrer=https://iframe.y2meta-uk.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-http://mp4.converted.workers.dev/?ID=https://www.youtube.com/watch?v=cCogiEudtPg
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/88DHTLUsI58/hqdefault.jpg" group-title="TR Film",Korkusuz Korkak
 #EXTVLCOPT:http-referrer=https://iframe.y2meta-uk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36

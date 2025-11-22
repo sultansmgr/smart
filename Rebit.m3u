@@ -1,0 +1,245 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="rai-1" tvg-name="Rai 1 HD"  tvg-logo="https://static.rebit.sk/tv-brand/rai1.png",Rai 1 HD
+http://tv.rebit.workers.dev/?ID=2445e0e7-b890-452c-8d3c-7cd20eb9d578
+#EXTINF:-1 tvg-id="ct2-hd" tvg-name="ČT2 HD"  tvg-logo="https://static.rebit.sk/tv-brand/ct2.png",ČT2 HD
+http://tv.rebit.workers.dev/?ID=245605c1-3c21-4824-aedc-6343b6a3826e
+#EXTINF:-1 tvg-id="rtvs-sport-hd" tvg-name=":ŠPORT HD"  tvg-logo="https://static.rebit.sk/tv-brand/rtvs-sport.png",:ŠPORT HD
+http://tv.rebit.workers.dev/?ID=3ce349bb-c054-4689-8aa9-7d53fcec4fc8
+#EXTINF:-1 tvg-id="24-hd" tvg-name=":24 HD"  tvg-logo="https://static.rebit.sk/tv-brand/24.png",:24 HD
+http://tv.rebit.workers.dev/?ID=4aeec652-c05e-4e12-aded-1d6d8bc69e8f
+#EXTINF:-1 tvg-id="dvojka-hd" tvg-name="Dvojka HD"  tvg-logo="https://static.rebit.sk/tv-brand/dvojka.png",Dvojka HD
+http://tv.rebit.workers.dev/?ID=6d33bcca-5e22-4692-9aab-a2f7055473b6
+#EXTINF:-1 tvg-id="jednotka-hd" tvg-name="Jednotka HD"  tvg-logo="https://static.rebit.sk/tv-brand/jednotka.png",Jednotka HD
+http://tv.rebit.workers.dev/?ID=763eda65-9385-46c7-9df2-9b6ceb634c6c
+#EXTINF:-1 tvg-id="ct1-hd" tvg-name="ČT1 HD"  tvg-logo="https://static.rebit.sk/tv-brand/ct1.png",ČT1 HD
+http://tv.rebit.workers.dev/?ID=84cbc796-d185-4b66-a424-98fbae2b8715
+#EXTINF:-1 tvg-id="4fun-kids" tvg-name="4FUN KIDS"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/3026.png?70308",4FUN KIDS
+http://tv.rebit.workers.dev/?ID=88ba36e0-9d4a-484f-8302-a69f44985915
+#EXTINF:-1 tvg-id="tv-lux" tvg-name="TV Lux"  tvg-logo="https://static.rebit.sk/tv-brand/tvlux.png",TV Lux
+http://tv.rebit.workers.dev/?ID=9fae7f4f-d2fd-48a2-8956-27a5aac91c2f
+#EXTINF:-1 tvg-id="krmidlo-likavka" tvg-name="Kŕmidlo Likavka"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/3092.png?51237",Kŕmidlo Likavka
+http://tv.rebit.workers.dev/?ID=a767e4fe-40bb-4d1b-a698-903623e5dedf
+#EXTINF:-1 tvg-id="tvp-polonia" tvg-name="TVP Polonia HD"  tvg-logo="https://static.rebit.sk/tv-brand/tvp-polonia.png",TVP Polonia HD
+http://tv.rebit.workers.dev/?ID=bba97834-4563-42ab-bbbf-a3e91d1117fb
+#EXTINF:-1 tvg-id="orf-1-hd" tvg-name="ORF 1 HD"  tvg-logo="https://static.rebit.sk/tv-brand/orf1.png",ORF 1 HD
+http://tv.rebit.workers.dev/?ID=bf898226-01e1-4f9a-b45b-dc71c7258a8c
+#EXTINF:-1 tvg-id="ct24-hd" tvg-name="ČT24 HD"  tvg-logo="https://static.rebit.sk/tv-brand/ct24.png",ČT24 HD
+http://tv.rebit.workers.dev/?ID=db053099-750c-427f-bdb9-ea8d232b0efc
+#EXTINF:-1 tvg-id="m1-hd" tvg-name="M1 HD"  tvg-logo="https://static.rebit.sk/tv-brand/m1.png",M1 HD
+http://tv.rebit.workers.dev/?ID=ddf5245c-bf59-4437-aafc-c160dd732bc6
+#EXTINF:-1 tvg-id="duna-hd" tvg-name="Duna HD"  tvg-logo="https://static.rebit.sk/tv-brand/duna.png",Duna HD
+http://tv.rebit.workers.dev/?ID=002f0239-af98-4521-8ff7-80ed49da5f4c
+#EXTINF:-1 tvg-id="leo-tv-late-night" tvg-name="Leo TV Late Night"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2634.png?70053",Leo TV Late Night
+http://tv.rebit.workers.dev/?ID=0394cd56-62ff-4355-8ae3-dea3887dd7a1
+#EXTINF:-1 tvg-id="mestska-televizia-trnava-hd" tvg-name="Mestská televízia Trnava HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2757.png",Mestská televízia Trnava HD
+http://tv.rebit.workers.dev/?ID=056cb780-7771-4e46-96c3-3f6ec0c496fa
+#EXTINF:-1 tvg-id="tv-liptov-hd" tvg-name="TV Liptov HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2769.png",TV Liptov HD
+http://tv.rebit.workers.dev/?ID=05d3cebf-386e-485e-a294-deca9a5ecb31
+#EXTINF:-1 tvg-id="slagr-original" tvg-name="Šláger Originál"  tvg-logo="https://static.rebit.sk/tv-brand/slager-original.png",Šláger Originál
+http://tv.rebit.workers.dev/?ID=06b11f6e-97be-42fd-9ed3-ed9611416747
+#EXTINF:-1 tvg-id="ct-d-ct-art" tvg-name="ČT :D / ČT art"  tvg-logo="https://static.rebit.sk/tv-brand/ct-d-ct-art.png",ČT :D / ČT art
+http://tv.rebit.workers.dev/?ID=0901f34a-53f5-11ea-9af3-02420a000110
+#EXTINF:-1 tvg-id="rik-tv-hd" tvg-name="RiK TV HD"  tvg-logo="https://static.rebit.sk/tv-brand/rik.png",RiK TV HD
+http://tv.rebit.workers.dev/?ID=0afd923a-6624-4baa-b3ac-036442515480
+#EXTINF:-1 tvg-id="tv-povazie" tvg-name="TV Považie HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2750.png",TV Považie HD
+http://tv.rebit.workers.dev/?ID=0d58ad3b-1874-4e79-b2b7-b87cdca05c1f
+#EXTINF:-1 tvg-id="zdf" tvg-name="ZDF"  tvg-logo="https://static.rebit.sk/tv-brand/zdf.png",ZDF
+http://tv.rebit.workers.dev/?ID=0dccb643-f98a-4dc4-8e1a-7679b8af065d
+#EXTINF:-1 tvg-id="markiza-hd" tvg-name="Markíza HD"  tvg-logo="https://static.rebit.sk/tv-brand/markiza.png",Markíza HD
+http://tv.rebit.workers.dev/?ID=0eb4c918-b32a-4a81-aba5-aaecabe1558f
+#EXTINF:-1 tvg-id="tv8-hd" tvg-name="TV8 HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/55.png",TV8 HD
+http://tv.rebit.workers.dev/?ID=11ebdebf-3d27-4adc-9917-f5de96d9369b
+#EXTINF:-1 tvg-id="zapadoslovenska-televizia" tvg-name="Západoslovenská televízia HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2800.png",Západoslovenská televízia HD
+http://tv.rebit.workers.dev/?ID=19a41b2a-5652-44c5-b025-d45840d380eb
+#EXTINF:-1 tvg-id="tv-pezinok" tvg-name="TV Pezinok"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2756.png",TV Pezinok
+http://tv.rebit.workers.dev/?ID=1a411239-7ca9-4f50-ad45-bc5f62e77a39
+#EXTINF:-1 tvg-id="tv-vega" tvg-name="TV VEGA HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2749.png",TV VEGA HD
+http://tv.rebit.workers.dev/?ID=1a75c255-6305-4220-ae34-f67509af9630
+#EXTINF:-1 tvg-id="cam-panorama-1-b-bystrica" tvg-name="(CAM) Panoráma 1, B. Bystrica"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2637.png",(CAM) Panoráma 1, B. Bystrica
+http://tv.rebit.workers.dev/?ID=1b8d30f3-8ab0-4673-a702-c7f5c1425d0c
+#EXTINF:-1 tvg-id="joj-24-hd" tvg-name="JOJ 24 HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/3043.png?70700",JOJ 24 HD
+http://tv.rebit.workers.dev/?ID=1c03d605-6d98-45db-b2d2-ee750bf5a83e
+#EXTINF:-1 tvg-id="tvp" tvg-name="TVP HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2614.png",TVP HD
+http://tv.rebit.workers.dev/?ID=20750f0b-e12d-4915-a4c3-47c5db9ccbf6
+#EXTINF:-1 tvg-id="cam-pansky-diel-b-bystrica" tvg-name="(CAM) Panský Diel, B. Bystrica"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2680.png",(CAM) Panský Diel, B. Bystrica
+http://tv.rebit.workers.dev/?ID=26099504-dfc3-46c2-b070-32b88025ed15
+#EXTINF:-1 tvg-id="joj-svet-hd" tvg-name="JOJ Svet HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2739.png",JOJ Svet HD
+http://tv.rebit.workers.dev/?ID=2964c426-c363-4d24-8af9-f2049e3327fd
+#EXTINF:-1 tvg-id="regiotv-hd" tvg-name="RegioTV HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2801.png",RegioTV HD
+http://tv.rebit.workers.dev/?ID=2f1882d9-b8cb-425e-a31e-aa28324ff94a
+#EXTINF:-1 tvg-id="extasy-tv-late-night" tvg-name="Extasy TV Late Night"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2615.png?70053",Extasy TV Late Night
+http://tv.rebit.workers.dev/?ID=34f36fcd-67f1-4033-a335-f6276adf2514
+#EXTINF:-1 tvg-id="super-rtl" tvg-name="Super RTL"  tvg-logo="https://static.rebit.sk/tv-brand/superrtl.png",Super RTL
+http://tv.rebit.workers.dev/?ID=35c54fa4-56f1-4b00-aa24-7f0b1ba54bfe
+#EXTINF:-1 tvg-id="televizia-turiec-hd" tvg-name="Televízia Turiec HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2767.png",Televízia Turiec HD
+http://tv.rebit.workers.dev/?ID=373d2973-b9f8-4d55-882a-c5206f78200b
+#EXTINF:-1 tvg-id="vox" tvg-name="VOX"  tvg-logo="https://static.rebit.sk/tv-brand/vox.png",VOX
+http://tv.rebit.workers.dev/?ID=3a044272-7d3e-442d-b6a7-7e8d85cc6ab0
+#EXTINF:-1 tvg-id="joj-hd" tvg-name="JOJ HD"  tvg-logo="https://static.rebit.sk/tv-brand/joj.png",JOJ HD
+http://tv.rebit.workers.dev/?ID=3c04a76e-d1ed-41c1-b0c5-fe887a08f160
+#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN"  tvg-logo="https://static.rebit.sk/tv-brand/cgtn.png",CGTN
+http://tv.rebit.workers.dev/?ID=3c8bc55d-0c64-493f-befd-d09efb38d276
+#EXTINF:-1 tvg-id="m2-hd" tvg-name="M2 HD"  tvg-logo="https://static.rebit.sk/tv-brand/m2.png",M2 HD
+http://tv.rebit.workers.dev/?ID=3da8d4e4-41a9-46a1-b68a-d460e22e1b74
+#EXTINF:-1 tvg-id="bardejovska-televizia-hd" tvg-name="Bardejovská televízia HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2772.png",Bardejovská televízia HD
+http://tv.rebit.workers.dev/?ID=3e4cdf1e-bd4e-4360-8e75-343d9978090f
+#EXTINF:-1 tvg-id="trt-world-hd" tvg-name="TRT World HD"  tvg-logo="https://static.rebit.sk/tv-brand/trtworld.png",TRT World HD
+http://tv.rebit.workers.dev/?ID=3fe40843-86a5-4058-b034-aea2bd184bca
+#EXTINF:-1 tvg-id="ocko-star" tvg-name="ÓČKO STAR"  tvg-logo="https://static.rebit.sk/tv-brand/ocko-star.png",ÓČKO STAR
+http://tv.rebit.workers.dev/?ID=4094cb3d-a24b-4bd3-8d4b-56ba0725d94c
+#EXTINF:-1 tvg-id="france-24-en" tvg-name="France 24 EN"  tvg-logo="https://static.rebit.sk/tv-brand/france-24-en.png",France 24 EN
+http://tv.rebit.workers.dev/?ID=40b25c6d-306b-4b0e-a3d4-101e64e686eb
+#EXTINF:-1 tvg-id="rtl-zwei" tvg-name="RTL Zwei"  tvg-logo="https://static.rebit.sk/tv-brand/rtl-zwei.png",RTL Zwei
+http://tv.rebit.workers.dev/?ID=40d51480-c97f-4e8a-8995-c0282c66462f
+#EXTINF:-1 tvg-id="tv-central-hd" tvg-name="TV Central HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2747.png",TV Central HD
+http://tv.rebit.workers.dev/?ID=40ec97b5-8a8e-4a66-902a-b1210bd06c69
+#EXTINF:-1 tvg-id="noe-tv" tvg-name="Noe TV"  tvg-logo="https://static.rebit.sk/tv-brand/noetv.png",Noe TV
+http://tv.rebit.workers.dev/?ID=4ae6ee0d-86b1-4a92-90f5-401c3ebf9733
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL"  tvg-logo="https://static.rebit.sk/tv-brand/rtl.png",RTL
+http://tv.rebit.workers.dev/?ID=51c94845-3c1b-444a-a03e-d7af07a2f67f
+#EXTINF:-1 tvg-id="kabel-eins" tvg-name="Kabel Eins"  tvg-logo="https://static.rebit.sk/tv-brand/kabel-eins.png",Kabel Eins
+http://tv.rebit.workers.dev/?ID=53660782-0125-4664-816e-63aa85f17d65
+#EXTINF:-1 tvg-id="tv-raj" tvg-name="TV RAJ HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2762.png",TV RAJ HD
+http://tv.rebit.workers.dev/?ID=53eca55c-47df-4ec5-8775-974499ac49d6
+#EXTINF:-1 tvg-id="rtv-krea-hd" tvg-name="RTV Krea HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2730.png?70053",RTV Krea HD
+http://tv.rebit.workers.dev/?ID=55c0d295-3665-4e74-9b2e-7a278c028466
+#EXTINF:-1 tvg-id="prima-plus-hd" tvg-name="Prima SK HD"  tvg-logo="https://static.rebit.sk/tv-brand/prima-plus.png",Prima SK HD
+http://tv.rebit.workers.dev/?ID=58bdb55c-3585-4e26-892a-23a11549fb14
+#EXTINF:-1 tvg-id="ocko" tvg-name="ÓČKO"  tvg-logo="https://static.rebit.sk/tv-brand/ocko.png",ÓČKO
+http://tv.rebit.workers.dev/?ID=58d89823-44e9-4566-89f4-a11a7f8a92a1
+#EXTINF:-1 tvg-id="premium-hd" tvg-name="Premium HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2672.png?51755",Premium HD
+http://tv.rebit.workers.dev/?ID=5a62ecce-f94d-4d7a-96c2-bf223252550c
+#EXTINF:-1 tvg-id="sat-1" tvg-name="Sat. 1"  tvg-logo="https://static.rebit.sk/tv-brand/sat1.png",Sat. 1
+http://tv.rebit.workers.dev/?ID=5d22a545-dde0-4b4c-b2be-3f99aa36842f
+#EXTINF:-1 tvg-id="matrix" tvg-name="Matrix"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2647.png",Matrix
+http://tv.rebit.workers.dev/?ID=6415d617-9c61-4759-97b2-2941d255e7a0
+#EXTINF:-1 tvg-id="tv-vita-hd" tvg-name="TV Vita HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2760.png",TV Vita HD
+http://tv.rebit.workers.dev/?ID=655a6739-3a32-4cd1-9a9c-7ed2c69b1075
+#EXTINF:-1 tvg-id="cam-nam-slobody-b-bystrica" tvg-name="(CAM) Nám. Slobody, B. Bystrica"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2638.png",(CAM) Nám. Slobody, B. Bystrica
+http://tv.rebit.workers.dev/?ID=658422a7-70b9-4b8b-a1f6-a7cf0f14dbb7
+#EXTINF:-1 tvg-id="volant-tv" tvg-name="Volant TV"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2716.png?70700",Volant TV
+http://tv.rebit.workers.dev/?ID=6bbd9b25-10b6-4cd4-8b49-e01bba8d2119
+#EXTINF:-1 tvg-id="markiza-klasik-hd" tvg-name="Markíza Klasik HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/3032.png?ver=7661",Markíza Klasik HD
+http://tv.rebit.workers.dev/?ID=6dc537bd-c923-4da5-bd18-96e34166c3c7
+#EXTINF:-1 tvg-id="tv-dk-hd" tvg-name="TV DK HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2763.png",TV DK HD
+http://tv.rebit.workers.dev/?ID=6e7701d3-6539-4370-80c4-873f15264b51
+#EXTINF:-1 tvg-id="rai-3" tvg-name="Rai 3 HD"  tvg-logo="https://static.rebit.sk/tv-brand/rai3.png",Rai 3 HD
+http://tv.rebit.workers.dev/?ID=6fc6451b-2391-422e-ac55-50b48ae850e2
+#EXTINF:-1 tvg-id="doma-hd" tvg-name="Doma HD"  tvg-logo="https://static.rebit.sk/tv-brand/doma.png",Doma HD
+http://tv.rebit.workers.dev/?ID=74b2a281-6547-4795-ac4c-58c99be574c2
+#EXTINF:-1 tvg-id="wau-hd" tvg-name="WAU HD"  tvg-logo="https://static.rebit.sk/tv-brand/wau.png",WAU HD
+http://tv.rebit.workers.dev/?ID=7562788a-c9cb-4912-978c-10f5ce13bcb2
+#EXTINF:-1 tvg-id="zdfinfo" tvg-name="ZDFinfo"  tvg-logo="https://static.rebit.sk/tv-brand/zdfinfo.png",ZDFinfo
+http://tv.rebit.workers.dev/?ID=772415ad-6bae-411d-8dfd-a157e401d7be
+#EXTINF:-1 tvg-id="france-24-fr" tvg-name="France 24 FR"  tvg-logo="https://static.rebit.sk/tv-brand/france-24-fr.png",France 24 FR
+http://tv.rebit.workers.dev/?ID=7baf2a81-b31b-4681-a00f-8bdceddf2ec7
+#EXTINF:-1 tvg-id="spark-tv-hd" tvg-name="Spark TV HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2805.png?ver=85640",Spark TV HD
+http://tv.rebit.workers.dev/?ID=8024bd79-bf96-433d-af70-96e071bb6c57
+#EXTINF:-1 tvg-id="a11-hd" tvg-name="A11 HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2621.png?ver=1245",A11 HD
+http://tv.rebit.workers.dev/?ID=84584432-043a-4875-b4e7-b9286d812cce
+#EXTINF:-1 tvg-id="rtv-prievidza" tvg-name="RTV Prievidza"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2768.png",RTV Prievidza
+http://tv.rebit.workers.dev/?ID=8aea78d2-f40a-48bd-86f5-f91ae779d69b
+#EXTINF:-1 tvg-id="joj-sport-2-hd" tvg-name="JOJŠPORT 2 HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/3100.png?26615",JOJŠPORT 2 HD
+http://tv.rebit.workers.dev/?ID=8c4c67f7-b152-4402-bfd3-0dacae40cb0b
+#EXTINF:-1 tvg-id="pro-sieben" tvg-name="Pro Sieben"  tvg-logo="https://static.rebit.sk/tv-brand/pro-sieben.png",Pro Sieben
+http://tv.rebit.workers.dev/?ID=8e267c91-9daa-4978-b37d-12fdac2e80de
+#EXTINF:-1 tvg-id="tv-ruzinov-hd" tvg-name="TV Ružinov HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2755.png",TV Ružinov HD
+http://tv.rebit.workers.dev/?ID=8e26fa3b-2ffe-4dc4-8914-e4c6523e430b
+#EXTINF:-1 tvg-id="tv-locall-hd" tvg-name="TV LocAll HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2802.png",TV LocAll HD
+http://tv.rebit.workers.dev/?ID=8facd7c3-0b75-436d-807d-5d936a500763
+#EXTINF:-1 tvg-id="skalicka-mestska-televizia-hd" tvg-name="Skalická mestská televízia HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2771.png",Skalická mestská televízia HD
+http://tv.rebit.workers.dev/?ID=917a2611-eb3d-41ea-b75a-92e8ff53f89a
+#EXTINF:-1 tvg-id="cnn-prima-news" tvg-name="CNN Prima NEWS HD"  tvg-logo="https://static.rebit.sk/tv-brand/cnn-prima-news.png",CNN Prima NEWS HD
+http://tv.rebit.workers.dev/?ID=9375185f-d34a-490e-b172-8799642afca9
+#EXTINF:-1 tvg-id="mestska-televizia-ruzomberok-hd" tvg-name="Mestská televízia Ružomberok HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2770.png",Mestská televízia Ružomberok HD
+http://tv.rebit.workers.dev/?ID=938ebc4b-7fdc-463d-8774-26df905a10fa
+#EXTINF:-1 tvg-id="abc-tv-hd" tvg-name="ABC TV HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/3044.png?ver=1245",ABC TV HD
+http://tv.rebit.workers.dev/?ID=94fa4206-7ab0-4d5c-8481-07e97a90e53d
+#EXTINF:-1 tvg-id="cam-dolna-ulica-b-bystrica" tvg-name="(CAM) Dolná ulica, B. Bystrica"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2639.png",(CAM) Dolná ulica, B. Bystrica
+http://tv.rebit.workers.dev/?ID=961336a1-4c2b-48ce-b3bf-5ac8b2080734
+#EXTINF:-1 tvg-id="krb" tvg-name="Krb"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2646.png",Krb
+http://tv.rebit.workers.dev/?ID=994a6a28-e938-4f5e-8fd7-d3dd419af934
+#EXTINF:-1 tvg-id="rai-2" tvg-name="Rai 2 HD"  tvg-logo="https://static.rebit.sk/tv-brand/rai2.png",Rai 2 HD
+http://tv.rebit.workers.dev/?ID=996aa2fd-ae63-401e-8cb1-fad0bb0eb4df
+#EXTINF:-1 tvg-id="3sat" tvg-name="3sat"  tvg-logo="https://static.rebit.sk/tv-brand/3sat.png",3sat
+http://tv.rebit.workers.dev/?ID=9a3e22a2-1f94-4f39-839b-d267121d7f73
+#EXTINF:-1 tvg-id="tv-brezova-hd" tvg-name="TV Brezová HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2995.png",TV Brezová HD
+http://tv.rebit.workers.dev/?ID=9aa037a8-7b0d-4775-98b5-5e8e4e10300b
+#EXTINF:-1 tvg-id="ocko-expres" tvg-name="ÓČKO EXPRES"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/3049.png",ÓČKO EXPRES
+http://tv.rebit.workers.dev/?ID=9afb15bc-aee7-4bff-b669-7244ac3f8eb3
+#EXTINF:-1 tvg-id="cesko-slovenska-regionalna-televizia-hd" tvg-name="Česko-Slovenská regionálna televízia HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2736.png?31613",Česko-Slovenská regionálna televízia HD
+http://tv.rebit.workers.dev/?ID=9c46a021-d850-441c-a73a-9de680f67aae
+#EXTINF:-1 tvg-id="tv-romana" tvg-name="TV Romana HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2754.png",TV Romana HD
+http://tv.rebit.workers.dev/?ID=a1120c7b-7595-45f0-b998-02e1e3a56b35
+#EXTINF:-1 tvg-id="tv-hronka" tvg-name="TV Hronka"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/51.png",TV Hronka
+http://tv.rebit.workers.dev/?ID=a2ae9668-d37e-442d-ae98-070cb5d607a7
+#EXTINF:-1 tvg-id="welt" tvg-name="Welt"  tvg-logo="https://static.rebit.sk/tv-brand/welt.png",Welt
+http://tv.rebit.workers.dev/?ID=abaa5369-a4b5-4a75-9976-586454ca790b
+#EXTINF:-1 tvg-id="ta3-hd" tvg-name="TA3 HD"  tvg-logo="https://static.rebit.sk/tv-brand/ta3.png",TA3 HD
+http://tv.rebit.workers.dev/?ID=ad21bc4b-b3d1-4af7-b90f-6c2348c67d8d
+#EXTINF:-1 tvg-id="televizia-zemplin-hd" tvg-name="Televízia ZEMPLÍN HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2761.png",Televízia ZEMPLÍN HD
+http://tv.rebit.workers.dev/?ID=ad59f726-865c-4c23-9f60-3c145729a81f
+#EXTINF:-1 tvg-id="devinskonovoveska-televizia-hd" tvg-name="Devínskonovoveská televízia HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2758.png",Devínskonovoveská televízia HD
+http://tv.rebit.workers.dev/?ID=b49e0950-fe91-4190-a505-6242ce429193
+#EXTINF:-1 tvg-id="tvp-info-hd" tvg-name="TVP Info HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2597.png?70053",TVP Info HD
+http://tv.rebit.workers.dev/?ID=b6295165-7029-4100-84f4-8594cd64f88c
+#EXTINF:-1 tvg-id="cam-panorama-2-b-bystrica" tvg-name="(CAM) Panoráma 2, B. Bystrica"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2641.png",(CAM) Panoráma 2, B. Bystrica
+http://tv.rebit.workers.dev/?ID=b7e04969-39d4-4fd2-97b0-166b38937790
+#EXTINF:-1 tvg-id="zdfneo" tvg-name="ZDFneo"  tvg-logo="https://static.rebit.sk/tv-brand/zdfneo.png",ZDFneo
+http://tv.rebit.workers.dev/?ID=b7f9f04f-ad60-4517-a4ed-56a2073f6601
+#EXTINF:-1 tvg-id="markiza-krimi-hd" tvg-name="Markíza Krimi HD"  tvg-logo="https://static.rebit.sk/tv-brand/markiza-krimi.png",Markíza Krimi HD
+http://tv.rebit.workers.dev/?ID=bf35e1b1-a244-4045-9470-999eb41848cc
+#EXTINF:-1 tvg-id="bbc-news" tvg-name="BBC News"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2633.png",BBC News
+http://tv.rebit.workers.dev/?ID=bff1b9ab-712c-441e-93a4-e4a59796faa7
+#EXTINF:-1 tvg-id="kbs-world-hd" tvg-name="KBS World HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/3065.png?70053",KBS World HD
+http://tv.rebit.workers.dev/?ID=bff3c57c-8dd8-448c-a16f-91857a35c280
+#EXTINF:-1 tvg-id="relax" tvg-name="RELAX"  tvg-logo="https://static.rebit.sk/tv-brand/relax.png",RELAX
+http://tv.rebit.workers.dev/?ID=c15cd2ae-06c8-41a7-95b7-ee12d361bef0
+#EXTINF:-1 tvg-id="orf-2-hd" tvg-name="ORF 2 HD"  tvg-logo="https://static.rebit.sk/tv-brand/orf2.png",ORF 2 HD
+http://tv.rebit.workers.dev/?ID=c7433c00-c36b-458e-848e-38058ac74e74
+#EXTINF:-1 tvg-id="dajto-hd" tvg-name="DAJTO HD"  tvg-logo="https://static.rebit.sk/tv-brand/dajto.png",DAJTO HD
+http://tv.rebit.workers.dev/?ID=c88d1cce-b974-4b67-b018-182a8153a14f
+#EXTINF:-1 tvg-id="dim-tv" tvg-name="Dim TV"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/3030.png",Dim TV
+http://tv.rebit.workers.dev/?ID=ccf790b7-d4f8-489c-a522-e2e46b1fd4b3
+#EXTINF:-1 tvg-id="retro" tvg-name="Retro"  tvg-logo="https://static.rebit.sk/tv-brand/retro.png",Retro
+http://tv.rebit.workers.dev/?ID=cd695758-21ed-4dca-9d0c-185dce1ce014
+#EXTINF:-1 tvg-id="uatv" tvg-name="UATV"  tvg-logo="https://static.rebit.sk/tv-brand/uatv.png",UATV
+http://tv.rebit.workers.dev/?ID=cfa7dc8e-49f7-4246-9a7b-a3d33bff889f
+#EXTINF:-1 tvg-id="cam-rudlova-semafor-b-bystrica" tvg-name="(CAM) Rudlová Semafor, B. Bystrica"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/3086.png?37622",(CAM) Rudlová Semafor, B. Bystrica
+http://tv.rebit.workers.dev/?ID=d13fab10-2de6-4b25-a851-13d2e34f9059
+#EXTINF:-1 tvg-id="cam-nam-snp-b-bystrica-2" tvg-name="(CAM) Nám. SNP 2, B. Bystrica"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2643.png",(CAM) Nám. SNP 2, B. Bystrica
+http://tv.rebit.workers.dev/?ID=d533030f-28b9-48ae-a810-be5ff6ed1973
+#EXTINF:-1 tvg-id="tv-doktor-hd" tvg-name="TV Doktor HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/3091.png?25275",TV Doktor HD
+http://tv.rebit.workers.dev/?ID=d607cf59-25f2-4831-8fba-6b49a42f4956
+#EXTINF:-1 tvg-id="joj-plus-hd" tvg-name="PLUS HD"  tvg-logo="https://static.rebit.sk/tv-brand/joj-plus.png",PLUS HD
+http://tv.rebit.workers.dev/?ID=d62ba15b-1120-47fc-b8af-c0dd250d2fdf
+#EXTINF:-1 tvg-id="slagr-muzika" tvg-name="Šláger Muzika"  tvg-logo="https://static.rebit.sk/tv-brand/slager-muzika.png",Šláger Muzika
+http://tv.rebit.workers.dev/?ID=da800c34-8bc5-431a-8e66-fc747c1068a4
+#EXTINF:-1 tvg-id="tv-sen-hd" tvg-name="TV SEN HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2803.png",TV SEN HD
+http://tv.rebit.workers.dev/?ID=dda207bd-195d-43eb-ac2f-0a1041bdc53a
+#EXTINF:-1 tvg-id="cam-sliac" tvg-name="(CAM) Sliač"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2640.png",(CAM) Sliač
+http://tv.rebit.workers.dev/?ID=e5a8914b-57a4-416d-b397-e5c9a2a196d0
+#EXTINF:-1 tvg-id="tv-reduta-hd" tvg-name="TV Reduta HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2804.png",TV Reduta HD
+http://tv.rebit.workers.dev/?ID=e7ff7d08-92b1-48c7-bfa1-df9bb31fa07e
+#EXTINF:-1 tvg-id="cam-zvolenska-cesta-b-bystrica" tvg-name="(CAM) Zvolenská cesta, B. Bystrica"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2644.png",(CAM) Zvolenská cesta, B. Bystrica
+http://tv.rebit.workers.dev/?ID=ec21f6c6-6b53-4b14-8b41-c0ef3261f87c
+#EXTINF:-1 tvg-id="tv7-presov" tvg-name="TV7 Prešov HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2751.png",TV7 Prešov HD
+http://tv.rebit.workers.dev/?ID=ec752fa3-b736-4d87-ba40-2019558e3edc
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN"  tvg-logo="https://static.rebit.sk/tv-brand/cnn.png",CNN
+http://tv.rebit.workers.dev/?ID=ec815ba0-263f-4c9b-92ee-4b455e3ca333
+#EXTINF:-1 tvg-id="tv9" tvg-name="TV9 HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2752.png",TV9 HD
+http://tv.rebit.workers.dev/?ID=ed082a41-2f6c-42b5-8447-379d96272fb0
+#EXTINF:-1 tvg-id="tv-myjava-hd" tvg-name="TV Myjava HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2994.png",TV Myjava HD
+http://tv.rebit.workers.dev/?ID=f2164429-20da-4b00-bac1-f7a49323e787
+#EXTINF:-1 tvg-id="joj-sport-hd" tvg-name="JOJŠPORT HD"  tvg-logo="https://static.rebit.sk/tv-brand/joj-sport.png",JOJŠPORT HD
+http://tv.rebit.workers.dev/?ID=f52374b0-9ac9-499a-a018-1fc576f41078
+#EXTINF:-1 tvg-id="tv-nitricka" tvg-name="TV Nitrička"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2773.png",TV Nitrička
+http://tv.rebit.workers.dev/?ID=f60a08cf-4230-44e7-a995-e7530f7719c2
+#EXTINF:-1 tvg-id="tv-severka" tvg-name="TV Severka HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2748.png",TV Severka HD
+http://tv.rebit.workers.dev/?ID=f65dd65a-89c8-446a-b616-4d7d2dbaf7b2
+#EXTINF:-1 tvg-id="tv-barrandov-hd" tvg-name="TV Barrandov HD"  tvg-logo="https://static.rebit.sk/tv-brand/tv-barrandov.png",TV Barrandov HD
+http://tv.rebit.workers.dev/?ID=f9eb3641-062f-4800-9a30-79f8232c5439
+#EXTINF:-1 tvg-id="tv-bratislava-hd" tvg-name="TV Bratislava HD"  tvg-logo="https://iptv.bbxnet.sk/stalker_portal/misc/logos/320/2766.png",TV Bratislava HD
+http://tv.rebit.workers.dev/?ID=fc432c32-e289-4207-9cd8-dc5e94f5f01e
+#EXTINF:-1 tvg-id="jojko" tvg-name="JOJko HD"  tvg-logo="https://static.rebit.sk/tv-brand/jojko.png",JOJko HD
+http://tv.rebit.workers.dev/?ID=fcf1ee5f-1d8b-4beb-b714-86bdee4e3dd9

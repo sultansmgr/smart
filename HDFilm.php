@@ -19,11 +19,9 @@ function decodeLink($Link) {
 
 $Live = $_GET['ID'];
 $headers = [
-    'Accept: */*',
-    'Accept-Encoding: gzip',
-    'Accept-Language: tr-TR,tr;q=0.9',
-    'Connection: keep-alive',
-    'User-Agent: okhttp/4.12.0'
+    	'User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)',
+	'Connection: Keep-Alive',
+	'Accept-Encoding: gzip'
 ];
 
 function getData($url, $headers) {
@@ -45,14 +43,23 @@ $site = getData("https://www.fullhdfilmizlesene.tv/film/$Live/", $headers);
 preg_match('#vidid = \'(.*?)\'#', $site, $icerik);
 $Data = $icerik[1];
 
-$site1 = getData("https://www.fullhdfilmizlesene.tv/player/api.php?id=$Data&type=t&name=atom&get=video&format=json", $headers);
-$site1 = str_replace('\\', '',$site1);
-preg_match('#"html":"(.*?)"#', $site1, $icerik);
-$Url = $icerik[1];
+$Atom = getData("https://www.fullhdfilmizlesene.tv/player/api.php?id=$Data&type=t&name=atom&get=video&format=json", $headers);
+$Turbo = getData("https://www.fullhdfilmizlesene.tv/player/api.php?id=$Data&type=t&name=advid&get=video&pno=tr&format=json", $headers);
+$Atom = str_replace('\\', '',$Atom);
+$Turbo = str_replace('\\', '',$Turbo);
 
-$site2 = getData($Url, $headers);
-preg_match('#"file":\s*av\([\'"]([^\'"]+)[\'"]\)#', $site2, $icerik);
+preg_match('#"html":"(.*?)"#', $Atom, $icerik);
+$atomUrl = $icerik[1];
+preg_match('#/watch/(.*?)"#', $Turbo, $icerik);
+$TurboUrl = $icerik[1];
+
+$site1 = getData($atomUrl, $headers);
+preg_match('#"file":\s*av\([\'"]([^\'"]+)[\'"]\)#', $site1, $icerik);
 $Link = $icerik[1];
 $Link = decodeLink($Link);
-header ("Location: $Link");
+
+$site1 = getData("https://turbo.imgz.me/play/$TurboUrl?autoplay=true", $headers);
+preg_match('#file: "(.*?)"#', $site1, $icerik);
+$M3U8 = $icerik[1];
+header ("Location: $M3U8$Link");
 ?>

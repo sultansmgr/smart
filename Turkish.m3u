@@ -28,7 +28,7 @@ http://tv.sultanweb.workers.dev/?ID=show
 #EXTINF:-1 group-title="ULUSAL" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n-RfGXYk4z7dKMOci_pVxZZIzUM2edD-Me9Rhqd32reg",SHOWTURK
 http://tv.sultanweb.workers.dev/?ID=showturk
 #EXTINF:-1 group-title="ULUSAL" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nTG4AY_rb5ieHlK_3D6rs0ZI2neVws-b735Vk_4UtwHLk",SHOWMAX
-http://shoxmax.sultanweb.workers.dev/?ID=showmax
+http://tv.sultanweb.workers.dev/?ID=showmax
 #EXTINF:-1 group-title="ULUSAL" tvg-logo="https://yt3.googleusercontent.com/RZMwSCEwuSYV3R0X10cizuB4Pf_FOPPJrI-JnKytQoAe6gdScle1iWxj-5ApcILVT2hFZmCa0w",STAR
 http://tv.sultanweb.workers.dev/?ID=star
 #EXTINF:-1 group-title="ULUSAL" tvg-logo="https://yt3.googleusercontent.com/uLs2ZkqijBRkGlO0nSIJJpF_BJZhxdtaVq5lQXDnnwPTS41FekCPAqVz0ZU2RZjfhlvClkw-BQ",NOW
@@ -93,3 +93,4 @@ http://live.tabitv.workers.dev/?ID=tabii Spor 5
 http://live.tabitv.workers.dev/?ID=tabii Spor 6
 #EXTINF:-1 group-title="tabii" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w273/h154/q90/51612_0-0-1919-1080.jpeg",tabii Spor 7
 http://live.tabitv.workers.dev/?ID=tabii Spor 7
+

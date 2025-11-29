@@ -39,6 +39,10 @@ https://tv.sultanweb.workers.dev/?ID=kanald.m3u8
 https://tv.sultanweb.workers.dev/?ID=tv8.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-logo="https://yt3.ggpht.com/mkjHjP6e2h9JykcMntzaTsCXCdNthlLu_EiDKE5_AifSpyLD1qkhCaJaY8g-eYbd_pwApWNfOQ",TV8.5
 https://tv.sultanweb.workers.dev/?ID=halk.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mnZRsE_zsJ1SHoJGEED56N-HWGKoZ932IHgAt5QKerBeA",Kanal 7
+https://tv.sultanweb.workers.dev/?ID=kanal7.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://play-lh.googleusercontent.com/wQre5VM0PZxEu435MjshxZXE_VQMKJiG-5LblyAtKgMkkrQwxfpT48AQfzPsZYnVKw",Kanal 7 AVRUPA
+https://tv.sultanweb.workers.dev/?ID=kanal7avrupa.m3u8
 #EXTINF:-1 group-title="HABER" tvg-logo="https://yt3.ggpht.com/H6Fh64z_Vb9AYevqCPwgeyRAyd4mye6fqU2HN5Jj1RWtrtK5lbU3B2Nkxc_nJfpN_WpI5_flfBk",CNNTURK
 https://tv.cnnturk.workers.dev/cnnturk.m3u8
 #EXTINF:-1 group-title="HABER" tvg-logo="https://yt3.ggpht.com/0g9DHHvJNnj9lzfaGXr-W9iuNmwKoWrLW60CmDf_CAYMD5rpzdtrIsizHpoxOEr3M0Ld5ezo",HABERTURK

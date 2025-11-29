@@ -27,6 +27,8 @@ https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8
 https://tv.sultanweb.workers.dev/?ID=show.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n-RfGXYk4z7dKMOci_pVxZZIzUM2edD-Me9Rhqd32reg",SHOWTURK
 https://tv.sultanweb.workers.dev/?ID=showturk.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nTG4AY_rb5ieHlK_3D6rs0ZI2neVws-b735Vk_4UtwHLk",SHOWMAX
+https://shoxmax.sultanweb.workers.dev/?ID=showmax.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-logo="https://yt3.googleusercontent.com/RZMwSCEwuSYV3R0X10cizuB4Pf_FOPPJrI-JnKytQoAe6gdScle1iWxj-5ApcILVT2hFZmCa0w",STAR
 https://tv.sultanweb.workers.dev/?ID=star.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-logo="https://yt3.googleusercontent.com/uLs2ZkqijBRkGlO0nSIJJpF_BJZhxdtaVq5lQXDnnwPTS41FekCPAqVz0ZU2RZjfhlvClkw-BQ",NOW

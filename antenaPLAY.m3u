@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Antena 1" tvg-logo="https://assets.antenaplay.ro/2023/08/17/p1wkoEqNqG1t8m8792Yv.png",Antena 1
+https://tv.antenaplay.workers.dev/?ID=1
+#EXTINF:-1 tvg-name="Antena 3" tvg-logo="https://assets.antenaplay.ro/2023/04/13/HKm4RoGnnUnXjCNU5DHE.png",Antena 3
+https://tv.antenaplay.workers.dev/?ID=3
+#EXTINF:-1 tvg-name="Antena Monden" tvg-logo="https://assets.antenaplay.ro/2023/04/13/XUWr9qi81bG4YniZ24dx.png",Antena Monden
+https://tv.antenaplay.workers.dev/?ID=18
+#EXTINF:-1 tvg-name="Mireasa" tvg-logo="https://assets.antenaplay.ro/2023/04/13/BXU7IgwJszp7SgzqDCiw.png",Mireasa
+https://tv.antenaplay.workers.dev/?ID=8
+#EXTINF:-1 tvg-name="Antena Stars" tvg-logo="https://assets.antenaplay.ro/2023/04/13/btHpXs22rHKgChwkhYKD.png",Antena Stars
+https://tv.antenaplay.workers.dev/?ID=4
+#EXTINF:-1 tvg-name="ZU TV" tvg-logo="https://assets.antenaplay.ro/2023/04/13/YqeyqoUsWe3LPWbLPYGx.png",ZU TV
+https://tv.antenaplay.workers.dev/?ID=9
+#EXTINF:-1 tvg-name="Happy Channel" tvg-logo="https://assets.antenaplay.ro/2023/04/13/KbZAM3d33ghXMj2GesxC.png",Happy Channel
+https://tv.antenaplay.workers.dev/?ID=2
+#EXTINF:-1 tvg-name="Comedy Play" tvg-logo="https://assets.antenaplay.ro/2023/04/13/w4gQJRGRELkUUM9bY6BR.png",Comedy Play
+https://tv.antenaplay.workers.dev/?ID=900
+#EXTINF:-1 tvg-name="Mireasa+" tvg-logo="https://assets.antenaplay.ro/2023/04/13/aDIfPBxyPRiVHATI1OUO.png",Mireasa+
+https://tv.antenaplay.workers.dev/?ID=853
+#EXTINF:-1 tvg-name="Hello Taste" tvg-logo="https://assets.antenaplay.ro/2023/04/13/YmqeGCnd1If6bk4pfGsM.png",Hello Taste
+https://tv.antenaplay.workers.dev/?ID=1850
+#EXTINF:-1 tvg-name="CaTine" tvg-logo="https://assets.antenaplay.ro/2023/04/13/VHRdsIZ5WLPINVFduvKR.png",CaTine
+https://tv.antenaplay.workers.dev/?ID=19
+#EXTINF:-1 tvg-name="Mireasa Extra" tvg-logo="https://assets.antenaplay.ro/2023/04/13/38PzHNvliQqkYuSPPkng.png",Mireasa Extra
+https://tv.antenaplay.workers.dev/?ID=854
+#EXTINF:-1 tvg-name="AS.ro" tvg-logo="https://assets.antenaplay.ro/2024/01/19/yQKyg88zb8kIrXrESVuo.png",AS.ro
+https://tv.antenaplay.workers.dev/?ID=48
+#EXTINF:-1 tvg-name="MediCOOL TV" tvg-logo="https://assets.antenaplay.ro/2023/05/23/YKkExA2ZU3m6WtWo6iAn.png",MediCOOL TV
+https://tv.antenaplay.workers.dev/?ID=1900
+#EXTINF:-1 tvg-name="Radio ZU LIVE" tvg-logo="https://assets.antenaplay.ro/2023/06/15/PpPPQZvPcUX0erjviJEO.png",Radio ZU LIVE
+https://tv.antenaplay.workers.dev/?ID=1000
+#EXTINF:-1 tvg-name="Liga Portugal - LIVE" tvg-logo="https://assets.antenaplay.ro/2023/08/11/YzVNMor3A2056eWCxDe8.png",Liga Portugal - LIVE
+https://tv.antenaplay.workers.dev/?ID=54
+#EXTINF:-1 tvg-name="Romantic FM" tvg-logo="https://assets.antenaplay.ro/2023/08/16/rrRyKc1PI1EvUvMuQejx.png",Romantic FM
+https://tv.antenaplay.workers.dev/?ID=1750
+#EXTINF:-1 tvg-name="ObservatorNews" tvg-logo="https://assets.antenaplay.ro/2023/10/16/cNiJ9B9qOU2FZtDOTpMP.png",ObservatorNews
+https://tv.antenaplay.workers.dev/?ID=900
+#EXTINF:-1 tvg-name="DeParinti.ro" tvg-logo="https://assets.antenaplay.ro/2023/11/21/X0usDfJtIl522Id0TUvS.png",DeParinti.ro
+https://tv.antenaplay.workers.dev/?ID=1951
+#EXTINF:-1 tvg-name="Formula 1™ - LIVE" tvg-logo="https://assets.antenaplay.ro/2024/02/23/nx52pifuAd9916Arzzkh.png",Formula 1™ - LIVE
+https://tv.antenaplay.workers.dev/?ID=51
+#EXTINF:-1 tvg-name="Cupa Franței - LIVE" tvg-logo="https://assets.antenaplay.ro/2024/02/27/XvMJOAOgRGBLFRrlm8so.png",Cupa Franței - LIVE
+https://tv.antenaplay.workers.dev/?ID=8769
+#EXTINF:-1 tvg-name="Porsche Carrera Cup Middle East - LIVE" tvg-logo="https://assets.antenaplay.ro/2024/02/28/375oBMwOCJkX2NLolfwu.png",Porsche Carrera Cup Middle East - LIVE
+https://tv.antenaplay.workers.dev/?ID=7800
+#EXTINF:-1 tvg-name="Formula 2™ - LIVE" tvg-logo="https://assets.antenaplay.ro/2024/02/28/xgAxVqwFD5c8nBYGNIYm.png",Formula 2™ - LIVE
+https://tv.antenaplay.workers.dev/?ID=52
+#EXTINF:-1 tvg-name="Formula 3™ - LIVE" tvg-logo="https://assets.antenaplay.ro/2024/02/28/ZebqHBoqDlf8G4BJGpwR.png",Formula 3™ - LIVE
+https://tv.antenaplay.workers.dev/?ID=53
+#EXTINF:-1 tvg-name="Formula 1 Academy™ - LIVE" tvg-logo="https://assets.antenaplay.ro/2024/02/28/XdyHTRSXfAFkAxtX4Rcl.png",Formula 1 Academy™ - LIVE
+https://tv.antenaplay.workers.dev/?ID=7
+#EXTINF:-1 tvg-name="Kanal D 2" tvg-logo="https://assets.antenaplay.ro/2024/06/04/BAUpJZkOMvAXxppaIWSX.png",Kanal D 2
+https://tv.antenaplay.workers.dev/?ID=1415
+#EXTINF:-1 tvg-name="Euronews Romania" tvg-logo="https://assets.antenaplay.ro/2024/06/04/ls1p6P0oyYG9PuIefE2p.png",Euronews Romania
+https://tv.antenaplay.workers.dev/?ID=23
+#EXTINF:-1 tvg-name="National TV" tvg-logo="https://assets.antenaplay.ro/2024/06/04/q7HQqKQ0bdkUzKF6Y1We.png",National TV
+https://tv.antenaplay.workers.dev/?ID=1405
+#EXTINF:-1 tvg-name="National 24 Plus" tvg-logo="https://assets.antenaplay.ro/2024/06/04/XXf7PUqEF1tGUEAMFncI.png",National 24 Plus
+https://tv.antenaplay.workers.dev/?ID=1410
+#EXTINF:-1 tvg-name="Etno TV" tvg-logo="https://assets.antenaplay.ro/2024/06/04/tSMtBY0VIVB6juTcrXPb.png",Etno TV
+https://tv.antenaplay.workers.dev/?ID=1420
+#EXTINF:-1 tvg-name="Inedit TV" tvg-logo="https://assets.antenaplay.ro/2024/06/04/NaMaRkJOKbi47bK8F0ht.png",Inedit TV
+https://tv.antenaplay.workers.dev/?ID=1425
+#EXTINF:-1 tvg-name="Metropola TV" tvg-logo="https://assets.antenaplay.ro/2024/06/04/kha32UGDxiSfKdGKBUnk.png",Metropola TV
+https://tv.antenaplay.workers.dev/?ID=1430
+#EXTINF:-1 tvg-name="Favorit TV" tvg-logo="https://assets.antenaplay.ro/2024/06/04/NpVs0LlgQIRwK8dJ71to.png",Favorit TV
+https://tv.antenaplay.workers.dev/?ID=1435
+#EXTINF:-1 tvg-name="A7 TV" tvg-logo="https://assets.antenaplay.ro/2024/06/04/DRgY7grjsYuU9umJ30oM.png",A7 TV
+https://tv.antenaplay.workers.dev/?ID=1440
+#EXTINF:-1 tvg-name="Moldova TV" tvg-logo="https://assets.antenaplay.ro/2024/06/04/bICX2CoUHtiqabgkUoVD.png",Moldova TV
+https://tv.antenaplay.workers.dev/?ID=1445
+#EXTINF:-1 tvg-name="Exploris" tvg-logo="https://assets.antenaplay.ro/2024/06/13/moTtvlFa9qQyyTyETzxN.png",Exploris
+https://tv.antenaplay.workers.dev/?ID=1455
+#EXTINF:-1 tvg-name="Global News" tvg-logo="https://assets.antenaplay.ro/2024/06/04/ffKqmhQuVKnCNReQRXgg.png",Global News
+https://tv.antenaplay.workers.dev/?ID=1460
+#EXTINF:-1 tvg-name="LinkPress" tvg-logo="https://assets.antenaplay.ro/2024/06/04/hgEn7l2nfCYvkFSgoZPF.png",LinkPress
+https://tv.antenaplay.workers.dev/?ID=1460
+#EXTINF:-1 tvg-name="TeleMoldova Plus" tvg-logo="https://assets.antenaplay.ro/2024/06/04/ecw1s1xmM47U00ZUXw3i.png",TeleMoldova Plus
+https://tv.antenaplay.workers.dev/?ID=1465
+#EXTINF:-1 tvg-name="Kapital TV" tvg-logo="https://assets.antenaplay.ro/2024/06/04/1X5MOy9tf0El6vqVeGwk.png",Kapital TV
+https://tv.antenaplay.workers.dev/?ID=1470
+#EXTINF:-1 tvg-name="Telestar 1" tvg-logo="https://assets.antenaplay.ro/2024/06/04/3BTG0y26KU3ftgsFMKCQ.png",Telestar 1
+https://tv.antenaplay.workers.dev/?ID=1475
+#EXTINF:-1 tvg-name="Bollywood" tvg-logo="https://assets.antenaplay.ro/2024/06/07/H1BLWF5TCtXKXU8tyg0h.png",Bollywood
+https://tv.antenaplay.workers.dev/?ID=1480
+#EXTINF:-1 tvg-name="Aleph News" tvg-logo="https://assets.antenaplay.ro/2024/06/03/djdhybmhbrvjPhf7mKSC.png",Aleph News
+https://tv.antenaplay.workers.dev/?ID=24
+#EXTINF:-1 tvg-name="NCN" tvg-logo="https://assets.antenaplay.ro/2024/06/04/aSyK64qZiDf91m56qPOB.png",NCN
+https://tv.antenaplay.workers.dev/?ID=1485
+#EXTINF:-1 tvg-name="Canal 33" tvg-logo="https://assets.antenaplay.ro/2024/06/04/eYtVChTtS3hLUJ6QVKTG.png",Canal 33
+https://tv.antenaplay.workers.dev/?ID=1505
+#EXTINF:-1 tvg-name="Orizont TV" tvg-logo="https://assets.antenaplay.ro/2024/06/04/mebMMX9scgf5St4b6CoF.png",Orizont TV
+https://tv.antenaplay.workers.dev/?ID=1510
+#EXTINF:-1 tvg-name="TV AS" tvg-logo="https://assets.antenaplay.ro/2024/06/04/wMkMWbiMv8UBU6UJ8LYZ.png",TV AS
+https://tv.antenaplay.workers.dev/?ID=1515
+#EXTINF:-1 tvg-name="Traditional TV" tvg-logo="https://assets.antenaplay.ro/2024/06/04/AsbM2XsOBGtTrTOuD3ni.png",Traditional TV
+https://tv.antenaplay.workers.dev/?ID=1522
+#EXTINF:-1 tvg-name="Melos TV" tvg-logo="https://assets.antenaplay.ro/2024/06/04/WlcJTrlwkUjuRyfVHA5S.png",Melos TV
+https://tv.antenaplay.workers.dev/?ID=1525
+#EXTINF:-1 tvg-name="Sens TV" tvg-logo="https://assets.antenaplay.ro/2024/06/04/3Sizq3kg4U07s1uLh4Ox.png",Sens TV
+https://tv.antenaplay.workers.dev/?ID=1530
+#EXTINF:-1 tvg-name="Atomic TV" tvg-logo="https://assets.antenaplay.ro/2024/06/04/ZqJUrIzkVnVVQg06x6wW.png",Atomic TV
+https://tv.antenaplay.workers.dev/?ID=1535
+#EXTINF:-1 tvg-name="Atomic Academy" tvg-logo="https://assets.antenaplay.ro/2024/06/04/z1hRHgWuFqqTNO7fZytl.png",Atomic Academy
+https://tv.antenaplay.workers.dev/?ID=1540
+#EXTINF:-1 tvg-name="Trinitas TV" tvg-logo="https://assets.antenaplay.ro/2024/06/04/ZKteJqLDbGLohhsy5UPl.png",Trinitas TV
+https://tv.antenaplay.workers.dev/?ID=1545
+#EXTINF:-1 tvg-name="Taraf TV" tvg-logo="https://assets.antenaplay.ro/2024/06/04/qsjTU72UQZS4xKJgCZTT.png",Taraf TV
+https://tv.antenaplay.workers.dev/?ID=1550
+#EXTINF:-1 tvg-name="Magic TV" tvg-logo="https://assets.antenaplay.ro/2024/06/07/mBeEwMUKfDMUpW8w5Qyj.png",Magic TV
+https://tv.antenaplay.workers.dev/?ID=1555
+#EXTINF:-1 tvg-name="Mooz Dance" tvg-logo="https://assets.antenaplay.ro/2024/06/04/Dn4XbTioTwSIkbYSG8eJ.png",Mooz Dance
+https://tv.antenaplay.workers.dev/?ID=1560
+#EXTINF:-1 tvg-name="Rock TV" tvg-logo="https://assets.antenaplay.ro/2024/06/04/Y7UGvhfWoW4JdtgLPvRt.png",Rock TV
+https://tv.antenaplay.workers.dev/?ID=1565
+#EXTINF:-1 tvg-name="Disco Mix" tvg-logo="https://assets.antenaplay.ro/2024/06/04/4D3RyYymrk9cQMVqj6c8.png",Disco Mix
+https://tv.antenaplay.workers.dev/?ID=1570
+#EXTINF:-1 tvg-name="Rapsodia TV" tvg-logo="https://assets.antenaplay.ro/2024/06/04/enCcPueQauw5orGLK57K.png",Rapsodia TV
+https://tv.antenaplay.workers.dev/?ID=1575
+#EXTINF:-1 tvg-name="Kiss TV" tvg-logo="https://assets.antenaplay.ro/2024/06/04/lPzAAGuyFqI8YGhDODgp.png",Kiss TV
+https://tv.antenaplay.workers.dev/?ID=1580
+#EXTINF:-1 tvg-name="Shop on TV" tvg-logo="https://assets.antenaplay.ro/2024/06/04/W3yscN5HxxKRMLwkYGiL.png",Shop on TV
+https://tv.antenaplay.workers.dev/?ID=1590
+#EXTINF:-1 tvg-name="24 Mix Teleshop" tvg-logo="https://assets.antenaplay.ro/2024/06/04/VaAG6OschGIXGG5Z2kQ6.png",24 Mix Teleshop
+https://tv.antenaplay.workers.dev/?ID=1600
+#EXTINF:-1 tvg-name="Emi TV" tvg-logo="https://assets.antenaplay.ro/2024/06/05/XOKkNRLSsM6hxzY6ztEJ.png",Emi TV
+https://tv.antenaplay.workers.dev/?ID=1552
+#EXTINF:-1 tvg-name="TVR 1" tvg-logo="https://assets.antenaplay.ro/2024/07/22/2yyKPG0u3DAWt2C39zDX.png",TVR 1
+https://tv.antenaplay.workers.dev/?ID=1406
+#EXTINF:-1 tvg-name="TVR 2" tvg-logo="https://assets.antenaplay.ro/2024/07/22/q543NNgwaPtPJGrzW3xT.png",TVR 2
+https://tv.antenaplay.workers.dev/?ID=1407
+#EXTINF:-1 tvg-name="TVR Sport" tvg-logo="https://assets.antenaplay.ro/2024/07/22/iIw5Ij5u2zGqAg9qp5wx.png",TVR Sport
+https://tv.antenaplay.workers.dev/?ID=1423
+#EXTINF:-1 tvg-name="B1 TV" tvg-logo="https://assets.antenaplay.ro/2024/10/10/jGUFKtO85jSUfhRPDWo0.png",B1 TV
+https://tv.antenaplay.workers.dev/?ID=225
+#EXTINF:-1 tvg-name="NBA" tvg-logo="https://assets.antenaplay.ro/2024/10/25/51bNFLWsczuCk9q2ZxPh.png",NBA
+https://tv.antenaplay.workers.dev/?ID=49
+#EXTINF:-1 tvg-name="SIMFONICA TV" tvg-logo="https://assets.antenaplay.ro/2025/02/27/HR4IWLSrkiJAqON07x0u.png",SIMFONICA TV
+https://tv.antenaplay.workers.dev/?ID=1601

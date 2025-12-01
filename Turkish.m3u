@@ -80,11 +80,11 @@ http://tv.sultanweb.workers.dev/?ID=tv100
 #EXTINF:-1 group-title="MUZIK" tvg-logo="https://yt3.googleusercontent.com/njAP5wmqMJMmB5kKqLN37WphfwfZutc345jVtYQpxKa2F5r5uMA_M6hXW-Ep55DA-1CCWAr5gQ",PowerTurk
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
 #EXTINF:-1 group-title="MUZIK" tvg-logo="https://yt3.googleusercontent.com/fshZVLRj_xk-1pZ_8YcXQtepkvEb29nsRUgmt083K2suCQucVPzyhCBVPKl04rbe_zoaObYl",PowerTV
-http://tv.sultanweb.workers.dev/?ID=PowerTV
+http://tv.sultanweb.workers.dev/?ID=powertv
 #EXTINF:-1 group-title="MUZIK" tvg-logo="https://yt3.googleusercontent.com/Ud_gSv-D-6i8pMxG7DdkGJGGrfi98izQ1qPfVRbWH3iawpuSdw55FtvWRSdoSmB4ZxyW19natw",Number1 TV
-http://tv.sultanweb.workers.dev/?ID=Nr1TV
+http://tv.sultanweb.workers.dev/?ID=nr1tv
 #EXTINF:-1 group-title="MUZIK" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mAta5iIVgVEG9fu9hYethrBVrOFPG0fmy1Xs7POXlmRg",DreamTurk
-http://tv.sultanweb.workers.dev/?ID=DreamTurk
+http://tv.sultanweb.workers.dev/?ID=dreamturk
 #EXTINF:-1 group-title="SPOR" tvg-logo="https://yt3.googleusercontent.com/DzgqmDc_yXk6sZdoix3kaqkdU8SHn2fViNGsYeljLVOGJBKjDcccCX9UFA3ozp-_6pd8J34l4ME",EKOL Sports 
 http://tv.sultanweb.workers.dev/?ID=ekolsport
 #EXTINF:-1 group-title="tabii" tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/45155_0-73-1920-933.jpeg",tabii TV
@@ -105,6 +105,7 @@ http://live.tabitv.workers.dev/?ID=tabii Spor 5
 http://live.tabitv.workers.dev/?ID=tabii Spor 6
 #EXTINF:-1 group-title="tabii" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w273/h154/q90/51612_0-0-1919-1080.jpeg",tabii Spor 7
 http://live.tabitv.workers.dev/?ID=tabii Spor 7
+
 
 
 

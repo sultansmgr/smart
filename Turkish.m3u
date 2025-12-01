@@ -86,7 +86,7 @@ http://tv.sultanweb.workers.dev/?ID=nr1tv
 #EXTINF:-1 group-title="MUZIK" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mAta5iIVgVEG9fu9hYethrBVrOFPG0fmy1Xs7POXlmRg",DreamTurk
 http://tv.sultanweb.workers.dev/?ID=dreamturk
 #EXTINF:-1 group-title="SPOR" tvg-logo="https://yt3.googleusercontent.com/DzgqmDc_yXk6sZdoix3kaqkdU8SHn2fViNGsYeljLVOGJBKjDcccCX9UFA3ozp-_6pd8J34l4ME",EKOL Sports 
-http://tv.sultanweb.workers.dev/?ID=ekolsport
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1 group-title="tabii" tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/45155_0-73-1920-933.jpeg",tabii TV
 http://live.tabitv.workers.dev/?ID=tabii TV
 #EXTINF:-1 group-title="tabii" tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/43023.jpeg",tabii spor
@@ -105,6 +105,7 @@ http://live.tabitv.workers.dev/?ID=tabii Spor 5
 http://live.tabitv.workers.dev/?ID=tabii Spor 6
 #EXTINF:-1 group-title="tabii" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w273/h154/q90/51612_0-0-1919-1080.jpeg",tabii Spor 7
 http://live.tabitv.workers.dev/?ID=tabii Spor 7
+
 
 
 

@@ -34,7 +34,7 @@ $site = postData(
 preg_match('#"session_key":"(.*?)"#', $site, $icerik);
 $Token = $icerik[1];
 
-$methods = '[{"search.globalGrouped":{"params":{"count":3,"fieldset":"android.7","filters":"[{\"type\":\"user\"}]","query":"17918.tr","queryMeta":"{\"sourceLocation\":\"DISCOVERY_SEARCH\"}","screen":"GLOBAL_SEARCH_USERS_NO_RESULTS","types":"USER,GROUP,COMMUNITY,VIDEO,APP"}}},{"users.getRelationInfo":{"params":{"fields":"*"},"supplyParams":{"friend_ids":"search.globalGrouped.user_ids"}}}]';
+$methods = '[{"search.globalGrouped":{"params":{"count":3,"fieldset":"android.7","filters":"[{\"type\":\"user\"}]","query":"'.$Live.'","queryMeta":"{\"sourceLocation\":\"DISCOVERY_SEARCH\"}","screen":"GLOBAL_SEARCH_USERS_NO_RESULTS","types":"USER,GROUP,COMMUNITY,VIDEO,APP"}}},{"users.getRelationInfo":{"params":{"fields":"*"},"supplyParams":{"friend_ids":"search.globalGrouped.user_ids"}}}]';
 
 $Ticket = "application_key=CBAFJIICABABABABA&session_key=$Token&methods=" . urlencode($methods);
 $site1 = postData(

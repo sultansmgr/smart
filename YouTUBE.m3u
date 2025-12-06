@@ -1,16 +1,53 @@
-#EXTM3U
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/cLKgkpYAa2ebb0i0r0tRIrEwsytAyj9NEq6al0OQuhVh4QoVuClFzF1ODvSigcOpiXCyuo15Ew" group-title="ULUSAL",SHOW
+http://live.tv-youtube.workers.dev/?ID=UC9JMe_We017gYrRc7kZHgmg
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/RZMwSCEwuSYV3R0X10cizuB4Pf_FOPPJrI-JnKytQoAe6gdScle1iWxj-5ApcILVT2hFZmCa0w" group-title="ULUSAL",STAR
+http://live.tv-youtube.workers.dev/?ID=UCsFINj3y7SjBaeUxiSdRjlA
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/rGaatci_rjFWnwKiycOnIolZYkXz8SeTNVMz4G_45i_flLh_toDIBKT6ctxlDH8b7vqW4Cc_-XY" group-title="ULUSAL",atv
+http://live.tv-youtube.workers.dev/?ID=UCUVZ7T_kwkxDOGFcDlFI-hg
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kPFpGM_Ln1zuEZpG4uXXcyvbaadGdlqig7RZnYqVWE_Q" group-title="ULUSAL",EUROD HD
+http://live.tv-youtube.workers.dev/?ID=UCFoe1tg8MuHjRzmqXtV816A
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/PUOG4AugF5attdcdO6O1sOIkFykoEJBTKF0d6hLlzAj_VCPD3MUyMOZTiwyfs-NbqL7qLNJuRw" group-title="HABER",NTV
+http://live.tv-youtube.workers.dev/?ID=UC9TDTjbOjFB9jADmPhSAPsw
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/_HznzWrS2cMaKa8Jp_uZhzWt7-25ijH7pZlXq45D9vapjDu5DRsh9uu0vfa2NH2Iayw5yxhaDQ" group-title="HABER",SOZCU
+http://live.tv-youtube.workers.dev/?ID=UCOulx_rep5O4i9y6AyDqVvw
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/H6Fh64z_Vb9AYevqCPwgeyRAyd4mye6fqU2HN5Jj1RWtrtK5lbU3B2Nkxc_nJfpN_WpI5_flfBk" group-title="HABER",CNNTURK
+http://live.tv-youtube.workers.dev/?ID=UCV6zcRug6Hqp1UX_FdyUeBg
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/sgLqVc2LbmFb-r8OMY3Ib5o1MYjFSdY3KHSPYQ6EIjBNYYkgtljQbxEkeQG2zNeNPloQGCJ5" group-title="HABER",HABERTURK
+http://live.tv-youtube.workers.dev/?ID=UCn6dNfiRE_Xunu7iMyvD7AA
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/3a7gv0YZ9X6kWk_kfffCq3Gdws5g54JntzV1fSHQomWFDb-1mUuJTiCTX4HxUG9SMjqYyBN4guE" group-title="HABER",AHABER
+http://live.tv-youtube.workers.dev/?ID=UCKQhfw-lzz0uKnE1fY1PsAA
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/43xh3uEvLl7kAKca-zFauATzT3spixqjb9v-cYBVxBLzbcbVj42iV3Msbpd5zXwN_w7jXdnzFq8" group-title="SPOR",aSPOR
+http://live.tv-youtube.workers.dev/?ID=UCJElRTCNEmLemgirqvsW63Q
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nlq08_guC6EugVRKi1Dh6cfQdGa0xcsh8blj0_-VGzhVo" group-title="HABER",ULKE TV
+http://live.tv-youtube.workers.dev/?ID=UCi65FGbYYj-OzJm2luB_fNQ
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Rh1aC6tWB_CLSqR2gRW8UPXfCsqZE-7m83CPpBNLk8CI6ybTGDNWy7jF7jFGkHIffyUEyF8BW38" group-title="HABER",CBC-e
+http://live.tv-youtube.workers.dev/?ID=UCaO-M1dXacMwtyg0Pvovk4w
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/WJm8IMexX9Atd0eOkmHFXagUieCC43mZO1B-TQAhBYm8iR4H5do0Go_kYWz_g-bSYxx6yXZPycI" group-title="HABER",TVNET
+http://live.tv-youtube.workers.dev/?ID=UC8rh34IlJTN0lDZlTwzWzjg
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/5-coJeWxxU9a8VNXv-X7fXpclUFJk2a4KXLdOUSADNIRfJDM2Shmc1eybhHL6nS_nYz4_yKFWVk" group-title="HABER",KRT
+http://live.tv-youtube.workers.dev/?ID=UCVKWwHoLwUMMa80cu_1uapA
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/9Hqnz42k04uQF15nx0Dk9sh6JtLWtVtzMIxp_W4TuxtUB2cq2Q515dnD095_muJUBjUhtRz70sA" group-title="HABER",FLASH HABER
+http://live.tv-youtube.workers.dev/?ID=UCNcjCb2RnA3eMMhTZSxZu3A
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/EDcyi5hZ1hX_gPI-QQGKqcBwsQlvuuD3hz-N8utLebWL0uLE9pqTzpS8jXW7J-lsUmEICR5K3w" group-title="HABER",ULUSAL KANAL
+http://live.tv-youtube.workers.dev/?ID=UC6T0L26KS1NHMPbTwI1L4Eg
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/u8lIyigiEuofBWzGVRVJ_WOOdXp6cPTt9-02Kp8lG4XgMHXx0ZB_lwNINw4sLJaAk6ej35ueeA" group-title="HABER",HALK TV
+http://live.tv-youtube.workers.dev/?ID=UCf_ResXZzE-o18zACUEmyvQ
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/gWxG3v8R74BMB5GWgX0v9HoFKmKLtTl533CgLfoHcRfRXQPTTcAYgvrnplkwqOmq4GZnmOLkbw" group-title="HABER",24 TV
+http://live.tv-youtube.workers.dev/?ID=UCN7VYCsI4Lx1-J4_BtjoWUA
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kYr_pJ26fMpoQPKgJEACBiddx9WO4CV4akUE8yBzhrHMg" group-title="HABER",Bloomberg HT
+http://live.tv-youtube.workers.dev/?ID=UCApLxl6oYQafxvykuoC2uxQ
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/X-b7tJvjfBMDHCAafwyNV89qJ_FlzlXChymSisVsncnPpgOLLHknR6n1wtm8huk0SJz3KhNRTQ" group-title="HABER",TRT HABER
+http://live.tv-youtube.workers.dev/?ID=UCBgTP2LOFVPmq15W-RH-WXA
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kg1PXkb5IvOoU7c2haUmoWIPg20lNNFb-jk8qkh4PQ3_4" group-title="DINI",DIYANET TV
+http://live.tv-youtube.workers.dev/?ID=UC3d1AdmvAP6Jq16-WpD086g
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ug6KZIO3xYTZoZmFMHzwvNP44BfZ8Hap1dWB9NAQTmULUDtFlnVmukOukijd9AKtJZmqV8VH" group-title="DİNİ",Allah Yolunda Huzur Veren Dini Sohbetler - Aşk-ı Neva
 http://live.tv-youtube.workers.dev/?ID=UCJ5bBXls09z7Cjwg-qBzAZQ
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kg1PXkb5IvOoU7c2haUmoWIPg20lNNFb-jk8qkh4PQ3_4" group-title="DİNİ",DIYANET TV
-http://live.tv-youtube.workers.dev/?ID=UC3d1AdmvAP6Jq16-WpD086g
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/2m_4uFImiV24g-GaBxebdKKOWzLkY-e6LUk-vwZuyYwNgHNNmzqExkyxqrsd-lUx5LQ9Z6kBbko" group-title="DİNİ",VAV TV
 http://live.tv-youtube.workers.dev/?ID=UCmMPdW0rtbEI_XyIsMlMnqg
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/91txrcGq04h_9QBSkLwJAmz6_NRmgb8sf8LdTZ4iCsrFZqosZ-kwbUWs3zEgb2qVcH9WTAmxtw" group-title="DİNİ",SEMERKAND TV
 http://live.tv-youtube.workers.dev/?ID=UCy4NY-cswicIclx2XKqe5Kg
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/DzgqmDc_yXk6sZdoix3kaqkdU8SHn2fViNGsYeljLVOGJBKjDcccCX9UFA3ozp-_6pd8J34l4ME" group-title="SPOR",Ekol Sports
-http://live.tv-youtube.workers.dev/?ID=UCjr2WQ5a20B5YyUY7qaa2sw
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/43xh3uEvLl7kAKca-zFauATzT3spixqjb9v-cYBVxBLzbcbVj42iV3Msbpd5zXwN_w7jXdnzFq8" group-title="SPOR",ASPOR
-http://live.tv-youtube.workers.dev/?ID=UCJElRTCNEmLemgirqvsW63Q
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/jSWgyqCsy8hQ9sIgccNhbUht_koPL8VYqZkirL7GLrj8QwOYBhkIkVEjq9OTEAM3mOlSIymwZw" group-title="HABER",Haber Global TV
+http://live.tv-youtube.workers.dev/?ID=UCtc-a9ZUIg0_5HpsPxEO7Qg
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/_vs7K9u3pS-C7flO0cVIkxqgLsIkjElGL6izCYFzI0COAYKda5g2J9DRB9-EHsfTXwA_ayi72g" group-title="SPOR",beIN SPORTS HABER
 http://live.tv-youtube.workers.dev/?ID=UCPe9vNjHF1kEExT5kHwc7aw
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/B3IWp1Ke7InBdWs0z8dkXpRlg4J6lQ0ETi8hbMQ64w3uh9RfHTOtU6K7_uLYRbIoA6NteY9a" group-title="SPOR",HT Spor
@@ -19,68 +56,42 @@ http://live.tv-youtube.workers.dev/?ID=UCK3mI2lsk3LSo8PBUc8JTSw
 http://live.tv-youtube.workers.dev/?ID=UCNLO4lpteIloZ4IKb9L2DoA
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/AgzGuZHFSwpBElmch2JBtDO1QT41VDovR91HaKGWX3JIjtPFATmf_lPCNX9F8YDCtdUmimJehQ" group-title="SPOR",TAY TV
 http://live.tv-youtube.workers.dev/?ID=UCjkRA7KEdp7PDKDUs396XHg
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uISpOU-Gdf_TWXZCyvQAFn_LeJhILd_84H30Fqpk4-fMTREWU4VsTOLAch4YBzSBxmoFxGPO" group-title="ULUSAL",Sıfır TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uISpOU-Gdf_TWXZCyvQAFn_LeJhILd_84H30Fqpk4-fMTREWU4VsTOLAch4YBzSBxmoFxGPO" group-title="SPOR",Sıfır TV
 http://live.tv-youtube.workers.dev/?ID=UCDX7Vf8VLBHdC-HZtKG9gOQ
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/mEP9UzwxoTmVpxHQI4yYvXbpjWtZdfg8aA8XZVriwzoQVXze7nFe3TyfsEvglZIOCQh3LfPRH_8" group-title="ULUSAL",tv100
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/mEP9UzwxoTmVpxHQI4yYvXbpjWtZdfg8aA8XZVriwzoQVXze7nFe3TyfsEvglZIOCQh3LfPRH_8" group-title="HABER",tv100
 http://live.tv-youtube.workers.dev/?ID=UCndsdUW_oPLqpQJY9J8oIRg
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/5-coJeWxxU9a8VNXv-X7fXpclUFJk2a4KXLdOUSADNIRfJDM2Shmc1eybhHL6nS_nYz4_yKFWVk" group-title="ULUSAL",KRT TV
-http://live.tv-youtube.workers.dev/?ID=UCVKWwHoLwUMMa80cu_1uapA
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/PGlG_irVgl4vfh2EC7516oXfD6zYRSqoLhP-gY-yn7qoYjBb8A3osdHR4oQf527ay7nU9jUE" group-title="ULUSAL",TELE1
-http://live.tv-youtube.workers.dev/?ID=UCoHnRpOS5rL62jTmSDO5Npw
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/EDcyi5hZ1hX_gPI-QQGKqcBwsQlvuuD3hz-N8utLebWL0uLE9pqTzpS8jXW7J-lsUmEICR5K3w" group-title="ULUSAL",Ulusal Kanal TV
-http://live.tv-youtube.workers.dev/?ID=UC6T0L26KS1NHMPbTwI1L4Eg
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mLAxlfYMg4fHPVZA80ly_sjryTgQGUDe-TeH4-j3zrkw" group-title="HABER",TGRT Haber
+http://live.tv-youtube.workers.dev/?ID=UCzgrZ-CndOoylh2_e72nSBQ
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/JVAuYddvBYPdqhyyarV_rcCENeakjwr8EzyPGr3oYpgEgQoA-THYuxuTm5xcC0MmMJ16mZRz" group-title="HABER",Ekol TV
+http://live.tv-youtube.workers.dev/?ID=UCccxXUKSuqOrlWQxweZBAQw
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/u7W_zTezWfYi6zwkO9et9XLITXUXsb636AhT36NuqVDoutG08Rdy9uoNmchMcuC7wNbjP89oBQ" group-title="HABER",AKIT TV
+http://live.tv-youtube.workers.dev/?ID=UCbaLyHJp6S9Lsj6oT9aJsQw
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/TgnFA-5il-xAcdn23-8PJMK8A5fl7a-7g4i-5MiWq9vbYLIHaLDf1UxJWvEYNH97jgyg8qpL" group-title="HABER",MEDYA HABER
+http://live.tv-youtube.workers.dev/?ID=UC9iNphB47yGrxMgFd2uVHXQ
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/xfEZjkOt4ZAltabZ4Of6niPktZJ9uJQI7C3T8pjEXzQBKgY1rkgxzyBoXUQlOjhtGePCYcq0MW4" group-title="ULUSAL",BENGÜ TÜRK
 http://live.tv-youtube.workers.dev/?ID=UChNgvcVZ_ggDdZ0zCcuuzFw
 #EXTINF:-1 tvg-logo="http://yt3.ggpht.com/5KLD4QmX3I_Hwc4wrTpdqkcoVdTJfj86ABhRIkEV1ZtJ2jXNGWnqL-CLOjuC3MHM6hQLCgL4" group-title="ULUSAL",BİZİMEV TV
 http://live.tv-youtube.workers.dev/?ID=UCIHMK8qtjB_GNuXmeex6i8g
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ZHXZQwHOxuL-p_s8OFYYa-iykr9CeqOxIzcPt33cKCwC1UwMi7BdFByN2Ftlyv5F60db7iUk" group-title="ULUSAL",Çiftçi TV
 http://live.tv-youtube.workers.dev/?ID=UCtzcebnk0sLhCBtJy7GJaCg
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/H6Fh64z_Vb9AYevqCPwgeyRAyd4mye6fqU2HN5Jj1RWtrtK5lbU3B2Nkxc_nJfpN_WpI5_flfBk" group-title="HABER",CNN TÜRK
-http://live.tv-youtube.workers.dev/?ID=UCV6zcRug6Hqp1UX_FdyUeBg
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/sgLqVc2LbmFb-r8OMY3Ib5o1MYjFSdY3KHSPYQ6EIjBNYYkgtljQbxEkeQG2zNeNPloQGCJ5" group-title="HABER",HABERTURK
-http://live.tv-youtube.workers.dev/?ID=UCn6dNfiRE_Xunu7iMyvD7AA
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/u8lIyigiEuofBWzGVRVJ_WOOdXp6cPTt9-02Kp8lG4XgMHXx0ZB_lwNINw4sLJaAk6ej35ueeA" group-title="HABER",HALK TV
-http://live.tv-youtube.workers.dev/?ID=UCf_ResXZzE-o18zACUEmyvQ
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/PUOG4AugF5attdcdO6O1sOIkFykoEJBTKF0d6hLlzAj_VCPD3MUyMOZTiwyfs-NbqL7qLNJuRw" group-title="HABER",NTV
-http://live.tv-youtube.workers.dev/?ID=UC9TDTjbOjFB9jADmPhSAPsw
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/cqvCKfj6muN4mbBdk4LkQeWzr7xau-Tl4tR7Q0168xxH5jfGY0paL-N0MyKcDORoZ9F5xRT9Uw" group-title="HABER",İLKE TV
-http://live.tv-youtube.workers.dev/?ID=UCDTU7WnS4vRna7VJVwehxuA
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/3a7gv0YZ9X6kWk_kfffCq3Gdws5g54JntzV1fSHQomWFDb-1mUuJTiCTX4HxUG9SMjqYyBN4guE" group-title="HABER",AHABER
-http://live.tv-youtube.workers.dev/?ID=UCKQhfw-lzz0uKnE1fY1PsAA
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/_HznzWrS2cMaKa8Jp_uZhzWt7-25ijH7pZlXq45D9vapjDu5DRsh9uu0vfa2NH2Iayw5yxhaDQ" group-title="HABER",SÖZCÜ TV
-http://live.tv-youtube.workers.dev/?ID=UCOulx_rep5O4i9y6AyDqVvw
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/X-b7tJvjfBMDHCAafwyNV89qJ_FlzlXChymSisVsncnPpgOLLHknR6n1wtm8huk0SJz3KhNRTQ" group-title="HABER",TRT HABER
-http://live.tv-youtube.workers.dev/?ID=UCBgTP2LOFVPmq15W-RH-WXA
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/jSWgyqCsy8hQ9sIgccNhbUht_koPL8VYqZkirL7GLrj8QwOYBhkIkVEjq9OTEAM3mOlSIymwZw" group-title="HABER",Haber Global TV
-http://live.tv-youtube.workers.dev/?ID=UCtc-a9ZUIg0_5HpsPxEO7Qg
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kYr_pJ26fMpoQPKgJEACBiddx9WO4CV4akUE8yBzhrHMg" group-title="HABER",Bloomberg HT
-http://live.tv-youtube.workers.dev/?ID=UCApLxl6oYQafxvykuoC2uxQ
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mLAxlfYMg4fHPVZA80ly_sjryTgQGUDe-TeH4-j3zrkw" group-title="HABER",TGRT Haber
-http://live.tv-youtube.workers.dev/?ID=UCzgrZ-CndOoylh2_e72nSBQ
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/gWxG3v8R74BMB5GWgX0v9HoFKmKLtTl533CgLfoHcRfRXQPTTcAYgvrnplkwqOmq4GZnmOLkbw" group-title="HABER",24 TV
-http://live.tv-youtube.workers.dev/?ID=UCN7VYCsI4Lx1-J4_BtjoWUA
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nlq08_guC6EugVRKi1Dh6cfQdGa0xcsh8blj0_-VGzhVo" group-title="HABER",ULKE TV
-http://live.tv-youtube.workers.dev/?ID=UCi65FGbYYj-OzJm2luB_fNQ
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/JVAuYddvBYPdqhyyarV_rcCENeakjwr8EzyPGr3oYpgEgQoA-THYuxuTm5xcC0MmMJ16mZRz" group-title="HABER",Ekol TV
-http://live.tv-youtube.workers.dev/?ID=UCccxXUKSuqOrlWQxweZBAQw
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/WJm8IMexX9Atd0eOkmHFXagUieCC43mZO1B-TQAhBYm8iR4H5do0Go_kYWz_g-bSYxx6yXZPycI" group-title="HABER",TVNET
-http://live.tv-youtube.workers.dev/?ID=UC8rh34IlJTN0lDZlTwzWzjg
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/u7W_zTezWfYi6zwkO9et9XLITXUXsb636AhT36NuqVDoutG08Rdy9uoNmchMcuC7wNbjP89oBQ" group-title="HABER",AKIT TV
-http://live.tv-youtube.workers.dev/?ID=UCbaLyHJp6S9Lsj6oT9aJsQw
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/9Hqnz42k04uQF15nx0Dk9sh6JtLWtVtzMIxp_W4TuxtUB2cq2Q515dnD095_muJUBjUhtRz70sA" group-title="HABER",FLASH HABER
-http://live.tv-youtube.workers.dev/?ID=UCNcjCb2RnA3eMMhTZSxZu3A
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/TgnFA-5il-xAcdn23-8PJMK8A5fl7a-7g4i-5MiWq9vbYLIHaLDf1UxJWvEYNH97jgyg8qpL" group-title="HABER",MEDYA HABER
-http://live.tv-youtube.workers.dev/?ID=UC9iNphB47yGrxMgFd2uVHXQ
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/mP9DR2OCD_jGFjgoacUJADpaMcw5ukNY3Fa8HwnbUzLrWk3TgspqvqTokEEy0FnMmF5A0wQFEQ" group-title="RADYO",SlowTürk
+http://live.tv-youtube.workers.dev/?ID=UC2Zgju5LSmKlDjjVwE3EhAA
+#EXTINF:-1 tvg-logo="https://kalpfm.com/wp-content/uploads/2024/12/kalpfm-logo-y-1a.png" group-title="RADYO",Kalp FM
+http://live.tv-youtube.workers.dev/?ID=UCGCCfusnBQgISBBYyB56Fkw
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/eG4OLJ0VVxE9_TdDhNQAn-ez8n9NP065U5fnI8x27gL3oF0Ko84MYvwb56opmtftUHoxDBjGOA" group-title="RADYO/SPOR",RADYO GOL 7/24
+http://live.tv-youtube.workers.dev/?ID=UCYZXUIM5dPrCCZVZ8-OEmfg
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/VdVVUwzexITWPML3mfsUl7O2zUGa_f5gSuk6Gu5DNHVwzIlz99EnjNgO41Ay33_ovq48pQ5-0hA" group-title="RADYO",Kral FM
+http://live.tv-youtube.workers.dev/?ID=UCEAW_kmPVjxTC50vuLyKOQA
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NSfWupUe1_JxIjUCS3_KdWQELqyz7cW_07xIPFuhgMeE1_9eorDF--rRWU8iKyIsRyPhAKOgHA" group-title="RADYO",Viva Arabesk
+http://live.tv-youtube.workers.dev/?ID=UCzyN7rGcha288LRQG6mHHcA
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/CW0AFuAb7vvfj4sb4FU7Y_hX_c984DEKN9G0FTIRJbZ0R44eJIGYTqOnNqG7YoCRY3c0f63tVg" group-title="RADYO",Radyo Dram
+http://live.tv-youtube.workers.dev/?ID=UCcpPzPRHA37kXIznkVQF21A
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kjqGhR6pxehZeMK0St6-8RDj_xhtvAz1pGwGewEjh9Rw" group-title="FİLM",KORKU FİLM 7/24
 http://live.tv-youtube.workers.dev/?ID=UCsbpTjR1Vh0L3gvBg9d0Dbg
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE" group-title="FİLM",YEŞİLÇAM ARZU FİLM 7/24
 http://live.tv-youtube.workers.dev/?ID=UCUALYmnkEmx8vlxIbpr2gmw
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kKB21USxEgVZCcJsgoXGh1qx1DQgSgfn6hz3r-1HDv9dI" group-title="FİLM",KEMAL SUNAL GÜLŞAH FİLM 7/24
 http://live.tv-youtube.workers.dev/?ID=UCHumSHRFQ8skiHTY75sxytQ
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/CDb0NOanxCguX91pZcIejLfP4Pe4GRLmLj5x_34a_ljfE3FHeuZ_n3z_85OkpoluBZyxxRq3Ivk" group-title="FİLM",SHOWMAX
-http://live.tv-youtube.workers.dev/?ID=UC9JMe_We017gYrRc7kZHgmg
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hV70JQmnvtFit__Mj0T9-qYISToW0FmjyXfdOGbYMTdLMp2s3VOJieb2h1aWFrSD75dEMt9LduY" group-title="FİLM",Kemal Sunal Filmleri
-http://live.tv-youtube.workers.dev/?ID=UCE1XdVHzOdMnUsUMatIzjag
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lqsLV-ZBCcJfoLsGQHBkrQCknqf8ZDXFHX7Nxna3PS82I" group-title="FİLM",Yeşilçam Eski Türk Filmleri
 http://live.tv-youtube.workers.dev/?ID=UCoIUysIrvGxoDw-GkdOGjRw
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mKu0mjHEszLFRezgQr1A06wDsDZkvTnaNXbPn5_d0ZUA" group-title="FİLM",Cennet Mahallesi
@@ -109,37 +120,15 @@ http://live.tv-youtube.workers.dev/?ID=UCGR1XmkoQedeJMT2ajRHvsw
 http://live.tv-youtube.workers.dev/?ID=UCIdiuKAg5xVZsvXDQbOG4cg
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_km2n7rZBTorgl2Ql0Ts5-JWXd1jtIzfeKbVioXgjdpFkI" group-title="FİLM",Emret Komutanım
 http://live.tv-youtube.workers.dev/?ID=UCGKPVBUcJcEMvqceX3Pl5Lw
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Rh1aC6tWB_CLSqR2gRW8UPXfCsqZE-7m83CPpBNLk8CI6ybTGDNWy7jF7jFGkHIffyUEyF8BW38" group-title="RADYO/SPOR",CBC-e TV
-http://live.tv-youtube.workers.dev/?ID=UCaO-M1dXacMwtyg0Pvovk4w
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/mP9DR2OCD_jGFjgoacUJADpaMcw5ukNY3Fa8HwnbUzLrWk3TgspqvqTokEEy0FnMmF5A0wQFEQ" group-title="RADYO",SlowTürk
-http://live.tv-youtube.workers.dev/?ID=UC2Zgju5LSmKlDjjVwE3EhAA
-#EXTINF:-1 tvg-logo="https://kalpfm.com/wp-content/uploads/2024/12/kalpfm-logo-y-1a.png" group-title="RADYO",Kalp FM
-http://live.tv-youtube.workers.dev/?ID=UCGCCfusnBQgISBBYyB56Fkw
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/eG4OLJ0VVxE9_TdDhNQAn-ez8n9NP065U5fnI8x27gL3oF0Ko84MYvwb56opmtftUHoxDBjGOA" group-title="RADYO/SPOR",RADYO GOL 7/24
-http://live.tv-youtube.workers.dev/?ID=UCYZXUIM5dPrCCZVZ8-OEmfg
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/VdVVUwzexITWPML3mfsUl7O2zUGa_f5gSuk6Gu5DNHVwzIlz99EnjNgO41Ay33_ovq48pQ5-0hA" group-title="RADYO",Kral FM
-http://live.tv-youtube.workers.dev/?ID=UCEAW_kmPVjxTC50vuLyKOQA
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NSfWupUe1_JxIjUCS3_KdWQELqyz7cW_07xIPFuhgMeE1_9eorDF--rRWU8iKyIsRyPhAKOgHA" group-title="RADYO",Viva Arabesk
-http://live.tv-youtube.workers.dev/?ID=UCzyN7rGcha288LRQG6mHHcA
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/kv1H-TCUE1JNIDEjb9aisSs7-v7xjUO6k0pF2qa04oUDE08VIU9qIkVZ5cjxuPRFGLyJKTi_" group-title="RADYO",Arabesk Tüneli Radyo • 7/24
-http://live.tv-youtube.workers.dev/?ID=UC64zbKgdrr3JByK_QRgugqg
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/FQb9WrDR-ipVBN6yBJnwF4iKYequ1G68qo0jOhapJoeAlPZa_dv_WQ82L1Z4zft_ukrc4gkZ" group-title="ÇOCUK",MINIKA GO
-http://live.tv-youtube.workers.dev/?ID=UC9X88P0O8YaX1nWwIFPoamw
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/B63Iy6s7806LvjKeJZCQOdmXqp5F74QmMQmPDEHfDsTpipBrVFW4zraq4E5O3OZDYm417YhAJg" group-title="ÇOCUK",DIYANET COCUK
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/B63Iy6s7806LvjKeJZCQOdmXqp5F74QmMQmPDEHfDsTpipBrVFW4zraq4E5O3OZDYm417YhAJg" group-title="COCUK",DIYANET COCUK
 http://live.tv-youtube.workers.dev/?ID=UCCfTktnzWK__FUN4gj0zIpA
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0YISWW6FB00uk01CGhSPulWjKSui70KBXfGCixbErQQ" group-title="ÇOCUK",NILOYA TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0YISWW6FB00uk01CGhSPulWjKSui70KBXfGCixbErQQ" group-title="COCUK",NILOYA TV
 http://live.tv-youtube.workers.dev/?ID=UCKFIi1uWM9BCMb7O_GyvBsQ
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/exMWauAdy4fF-KM0Vsx4skLEpxISvNB5G4yuHOGa0RdKSTMJby7G4k8kglgv93PlnZjyKr6U" group-title="ÇOCUK",Kral Şakir
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/exMWauAdy4fF-KM0Vsx4skLEpxISvNB5G4yuHOGa0RdKSTMJby7G4k8kglgv93PlnZjyKr6U" group-title="COCUK",Kral Şakir
 http://live.tv-youtube.workers.dev/?ID=UCtQvrl_0E7ozHb_c8Fy4oWA
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kNsbnulP8chkQ8olu-OlJUU8sNxsEquVHcEJEXqx3V3_0" group-title="ÇOCUK",Selena
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kNsbnulP8chkQ8olu-OlJUU8sNxsEquVHcEJEXqx3V3_0" group-title="COCUK",Selena
 http://live.tv-youtube.workers.dev/?ID=UCC_iReQZgbPtOBfn3bjNnPw
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/TWSgLJEkOPBFXWbyqzBuG0-EeXmhVXUKHEoRn3GnJ_WkJeknuh2Q9MJrLAC6k_-YKb4HeslA" group-title="BELGESEL",TGRT Belgesel TV
 http://live.tv-youtube.workers.dev/?ID=UCkQV7uH1Otv47CZz6tD3jGQ
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/bnBf3_3Nw-sQkrjyj0U1Gb68Od0em3yzm9_VzgHqyxPvYyP069gRuRW-QdLI5qJ8QFl3m-y6Mw" group-title="BELGESEL",Belgesel
-http://live.tv-youtube.workers.dev/?ID=UCRMv2kgJPTerIW96lkfXdAA
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_4BCgYVYzh2eD6doip7g2IopQ6uNdc4EbPJHtYwHBKTopTSPjcio-X0JEBlYi9vdaxP5bEBdgQ" group-title="BELGESEL",Dünyayı Dehşete Düşüren Cinayetler - 7/24 TLC Suç ve Araştırma Canlı Yayın
-http://live.tv-youtube.workers.dev/?ID=UC5AeaBZIUZQpVeGMobcPI2Q
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/kv1H-TCUE1JNIDEjb9aisSs7-v7xjUO6k0pF2qa04oUDE08VIU9qIkVZ5cjxuPRFGLyJKTi_" group-title="BELGESEL",7/24 Antik Mısır - Piramitler YouTube Özel Yayın
 http://live.tv-youtube.workers.dev/?ID=UCuEgo07zsZr_FTcNTETRS5Q
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/CW0AFuAb7vvfj4sb4FU7Y_hX_c984DEKN9G0FTIRJbZ0R44eJIGYTqOnNqG7YoCRY3c0f63tVg" group-title="RADYO",Radyo Dram
-http://live.tv-youtube.workers.dev/?ID=UCcpPzPRHA37kXIznkVQF21A

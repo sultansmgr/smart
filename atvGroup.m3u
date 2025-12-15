@@ -1,19 +1,19 @@
-#EXTM3U
+EXTM3U
 #EXTINF:-1 group-title="ULUSAL" tvg-logo="https://yt3.googleusercontent.com/rGaatci_rjFWnwKiycOnIolZYkXz8SeTNVMz4G_45i_flLh_toDIBKT6ctxlDH8b7vqW4Cc_-XY",atvHD
-http://live.atvgroup.workers.dev/?ID=atv
+http://packed-comics-tab-lighter.trycloudflare.com/atvgroup.php?ID=atv
 #EXTINF:-1 group-title="ULUSAL" tvg-logo="https://yt3.googleusercontent.com/KAQlS_5itOk34t-_i9jQH_06bDTDI4ALTJZW37at1bYIOFJRMx23XYfBldJ7ecNq-XuWCfKi5g",atvAVRUPA
-http://live.atvgroup.workers.dev/?ID=atvavrupa
+http://packed-comics-tab-lighter.trycloudflare.com/atvgroup.php?ID=atvavrupa
 #EXTINF:-1 group-title="ULUSAL" tvg-logo="https://yt3.ggpht.com/RZG-XV8AGd-_HWnGIVJtSNurIjUJxtZrb06jwRrrWt1BTTRChGOdz75ATZqaPlS0zQitJdI8Rg",A2
-http://live.atvgroup.workers.dev/?ID=a2
+http://packed-comics-tab-lighter.trycloudflare.com/atvgroup.php?ID=a2
 #EXTINF:-1 group-title="COCUK" tvg-logo="https://yt3.ggpht.com/UI3UKWRTnxXbR3YAnbDIn_sAqiXsno_UE3iOPDAOQw5tdTUS75Q3nGx1fiv8-0o9b9xgdWr8o0o",Minika ÇOCUK
-http://live.atvgroup.workers.dev/?ID=minikacocuk
+http://packed-comics-tab-lighter.trycloudflare.com/atvgroup.php?ID=minikacocuk
 #EXTINF:-1 group-title="COCUK" tvg-logo="https://yt3.ggpht.com/6Ci6NdBP5dl_pY3TLFxWa6NdSm9IsG182yNUE5qmOKFiQLPscSkRyerA4AWgI2h9IFpFXN82uA",Minika GO
-http://live.atvgroup.workers.dev/?ID=minikago
+http://packed-comics-tab-lighter.trycloudflare.com/atvgroup.php?ID=minikago
 #EXTINF:-1 group-title="HABER" tvg-logo="https://yt3.googleusercontent.com/3a7gv0YZ9X6kWk_kfffCq3Gdws5g54JntzV1fSHQomWFDb-1mUuJTiCTX4HxUG9SMjqYyBN4guE",aHBR
-http://live.atvgroup.workers.dev/?ID=ahaber
+http://packed-comics-tab-lighter.trycloudflare.com/atvgroup.php?ID=ahaber
 #EXTINF:-1 group-title="HABER" tvg-logo="https://yt3.ggpht.com/XJtyMUH7ikXxeg2nrhjVb0k9LbpdqimTV9QawOxlQipdDFYe0cy6kdFZeFqzpeqPCyOkJCMM_w",APARA
-http://live.atvgroup.workers.dev/?ID=apara
+http://packed-comics-tab-lighter.trycloudflare.com/atvgroup.php?ID=apara
 #EXTINF:-1 group-title="HABER" tvg-logo="https://yt3.ggpht.com/6NEH0h3dFrnG36dk8lHHfocRKiz2GqiM0pzd-UeIvj_B-25aGYsB1sUUZodoD9JCgVpRt-hDGUM",ANEWS
-http://live.atvgroup.workers.dev/?ID=anews
+http://packed-comics-tab-lighter.trycloudflare.com/atvgroup.php?ID=anews
 #EXTINF:-1 group-title="SPOR" tvg-logo="https://yt3.ggpht.com/43xh3uEvLl7kAKca-zFauATzT3spixqjb9v-cYBVxBLzbcbVj42iV3Msbpd5zXwN_w7jXdnzFq8",aSPOR
-http://live.atvgroup.workers.dev/?ID=aspor
+http://packed-comics-tab-lighter.trycloudflare.com/atvgroup.php?ID=aspor

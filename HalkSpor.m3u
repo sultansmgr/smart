@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beINSPORTSHD1.png" ,beIN SPORTS HD1
+http://live.glturk.workers.dev/?ID=bein-sports-1
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beINSPORTSHD2.png" ,beIN SPORTS HD2
+http://live.glturk.workers.dev/?ID=bein-sports-2
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports3.png" ,beIN SPORTS HD3
+http://live.glturk.workers.dev/?ID=bein-sports-3
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports4.png" ,beIN SPORTS HD4
+http://live.glturk.workers.dev/?ID=bein-sports-4
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports5.png" ,beIN SPORTS HD5
+http://live.glturk.workers.dev/?ID=bein-sports-5
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beINSPORTSMAX1.png" ,beIN SPORTS HD1 MAX
+http://live.glturk.workers.dev/?ID=bein-sports-max-1
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beINSPORTSMAX2.png" ,beIN SPORTS HD2 MAX
+http://live.glturk.workers.dev/?ID=bein-sports-max-2
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/gvJvmHjz_AD2oWOrKpMHrc6PkrPaf9ZJn714gU1hOYxOh7XWqLbSjwniRy9wXxs0R6vyIFsCivA" ,S SPORT
+http://live.glturk.workers.dev/?ID=s-sport
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/gvJvmHjz_AD2oWOrKpMHrc6PkrPaf9ZJn714gU1hOYxOh7XWqLbSjwniRy9wXxs0R6vyIFsCivA" ,S SPORT 2
+http://live.glturk.workers.dev/?ID=s-sport-2
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ" ,TivibuSPOR 1
+http://live.glturk.workers.dev/?ID=tivibu-spor-1
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ" ,TivibuSPOR 2
+http://live.glturk.workers.dev/?ID=tivibu-spor-2
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ" ,TivibuSPOR 3
+http://live.glturk.workers.dev/?ID=tivibu-spor-3

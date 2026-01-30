@@ -1,29 +1,69 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beINSPORTSHD1.png" ,beIN SPORTS HD1
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beINSPORTSHD1.png" group-title="Turkey",beIN SPORTS HD1
 http://live.freeshot.workers.dev/?ID=beINSPORTS1TR
-#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beINSPORTSHD2.png" ,beIN SPORTS HD2
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beINSPORTSHD2.png" group-title="Turkey",beIN SPORTS HD2
 http://live.freeshot.workers.dev/?ID=beINSPORTS2TR
-#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports3.png" ,beIN SPORTS HD3
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports3.png" group-title="Turkey",beIN SPORTS HD3
 http://live.freeshot.workers.dev/?ID=beINSPORTS3TR
-#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports4.png" ,beIN SPORTS HD4
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports4.png" group-title="Turkey",beIN SPORTS HD4
 http://live.freeshot.workers.dev/?ID=beINSPORTS4TR
-#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports5.png" ,beIN SPORTS HD5
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports5.png" group-title="Turkey",beIN SPORTS HD5
 http://live.freeshot.workers.dev/?ID=beINSPORTS5TR
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/CTYNXpw6_5CzpZbDDVMUIUsn3KwlbPGBW2w2x0Glgftvwj2YpHnCN5Wt2aDbv76eBjn-NqIKqg" ,EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/CTYNXpw6_5CzpZbDDVMUIUsn3KwlbPGBW2w2x0Glgftvwj2YpHnCN5Wt2aDbv76eBjn-NqIKqg" group-title="Turkey",EUROSPORT 1
 http://live.freeshot.workers.dev/?ID=EUROSPORT1TR
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/CTYNXpw6_5CzpZbDDVMUIUsn3KwlbPGBW2w2x0Glgftvwj2YpHnCN5Wt2aDbv76eBjn-NqIKqg" ,EUROSPORT 2
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/CTYNXpw6_5CzpZbDDVMUIUsn3KwlbPGBW2w2x0Glgftvwj2YpHnCN5Wt2aDbv76eBjn-NqIKqg" group-title="Turkey",EUROSPORT 2
 http://live.freeshot.workers.dev/?ID=EUROSPORT2TR
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ" ,TivibuSPOR 1
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ" group-title="Turkey",TivibuSPOR 1
 http://live.freeshot.workers.dev/?ID=TivibuSPOR
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ" ,TivibuSPOR 2
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ" group-title="Turkey",TivibuSPOR 2
 http://live.freeshot.workers.dev/?ID=TivibuSPOR2
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ" ,TivibuSPOR 3
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ" group-title="Turkey",TivibuSPOR 3
 http://live.freeshot.workers.dev/?ID=TivibuSPOR3
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/FCzDc31AsTFzobw8Z4QBCc8AGtKgFP4mq28RgbcLJGdVNlE0RoremvEr1XntYHFc6G0dAwU-" ,TRT Spor
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/FCzDc31AsTFzobw8Z4QBCc8AGtKgFP4mq28RgbcLJGdVNlE0RoremvEr1XntYHFc6G0dAwU-" group-title="Turkey",TRT Spor
 http://live.freeshot.workers.dev/?ID=TRTSPOR
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-8Ri3w9lxEPds96rwxSbKvO6hLWNI1_dqIO0T75xAQ9KomwH68sIXycW5hYUEljYbenIhnW1SA" ,TRT SPOR Yıldız
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-8Ri3w9lxEPds96rwxSbKvO6hLWNI1_dqIO0T75xAQ9KomwH68sIXycW5hYUEljYbenIhnW1SA" group-title="Turkey",TRT SPOR Yıldız
 http://live.freeshot.workers.dev/?ID=TRTSPORY
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/43xh3uEvLl7kAKca-zFauATzT3spixqjb9v-cYBVxBLzbcbVj42iV3Msbpd5zXwN_w7jXdnzFq8" ,aSPOR
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/43xh3uEvLl7kAKca-zFauATzT3spixqjb9v-cYBVxBLzbcbVj42iV3Msbpd5zXwN_w7jXdnzFq8" group-title="Turkey",aSPOR
 http://live.freeshot.workers.dev/?ID=A-Spor
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lKnrGQgvaKuU6UINXvHHq5Fy-Qo8SvCbzXpN6h3rkXug" ,sportstv
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lKnrGQgvaKuU6UINXvHHq5Fy-Qo8SvCbzXpN6h3rkXug" group-title="Turkey",sportstv
 http://live.freeshot.workers.dev/?ID=sportstvTR
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GyIqsTV1C4wnZh3VBV6G2FIFXMY3Jp3khP9iONDtP2OSxq-WcPHI9OaAfBQb1xR3AdSaxSKjyg" group-title="Albania",Tring Sport News
+http://live.freeshot.workers.dev/?ID=TringSportNews
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GyIqsTV1C4wnZh3VBV6G2FIFXMY3Jp3khP9iONDtP2OSxq-WcPHI9OaAfBQb1xR3AdSaxSKjyg" group-title="Albania",Tring Sport 1
+http://live.freeshot.workers.dev/?ID=TringSport1
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GyIqsTV1C4wnZh3VBV6G2FIFXMY3Jp3khP9iONDtP2OSxq-WcPHI9OaAfBQb1xR3AdSaxSKjyg" group-title="Albania",Tring Sport 2
+http://live.freeshot.workers.dev/?ID=TringSport2
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GyIqsTV1C4wnZh3VBV6G2FIFXMY3Jp3khP9iONDtP2OSxq-WcPHI9OaAfBQb1xR3AdSaxSKjyg" group-title="Albania",Tring Sport 3
+http://live.freeshot.workers.dev/?ID=TringSport3
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",Super Sport 1
+http://live.freeshot.workers.dev/?ID=SSport1AL
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",Super Sport 2
+http://live.freeshot.workers.dev/?ID=SSport2AL
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",Super Sport 3
+http://live.freeshot.workers.dev/?ID=SSport3AL
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",Super Sport 4
+http://live.freeshot.workers.dev/?ID=SSport4AL
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",Super Sport 5
+http://live.freeshot.workers.dev/?ID=SSport5AL
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",Super Sport 6
+http://live.freeshot.workers.dev/?ID=SSport6AL
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",Super Sport 7
+http://live.freeshot.workers.dev/?ID=SSport7AL
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",ART Sport 1 XK
+http://live.freeshot.workers.dev/?ID=ARTSport1
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",ART Sport 2 XK
+http://live.freeshot.workers.dev/?ID=ARTSport2
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",ART Sport 3 XK
+http://live.freeshot.workers.dev/?ID=ARTSport3
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",ART Sport 4 XK
+http://live.freeshot.workers.dev/?ID=ARTSport4
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",ART Sport 5 XK
+http://live.freeshot.workers.dev/?ID=ARTSport5
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",ART Sport 6 XK
+http://live.freeshot.workers.dev/?ID=ARTSport6
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",RTSH Sport
+http://live.freeshot.workers.dev/?ID=RTSHSport
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/CTYNXpw6_5CzpZbDDVMUIUsn3KwlbPGBW2w2x0Glgftvwj2YpHnCN5Wt2aDbv76eBjn-NqIKqg" group-title="Albania",EUROSPORT 1
+http://live.freeshot.workers.dev/?ID=EURO1AL
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/CTYNXpw6_5CzpZbDDVMUIUsn3KwlbPGBW2w2x0Glgftvwj2YpHnCN5Wt2aDbv76eBjn-NqIKqg" group-title="Albania",EUROSPORT 2
+http://live.freeshot.workers.dev/?ID=EURO2AL

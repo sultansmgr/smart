@@ -67,3 +67,23 @@ http://live.freeshot.workers.dev/?ID=RTSHSport
 http://live.freeshot.workers.dev/?ID=EURO1AL
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/CTYNXpw6_5CzpZbDDVMUIUsn3KwlbPGBW2w2x0Glgftvwj2YpHnCN5Wt2aDbv76eBjn-NqIKqg" group-title="Albania",EUROSPORT 2
 http://live.freeshot.workers.dev/?ID=EURO2AL
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",EUROSPORT 1
+http://live.freeshot.workers.dev/?ID=EURO1BG
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",EUROSPORT 2
+http://live.freeshot.workers.dev/?ID=EURO2BG
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",NOVA SPORT
+http://live.freeshot.workers.dev/?ID=NOVASPORTBG
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",MAX SPORT 1
+http://live.freeshot.workers.dev/?ID=MaxSportBG
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",MAX SPORT 2
+http://live.freeshot.workers.dev/?ID=MaxSport2BG
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",MAX SPORT 3
+http://live.freeshot.workers.dev/?ID=MaxSport3BG
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",MAX SPORT 4
+http://live.freeshot.workers.dev/?ID=MaxSport4BG
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",DIEMA SPORT
+http://live.freeshot.workers.dev/?ID=DiemaSport
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",DIEMA SPORT 2
+http://live.freeshot.workers.dev/?ID=DiemaSport2
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",DIEMA SPORT 3
+http://live.freeshot.workers.dev/?ID=DiemaSport3

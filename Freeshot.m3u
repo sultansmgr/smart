@@ -107,3 +107,87 @@ http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls7/p
 http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls19/erox.m3u8
 #EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/erox.png" group-title="Adult",EroXXX
 http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls7/eroxxx.m3u8
+#EXTINF:-1 tvg-name="Vječna vatra" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/vjecna_vatra_cam.png" group-title="Moja WebTV Kamera",🔸Vječna vatra🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/vjecna_vatra_cam.m3u8
+#EXTINF:-1 tvg-name="Bjelašnica" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/bjelasnica.png" group-title="Moja WebTV Kamera",🔸Bjelašnica🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/bjelasnica.m3u8
+#EXTINF:-1 tvg-name="Bjelašnica 2" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/bjelasnica2.png" group-title="Moja WebTV Kamera",🔸Bjelašnica 2🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/bjelasnica2.m3u8
+#EXTINF:-1 tvg-name="Igman" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/camigman.png" group-title="Moja WebTV Kamera",🔸Igman🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/camigman.m3u8
+#EXTINF:-1 tvg-name="Dolac Malta" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/malta.png" group-title="Moja WebTV Kamera",🔸Dolac Malta🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/malta.m3u8
+#EXTINF:-1 tvg-name="Jahorina" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/jahorina.png" group-title="Moja WebTV Kamera",🔸Jahorina🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/jahorina.m3u8
+#EXTINF:-1 tvg-name="Trebević žičara" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/trebevic_zicara.png" group-title="Moja WebTV Kamera",🔸Trebević žičara🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/trebevic_zicara.m3u8
+#EXTINF:-1 tvg-name="Ravna Planina" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/ravna_planina_cam.png" group-title="Moja WebTV Kamera",🔸Ravna Planina🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/ravna_planina_cam.m3u8
+#EXTINF:-1 tvg-name="Das ist Sarajevo" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/sarajevo_cam.png" group-title="Moja WebTV Kamera",🔸Das ist Sarajevo🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/sarajevo_cam.m3u8
+#EXTINF:-1 tvg-name="Trg BiH" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/trg_bih_cam.png" group-title="Moja WebTV Kamera",🔸Trg BiH🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/trg_bih_cam.m3u8
+#EXTINF:-1 tvg-name="Skenderija" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/skenderija_cam.png" group-title="Moja WebTV Kamera",🔸Skenderija🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/skenderija_cam.m3u8
+#EXTINF:-1 tvg-name="Travnik" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/travnik_cam.png" group-title="Moja WebTV Kamera",🔸Travnik🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/travnik_cam.m3u8
+#EXTINF:-1 tvg-name="Vlašić" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/vlasic.png" group-title="Moja WebTV Kamera",🔸Vlašić🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/vlasic.m3u8
+#EXTINF:-1 tvg-name="Kakanj" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/kakanj_cam.png" group-title="Moja WebTV Kamera",🔸Kakanj🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/kakanj_cam.m3u8
+#EXTINF:-1 tvg-name="Mostar" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/mostar_cam.png" group-title="Moja WebTV Kamera",🔸Mostar🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/mostar_cam.m3u8
+#EXTINF:-1 tvg-name="Mostar panorama" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/mostar_cam_pan.png" group-title="Moja WebTV Kamera",🔸Mostar panorama🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/mostar_cam_pan.m3u8
+#EXTINF:-1 tvg-name="Rujište Mostar" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/mostar_rujiste.png" group-title="Moja WebTV Kamera",🔸Rujište Mostar🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/mostar_rujiste.m3u8
+#EXTINF:-1 tvg-name="Blagaj" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/blagaj_cam.png" group-title="Moja WebTV Kamera",🔸Blagaj🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/blagaj_cam.m3u8
+#EXTINF:-1 tvg-name="Stolac" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/stolac_cam.png" group-title="Moja WebTV Kamera",🔸Stolac🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/stolac_cam.m3u8
+#EXTINF:-1 tvg-name="Konjic" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/konjic_cam.png" group-title="Moja WebTV Kamera",🔸Konjic🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/konjic_cam.m3u8
+#EXTINF:-1 tvg-name="Konjic 2" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/konjic_cam2.png" group-title="Moja WebTV Kamera",🔸Konjic 2🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/konjic_cam2.m3u8
+#EXTINF:-1 tvg-name="Trebinje" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/trebinje_cam.png" group-title="Moja WebTV Kamera",🔸Trebinje🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/trebinje_cam.m3u8
+#EXTINF:-1 tvg-name="Neum" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/neum.png" group-title="Moja WebTV Kamera",🔸Neum🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/neum.m3u8
+#EXTINF:-1 tvg-name="Goražde" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/gorazde_cam.png" group-title="Moja WebTV Kamera",🔸Goražde🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/gorazde_cam.m3u8
+#EXTINF:-1 tvg-name="Bihać panorama" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/bihac_panorama_cam.png" group-title="Moja WebTV Kamera",🔸Bihać panorama🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/bihac_panorama_cam.m3u8
+#EXTINF:-1 tvg-name="Kanjon Une" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/kanjon_une_cam.png" group-title="Moja WebTV Kamera",🔸Kanjon Une🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/kanjon_une_cam.m3u8
+#EXTINF:-1 tvg-name="Zenica" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/zenica_cam.png" group-title="Moja WebTV Kamera",🔸Zenica🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls19/zenica_cam.m3u8
+#EXTINF:-1 tvg-name="Smetovi Zenica" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/smetovi_cam.png" group-title="Moja WebTV Kamera",🔸Smetovi Zenica🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/smetovi_cam.m3u8
+#EXTINF:-1 tvg-name="Panonska jezera" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/panonska_cam.png" group-title="Moja WebTV Kamera",🔸Panonska jezera🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/panonska_cam.m3u8
+#EXTINF:-1 tvg-name="Brčko" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/brcko_cam.png" group-title="Moja WebTV Kamera",🔸Brčko🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/brcko_cam.m3u8
+#EXTINF:-1 tvg-name="Jablanica" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/jablanica_cam.png" group-title="Moja WebTV Kamera",🔸Jablanica🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/jablanica_cam.m3u8
+#EXTINF:-1 tvg-name="Jablaničko jezero" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/jablanicko_jezero_cam.png" group-title="Moja WebTV Kamera",🔸Jablaničko jezero🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/jablanicko_jezero_cam.m3u8
+#EXTINF:-1 tvg-name="Gračanica" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/gracanica_cam.png" group-title="Moja WebTV Kamera",🔸Gračanica🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/gracanica_cam.m3u8
+#EXTINF:-1 tvg-name="Gradačac" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/gradacac_cam.png" group-title="Moja WebTV Kamera",🔸Gradačac🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/gradacac_cam.m3u8
+#EXTINF:-1 tvg-name="Banja Luka" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/banja_luka_cam.png" group-title="Moja WebTV Kamera",🔸Banja Luka🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/banja_luka_cam.m3u8
+#EXTINF:-1 tvg-name="Fojnica" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/fojnica_cam.png" group-title="Moja WebTV Kamera",🔸Fojnica🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/fojnica_cam.m3u8
+#EXTINF:-1 tvg-name="Olovo" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/olovo_cam.png" group-title="Moja WebTV Kamera",🔸Olovo🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/olovo_cam.m3u8
+#EXTINF:-1 tvg-name="Maglaj" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/maglaj_cam.png" group-title="Moja WebTV Kamera",🔸Maglaj🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/maglaj_cam.m3u8
+#EXTINF:-1 tvg-name="Tešanj" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/tesanj_cam.png" group-title="Moja WebTV Kamera",🔸Tešanj🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/tesanj_cam.m3u8
+#EXTINF:-1 tvg-name="Zavidovići" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/zavidovici_cam.png" group-title="Moja WebTV Kamera",🔸Zavidovići🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/zavidovici_cam.m3u8
+#EXTINF:-1 tvg-name="Vogošća" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/vogosca_cam.png" group-title="Moja WebTV Kamera",🔸Vogošća🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/vogosca_cam.m3u8
+#EXTINF:-1 tvg-name="Kladanj" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/kladanj_cam.png" group-title="Moja WebTV Kamera",🔸Kladanj🔸
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/kladanj_cam.m3u8

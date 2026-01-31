@@ -87,3 +87,23 @@ http://live.freeshot.workers.dev/?ID=DiemaSport
 http://live.freeshot.workers.dev/?ID=DiemaSport2
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",DIEMA SPORT 3
 http://live.freeshot.workers.dev/?ID=DiemaSport3
+#EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/pink_erotic1.png" group-title="Adult",Pink Erotic 1
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/pink_erotic1.m3u8
+#EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/pink_erotic2.png" group-title="Adult",Pink Erotic 2
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/pink_erotic2.m3u8
+#EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/pink_erotic3.png" group-title="Adult",Pink Erotic 3
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls14/pink_erotic3.m3u8
+#EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/pink_erotic4.png" group-title="Adult",Pink Erotic 4
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/pink_erotic4.m3u8
+#EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/pink_erotic5.png" group-title="Adult",Pink Erotic 5
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/pink_erotic5.m3u8
+#EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/pink_erotic6.png" group-title="Adult",Pink Erotic 6
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls14/pink_erotic6.m3u8
+#EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/pink_erotic7.png" group-title="Adult",Pink Erotic 7
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls14/pink_erotic7.m3u8
+#EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/pink_erotic8.png" group-title="Adult",Pink Erotic 8
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls7/pink_erotic8.m3u8
+#EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/erox.png" group-title="Adult",EroX
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls19/erox.m3u8
+#EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/erox.png" group-title="Adult",EroXXX
+http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls7/eroxxx.m3u8

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,ATV DIZI A.B.I 4.BOLUM
+https://atv.dtplay.workers.dev/?ID=https://www.atv.com.tr/abi/4-bolum/izle
 #EXTINF:0,SHOW
 https://live.glturk.workers.dev/?ID=https://www.showtv.com.tr/canli-yayin
 #EXTINF:0,SHOW DIZI RUYA GIBI SON BOLUM
@@ -69,3 +71,4 @@ https://live.glturk.workers.dev/?ID=https://www.powerapp.com.tr/tvs/power-tvs/po
 https://live.glturk.workers.dev/?ID=https://www.powerapp.com.tr/tvs/power-tvs/powerturktaptazetv/
 #EXTINF:0,DreamTürk
 https://live.glturk.workers.dev/?ID=https://www.dreamturk.com.tr/actions/content/media/566ab958980ea810b4658d96
+

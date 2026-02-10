@@ -5,6 +5,10 @@ https://atv.dtplay.workers.dev/?ID=https://www.atv.com.tr/abi/4-bolum/izle
 https://live.glturk.workers.dev/?ID=https://www.showtv.com.tr/canli-yayin
 #EXTINF:0,SHOW DIZI RUYA GIBI SON BOLUM
 https://show.dtplay.workers.dev/?ID=dizi/tanitim/ruya-gibi/3048
+#EXTINF:0,SHOW DIZI KIZILCIK SERBETI SON BOLUM
+https://show.dtplay.workers.dev/?ID=dizi/tanitim/kizilcik-serbeti/2875
+#EXTINF:0,SHOW DIZI KIZILCIK VELIAHT SON BOLUM
+https://show.dtplay.workers.dev/?ID=dizi/tanitim/veliaht/3003
 #EXTINF:0,SHOWTURK
 https://live.glturk.workers.dev/?ID=https://www.showturk.com.tr/canli-yayin
 #EXTINF:0,SHOWMAX
@@ -71,4 +75,3 @@ https://live.glturk.workers.dev/?ID=https://www.powerapp.com.tr/tvs/power-tvs/po
 https://live.glturk.workers.dev/?ID=https://www.powerapp.com.tr/tvs/power-tvs/powerturktaptazetv/
 #EXTINF:0,DreamTürk
 https://live.glturk.workers.dev/?ID=https://www.dreamturk.com.tr/actions/content/media/566ab958980ea810b4658d96
-

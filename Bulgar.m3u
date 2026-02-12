@@ -119,9 +119,6 @@ https://live.bulgariatv.workers.dev/?ID=cartoonnetwork
 #EXTINF:-1 tvg-id="aspor" tvg-name="A SPOR" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/aspor_png.png" group-title="Spor",A SPOR
 #EXTVLCOPT:http-user-agent=Sinetech
 https://live.bulgariatv.workers.dev/?ID=aspor
-#EXTINF:-1 tvg-id="bensportshaber" tvg-name="BEİN SPORTS HABER" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/beinsports_haber.png" group-title="Spor",BEİN SPORTS HABER
-#EXTVLCOPT:http-user-agent=Sinetech
-https://live.bulgariatv.workers.dev/?ID=bensportshaber
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/eurosport2-1.png" group-title="Spor",Eurosport 2
 #EXTVLCOPT:http-user-agent=Sinetech
 https://live.bulgariatv.workers.dev/?ID=eurosport2
@@ -134,9 +131,6 @@ https://live.bulgariatv.workers.dev/?ID=ringbg
 #EXTINF:-1 tvg-id="aspor" tvg-name="A SPOR" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/aspor_png.png" group-title="Yabancı",A SPOR
 #EXTVLCOPT:http-user-agent=Sinetech
 https://live.bulgariatv.workers.dev/?ID=aspor
-#EXTINF:-1 tvg-id="bensportshaber" tvg-name="BEİN SPORTS HABER" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/beinsports_haber.png" group-title="Yabancı",BEİN SPORTS HABER
-#EXTVLCOPT:http-user-agent=Sinetech
-https://live.bulgariatv.workers.dev/?ID=bensportshaber
 #EXTINF:-1 tvg-id="aljazeera" tvg-name="Al Jazeera" tvg-logo="https://www.bg-gledai.video/wp-content/uploads/aljazeera.png" group-title="Yabancı",Al Jazeera
 #EXTVLCOPT:http-user-agent=Sinetech
 https://live.bulgariatv.workers.dev/?ID=aljazeera
@@ -224,3 +218,4 @@ https://live.bulgariatv.workers.dev/?ID=maxsport4
 #EXTINF:-1 tvg-id="novasport" tvg-name="Nova Sport" tvg-logo="https://www.gledaitv.fan/upload/tv/o_nova-sport-logo_20240820145156.png" group-title="Premium",Nova Sport
 #EXTVLCOPT:http-user-agent=Sinetech
 https://live.bulgariatv.workers.dev/?ID=novasport
+

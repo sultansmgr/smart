@@ -1,0 +1,355 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="421" tvg-logo="http://tv.kubtel.ru/tv_icon/1TVHD.png" group-title="Информационные",Первый канал HD
+http://cdn.kubteltv.workers.dev/?ID=421
+#EXTINF:-1 tvg-id="1" tvg-logo="http://tv.kubtel.ru/tv_icon/1TV.png" group-title="Информационные",Первый канал
+http://cdn.kubteltv.workers.dev/?ID=1
+#EXTINF:-1 tvg-id="2" tvg-logo="http://tv.kubtel.ru/tv_icon/rossia-1.png" group-title="Информационные",Россия 1
+http://cdn.kubteltv.workers.dev/?ID=2
+#EXTINF:-1 tvg-id="422" tvg-logo="http://tv.kubtel.ru/tv_icon/rossia-1HD.png" group-title="Информационные",Россия 1 HD
+http://cdn.kubteltv.workers.dev/?ID=422
+#EXTINF:-1 tvg-id="3" tvg-logo="http://tv.kubtel.ru/tv_icon/match!.png" group-title="Спорт",Матч ТВ
+http://cdn.kubteltv.workers.dev/?ID=3
+#EXTINF:-1 tvg-id="419" tvg-logo="http://tv.kubtel.ru/tv_icon/match!HD.png" group-title="Спорт",Матч ТВ HD
+http://cdn.kubteltv.workers.dev/?ID=419
+#EXTINF:-1 tvg-id="4" tvg-logo="http://tv.kubtel.ru/tv_icon/ntv.png" group-title="Информационные",НТВ
+http://cdn.kubteltv.workers.dev/?ID=4
+#EXTINF:-1 tvg-id="375" tvg-logo="http://tv.kubtel.ru/tv_icon/ntvHD.png" group-title="Информационные",НТВ HD
+http://cdn.kubteltv.workers.dev/?ID=375
+#EXTINF:-1 tvg-id="5" tvg-logo="http://tv.kubtel.ru/tv_icon/5.png" group-title="Информационные",Пятый канал
+http://cdn.kubteltv.workers.dev/?ID=5
+#EXTINF:-1 tvg-id="423" tvg-logo="http://tv.kubtel.ru/tv_icon/5HD.png" group-title="Информационные",Пятый канал HD
+http://cdn.kubteltv.workers.dev/?ID=423
+#EXTINF:-1 tvg-id="6" tvg-logo="http://tv.kubtel.ru/tv_icon/rossia-k.png" group-title="Кино и Сериалы",Россия К
+http://cdn.kubteltv.workers.dev/?ID=6
+#EXTINF:-1 tvg-id="7" tvg-logo="http://tv.kubtel.ru/tv_icon/rossia-24.png" group-title="Информационные",Россия 24
+http://cdn.kubteltv.workers.dev/?ID=7
+#EXTINF:-1 tvg-id="8" tvg-logo="http://tv.kubtel.ru/tv_icon/karusel.png" group-title="Детские",Карусель
+http://cdn.kubteltv.workers.dev/?ID=8
+#EXTINF:-1 tvg-id="9" tvg-logo="http://tv.kubtel.ru/tv_icon/otr.png" group-title="Информационные",ОТР
+http://cdn.kubteltv.workers.dev/?ID=9
+#EXTINF:-1 tvg-id="420" tvg-logo="http://tv.kubtel.ru/tv_icon/otrHD.png" group-title="Информационные",ОТР HD
+http://cdn.kubteltv.workers.dev/?ID=420
+#EXTINF:-1 tvg-id="10" tvg-logo="http://tv.kubtel.ru/tv_icon/tvc.png" group-title="Кино и Сериалы",ТВ Центр
+http://cdn.kubteltv.workers.dev/?ID=10
+#EXTINF:-1 tvg-id="11" tvg-logo="http://tv.kubtel.ru/tv_icon/ren-tv.png" group-title="Развлекательные",Рен ТВ
+http://cdn.kubteltv.workers.dev/?ID=11
+#EXTINF:-1 tvg-id="376" tvg-logo="http://tv.kubtel.ru/tv_icon/ren-tvHD.png" group-title="Развлекательные",Рен ТВ HD
+http://cdn.kubteltv.workers.dev/?ID=376
+#EXTINF:-1 tvg-id="12" tvg-logo="http://tv.kubtel.ru/tv_icon/spas.png" group-title="Кино и Сериалы",Спас
+http://cdn.kubteltv.workers.dev/?ID=12
+#EXTINF:-1 tvg-id="13" tvg-logo="http://tv.kubtel.ru/tv_icon/sts.png" group-title="Развлекательные",СТС
+http://cdn.kubteltv.workers.dev/?ID=13
+#EXTINF:-1 tvg-id="377" tvg-logo="http://tv.kubtel.ru/tv_icon/stsHD.png" group-title="Развлекательные",СТС HD
+http://cdn.kubteltv.workers.dev/?ID=377
+#EXTINF:-1 tvg-id="14" tvg-logo="http://tv.kubtel.ru/tv_icon/domashniy.png" group-title="Кино и Сериалы",Домашний
+http://cdn.kubteltv.workers.dev/?ID=14
+#EXTINF:-1 tvg-id="378" tvg-logo="http://tv.kubtel.ru/tv_icon/domashniyHD.png" group-title="Кино и Сериалы",Домашний HD
+http://cdn.kubteltv.workers.dev/?ID=378
+#EXTINF:-1 tvg-id="15" tvg-logo="http://tv.kubtel.ru/tv_icon/tv3.png" group-title="Развлекательные",ТВ3
+http://cdn.kubteltv.workers.dev/?ID=15
+#EXTINF:-1 tvg-id="379" tvg-logo="http://tv.kubtel.ru/tv_icon/tv3HD.png" group-title="Развлекательные",ТВ3 HD
+http://cdn.kubteltv.workers.dev/?ID=379
+#EXTINF:-1 tvg-id="16" tvg-logo="http://tv.kubtel.ru/tv_icon/pyatnitsa.png" group-title="Развлекательные",Пятница
+http://cdn.kubteltv.workers.dev/?ID=16
+#EXTINF:-1 tvg-id="380" tvg-logo="http://tv.kubtel.ru/tv_icon/pyatnitsaHD.png" group-title="Развлекательные",Пятница HD
+http://cdn.kubteltv.workers.dev/?ID=380
+#EXTINF:-1 tvg-id="17" tvg-logo="http://tv.kubtel.ru/tv_icon/zvezda.png" group-title="Развлекательные",Звезда
+http://cdn.kubteltv.workers.dev/?ID=17
+#EXTINF:-1 tvg-id="18" tvg-logo="http://tv.kubtel.ru/tv_icon/mir-tv.png" group-title="Информационные",Мир
+http://cdn.kubteltv.workers.dev/?ID=18
+#EXTINF:-1 tvg-id="374" tvg-logo="http://tv.kubtel.ru/tv_icon/mir-tvHD.png" group-title="Информационные",Мир HD
+http://cdn.kubteltv.workers.dev/?ID=374
+#EXTINF:-1 tvg-id="19" tvg-logo="http://tv.kubtel.ru/tv_icon/tnt.png" group-title="Развлекательные",ТНТ
+http://cdn.kubteltv.workers.dev/?ID=19
+#EXTINF:-1 tvg-id="373" tvg-logo="http://tv.kubtel.ru/tv_icon/tntHD.png" group-title="Развлекательные",ТНТ HD
+http://cdn.kubteltv.workers.dev/?ID=373
+#EXTINF:-1 tvg-id="20" tvg-logo="http://tv.kubtel.ru/tv_icon/muz.png" group-title="Музыка",Муз ТВ
+http://cdn.kubteltv.workers.dev/?ID=20
+#EXTINF:-1 tvg-id="28" tvg-logo="http://tv.kubtel.ru/tv_icon/kuban-24.png" group-title="Спорт",Кубань 24
+http://cdn.kubteltv.workers.dev/?ID=28
+#EXTINF:-1 tvg-id="39" tvg-logo="http://tv.kubtel.ru/tv_icon/krasnodarplus.png" group-title="Информационные",Краснодар Онлайн
+http://cdn.kubteltv.workers.dev/?ID=39
+#EXTINF:-1 tvg-id="23" tvg-logo="http://tv.kubtel.ru/tv_icon/you.png" group-title="Развлекательные",Ю ТВ
+http://cdn.kubteltv.workers.dev/?ID=23
+#EXTINF:-1 tvg-id="24" tvg-logo="http://tv.kubtel.ru/tv_icon/che!.png" group-title="Развлекательные",Че
+http://cdn.kubteltv.workers.dev/?ID=24
+#EXTINF:-1 tvg-id="32" tvg-logo="http://tv.kubtel.ru/tv_icon/tnt-4.png" group-title="Развлекательные",ТНТ4
+http://cdn.kubteltv.workers.dev/?ID=32
+#EXTINF:-1 tvg-id="136" tvg-logo="http://tv.kubtel.ru/tv_icon/subbota.png" group-title="Развлекательные",Суббота
+http://cdn.kubteltv.workers.dev/?ID=136
+#EXTINF:-1 tvg-id="36" tvg-logo="http://tv.kubtel.ru/tv_icon/8.png" group-title="Развлекательные",8 Канал
+http://cdn.kubteltv.workers.dev/?ID=36
+#EXTINF:-1 tvg-id="37" tvg-logo="http://tv.kubtel.ru/tv_icon/vmeste-rf.png" group-title="Информационные",Вместе РФ
+http://cdn.kubteltv.workers.dev/?ID=37
+#EXTINF:-1 tvg-id="38" tvg-logo="http://tv.kubtel.ru/tv_icon/usadba.png" group-title="Познавательные",Усадьба
+http://cdn.kubteltv.workers.dev/?ID=38
+#EXTINF:-1 tvg-id="414" tvg-logo="http://tv.kubtel.ru/tv_icon/NashKinopokazHD.png" group-title="Кино и Сериалы",Наш Кинопоказ
+http://cdn.kubteltv.workers.dev/?ID=414
+#EXTINF:-1 tvg-id="131" tvg-logo="http://tv.kubtel.ru/tv_icon/dom-kino.png" group-title="Кино и Сериалы",Дом кино
+http://cdn.kubteltv.workers.dev/?ID=131
+#EXTINF:-1 tvg-id="444" tvg-logo="http://tv.kubtel.ru/tv_icon/Voleybol.png" group-title="Спорт",Волейбол
+http://cdn.kubteltv.workers.dev/?ID=444
+#EXTINF:-1 tvg-id="46" tvg-logo="http://tv.kubtel.ru/tv_icon/drive.png" group-title="Развлекательные",Драйв
+http://cdn.kubteltv.workers.dev/?ID=46
+#EXTINF:-1 tvg-id="47" tvg-logo="http://tv.kubtel.ru/tv_icon/retro.png" group-title="Кино и Сериалы",Ретро ТВ
+http://cdn.kubteltv.workers.dev/?ID=47
+#EXTINF:-1 tvg-id="48" tvg-logo="http://tv.kubtel.ru/tv_icon/ru-tv.png" group-title="Музыка",RuTV
+http://cdn.kubteltv.workers.dev/?ID=48
+#EXTINF:-1 tvg-id="381" tvg-logo="http://tv.kubtel.ru/tv_icon/viju-tv1000-novella.png" group-title="Кино и Сериалы",TV1000 Novella
+http://cdn.kubteltv.workers.dev/?ID=381
+#EXTINF:-1 tvg-id="50" tvg-logo="http://tv.kubtel.ru/tv_icon/tochka-tv.png" group-title="Развлекательные",Точка ТВ
+http://cdn.kubteltv.workers.dev/?ID=50
+#EXTINF:-1 tvg-id="52" tvg-logo="http://tv.kubtel.ru/tv_icon/belros.png" group-title="Информационные",БелРос
+http://cdn.kubteltv.workers.dev/?ID=52
+#EXTINF:-1 tvg-id="57" tvg-logo="http://tv.kubtel.ru/tv_icon/rbk.png" group-title="Информационные",РБК
+http://cdn.kubteltv.workers.dev/?ID=57
+#EXTINF:-1 tvg-id="58" tvg-logo="http://tv.kubtel.ru/tv_icon/avto-24.png" group-title="Развлекательные",Авто 24
+http://cdn.kubteltv.workers.dev/?ID=58
+#EXTINF:-1 tvg-id="59" tvg-logo="http://tv.kubtel.ru/tv_icon/unikum.png" group-title="Детские",Уникум
+http://cdn.kubteltv.workers.dev/?ID=59
+#EXTINF:-1 tvg-id="60" tvg-logo="http://tv.kubtel.ru/tv_icon/evrokino.png" group-title="Кино и Сериалы",Еврокино
+http://cdn.kubteltv.workers.dev/?ID=60
+#EXTINF:-1 tvg-id="61" tvg-logo="http://tv.kubtel.ru/tv_icon/zoopark.png" group-title="Познавательные",Зоопарк
+http://cdn.kubteltv.workers.dev/?ID=61
+#EXTINF:-1 tvg-id="45" tvg-logo="http://tv.kubtel.ru/tv_icon/FONMUSIC.png" group-title="Музыка",FON MUSIC
+http://cdn.kubteltv.workers.dev/?ID=45
+#EXTINF:-1 tvg-id="62" tvg-logo="http://tv.kubtel.ru/tv_icon/illusion.png" group-title="Кино и Сериалы",Иллюзион+
+http://cdn.kubteltv.workers.dev/?ID=62
+#EXTINF:-1 tvg-id="63" tvg-logo="http://tv.kubtel.ru/tv_icon/russkiy-illusion.png" group-title="Кино и Сериалы",Русский иллюзион
+http://cdn.kubteltv.workers.dev/?ID=63
+#EXTINF:-1 tvg-id="64" tvg-logo="http://tv.kubtel.ru/tv_icon/bridge-hits.png" group-title="Музыка",Bridge TV Hits
+http://cdn.kubteltv.workers.dev/?ID=64
+#EXTINF:-1 tvg-id="65" tvg-logo="http://tv.kubtel.ru/tv_icon/psihologia.png" group-title="Познавательные",Психология 21
+http://cdn.kubteltv.workers.dev/?ID=65
+#EXTINF:-1 tvg-id="443" tvg-logo="http://tv.kubtel.ru/tv_icon/TheExplorers.png" group-title="Познавательные",The Explorers
+http://cdn.kubteltv.workers.dev/?ID=443
+#EXTINF:-1 tvg-id="67" tvg-logo="http://tv.kubtel.ru/tv_icon/bridge-tv.png" group-title="Музыка",Bridge TV
+http://cdn.kubteltv.workers.dev/?ID=67
+#EXTINF:-1 tvg-id="69" tvg-logo="http://tv.kubtel.ru/tv_icon/bridge-rus-hit.png" group-title="Музыка",Bridge TV Русский хит
+http://cdn.kubteltv.workers.dev/?ID=69
+#EXTINF:-1 tvg-id="70" tvg-logo="http://tv.kubtel.ru/tv_icon/rtg.png" group-title="Познавательные",RTG
+http://cdn.kubteltv.workers.dev/?ID=70
+#EXTINF:-1 tvg-id="71" tvg-logo="http://tv.kubtel.ru/tv_icon/oruzhie.png" group-title="Познавательные",Оружие
+http://cdn.kubteltv.workers.dev/?ID=71
+#EXTINF:-1 tvg-id="72" tvg-logo="http://tv.kubtel.ru/tv_icon/feniks-plus.png" group-title="Кино и Сериалы",Феникс+ кино
+http://cdn.kubteltv.workers.dev/?ID=72
+#EXTINF:-1 tvg-id="73" tvg-logo="http://tv.kubtel.ru/tv_icon/ohota-i-ribalka.png" group-title="Развлекательные",Охота и рыбалка
+http://cdn.kubteltv.workers.dev/?ID=73
+#EXTINF:-1 tvg-id="145" tvg-logo="http://tv.kubtel.ru/tv_icon/rizhiy.png" group-title="Детские",Рыжий
+http://cdn.kubteltv.workers.dev/?ID=145
+#EXTINF:-1 tvg-id="401" tvg-logo="http://tv.kubtel.ru/tv_icon/VMireZHivHD.png" group-title="Познавательные",В мире животных
+http://cdn.kubteltv.workers.dev/?ID=401
+#EXTINF:-1 tvg-id="405" tvg-logo="http://tv.kubtel.ru/tv_icon/HockeyHD.png" group-title="Спорт",Хоккей
+http://cdn.kubteltv.workers.dev/?ID=405
+#EXTINF:-1 tvg-id="371" tvg-logo="http://tv.kubtel.ru/tv_icon/StartWorld.png" group-title="Кино и Сериалы",Start World
+http://cdn.kubteltv.workers.dev/?ID=371
+#EXTINF:-1 tvg-id="372" tvg-logo="http://tv.kubtel.ru/tv_icon/StartAir.png" group-title="Кино и Сериалы",Start Air
+http://cdn.kubteltv.workers.dev/?ID=372
+#EXTINF:-1 tvg-id="364" tvg-logo="http://tv.kubtel.ru/tv_icon/NSTV.png" group-title="Кино и Сериалы",НСТВ
+http://cdn.kubteltv.workers.dev/?ID=364
+#EXTINF:-1 tvg-id="363" tvg-logo="http://tv.kubtel.ru/tv_icon/Comedia.png" group-title="Кино и Сериалы",Комедия
+http://cdn.kubteltv.workers.dev/?ID=363
+#EXTINF:-1 tvg-id="362" tvg-logo="http://tv.kubtel.ru/tv_icon/Patriot.png" group-title="Кино и Сериалы",Патриот
+http://cdn.kubteltv.workers.dev/?ID=362
+#EXTINF:-1 tvg-id="361" tvg-logo="http://tv.kubtel.ru/tv_icon/Sarafan.png" group-title="Развлекательные",Сарафан
+http://cdn.kubteltv.workers.dev/?ID=361
+#EXTINF:-1 tvg-id="360" tvg-logo="http://tv.kubtel.ru/tv_icon/T24.png" group-title="Кино и Сериалы",Т 24
+http://cdn.kubteltv.workers.dev/?ID=360
+#EXTINF:-1 tvg-id="91" tvg-logo="http://tv.kubtel.ru/tv_icon/krasnaya-liniya.png" group-title="Информационные",Красная линия
+http://cdn.kubteltv.workers.dev/?ID=91
+#EXTINF:-1 tvg-id="92" tvg-logo="http://tv.kubtel.ru/tv_icon/bridge-classic.png" group-title="Музыка",Bridge TV Classic
+http://cdn.kubteltv.workers.dev/?ID=92
+#EXTINF:-1 tvg-id="333" tvg-logo="http://tv.kubtel.ru/tv_icon/rtg-int.png" group-title="Познавательные",RTG Int
+http://cdn.kubteltv.workers.dev/?ID=333
+#EXTINF:-1 tvg-id="365" tvg-logo="http://tv.kubtel.ru/tv_icon/History.png" group-title="Познавательные",История
+http://cdn.kubteltv.workers.dev/?ID=365
+#EXTINF:-1 tvg-id="366" tvg-logo="http://tv.kubtel.ru/tv_icon/Multimuz.png" group-title="Детские",Мультимузыка
+http://cdn.kubteltv.workers.dev/?ID=366
+#EXTINF:-1 tvg-id="367" tvg-logo="http://tv.kubtel.ru/tv_icon/Ani.png" group-title="Детские",Ani
+http://cdn.kubteltv.workers.dev/?ID=367
+#EXTINF:-1 tvg-id="369" tvg-logo="" group-title="",FightClub
+http://cdn.kubteltv.workers.dev/?ID=369
+#EXTINF:-1 tvg-id="359" tvg-logo="http://tv.kubtel.ru/tv_icon/Belarus.png" group-title="Информационные",Беларусь 24
+http://cdn.kubteltv.workers.dev/?ID=359
+#EXTINF:-1 tvg-id="121" tvg-logo="http://tv.kubtel.ru/tv_icon/pyos-i-ko.png" group-title="Развлекательные",Пёс и Ко
+http://cdn.kubteltv.workers.dev/?ID=121
+#EXTINF:-1 tvg-id="358" tvg-logo="http://tv.kubtel.ru/tv_icon/RussExtHD.png" group-title="Развлекательные",Русский экстрим
+http://cdn.kubteltv.workers.dev/?ID=358
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.kubtel.ru/tv_icon/2x2.png" group-title="Развлекательные",2x2
+http://cdn.kubteltv.workers.dev/?ID=31
+#EXTINF:-1 tvg-id="132" tvg-logo="http://tv.kubtel.ru/tv_icon/sapfir.png" group-title="Кино и Сериалы",Сапфир
+http://cdn.kubteltv.workers.dev/?ID=132
+#EXTINF:-1 tvg-id="35" tvg-logo="http://tv.kubtel.ru/tv_icon/sts-love.png" group-title="Кино и Сериалы",СТС Love
+http://cdn.kubteltv.workers.dev/?ID=35
+#EXTINF:-1 tvg-id="357" tvg-logo="http://tv.kubtel.ru/tv_icon/RussDet.png" group-title="Кино и Сериалы",Русский детектив
+http://cdn.kubteltv.workers.dev/?ID=357
+#EXTINF:-1 tvg-id="285" tvg-logo="http://tv.kubtel.ru/tv_icon/uvi.png" group-title="Развлекательные",Ювелирочка
+http://cdn.kubteltv.workers.dev/?ID=285
+#EXTINF:-1 tvg-id="146" tvg-logo="http://tv.kubtel.ru/tv_icon/bober.png" group-title="Познавательные",Бобёр
+http://cdn.kubteltv.workers.dev/?ID=146
+#EXTINF:-1 tvg-id="148" tvg-logo="http://tv.kubtel.ru/tv_icon/terra.png" group-title="Познавательные",TERRA
+http://cdn.kubteltv.workers.dev/?ID=148
+#EXTINF:-1 tvg-id="356" tvg-logo="http://tv.kubtel.ru/tv_icon/RussBest.png" group-title="Кино и Сериалы",Русский бестселлер
+http://cdn.kubteltv.workers.dev/?ID=356
+#EXTINF:-1 tvg-id="355" tvg-logo="http://tv.kubtel.ru/tv_icon/RussRomHD.png" group-title="Кино и Сериалы",Русский Роман
+http://cdn.kubteltv.workers.dev/?ID=355
+#EXTINF:-1 tvg-id="300" tvg-logo="http://tv.kubtel.ru/tv_icon/family-jam.png" group-title="Детские",FamilyJam HD
+http://cdn.kubteltv.workers.dev/?ID=300
+#EXTINF:-1 tvg-id="354" tvg-logo="http://tv.kubtel.ru/tv_icon/FANHD.png" group-title="Кино и Сериалы",FAN
+http://cdn.kubteltv.workers.dev/?ID=354
+#EXTINF:-1 tvg-id="172" tvg-logo="http://tv.kubtel.ru/tv_icon/kineko.png" group-title="Кино и Сериалы",Кинеко
+http://cdn.kubteltv.workers.dev/?ID=172
+#EXTINF:-1 tvg-id="299" tvg-logo="http://tv.kubtel.ru/tv_icon/detective-jam.png" group-title="Кино и Сериалы",DetectiveJam HD
+http://cdn.kubteltv.workers.dev/?ID=299
+#EXTINF:-1 tvg-id="353" tvg-logo="http://tv.kubtel.ru/tv_icon/MosfilmHD.png" group-title="Кино и Сериалы",Мосфильм. Золотая коллекция
+http://cdn.kubteltv.workers.dev/?ID=353
+#EXTINF:-1 tvg-id="175" tvg-logo="http://tv.kubtel.ru/tv_icon/7.png" group-title="Развлекательные",7ТВ
+http://cdn.kubteltv.workers.dev/?ID=175
+#EXTINF:-1 tvg-id="176" tvg-logo="http://tv.kubtel.ru/tv_icon/izvestia.png" group-title="Информационные",Известия
+http://cdn.kubteltv.workers.dev/?ID=176
+#EXTINF:-1 tvg-id="177" tvg-logo="http://tv.kubtel.ru/tv_icon/smile.png" group-title="Детские",Смайлик ТВ
+http://cdn.kubteltv.workers.dev/?ID=177
+#EXTINF:-1 tvg-id="352" tvg-logo="http://tv.kubtel.ru/tv_icon/CinemaHD.png" group-title="Кино и Сериалы",Синема
+http://cdn.kubteltv.workers.dev/?ID=352
+#EXTINF:-1 tvg-id="350" tvg-logo="http://tv.kubtel.ru/tv_icon/ZHivayaPlaneta.png" group-title="Познавательные",Живая Планета
+http://cdn.kubteltv.workers.dev/?ID=350
+#EXTINF:-1 tvg-id="182" tvg-logo="http://tv.kubtel.ru/tv_icon/kinoman.png" group-title="Кино и Сериалы",Киноман
+http://cdn.kubteltv.workers.dev/?ID=182
+#EXTINF:-1 tvg-id="349" tvg-logo="http://tv.kubtel.ru/tv_icon/MoyaPlanetaHD.png" group-title="Познавательные",Моя Планета
+http://cdn.kubteltv.workers.dev/?ID=349
+#EXTINF:-1 tvg-id="186" tvg-logo="http://tv.kubtel.ru/tv_icon/detski-mir.png" group-title="Детские",Детский Мир
+http://cdn.kubteltv.workers.dev/?ID=186
+#EXTINF:-1 tvg-id="191" tvg-logo="http://tv.kubtel.ru/tv_icon/vizhu-tv1000.png" group-title="Кино и Сериалы",TV1000
+http://cdn.kubteltv.workers.dev/?ID=191
+#EXTINF:-1 tvg-id="192" tvg-logo="http://tv.kubtel.ru/tv_icon/viju-tv1000-action.png" group-title="Кино и Сериалы",TV1000 Action
+http://cdn.kubteltv.workers.dev/?ID=192
+#EXTINF:-1 tvg-id="193" tvg-logo="http://tv.kubtel.ru/tv_icon/viju-tv1000-rus.png" group-title="Кино и Сериалы",TV1000 Русское кино
+http://cdn.kubteltv.workers.dev/?ID=193
+#EXTINF:-1 tvg-id="298" tvg-logo="http://tv.kubtel.ru/tv_icon/kino-jam-2.png" group-title="Кино и Сериалы",KinoJam 2 HD
+http://cdn.kubteltv.workers.dev/?ID=298
+#EXTINF:-1 tvg-id="348" tvg-logo="http://tv.kubtel.ru/tv_icon/MultHD.png" group-title="Детские",Мульт
+http://cdn.kubteltv.workers.dev/?ID=348
+#EXTINF:-1 tvg-id="346" tvg-logo="http://tv.kubtel.ru/tv_icon/KinoMult.png" group-title="Кино и Сериалы",Киномульт
+http://cdn.kubteltv.workers.dev/?ID=346
+#EXTINF:-1 tvg-id="344" tvg-logo="http://tv.kubtel.ru/tv_icon/Home4K.png" group-title="Развлекательные",Home 4К
+http://cdn.kubteltv.workers.dev/?ID=344
+#EXTINF:-1 tvg-id="343" tvg-logo="http://tv.kubtel.ru/tv_icon/Sumiko.png" group-title="Развлекательные",Sumiko
+http://cdn.kubteltv.workers.dev/?ID=343
+#EXTINF:-1 tvg-id="342" tvg-logo="http://tv.kubtel.ru/tv_icon/Glazamiturista4K.png" group-title="Познавательные",Глазами туриста 4К
+http://cdn.kubteltv.workers.dev/?ID=342
+#EXTINF:-1 tvg-id="341" tvg-logo="http://tv.kubtel.ru/tv_icon/Glazamiturista.png" group-title="Познавательные",Глазами туриста
+http://cdn.kubteltv.workers.dev/?ID=341
+#EXTINF:-1 tvg-id="340" tvg-logo="http://tv.kubtel.ru/tv_icon/ZHiviaktivno.png" group-title="Развлекательные",Живи активно
+http://cdn.kubteltv.workers.dev/?ID=340
+#EXTINF:-1 tvg-id="216" tvg-logo="http://tv.kubtel.ru/tv_icon/360.png" group-title="Информационные",360
+http://cdn.kubteltv.workers.dev/?ID=216
+#EXTINF:-1 tvg-id="217" tvg-logo="http://tv.kubtel.ru/tv_icon/360-novosti.png" group-title="Информационные",360 Новости
+http://cdn.kubteltv.workers.dev/?ID=217
+#EXTINF:-1 tvg-id="219" tvg-logo="http://tv.kubtel.ru/tv_icon/blokbaster.png" group-title="Кино и Сериалы",Блокбастер
+http://cdn.kubteltv.workers.dev/?ID=219
+#EXTINF:-1 tvg-id="339" tvg-logo="http://tv.kubtel.ru/tv_icon/ZHivayapriroda.png" group-title="Познавательные",Живая природа
+http://cdn.kubteltv.workers.dev/?ID=339
+#EXTINF:-1 tvg-id="229" tvg-logo="http://tv.kubtel.ru/tv_icon/football.png" group-title="Спорт",Футбол
+http://cdn.kubteltv.workers.dev/?ID=229
+#EXTINF:-1 tvg-id="328" tvg-logo="http://tv.kubtel.ru/tv_icon/kinokomedia.png" group-title="Кино и Сериалы",Кинокомедия
+http://cdn.kubteltv.workers.dev/?ID=328
+#EXTINF:-1 tvg-id="231" tvg-logo="http://tv.kubtel.ru/tv_icon/tochka-otriva.png" group-title="Познавательные",Точка отрыва
+http://cdn.kubteltv.workers.dev/?ID=231
+#EXTINF:-1 tvg-id="334" tvg-logo="http://tv.kubtel.ru/tv_icon/solntse.png" group-title="Детские",Солнце
+http://cdn.kubteltv.workers.dev/?ID=334
+#EXTINF:-1 tvg-id="332" tvg-logo="http://tv.kubtel.ru/tv_icon/ntv-serial.png" group-title="Кино и Сериалы",НТВ Сериал
+http://cdn.kubteltv.workers.dev/?ID=332
+#EXTINF:-1 tvg-id="255" tvg-logo="http://tv.kubtel.ru/tv_icon/hit.png" group-title="Кино и Сериалы",Хит
+http://cdn.kubteltv.workers.dev/?ID=255
+#EXTINF:-1 tvg-id="256" tvg-logo="http://tv.kubtel.ru/tv_icon/zagorodniy.png" group-title="Познавательные",Загородный
+http://cdn.kubteltv.workers.dev/?ID=256
+#EXTINF:-1 tvg-id="257" tvg-logo="http://tv.kubtel.ru/tv_icon/teleputeshestvia.png" group-title="Познавательные",Телепутешествия
+http://cdn.kubteltv.workers.dev/?ID=257
+#EXTINF:-1 tvg-id="258" tvg-logo="http://tv.kubtel.ru/tv_icon/zoo-tv.png" group-title="Познавательные",Зоо ТВ
+http://cdn.kubteltv.workers.dev/?ID=258
+#EXTINF:-1 tvg-id="259" tvg-logo="http://tv.kubtel.ru/tv_icon/ohotnik-ribolov-hd.png" group-title="Развлекательные",Охотник и рыболов HD
+http://cdn.kubteltv.workers.dev/?ID=259
+#EXTINF:-1 tvg-id="261" tvg-logo="http://tv.kubtel.ru/tv_icon/da-vinci.png" group-title="Познавательные",Da Vinci
+http://cdn.kubteltv.workers.dev/?ID=261
+#EXTINF:-1 tvg-id="262" tvg-logo="http://tv.kubtel.ru/tv_icon/viju-nature.png" group-title="Познавательные",viju Nature
+http://cdn.kubteltv.workers.dev/?ID=262
+#EXTINF:-1 tvg-id="263" tvg-logo="http://tv.kubtel.ru/tv_icon/viju-explore.png" group-title="Познавательные",viju Explore
+http://cdn.kubteltv.workers.dev/?ID=263
+#EXTINF:-1 tvg-id="264" tvg-logo="http://tv.kubtel.ru/tv_icon/vizhu-history.png" group-title="Познавательные",viju History
+http://cdn.kubteltv.workers.dev/?ID=264
+#EXTINF:-1 tvg-id="265" tvg-logo="http://tv.kubtel.ru/tv_icon/viju-sport.png" group-title="Спорт",viju Sport
+http://cdn.kubteltv.workers.dev/?ID=265
+#EXTINF:-1 tvg-id="266" tvg-logo="http://tv.kubtel.ru/tv_icon/pobeda.png" group-title="Кино и Сериалы",Победа
+http://cdn.kubteltv.workers.dev/?ID=266
+#EXTINF:-1 tvg-id="267" tvg-logo="http://tv.kubtel.ru/tv_icon/1-muzika.png" group-title="Музыка",Музыка Первого
+http://cdn.kubteltv.workers.dev/?ID=267
+#EXTINF:-1 tvg-id="268" tvg-logo="http://tv.kubtel.ru/tv_icon/poehali!.png" group-title="Познавательные",Поехали
+http://cdn.kubteltv.workers.dev/?ID=268
+#EXTINF:-1 tvg-id="270" tvg-logo="http://tv.kubtel.ru/tv_icon/o!.png" group-title="Детские",О!
+http://cdn.kubteltv.workers.dev/?ID=270
+#EXTINF:-1 tvg-id="271" tvg-logo="http://tv.kubtel.ru/tv_icon/telekafe.png" group-title="Развлекательные",Телекафе
+http://cdn.kubteltv.workers.dev/?ID=271
+#EXTINF:-1 tvg-id="453" tvg-logo="http://tv.kubtel.ru/tv_icon/uvi.png" group-title="Развлекательные",Ювелирочка
+http://cdn.kubteltv.workers.dev/?ID=453
+#EXTINF:-1 tvg-id="272" tvg-logo="http://tv.kubtel.ru/tv_icon/dom-kino-premium.png" group-title="Кино и Сериалы",Дом Кино Премиум HD
+http://cdn.kubteltv.workers.dev/?ID=272
+#EXTINF:-1 tvg-id="273" tvg-logo="http://tv.kubtel.ru/tv_icon/multilandia.png" group-title="Детские",Мультиландия
+http://cdn.kubteltv.workers.dev/?ID=273
+#EXTINF:-1 tvg-id="331" tvg-logo="http://tv.kubtel.ru/tv_icon/ntv-pravo.png" group-title="Познавательные",НТВ Право
+http://cdn.kubteltv.workers.dev/?ID=331
+#EXTINF:-1 tvg-id="330" tvg-logo="http://tv.kubtel.ru/tv_icon/ntv-stil.png" group-title="Развлекательные",НТВ Стиль
+http://cdn.kubteltv.workers.dev/?ID=330
+#EXTINF:-1 tvg-id="329" tvg-logo="http://tv.kubtel.ru/tv_icon/ntv-hit.png" group-title="Кино и Сериалы",НТВ Хит
+http://cdn.kubteltv.workers.dev/?ID=329
+#EXTINF:-1 tvg-id="277" tvg-logo="http://tv.kubtel.ru/tv_icon/klyuch.png" group-title="Познавательные",Ключ ТВ
+http://cdn.kubteltv.workers.dev/?ID=277
+#EXTINF:-1 tvg-id="321" tvg-logo="http://tv.kubtel.ru/tv_icon/lapki-live.png" group-title="Развлекательные",Лапки LIVE
+http://cdn.kubteltv.workers.dev/?ID=321
+#EXTINF:-1 tvg-id="320" tvg-logo="http://tv.kubtel.ru/tv_icon/vremyaDALiBLIZ.png" group-title="Познавательные",Время: далекое и близкое
+http://cdn.kubteltv.workers.dev/?ID=320
+#EXTINF:-1 tvg-id="345" tvg-logo="http://tv.kubtel.ru/tv_icon/mir24.png" group-title="Информационные",Мир 24
+http://cdn.kubteltv.workers.dev/?ID=345
+#EXTINF:-1 tvg-id="304" tvg-logo="http://tv.kubtel.ru/tv_icon/baby-time.png" group-title="Детские",Baby Time
+http://cdn.kubteltv.workers.dev/?ID=304
+#EXTINF:-1 tvg-id="297" tvg-logo="http://tv.kubtel.ru/tv_icon/kino-jam-1.png" group-title="Кино и Сериалы",KinoJam 1 HD
+http://cdn.kubteltv.workers.dev/?ID=297
+#EXTINF:-1 tvg-id="451" tvg-logo="http://tv.kubtel.ru/tv_icon/MirBasket.png" group-title="Спорт",Мир Баскетбола
+http://cdn.kubteltv.workers.dev/?ID=451
+#EXTINF:-1 tvg-id="82" tvg-logo="http://tv.kubtel.ru/tv_icon/europaplus.png" group-title="Музыка",Europa plus TV HD
+http://cdn.kubteltv.workers.dev/?ID=82
+#EXTINF:-1 tvg-id="454" tvg-logo="http://tv.kubtel.ru/tv_icon/shopping-live.png" group-title="Развлекательные",Shopping Live
+http://cdn.kubteltv.workers.dev/?ID=454
+#EXTINF:-1 tvg-id="207" tvg-logo="http://tv.kubtel.ru/tv_icon/v-gostah-skazki.png" group-title="Детские",В гостях у сказки
+http://cdn.kubteltv.workers.dev/?ID=207
+#EXTINF:-1 tvg-id="456" tvg-logo="http://tv.kubtel.ru/tv_icon/BollywoodHD.png" group-title="Кино и Сериалы",Bollywood
+http://cdn.kubteltv.workers.dev/?ID=456
+#EXTINF:-1 tvg-id="412" tvg-logo="http://tv.kubtel.ru/tv_icon/SportHD.png" group-title="Спорт",Спорт
+http://cdn.kubteltv.workers.dev/?ID=412
+#EXTINF:-1 tvg-id="404" tvg-logo="http://tv.kubtel.ru/tv_icon/MyachHD.png" group-title="Спорт",Мяч
+http://cdn.kubteltv.workers.dev/?ID=404
+#EXTINF:-1 tvg-id="77" tvg-logo="http://tv.kubtel.ru/tv_icon/indiyskoe-kino.png" group-title="Кино и Сериалы",Индийское кино
+http://cdn.kubteltv.workers.dev/?ID=77
+#EXTINF:-1 tvg-id="457" tvg-logo="http://tv.kubtel.ru/tv_icon/FoodTimeHD.png" group-title="",FoodTime
+http://cdn.kubteltv.workers.dev/?ID=457
+#EXTINF:-1 tvg-id="316" tvg-logo="http://tv.kubtel.ru/tv_icon/kinoseria.png" group-title="Кино и Сериалы",Киносерия
+http://cdn.kubteltv.workers.dev/?ID=316
+#EXTINF:-1 tvg-id="105" tvg-logo="http://tv.kubtel.ru/tv_icon/kinomix.png" group-title="Кино и Сериалы",Киномикс
+http://cdn.kubteltv.workers.dev/?ID=105
+#EXTINF:-1 tvg-id="200" tvg-logo="http://tv.kubtel.ru/tv_icon/kinouzhas.png" group-title="Кино и Сериалы",Киноужас
+http://cdn.kubteltv.workers.dev/?ID=200
+#EXTINF:-1 tvg-id="110" tvg-logo="http://tv.kubtel.ru/tv_icon/match-strana.png" group-title="Спорт",МАТЧ! Страна HD
+http://cdn.kubteltv.workers.dev/?ID=110
+#EXTINF:-1 tvg-id="111" tvg-logo="http://tv.kubtel.ru/tv_icon/match-igra.png" group-title="Спорт",Матч! Игра HD
+http://cdn.kubteltv.workers.dev/?ID=111
+#EXTINF:-1 tvg-id="112" tvg-logo="http://tv.kubtel.ru/tv_icon/boets.png" group-title="Спорт",Матч! Боец HD
+http://cdn.kubteltv.workers.dev/?ID=112
+#EXTINF:-1 tvg-id="113" tvg-logo="http://tv.kubtel.ru/tv_icon/match-arena.png" group-title="Спорт",МАТЧ! Арена HD
+http://cdn.kubteltv.workers.dev/?ID=113
+#EXTINF:-1 tvg-id="455" tvg-logo="http://tv.kubtel.ru/tv_icon/BrazzersTV.png" group-title="Для взрослых",Brazzers TV
+http://cdn.kubteltv.workers.dev/?ID=455
+#EXTINF:-1 tvg-id="394" tvg-logo="http://tv.kubtel.ru/tv_icon/TemptationTVHD.png" group-title="Для взрослых",Temptation TV HD
+http://cdn.kubteltv.workers.dev/?ID=394
+#EXTINF:-1 tvg-id="395" tvg-logo="http://tv.kubtel.ru/tv_icon/RedLipsHD.png" group-title="Для взрослых",Red Lips HD
+http://cdn.kubteltv.workers.dev/?ID=395
+#EXTINF:-1 tvg-id="458" tvg-logo="http://tv.kubtel.ru/tv_icon/russkaya-noch.png" group-title="Для взрослых",Русская ночь
+http://cdn.kubteltv.workers.dev/?ID=458

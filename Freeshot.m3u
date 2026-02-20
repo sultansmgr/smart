@@ -1,193 +1,1037 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beINSPORTSHD1.png" group-title="Turkey",beIN SPORTS HD1
-http://live.freeshot.workers.dev/?ID=beINSPORTS1TR
-#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beINSPORTSHD2.png" group-title="Turkey",beIN SPORTS HD2
-http://live.freeshot.workers.dev/?ID=beINSPORTS2TR
-#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports3.png" group-title="Turkey",beIN SPORTS HD3
-http://live.freeshot.workers.dev/?ID=beINSPORTS3TR
-#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports4.png" group-title="Turkey",beIN SPORTS HD4
-http://live.freeshot.workers.dev/?ID=beINSPORTS4TR
-#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports5.png" group-title="Turkey",beIN SPORTS HD5
-http://live.freeshot.workers.dev/?ID=beINSPORTS5TR
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/CTYNXpw6_5CzpZbDDVMUIUsn3KwlbPGBW2w2x0Glgftvwj2YpHnCN5Wt2aDbv76eBjn-NqIKqg" group-title="Turkey",EUROSPORT 1
-http://live.freeshot.workers.dev/?ID=EUROSPORT1TR
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/CTYNXpw6_5CzpZbDDVMUIUsn3KwlbPGBW2w2x0Glgftvwj2YpHnCN5Wt2aDbv76eBjn-NqIKqg" group-title="Turkey",EUROSPORT 2
-http://live.freeshot.workers.dev/?ID=EUROSPORT2TR
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ" group-title="Turkey",TivibuSPOR 1
-http://live.freeshot.workers.dev/?ID=TivibuSPOR
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ" group-title="Turkey",TivibuSPOR 2
-http://live.freeshot.workers.dev/?ID=TivibuSPOR2
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ" group-title="Turkey",TivibuSPOR 3
-http://live.freeshot.workers.dev/?ID=TivibuSPOR3
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/FCzDc31AsTFzobw8Z4QBCc8AGtKgFP4mq28RgbcLJGdVNlE0RoremvEr1XntYHFc6G0dAwU-" group-title="Turkey",TRT Spor
-http://live.freeshot.workers.dev/?ID=TRTSPOR
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-8Ri3w9lxEPds96rwxSbKvO6hLWNI1_dqIO0T75xAQ9KomwH68sIXycW5hYUEljYbenIhnW1SA" group-title="Turkey",TRT SPOR Yıldız
-http://live.freeshot.workers.dev/?ID=TRTSPORY
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/43xh3uEvLl7kAKca-zFauATzT3spixqjb9v-cYBVxBLzbcbVj42iV3Msbpd5zXwN_w7jXdnzFq8" group-title="Turkey",aSPOR
-http://live.freeshot.workers.dev/?ID=A-Spor
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lKnrGQgvaKuU6UINXvHHq5Fy-Qo8SvCbzXpN6h3rkXug" group-title="Turkey",sportstv
-http://live.freeshot.workers.dev/?ID=sportstvTR
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GyIqsTV1C4wnZh3VBV6G2FIFXMY3Jp3khP9iONDtP2OSxq-WcPHI9OaAfBQb1xR3AdSaxSKjyg" group-title="Albania",Tring Sport News
-http://live.freeshot.workers.dev/?ID=TringSportNews
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GyIqsTV1C4wnZh3VBV6G2FIFXMY3Jp3khP9iONDtP2OSxq-WcPHI9OaAfBQb1xR3AdSaxSKjyg" group-title="Albania",Tring Sport 1
-http://live.freeshot.workers.dev/?ID=TringSport1
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GyIqsTV1C4wnZh3VBV6G2FIFXMY3Jp3khP9iONDtP2OSxq-WcPHI9OaAfBQb1xR3AdSaxSKjyg" group-title="Albania",Tring Sport 2
-http://live.freeshot.workers.dev/?ID=TringSport2
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GyIqsTV1C4wnZh3VBV6G2FIFXMY3Jp3khP9iONDtP2OSxq-WcPHI9OaAfBQb1xR3AdSaxSKjyg" group-title="Albania",Tring Sport 3
-http://live.freeshot.workers.dev/?ID=TringSport3
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",Super Sport 1
-http://live.freeshot.workers.dev/?ID=SSport1AL
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",Super Sport 2
-http://live.freeshot.workers.dev/?ID=SSport2AL
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",Super Sport 3
-http://live.freeshot.workers.dev/?ID=SSport3AL
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",Super Sport 4
-http://live.freeshot.workers.dev/?ID=SSport4AL
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",Super Sport 5
-http://live.freeshot.workers.dev/?ID=SSport5AL
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",Super Sport 6
-http://live.freeshot.workers.dev/?ID=SSport6AL
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",Super Sport 7
-http://live.freeshot.workers.dev/?ID=SSport7AL
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",ART Sport 1 XK
-http://live.freeshot.workers.dev/?ID=ARTSport1
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",ART Sport 2 XK
-http://live.freeshot.workers.dev/?ID=ARTSport2
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",ART Sport 3 XK
-http://live.freeshot.workers.dev/?ID=ARTSport3
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",ART Sport 4 XK
-http://live.freeshot.workers.dev/?ID=ARTSport4
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",ART Sport 5 XK
-http://live.freeshot.workers.dev/?ID=ARTSport5
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",ART Sport 6 XK
-http://live.freeshot.workers.dev/?ID=ARTSport6
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxBSCbkqG_nR0LofboLSo0IfR_4Sf59H2S6CPFopQVWQ" group-title="Albania",RTSH Sport
-http://live.freeshot.workers.dev/?ID=RTSHSport
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/CTYNXpw6_5CzpZbDDVMUIUsn3KwlbPGBW2w2x0Glgftvwj2YpHnCN5Wt2aDbv76eBjn-NqIKqg" group-title="Albania",EUROSPORT 1
-http://live.freeshot.workers.dev/?ID=EURO1AL
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/CTYNXpw6_5CzpZbDDVMUIUsn3KwlbPGBW2w2x0Glgftvwj2YpHnCN5Wt2aDbv76eBjn-NqIKqg" group-title="Albania",EUROSPORT 2
-http://live.freeshot.workers.dev/?ID=EURO2AL
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",EUROSPORT 1
-http://live.freeshot.workers.dev/?ID=EURO1BG
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",EUROSPORT 2
-http://live.freeshot.workers.dev/?ID=EURO2BG
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",NOVA SPORT
-http://live.freeshot.workers.dev/?ID=NOVASPORTBG
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",MAX SPORT 1
-http://live.freeshot.workers.dev/?ID=MaxSportBG
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",MAX SPORT 2
-http://live.freeshot.workers.dev/?ID=MaxSport2BG
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",MAX SPORT 3
-http://live.freeshot.workers.dev/?ID=MaxSport3BG
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",MAX SPORT 4
-http://live.freeshot.workers.dev/?ID=MaxSport4BG
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",DIEMA SPORT
-http://live.freeshot.workers.dev/?ID=DiemaSport
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",DIEMA SPORT 2
-http://live.freeshot.workers.dev/?ID=DiemaSport2
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8EHMw3k8r8H9J06vWBPcVGKczjmWFp0vvXKHCzRQaMtkXx4TThgb10_HdEaL3oeT7-FlfPA-" group-title="Bulgaria",DIEMA SPORT 3
-http://live.freeshot.workers.dev/?ID=DiemaSport3
-#EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/pink_erotic1.png" group-title="Adult",Pink Erotic 1
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/pink_erotic1.m3u8
-#EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/pink_erotic2.png" group-title="Adult",Pink Erotic 2
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/pink_erotic2.m3u8
-#EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/pink_erotic3.png" group-title="Adult",Pink Erotic 3
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls14/pink_erotic3.m3u8
-#EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/pink_erotic4.png" group-title="Adult",Pink Erotic 4
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/pink_erotic4.m3u8
-#EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/pink_erotic5.png" group-title="Adult",Pink Erotic 5
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/pink_erotic5.m3u8
-#EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/pink_erotic6.png" group-title="Adult",Pink Erotic 6
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls14/pink_erotic6.m3u8
-#EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/pink_erotic7.png" group-title="Adult",Pink Erotic 7
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls14/pink_erotic7.m3u8
-#EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/pink_erotic8.png" group-title="Adult",Pink Erotic 8
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls7/pink_erotic8.m3u8
-#EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/erox.png" group-title="Adult",EroX
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls19/erox.m3u8
-#EXTINF:-1 tvg-logo="http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/client/logos_dark/erox.png" group-title="Adult",EroXXX
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls7/eroxxx.m3u8
-#EXTINF:-1 tvg-name="Vječna vatra" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/vjecna_vatra_cam.png" group-title="Moja WebTV Kamera",🔸Vječna vatra🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/vjecna_vatra_cam.m3u8
-#EXTINF:-1 tvg-name="Bjelašnica" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/bjelasnica.png" group-title="Moja WebTV Kamera",🔸Bjelašnica🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/bjelasnica.m3u8
-#EXTINF:-1 tvg-name="Bjelašnica 2" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/bjelasnica2.png" group-title="Moja WebTV Kamera",🔸Bjelašnica 2🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/bjelasnica2.m3u8
-#EXTINF:-1 tvg-name="Igman" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/camigman.png" group-title="Moja WebTV Kamera",🔸Igman🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/camigman.m3u8
-#EXTINF:-1 tvg-name="Dolac Malta" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/malta.png" group-title="Moja WebTV Kamera",🔸Dolac Malta🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/malta.m3u8
-#EXTINF:-1 tvg-name="Jahorina" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/jahorina.png" group-title="Moja WebTV Kamera",🔸Jahorina🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/jahorina.m3u8
-#EXTINF:-1 tvg-name="Trebević žičara" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/trebevic_zicara.png" group-title="Moja WebTV Kamera",🔸Trebević žičara🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/trebevic_zicara.m3u8
-#EXTINF:-1 tvg-name="Ravna Planina" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/ravna_planina_cam.png" group-title="Moja WebTV Kamera",🔸Ravna Planina🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/ravna_planina_cam.m3u8
-#EXTINF:-1 tvg-name="Das ist Sarajevo" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/sarajevo_cam.png" group-title="Moja WebTV Kamera",🔸Das ist Sarajevo🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/sarajevo_cam.m3u8
-#EXTINF:-1 tvg-name="Trg BiH" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/trg_bih_cam.png" group-title="Moja WebTV Kamera",🔸Trg BiH🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/trg_bih_cam.m3u8
-#EXTINF:-1 tvg-name="Skenderija" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/skenderija_cam.png" group-title="Moja WebTV Kamera",🔸Skenderija🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/skenderija_cam.m3u8
-#EXTINF:-1 tvg-name="Travnik" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/travnik_cam.png" group-title="Moja WebTV Kamera",🔸Travnik🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/travnik_cam.m3u8
-#EXTINF:-1 tvg-name="Vlašić" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/vlasic.png" group-title="Moja WebTV Kamera",🔸Vlašić🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/vlasic.m3u8
-#EXTINF:-1 tvg-name="Kakanj" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/kakanj_cam.png" group-title="Moja WebTV Kamera",🔸Kakanj🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/kakanj_cam.m3u8
-#EXTINF:-1 tvg-name="Mostar" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/mostar_cam.png" group-title="Moja WebTV Kamera",🔸Mostar🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/mostar_cam.m3u8
-#EXTINF:-1 tvg-name="Mostar panorama" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/mostar_cam_pan.png" group-title="Moja WebTV Kamera",🔸Mostar panorama🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/mostar_cam_pan.m3u8
-#EXTINF:-1 tvg-name="Rujište Mostar" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/mostar_rujiste.png" group-title="Moja WebTV Kamera",🔸Rujište Mostar🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/mostar_rujiste.m3u8
-#EXTINF:-1 tvg-name="Blagaj" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/blagaj_cam.png" group-title="Moja WebTV Kamera",🔸Blagaj🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/blagaj_cam.m3u8
-#EXTINF:-1 tvg-name="Stolac" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/stolac_cam.png" group-title="Moja WebTV Kamera",🔸Stolac🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/stolac_cam.m3u8
-#EXTINF:-1 tvg-name="Konjic" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/konjic_cam.png" group-title="Moja WebTV Kamera",🔸Konjic🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/konjic_cam.m3u8
-#EXTINF:-1 tvg-name="Konjic 2" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/konjic_cam2.png" group-title="Moja WebTV Kamera",🔸Konjic 2🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/konjic_cam2.m3u8
-#EXTINF:-1 tvg-name="Trebinje" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/trebinje_cam.png" group-title="Moja WebTV Kamera",🔸Trebinje🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/trebinje_cam.m3u8
-#EXTINF:-1 tvg-name="Neum" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/neum.png" group-title="Moja WebTV Kamera",🔸Neum🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/neum.m3u8
-#EXTINF:-1 tvg-name="Goražde" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/gorazde_cam.png" group-title="Moja WebTV Kamera",🔸Goražde🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/gorazde_cam.m3u8
-#EXTINF:-1 tvg-name="Bihać panorama" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/bihac_panorama_cam.png" group-title="Moja WebTV Kamera",🔸Bihać panorama🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/bihac_panorama_cam.m3u8
-#EXTINF:-1 tvg-name="Kanjon Une" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/kanjon_une_cam.png" group-title="Moja WebTV Kamera",🔸Kanjon Une🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/kanjon_une_cam.m3u8
-#EXTINF:-1 tvg-name="Zenica" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/zenica_cam.png" group-title="Moja WebTV Kamera",🔸Zenica🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls19/zenica_cam.m3u8
-#EXTINF:-1 tvg-name="Smetovi Zenica" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/smetovi_cam.png" group-title="Moja WebTV Kamera",🔸Smetovi Zenica🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/smetovi_cam.m3u8
-#EXTINF:-1 tvg-name="Panonska jezera" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/panonska_cam.png" group-title="Moja WebTV Kamera",🔸Panonska jezera🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/panonska_cam.m3u8
-#EXTINF:-1 tvg-name="Brčko" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/brcko_cam.png" group-title="Moja WebTV Kamera",🔸Brčko🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/brcko_cam.m3u8
-#EXTINF:-1 tvg-name="Jablanica" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/jablanica_cam.png" group-title="Moja WebTV Kamera",🔸Jablanica🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/jablanica_cam.m3u8
-#EXTINF:-1 tvg-name="Jablaničko jezero" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/jablanicko_jezero_cam.png" group-title="Moja WebTV Kamera",🔸Jablaničko jezero🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/jablanicko_jezero_cam.m3u8
-#EXTINF:-1 tvg-name="Gračanica" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/gracanica_cam.png" group-title="Moja WebTV Kamera",🔸Gračanica🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/gracanica_cam.m3u8
-#EXTINF:-1 tvg-name="Gradačac" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/gradacac_cam.png" group-title="Moja WebTV Kamera",🔸Gradačac🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/gradacac_cam.m3u8
-#EXTINF:-1 tvg-name="Banja Luka" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/banja_luka_cam.png" group-title="Moja WebTV Kamera",🔸Banja Luka🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/banja_luka_cam.m3u8
-#EXTINF:-1 tvg-name="Fojnica" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/fojnica_cam.png" group-title="Moja WebTV Kamera",🔸Fojnica🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/fojnica_cam.m3u8
-#EXTINF:-1 tvg-name="Olovo" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/olovo_cam.png" group-title="Moja WebTV Kamera",🔸Olovo🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/olovo_cam.m3u8
-#EXTINF:-1 tvg-name="Maglaj" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/maglaj_cam.png" group-title="Moja WebTV Kamera",🔸Maglaj🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/maglaj_cam.m3u8
-#EXTINF:-1 tvg-name="Tešanj" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/tesanj_cam.png" group-title="Moja WebTV Kamera",🔸Tešanj🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls17/tesanj_cam.m3u8
-#EXTINF:-1 tvg-name="Zavidovići" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/zavidovici_cam.png" group-title="Moja WebTV Kamera",🔸Zavidovići🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/zavidovici_cam.m3u8
-#EXTINF:-1 tvg-name="Vogošća" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/vogosca_cam.png" group-title="Moja WebTV Kamera",🔸Vogošća🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls15/vogosca_cam.m3u8
-#EXTINF:-1 tvg-name="Kladanj" tvg-logo="https://mob.webtvstream.bhtelecom.ba/client/logos_dark/kladanj_cam.png" group-title="Moja WebTV Kamera",🔸Kladanj🔸
-http://bstelevision.com/proxy.php?url=http://mob.webtvstream.bhtelecom.ba/hls12/kladanj_cam.m3u8
+#EXTINF:-1 tvg-name="Tring Sport News AL" tvg-logo="https://freeshot.live/upload/source/Tring-Sport-News-AL-logo.png" group-title="Albania & Kosovo",Tring Sport News AL
+https://live.freeshot.workers.dev/?ID=TringSportNews
+#EXTINF:-1 tvg-name="Tring Sport 3 AL" tvg-logo="https://freeshot.live/upload/source/Tring-Sport-3-AL-logo.png" group-title="Albania & Kosovo",Tring Sport 3 AL
+https://live.freeshot.workers.dev/?ID=TringSport3
+#EXTINF:-1 tvg-name="Tring Sport 2 AL" tvg-logo="https://freeshot.live/upload/source/Tring-Sport-2-AL-logo.png" group-title="Albania & Kosovo",Tring Sport 2 AL
+https://live.freeshot.workers.dev/?ID=TringSport2
+#EXTINF:-1 tvg-name="Tring Sport 1 AL" tvg-logo="https://freeshot.live/upload/source/Tring-Sport-1-AL-logo.png" group-title="Albania & Kosovo",Tring Sport 1 AL
+https://live.freeshot.workers.dev/?ID=TringSport1
+#EXTINF:-1 tvg-name="Super Sport 7 AL" tvg-logo="https://freeshot.live/upload/source/Super-Sport-7-logo.png" group-title="Albania & Kosovo",Super Sport 7 AL
+https://live.freeshot.workers.dev/?ID=SSport7AL
+#EXTINF:-1 tvg-name="Super Sport 6 AL" tvg-logo="https://freeshot.live/upload/source/Super-Sport-6-logo.png" group-title="Albania & Kosovo",Super Sport 6 AL
+https://live.freeshot.workers.dev/?ID=SSport6AL
+#EXTINF:-1 tvg-name="Super Sport 5 AL" tvg-logo="https://freeshot.live/upload/source/Super-Sport-5-logo.png" group-title="Albania & Kosovo",Super Sport 5 AL
+https://live.freeshot.workers.dev/?ID=SSport5AL
+#EXTINF:-1 tvg-name="Super Sport 4 AL" tvg-logo="https://freeshot.live/upload/source/Super-Sport-4-logo.png" group-title="Albania & Kosovo",Super Sport 4 AL
+https://live.freeshot.workers.dev/?ID=SSport4AL
+#EXTINF:-1 tvg-name="Super Sport 3 AL" tvg-logo="https://freeshot.live/upload/source/Super-Sport-3-logo.png" group-title="Albania & Kosovo",Super Sport 3 AL
+https://live.freeshot.workers.dev/?ID=SSport3AL
+#EXTINF:-1 tvg-name="Super Sport 2 AL" tvg-logo="https://freeshot.live/upload/source/Super-Sport-2-logo.png" group-title="Albania & Kosovo",Super Sport 2 AL
+https://live.freeshot.workers.dev/?ID=SSport2AL
+#EXTINF:-1 tvg-name="Super Sport 1 AL" tvg-logo="https://freeshot.live/upload/source/Super-Sport-1-logo.png" group-title="Albania & Kosovo",Super Sport 1 AL
+https://live.freeshot.workers.dev/?ID=SSport1AL
+#EXTINF:-1 tvg-name="ART Sport 6 XK" tvg-logo="https://freeshot.live/upload/source/ART-Sport-6-logo.png" group-title="Albania & Kosovo",ART Sport 6 XK
+https://live.freeshot.workers.dev/?ID=ARTSport6
+#EXTINF:-1 tvg-name="ART Sport 5 XK" tvg-logo="https://freeshot.live/upload/source/ART-Sport-5-logo.png" group-title="Albania & Kosovo",ART Sport 5 XK
+https://live.freeshot.workers.dev/?ID=ARTSport5
+#EXTINF:-1 tvg-name="ART Sport 4 XK" tvg-logo="https://freeshot.live/upload/source/ART-Sport-4-logo.png" group-title="Albania & Kosovo",ART Sport 4 XK
+https://live.freeshot.workers.dev/?ID=ARTSport4
+#EXTINF:-1 tvg-name="ART Sport 3 XK" tvg-logo="https://freeshot.live/upload/source/ART-Sport-3-logo.png" group-title="Albania & Kosovo",ART Sport 3 XK
+https://live.freeshot.workers.dev/?ID=ARTSport3
+#EXTINF:-1 tvg-name="ART Sport 2 XK" tvg-logo="https://freeshot.live/upload/source/ART-Sport-2-logo.png" group-title="Albania & Kosovo",ART Sport 2 XK
+https://live.freeshot.workers.dev/?ID=ARTSport2
+#EXTINF:-1 tvg-name="ART Sport 1 XK" tvg-logo="https://freeshot.live/upload/source/ART-Sport-1-logo.png" group-title="Albania & Kosovo",ART Sport 1 XK
+https://live.freeshot.workers.dev/?ID=ARTSport1
+#EXTINF:-1 tvg-name="RTSH Sport AL" tvg-logo="https://freeshot.live/upload/source/RTSH-Sport-logo.png" group-title="Albania & Kosovo",RTSH Sport AL
+https://live.freeshot.workers.dev/?ID=RTSHSport
+#EXTINF:-1 tvg-name="EUROSPORT 2 AL" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="Albania & Kosovo",EUROSPORT 2 AL
+https://live.freeshot.workers.dev/?ID=EURO2AL
+#EXTINF:-1 tvg-name="EUROSPORT 1 AL" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="Albania & Kosovo",EUROSPORT 1 AL
+https://live.freeshot.workers.dev/?ID=EURO1AL
+#EXTINF:-1 tvg-name="Sky News Arabia" tvg-logo="https://freeshot.live/upload/source/Sky-News-Arabia-logo.png" group-title="Arabia",Sky News Arabia
+https://live.freeshot.workers.dev/?ID=772
+#EXTINF:-1 tvg-name="Dubai TV" tvg-logo="https://freeshot.live/upload/source/DubaiTV-logo.png" group-title="Arabia",Dubai TV
+https://live.freeshot.workers.dev/?ID=DubaiTV
+#EXTINF:-1 tvg-name="Dubai One" tvg-logo="https://freeshot.live/upload/source/DubaiOne.png" group-title="Arabia",Dubai One
+https://live.freeshot.workers.dev/?ID=DubaiOne
+#EXTINF:-1 tvg-name="FRANCE 24 Arabia" tvg-logo="https://freeshot.live/upload/source/France24-Arabic-logo.png" group-title="Arabia",FRANCE 24 Arabia
+https://live.freeshot.workers.dev/?ID=767
+#EXTINF:-1 tvg-name="Sharjah Sports TV" tvg-logo="https://freeshot.live/upload/source/SHARJAH_TV_SPORTS-logo.png" group-title="Arabia",Sharjah Sports TV
+https://live.freeshot.workers.dev/?ID=SharjahSportsTV
+#EXTINF:-1 tvg-name="SSC NEWS Saudi Arabia" tvg-logo="https://freeshot.live/upload/source/SSCNEWS-Saudi-Arabia-logo.png" group-title="Arabia",SSC NEWS Saudi Arabia
+https://live.freeshot.workers.dev/?ID=SSCNEWS
+#EXTINF:-1 tvg-name="SSC EXTRA 3 Saudi Arabia" tvg-logo="https://freeshot.live/upload/source/SSCEXTRA3-Saudi-Arabia-logo.png" group-title="Arabia",SSC EXTRA 3 Saudi Arabia
+https://live.freeshot.workers.dev/?ID=SSCEXTRA3
+#EXTINF:-1 tvg-name="SSC EXTRA 2 Saudi Arabia" tvg-logo="https://freeshot.live/upload/source/SSCEXTRA2-Saudi-Arabia-logo.png" group-title="Arabia",SSC EXTRA 2 Saudi Arabia
+https://live.freeshot.workers.dev/?ID=SSCEXTRA2
+#EXTINF:-1 tvg-name="SSC EXTRA 1 Saudi Arabia" tvg-logo="https://freeshot.live/upload/source/SSCEXTRA1-Saudi-Arabia-logo.png" group-title="Arabia",SSC EXTRA 1 Saudi Arabia
+https://live.freeshot.workers.dev/?ID=SSCEXTRA1
+#EXTINF:-1 tvg-name="SSC 5 Saudi Arabia" tvg-logo="https://freeshot.live/upload/source/SSC-5-Saudi-Arabia-logo.png" group-title="Arabia",SSC 5 Saudi Arabia
+https://live.freeshot.workers.dev/?ID=SSC5
+#EXTINF:-1 tvg-name="SSC 4 Saudi Arabia" tvg-logo="https://freeshot.live/upload/source/SSC-4-Saudi-Arabia-logo.png" group-title="Arabia",SSC 4 Saudi Arabia
+https://live.freeshot.workers.dev/?ID=SSC4
+#EXTINF:-1 tvg-name="SSC 3 Saudi Arabia" tvg-logo="https://freeshot.live/upload/source/SSC-3-Saudi-Arabia-logo.png" group-title="Arabia",SSC 3 Saudi Arabia
+https://live.freeshot.workers.dev/?ID=SSC3
+#EXTINF:-1 tvg-name="SSC 2 Saudi Arabia" tvg-logo="https://freeshot.live/upload/source/SSC-2-Saudi-Arabia-logo.png" group-title="Arabia",SSC 2 Saudi Arabia
+https://live.freeshot.workers.dev/?ID=SSC2
+#EXTINF:-1 tvg-name="SSC 1 Saudi Arabia" tvg-logo="https://freeshot.live/upload/source/SSC-1-Saudi-Arabia-logo.png" group-title="Arabia",SSC 1 Saudi Arabia
+https://live.freeshot.workers.dev/?ID=SSC1
+#EXTINF:-1 tvg-name="Dubai Racing 3" tvg-logo="https://freeshot.live/upload/source/DubaiSports-logo.png" group-title="Arabia",Dubai Racing 3
+https://live.freeshot.workers.dev/?ID=DubaiRacing3
+#EXTINF:-1 tvg-name="Dubai Racing 2" tvg-logo="https://freeshot.live/upload/source/DubaiSports-logo.png" group-title="Arabia",Dubai Racing 2
+https://live.freeshot.workers.dev/?ID=DubaiRacing2
+#EXTINF:-1 tvg-name="Dubai Racing" tvg-logo="https://freeshot.live/upload/source/DubaiSports-logo.png" group-title="Arabia",Dubai Racing
+https://live.freeshot.workers.dev/?ID=DubaiRacing
+#EXTINF:-1 tvg-name="Dubai Sports 3" tvg-logo="https://freeshot.live/upload/source/DubaiSports-logo.png" group-title="Arabia",Dubai Sports 3
+https://live.freeshot.workers.dev/?ID=DubaiSports3
+#EXTINF:-1 tvg-name="Dubai Sports 2" tvg-logo="https://freeshot.live/upload/source/DubaiSports-logo.png" group-title="Arabia",Dubai Sports 2
+https://live.freeshot.workers.dev/?ID=DubaiSports2
+#EXTINF:-1 tvg-name="Dubai Sports" tvg-logo="https://freeshot.live/upload/source/DubaiSports-logo.png" group-title="Arabia",Dubai Sports
+https://live.freeshot.workers.dev/?ID=DubaiSports1
+#EXTINF:-1 tvg-name="YAS TV" tvg-logo="https://freeshot.live/upload/source/YAS-Sports-logo.png" group-title="Arabia",YAS TV
+https://live.freeshot.workers.dev/?ID=YASTV
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 2" tvg-logo="https://freeshot.live/upload/source/AbuDhabiSports-logo.png" group-title="Arabia",Abu Dhabi Sports 2
+https://live.freeshot.workers.dev/?ID=AbuDhabiSports2
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 1" tvg-logo="https://freeshot.live/upload/source/AbuDhabiSports-logo.png" group-title="Arabia",Abu Dhabi Sports 1
+https://live.freeshot.workers.dev/?ID=AbuDhabiSports1
+#EXTINF:-1 tvg-name="Abu Dhabi TV" tvg-logo="https://freeshot.live/upload/source/AbuDhabiTV-logo.png" group-title="Arabia",Abu Dhabi TV
+https://live.freeshot.workers.dev/?ID=AbuDhabiTV
+#EXTINF:-1 tvg-name="beIN SPORTS NEWS Arabia" tvg-logo="https://freeshot.live/upload/source/bein-sports-news-ar.png" group-title="Arabia",beIN SPORTS NEWS Arabia
+https://live.freeshot.workers.dev/?ID=beINSPORTSNEWSAR
+#EXTINF:-1 tvg-name="beIN SPORTS 7 Arabia" tvg-logo="https://freeshot.live/upload/source/bein-sports-7-logo.png" group-title="Arabia",beIN SPORTS 7 Arabia
+https://live.freeshot.workers.dev/?ID=beINSPORTSAR7
+#EXTINF:-1 tvg-name="beIN SPORTS 6 Arabia" tvg-logo="https://freeshot.live/upload/source/bein-sports-6_logo.png" group-title="Arabia",beIN SPORTS 6 Arabia
+https://live.freeshot.workers.dev/?ID=beINSPORTSAR6
+#EXTINF:-1 tvg-name="beIN SPORTS 5 Arabia" tvg-logo="https://freeshot.live/upload/source/bein-sports-5_logo.png" group-title="Arabia",beIN SPORTS 5 Arabia
+https://live.freeshot.workers.dev/?ID=beINSPORTSAR5
+#EXTINF:-1 tvg-name="beIN SPORTS 4 Arabia" tvg-logo="https://freeshot.live/upload/source/bein-sports-4-logo.png" group-title="Arabia",beIN SPORTS 4 Arabia
+https://live.freeshot.workers.dev/?ID=beINSPORTSAR4
+#EXTINF:-1 tvg-name="beIN SPORTS 3 Arabia" tvg-logo="https://freeshot.live/upload/source/bein-sports_3-logo.png" group-title="Arabia",beIN SPORTS 3 Arabia
+https://live.freeshot.workers.dev/?ID=beINSPORTSAR3
+#EXTINF:-1 tvg-name="beIN SPORTS 2 Arabia" tvg-logo="https://freeshot.live/upload/source/bein-sports-2-logo.png" group-title="Arabia",beIN SPORTS 2 Arabia
+https://live.freeshot.workers.dev/?ID=beINSPORTSAR2
+#EXTINF:-1 tvg-name="beIN SPORTS Arabia" tvg-logo="https://freeshot.live/upload/source/bein_sports1-logo.png" group-title="Arabia",beIN SPORTS Arabia
+https://live.freeshot.workers.dev/?ID=beINSPORTSAR
+#EXTINF:-1 tvg-name="TyC Sports ARG" tvg-logo="https://freeshot.live/upload/source/TYC-SPORTS-ARG-logo.png" group-title="Argentina",TyC Sports ARG
+https://live.freeshot.workers.dev/?ID=TYCSPT
+#EXTINF:-1 tvg-name="DeporTV ARG" tvg-logo="https://freeshot.live/upload/source/DEPORTV-ARG-logo.png" group-title="Argentina",DeporTV ARG
+https://live.freeshot.workers.dev/?ID=DEPORTV
+#EXTINF:-1 tvg-name="TNT SPORTS ARG" tvg-logo="https://freeshot.live/upload/source/TNT-SPORTS-ARG-LOGO.png" group-title="Argentina",TNT SPORTS ARG
+https://live.freeshot.workers.dev/?ID=TNTSARG
+#EXTINF:-1 tvg-name="FOX SPORTS 3 ARG" tvg-logo="https://freeshot.live/upload/source/Fox-Sports-3-ARG-logo.png" group-title="Argentina",FOX SPORTS 3 ARG
+https://live.freeshot.workers.dev/?ID=FOX3ARG
+#EXTINF:-1 tvg-name="FOX SPORTS 2 ARG" tvg-logo="https://freeshot.live/upload/source/Fox-Sports-2-ARG-logo.png" group-title="Argentina",FOX SPORTS 2 ARG
+https://live.freeshot.workers.dev/?ID=FOX2ARG
+#EXTINF:-1 tvg-name="FOX SPORTS ARG" tvg-logo="https://freeshot.live/upload/source/Fox-Sports-1-ARG-logo.png" group-title="Argentina",FOX SPORTS ARG
+https://live.freeshot.workers.dev/?ID=FOX1ARG
+#EXTINF:-1 tvg-name="ESPN EXTRA ARG" tvg-logo="https://freeshot.live/upload/source/ESPNExtra-logo.png" group-title="Argentina",ESPN EXTRA ARG
+https://live.freeshot.workers.dev/?ID=ESPNPLUSARG
+#EXTINF:-1 tvg-name="ESPN 3 ARG" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-3-logo.png" group-title="Argentina",ESPN 3 ARG
+https://live.freeshot.workers.dev/?ID=ESPN3ARG
+#EXTINF:-1 tvg-name="ESPN 2 ARG" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-2-logo.png" group-title="Argentina",ESPN 2 ARG
+https://live.freeshot.workers.dev/?ID=ESPN2ARG
+#EXTINF:-1 tvg-name="ESPN ARG" tvg-logo="https://freeshot.live/upload/source/ESPN-logo.png" group-title="Argentina",ESPN ARG
+https://live.freeshot.workers.dev/?ID=ESPNARG
+#EXTINF:-1 tvg-name="ELEVEN PRO LEAGUE 3 BE" tvg-logo="https://freeshot.live/upload/source/Eleven_Pro_League-logo.png" group-title="Belgium & Netherlands",ELEVEN PRO LEAGUE 3 BE
+https://live.freeshot.workers.dev/?ID=ElevenProLeague3
+#EXTINF:-1 tvg-name="ELEVEN PRO LEAGUE 2 BE" tvg-logo="https://freeshot.live/upload/source/Eleven_Pro_League-logo.png" group-title="Belgium & Netherlands",ELEVEN PRO LEAGUE 2 BE
+https://live.freeshot.workers.dev/?ID=ElevenProLeague2
+#EXTINF:-1 tvg-name="ELEVEN PRO LEAGUE 1 BE" tvg-logo="https://freeshot.live/upload/source/Eleven_Pro_League-logo.png" group-title="Belgium & Netherlands",ELEVEN PRO LEAGUE 1 BE
+https://live.freeshot.workers.dev/?ID=ElevenProLeague1
+#EXTINF:-1 tvg-name="Play Sports 4 BE" tvg-logo="https://freeshot.live/upload/source/play-sports-4-be-logo.png" group-title="Belgium & Netherlands",Play Sports 4 BE
+https://live.freeshot.workers.dev/?ID=PlaySports4BE
+#EXTINF:-1 tvg-name="Play Sports 3 BE" tvg-logo="https://freeshot.live/upload/source/play-sports-3-be-logo.png" group-title="Belgium & Netherlands",Play Sports 3 BE
+https://live.freeshot.workers.dev/?ID=PlaySports3BE
+#EXTINF:-1 tvg-name="Play Sports 2 BE" tvg-logo="https://freeshot.live/upload/source/play-sports-2-be-logo.png" group-title="Belgium & Netherlands",Play Sports 2 BE
+https://live.freeshot.workers.dev/?ID=PlaySports2BE
+#EXTINF:-1 tvg-name="Play Sports 1 BE" tvg-logo="https://freeshot.live/upload/source/play-sports-1-be-logo.png" group-title="Belgium & Netherlands",Play Sports 1 BE
+https://live.freeshot.workers.dev/?ID=PlaySports1BE
+#EXTINF:-1 tvg-name="Ziggo Sport 6 NL" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-6-nl-logo.png" group-title="Belgium & Netherlands",Ziggo Sport 6 NL
+https://live.freeshot.workers.dev/?ID=ZiggoSport6
+#EXTINF:-1 tvg-name="Ziggo Sport 5 NL" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-5-nl-logo.png" group-title="Belgium & Netherlands",Ziggo Sport 5 NL
+https://live.freeshot.workers.dev/?ID=ZiggoSport5
+#EXTINF:-1 tvg-name="Ziggo Sport 4 NL" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-4-nl-logo.png" group-title="Belgium & Netherlands",Ziggo Sport 4 NL
+https://live.freeshot.workers.dev/?ID=ZiggoSport4
+#EXTINF:-1 tvg-name="Ziggo Sport 3 NL" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-3-nl-logo.png" group-title="Belgium & Netherlands",Ziggo Sport 3 NL
+https://live.freeshot.workers.dev/?ID=ZiggoSport3
+#EXTINF:-1 tvg-name="Ziggo Sport 2 NL" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-2-nl-logo.png" group-title="Belgium & Netherlands",Ziggo Sport 2 NL
+https://live.freeshot.workers.dev/?ID=ZiggoSport2
+#EXTINF:-1 tvg-name="Ziggo Sport NL" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-nl-logo.png" group-title="Belgium & Netherlands",Ziggo Sport NL
+https://live.freeshot.workers.dev/?ID=ZiggoSport
+#EXTINF:-1 tvg-name="ESPN 4 Nederland" tvg-logo="https://freeshot.live/upload/source/Espn_4_logo.png" group-title="Belgium & Netherlands",ESPN 4 Nederland
+https://live.freeshot.workers.dev/?ID=ESPN4-NL
+#EXTINF:-1 tvg-name="ESPN 3 Nederland" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-3-logo.png" group-title="Belgium & Netherlands",ESPN 3 Nederland
+https://live.freeshot.workers.dev/?ID=ESPN3-NL
+#EXTINF:-1 tvg-name="ESPN 2 Nederland" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-2-logo.png" group-title="Belgium & Netherlands",ESPN 2 Nederland
+https://live.freeshot.workers.dev/?ID=ESPN2-NL
+#EXTINF:-1 tvg-name="ESPN Nederland" tvg-logo="https://freeshot.live/upload/source/ESPN-logo.png" group-title="Belgium & Netherlands",ESPN Nederland
+https://live.freeshot.workers.dev/?ID=ESPN-NL
+#EXTINF:-1 tvg-name="EUROSPORT 2 NL" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="Belgium & Netherlands",EUROSPORT 2 NL
+https://live.freeshot.workers.dev/?ID=Eurosport2NL
+#EXTINF:-1 tvg-name="EUROSPORT 1 NL" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="Belgium & Netherlands",EUROSPORT 1 NL
+https://live.freeshot.workers.dev/?ID=Eurosport1NL
+#EXTINF:-1 tvg-name="ESPN EXTRA Brasil" tvg-logo="https://freeshot.live/upload/source/ESPNExtra-logo.png" group-title="Brasil",ESPN EXTRA Brasil
+https://live.freeshot.workers.dev/?ID=ESPNBrasilExtra
+#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://freeshot.live/upload/source/CNNBrasil-logo.png" group-title="Brasil",CNN Brasil
+https://live.freeshot.workers.dev/?ID=CNNBrasil
+#EXTINF:-1 tvg-name="ESPN 5 Brasil" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-5-logo.png" group-title="Brasil",ESPN 5 Brasil
+https://live.freeshot.workers.dev/?ID=ESPN5BR
+#EXTINF:-1 tvg-name="Combate Brasil" tvg-logo="https://freeshot.live/upload/source/Combate-logo.png" group-title="Brasil",Combate Brasil
+https://live.freeshot.workers.dev/?ID=Combate
+#EXTINF:-1 tvg-name="PREMIERE Brasil" tvg-logo="https://freeshot.live/upload/source/Premiere_brasil.png" group-title="Brasil",PREMIERE Brasil
+https://live.freeshot.workers.dev/?ID=PremiereBR
+#EXTINF:-1 tvg-name="SporTV 3 Brasil" tvg-logo="https://freeshot.live/upload/source/Sport_tv_3_brasil.png" group-title="Brasil",SporTV 3 Brasil
+https://live.freeshot.workers.dev/?ID=Sportv3BR
+#EXTINF:-1 tvg-name="SporTV 2 Brasil" tvg-logo="https://freeshot.live/upload/source/Sport_tv_2_brasil.png" group-title="Brasil",SporTV 2 Brasil
+https://live.freeshot.workers.dev/?ID=Sportv2BR
+#EXTINF:-1 tvg-name="SporTV Brasil" tvg-logo="https://freeshot.live/upload/source/Sport_tv__brasil_logo.png" group-title="Brasil",SporTV Brasil
+https://live.freeshot.workers.dev/?ID=SportvBR
+#EXTINF:-1 tvg-name="ESPN 4 Brasil" tvg-logo="https://freeshot.live/upload/source/Espn_4_logo.png" group-title="Brasil",ESPN 4 Brasil
+https://live.freeshot.workers.dev/?ID=ESPN4BR
+#EXTINF:-1 tvg-name="ESPN 3 Brasil" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-3-logo.png" group-title="Brasil",ESPN 3 Brasil
+https://live.freeshot.workers.dev/?ID=ESPN3BR
+#EXTINF:-1 tvg-name="ESPN 2 Brasil" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-2-logo.png" group-title="Brasil",ESPN 2 Brasil
+https://live.freeshot.workers.dev/?ID=ESPN2BR
+#EXTINF:-1 tvg-name="ESPN Brasil" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-logo.png" group-title="Brasil",ESPN Brasil
+https://live.freeshot.workers.dev/?ID=ESPNBrasil
+#EXTINF:-1 tvg-name="EUROSPORT 2 BG" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="Bulgaria",EUROSPORT 2 BG
+https://live.freeshot.workers.dev/?ID=EURO2BG
+#EXTINF:-1 tvg-name="EUROSPORT 1 BG" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="Bulgaria",EUROSPORT 1 BG
+https://live.freeshot.workers.dev/?ID=EURO1BG
+#EXTINF:-1 tvg-name="NOVA SPORT BG" tvg-logo="https://freeshot.live/upload/source/NOVA-SPORT-BG-logo.png" group-title="Bulgaria",NOVA SPORT BG
+https://live.freeshot.workers.dev/?ID=NOVASPORTBG
+#EXTINF:-1 tvg-name="MAX SPORT 4 BG" tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-4-BG-logo.png" group-title="Bulgaria",MAX SPORT 4 BG
+https://live.freeshot.workers.dev/?ID=MaxSport4BG
+#EXTINF:-1 tvg-name="MAX SPORT 3 BG" tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-3-BG-logo.png" group-title="Bulgaria",MAX SPORT 3 BG
+https://live.freeshot.workers.dev/?ID=MaxSport3BG
+#EXTINF:-1 tvg-name="MAX SPORT 2 BG" tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-2-BG-logo.png" group-title="Bulgaria",MAX SPORT 2 BG
+https://live.freeshot.workers.dev/?ID=MaxSport2BG
+#EXTINF:-1 tvg-name="MAX SPORT 1 BG" tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-1-BG-logo.png" group-title="Bulgaria",MAX SPORT 1 BG
+https://live.freeshot.workers.dev/?ID=MaxSportBG
+#EXTINF:-1 tvg-name="DIEMA SPORT 3" tvg-logo="https://freeshot.live/upload/source/Diema-Sport-3-logo.png" group-title="Bulgaria",DIEMA SPORT 3
+https://live.freeshot.workers.dev/?ID=DiemaSport3
+#EXTINF:-1 tvg-name="DIEMA SPORT 2" tvg-logo="https://freeshot.live/upload/source/Diema-Sport-2-logo.png" group-title="Bulgaria",DIEMA SPORT 2
+https://live.freeshot.workers.dev/?ID=DiemaSport2
+#EXTINF:-1 tvg-name="DIEMA SPORT" tvg-logo="https://freeshot.live/upload/source/Diema-Sport-logo.png" group-title="Bulgaria",DIEMA SPORT
+https://live.freeshot.workers.dev/?ID=DiemaSport
+#EXTINF:-1 tvg-name="Sportsnet World" tvg-logo="https://freeshot.live/upload/source/SportsnetWorld.png" group-title="Canada",Sportsnet World
+https://live.freeshot.workers.dev/?ID=SportsnetWorld
+#EXTINF:-1 tvg-name="Sportsnet 360" tvg-logo="https://freeshot.live/upload/source/Sportsnet360.png" group-title="Canada",Sportsnet 360
+https://live.freeshot.workers.dev/?ID=Sportsnet360
+#EXTINF:-1 tvg-name="Sportsnet East" tvg-logo="https://freeshot.live/upload/source/SportsnetEast-logo.png" group-title="Canada",Sportsnet East
+https://live.freeshot.workers.dev/?ID=SportsnetEast
+#EXTINF:-1 tvg-name="Sportsnet West" tvg-logo="https://freeshot.live/upload/source/SportsnetWest-logo.png" group-title="Canada",Sportsnet West
+https://live.freeshot.workers.dev/?ID=SportsnetWest
+#EXTINF:-1 tvg-name="Sportsnet ONE" tvg-logo="https://freeshot.live/upload/source/SportsnetONE-logo.png" group-title="Canada",Sportsnet ONE
+https://live.freeshot.workers.dev/?ID=SportsnetONE
+#EXTINF:-1 tvg-name="TVA Sports" tvg-logo="https://freeshot.live/upload/source/TVASPORTS.png" group-title="Canada",TVA Sports
+https://live.freeshot.workers.dev/?ID=TVASports
+#EXTINF:-1 tvg-name="Sportsnet Ontario" tvg-logo="https://freeshot.live/upload/source/Sportsnet-logo.png" group-title="Canada",Sportsnet Ontario
+https://live.freeshot.workers.dev/?ID=SportsnetOntario
+#EXTINF:-1 tvg-name="TSN5" tvg-logo="https://freeshot.live/upload/source/TSN5_Logo.png" group-title="Canada",TSN5
+https://live.freeshot.workers.dev/?ID=TSN5
+#EXTINF:-1 tvg-name="TSN4" tvg-logo="https://freeshot.live/upload/source/TSN4_Logo.png" group-title="Canada",TSN4
+https://live.freeshot.workers.dev/?ID=TSN4
+#EXTINF:-1 tvg-name="TSN3" tvg-logo="https://freeshot.live/upload/source/TSN3_Logo.png" group-title="Canada",TSN3
+https://live.freeshot.workers.dev/?ID=TSN3
+#EXTINF:-1 tvg-name="TSN2" tvg-logo="https://freeshot.live/upload/source/TSN2_Logo.png" group-title="Canada",TSN2
+https://live.freeshot.workers.dev/?ID=TSN2
+#EXTINF:-1 tvg-name="TSN1" tvg-logo="https://freeshot.live/upload/source/TSN1_Logo.png" group-title="Canada",TSN1
+https://live.freeshot.workers.dev/?ID=TSN1
+#EXTINF:-1 tvg-name="NOVA SPORTS START GR" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-Start-logo.png" group-title="Cyprus & Greece",NOVA SPORTS START GR
+https://live.freeshot.workers.dev/?ID=NOVASPORTSST
+#EXTINF:-1 tvg-name="NOVA SPORTS PREMIER LEAGUE GR" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-Premier-League-logo.png" group-title="Cyprus & Greece",NOVA SPORTS PREMIER LEAGUE GR
+https://live.freeshot.workers.dev/?ID=NOVASPORTSPL
+#EXTINF:-1 tvg-name="NOVA SPORTS PRIME GR" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-Prime-logo.png" group-title="Cyprus & Greece",NOVA SPORTS PRIME GR
+https://live.freeshot.workers.dev/?ID=NOVASPORTSPR
+#EXTINF:-1 tvg-name="NOVA SPORTS 6 GR" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-6-logo.png" group-title="Cyprus & Greece",NOVA SPORTS 6 GR
+https://live.freeshot.workers.dev/?ID=NOVASPORTS6GR
+#EXTINF:-1 tvg-name="NOVA SPORTS 5 GR" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-5-logo.png" group-title="Cyprus & Greece",NOVA SPORTS 5 GR
+https://live.freeshot.workers.dev/?ID=NOVASPORTS5GR
+#EXTINF:-1 tvg-name="NOVA SPORTS 4 GR" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-4-logo.png" group-title="Cyprus & Greece",NOVA SPORTS 4 GR
+https://live.freeshot.workers.dev/?ID=NOVASPORTS4GR
+#EXTINF:-1 tvg-name="NOVA SPORTS 3 GR" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-3-logo.png" group-title="Cyprus & Greece",NOVA SPORTS 3 GR
+https://live.freeshot.workers.dev/?ID=NOVASPORTS3GR
+#EXTINF:-1 tvg-name="NOVA SPORTS 2 GR" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-2-logo.png" group-title="Cyprus & Greece",NOVA SPORTS 2 GR
+https://live.freeshot.workers.dev/?ID=NOVASPORTS2GR
+#EXTINF:-1 tvg-name="NOVA SPORTS 1 GR" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-1-logo.png" group-title="Cyprus & Greece",NOVA SPORTS 1 GR
+https://live.freeshot.workers.dev/?ID=NOVASPORTS1GR
+#EXTINF:-1 tvg-name="Cosmote Sport 9 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport9-logo.png" group-title="Cyprus & Greece",Cosmote Sport 9 GR
+https://live.freeshot.workers.dev/?ID=CosmoteSport9
+#EXTINF:-1 tvg-name="Cosmote Sport 8 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport8-logo.png" group-title="Cyprus & Greece",Cosmote Sport 8 GR
+https://live.freeshot.workers.dev/?ID=CosmoteSport8
+#EXTINF:-1 tvg-name="Cosmote Sport 7 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport7-logo.png" group-title="Cyprus & Greece",Cosmote Sport 7 GR
+https://live.freeshot.workers.dev/?ID=CosmoteSport7
+#EXTINF:-1 tvg-name="Cosmote Sport 6 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport6-logo.png" group-title="Cyprus & Greece",Cosmote Sport 6 GR
+https://live.freeshot.workers.dev/?ID=CosmoteSport6
+#EXTINF:-1 tvg-name="Cosmote Sport 5 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport5-logo.png" group-title="Cyprus & Greece",Cosmote Sport 5 GR
+https://live.freeshot.workers.dev/?ID=CosmoteSport5
+#EXTINF:-1 tvg-name="Cosmote Sport 4 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport4-logo.png" group-title="Cyprus & Greece",Cosmote Sport 4 GR
+https://live.freeshot.workers.dev/?ID=CosmoteSport4
+#EXTINF:-1 tvg-name="Cosmote Sport 3 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport3-logo.png" group-title="Cyprus & Greece",Cosmote Sport 3 GR
+https://live.freeshot.workers.dev/?ID=CosmoteSport3
+#EXTINF:-1 tvg-name="Cosmote Sport 2 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport2-logo.png" group-title="Cyprus & Greece",Cosmote Sport 2 GR
+https://live.freeshot.workers.dev/?ID=CosmoteSport2
+#EXTINF:-1 tvg-name="Cosmote Sport 1 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport1-logo.png" group-title="Cyprus & Greece",Cosmote Sport 1 GR
+https://live.freeshot.workers.dev/?ID=CosmoteSport1
+#EXTINF:-1 tvg-name="EUROSPORT 2 GR" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="Cyprus & Greece",EUROSPORT 2 GR
+https://live.freeshot.workers.dev/?ID=EURO2GR
+#EXTINF:-1 tvg-name="EUROSPORT 1 GR" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="Cyprus & Greece",EUROSPORT 1 GR
+https://live.freeshot.workers.dev/?ID=EURO1GR
+#EXTINF:-1 tvg-name="Cablenet Sports 2 GR" tvg-logo="https://freeshot.live/upload/source/Cablenet-Sports-logo.png" group-title="Cyprus & Greece",Cablenet Sports 2 GR
+https://live.freeshot.workers.dev/?ID=CablenetSports2
+#EXTINF:-1 tvg-name="Cablenet Sports 1 GR" tvg-logo="https://freeshot.live/upload/source/Cablenet-Sports-logo.png" group-title="Cyprus & Greece",Cablenet Sports 1 GR
+https://live.freeshot.workers.dev/?ID=CablenetSports1
+#EXTINF:-1 tvg-name="NOVA SPORTS NEWS GR" tvg-logo="https://freeshot.live/upload/source/Nova-Sports-News-logo.png" group-title="Cyprus & Greece",NOVA SPORTS NEWS GR
+https://live.freeshot.workers.dev/?ID=NOVASPORTSNEWS
+#EXTINF:-1 tvg-name="Cosmote Sport Highlights GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport-Highlights-logo.png" group-title="Cyprus & Greece",Cosmote Sport Highlights GR
+https://live.freeshot.workers.dev/?ID=CosmoteSportHG
+#EXTINF:-1 tvg-name="Cytavision Sports 8 GR" tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="Cyprus & Greece",Cytavision Sports 8 GR
+https://live.freeshot.workers.dev/?ID=Cytavision8
+#EXTINF:-1 tvg-name="Cytavision Sports 7 GR" tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="Cyprus & Greece",Cytavision Sports 7 GR
+https://live.freeshot.workers.dev/?ID=Cytavision7
+#EXTINF:-1 tvg-name="Cytavision Sports 6 GR" tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="Cyprus & Greece",Cytavision Sports 6 GR
+https://live.freeshot.workers.dev/?ID=Cytavision6
+#EXTINF:-1 tvg-name="Cytavision Sports 5 GR" tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="Cyprus & Greece",Cytavision Sports 5 GR
+https://live.freeshot.workers.dev/?ID=Cytavision5
+#EXTINF:-1 tvg-name="Cytavision Sports 4 GR" tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="Cyprus & Greece",Cytavision Sports 4 GR
+https://live.freeshot.workers.dev/?ID=Cytavision4
+#EXTINF:-1 tvg-name="Cytavision Sports 3 GR" tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="Cyprus & Greece",Cytavision Sports 3 GR
+https://live.freeshot.workers.dev/?ID=Cytavision3
+#EXTINF:-1 tvg-name="Cytavision Sports 2 GR" tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="Cyprus & Greece",Cytavision Sports 2 GR
+https://live.freeshot.workers.dev/?ID=Cytavision2
+#EXTINF:-1 tvg-name="Cytavision Sports 1 GR" tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="Cyprus & Greece",Cytavision Sports 1 GR
+https://live.freeshot.workers.dev/?ID=Cytavision1
+#EXTINF:-1 tvg-name="Sport 2 Czech" tvg-logo="https://freeshot.live/upload/source/Sport2CzSK-logo.png" group-title="Czech & Slovak",Sport 2 Czech
+https://live.freeshot.workers.dev/?ID=Sport2CZ
+#EXTINF:-1 tvg-name="Sport 1 Czech" tvg-logo="https://freeshot.live/upload/source/Sport1CzSK-logo.png" group-title="Czech & Slovak",Sport 1 Czech
+https://live.freeshot.workers.dev/?ID=Sport1CZ
+#EXTINF:-1 tvg-name="Arena Sport 2 Slovakia" tvg-logo="https://freeshot.live/upload/source/arenasport2-logo.png" group-title="Czech & Slovak",Arena Sport 2 Slovakia
+https://live.freeshot.workers.dev/?ID=arenasport2SK
+#EXTINF:-1 tvg-name="Arena Sport 1 Slovakia" tvg-logo="https://freeshot.live/upload/source/arenasport1-logo.png" group-title="Czech & Slovak",Arena Sport 1 Slovakia
+https://live.freeshot.workers.dev/?ID=arenasport1SK
+#EXTINF:-1 tvg-name="NOVA SPORT 2 Czech" tvg-logo="https://freeshot.live/upload/source/NovaSport2-logo.png" group-title="Czech & Slovak",NOVA SPORT 2 Czech
+https://live.freeshot.workers.dev/?ID=NovaSport2
+#EXTINF:-1 tvg-name="NOVA SPORT 1 Czech" tvg-logo="https://freeshot.live/upload/source/NovaSport1-logo.png" group-title="Czech & Slovak",NOVA SPORT 1 Czech
+https://live.freeshot.workers.dev/?ID=NovaSport1
+#EXTINF:-1 tvg-name="EUROSPORT 2 Czech" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="Czech & Slovak",EUROSPORT 2 Czech
+https://live.freeshot.workers.dev/?ID=Eurosport2CZ
+#EXTINF:-1 tvg-name="EUROSPORT 1 Czech" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="Czech & Slovak",EUROSPORT 1 Czech
+https://live.freeshot.workers.dev/?ID=Eurosport1CZ
+#EXTINF:-1 tvg-name="EUROSPORT 2 RS" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="EX-YU",EUROSPORT 2 RS
+https://live.freeshot.workers.dev/?ID=EUROSPORT2RS
+#EXTINF:-1 tvg-name="EUROSPORT 1 RS" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="EX-YU",EUROSPORT 1 RS
+https://live.freeshot.workers.dev/?ID=EUROSPORT1RS
+#EXTINF:-1 tvg-name="SportKlub 4 RS" tvg-logo="https://freeshot.live/upload/source/SportKlub-4-logo.png" group-title="EX-YU",SportKlub 4 RS
+https://live.freeshot.workers.dev/?ID=SportKlub4RS
+#EXTINF:-1 tvg-name="SportKlub 3 RS" tvg-logo="https://freeshot.live/upload/source/SportKlub-3-logo.png" group-title="EX-YU",SportKlub 3 RS
+https://live.freeshot.workers.dev/?ID=SportKlub3RS
+#EXTINF:-1 tvg-name="SportKlub 2 RS" tvg-logo="https://freeshot.live/upload/source/SportKlub-2-logo.png" group-title="EX-YU",SportKlub 2 RS
+https://live.freeshot.workers.dev/?ID=SportKlub2RS
+#EXTINF:-1 tvg-name="SportKlub 1 RS" tvg-logo="https://freeshot.live/upload/source/SportKlub-1-logo.png" group-title="EX-YU",SportKlub 1 RS
+https://live.freeshot.workers.dev/?ID=SportKlub1RS
+#EXTINF:-1 tvg-name="ARENA SPORT 3 PREMIUM RS" tvg-logo="https://freeshot.live/upload/source/ArenaSport-3-premium-logo.png" group-title="EX-YU",ARENA SPORT 3 PREMIUM RS
+https://live.freeshot.workers.dev/?ID=ArenaSport3Premium
+#EXTINF:-1 tvg-name="ARENA SPORT 2 PREMIUM RS" tvg-logo="https://freeshot.live/upload/source/ArenaSport-2-premium-logo.png" group-title="EX-YU",ARENA SPORT 2 PREMIUM RS
+https://live.freeshot.workers.dev/?ID=ArenaSport2Premium
+#EXTINF:-1 tvg-name="ARENA SPORT 1 PREMIUM RS" tvg-logo="https://freeshot.live/upload/source/ArenaSport-1-premium-logo.png" group-title="EX-YU",ARENA SPORT 1 PREMIUM RS
+https://live.freeshot.workers.dev/?ID=ArenaSport1Premium
+#EXTINF:-1 tvg-name="ARENA SPORT 8 HR" tvg-logo="https://freeshot.live/upload/source/ArenaSport-8-logo.png" group-title="EX-YU",ARENA SPORT 8 HR
+https://live.freeshot.workers.dev/?ID=ArenaSport8HR
+#EXTINF:-1 tvg-name="ARENA SPORT 7 HR" tvg-logo="https://freeshot.live/upload/source/ArenaSport-7-logo.png" group-title="EX-YU",ARENA SPORT 7 HR
+https://live.freeshot.workers.dev/?ID=ArenaSport7HR
+#EXTINF:-1 tvg-name="ARENA SPORT 6 HR" tvg-logo="https://freeshot.live/upload/source/ArenaSport-6-logo.png" group-title="EX-YU",ARENA SPORT 6 HR
+https://live.freeshot.workers.dev/?ID=ArenaSport6HR
+#EXTINF:-1 tvg-name="ARENA SPORT 5 HR" tvg-logo="https://freeshot.live/upload/source/ArenaSport-5-logo.png" group-title="EX-YU",ARENA SPORT 5 HR
+https://live.freeshot.workers.dev/?ID=ArenaSport5HR
+#EXTINF:-1 tvg-name="ARENA SPORT 4 HR" tvg-logo="https://freeshot.live/upload/source/ArenaSport-logo-4.png" group-title="EX-YU",ARENA SPORT 4 HR
+https://live.freeshot.workers.dev/?ID=ArenaSport4HR
+#EXTINF:-1 tvg-name="ARENA SPORT 3 HR" tvg-logo="https://freeshot.live/upload/source/ArenaSport-logo-3.png" group-title="EX-YU",ARENA SPORT 3 HR
+https://live.freeshot.workers.dev/?ID=ArenaSport3HR
+#EXTINF:-1 tvg-name="ARENA SPORT 2 HR" tvg-logo="https://freeshot.live/upload/source/Arena-Sport-2-logo.png" group-title="EX-YU",ARENA SPORT 2 HR
+https://live.freeshot.workers.dev/?ID=ArenaSport2HR
+#EXTINF:-1 tvg-name="ARENA SPORT 1 HR" tvg-logo="https://freeshot.live/upload/source/Arena-Sport-1-logo.png" group-title="EX-YU",ARENA SPORT 1 HR
+https://live.freeshot.workers.dev/?ID=ArenaSport1HR
+#EXTINF:-1 tvg-name="MAX SPORT 2 HR" tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-2-HR-logo.png" group-title="EX-YU",MAX SPORT 2 HR
+https://live.freeshot.workers.dev/?ID=MaxSport2HR
+#EXTINF:-1 tvg-name="MAX SPORT 1 HR" tvg-logo="https://freeshot.live/upload/source/MAX-SPORT-1-HR-logo.png" group-title="EX-YU",MAX SPORT 1 HR
+https://live.freeshot.workers.dev/?ID=MaxSport1HR
+#EXTINF:-1 tvg-name="CANAL+ FR" tvg-logo="https://freeshot.live/upload/source/Canal+France_logo.png" group-title="France",CANAL+ FR
+https://live.freeshot.workers.dev/?ID=CanalPlusFR
+#EXTINF:-1 tvg-name="BFM Toulon Var" tvg-logo="https://freeshot.live/upload/source/BFMToulonVar-logo.png" group-title="France",BFM Toulon Var
+https://live.freeshot.workers.dev/?ID=BFMToulonVar
+#EXTINF:-1 tvg-name="BFM Tech &amp; Co" tvg-logo="https://freeshot.live/upload/source/BFMTechandco-logo.png" group-title="France",BFM Tech &amp; Co
+https://live.freeshot.workers.dev/?ID=BFMTechandco
+#EXTINF:-1 tvg-name="BFM Normandie" tvg-logo="https://freeshot.live/upload/source/BFMNormandie-logo.png" group-title="France",BFM Normandie
+https://live.freeshot.workers.dev/?ID=BFMNormandie
+#EXTINF:-1 tvg-name="BFM Nice Côte d&#039;Azur" tvg-logo="https://freeshot.live/upload/source/BFMNCdAzur-logo.png" group-title="France",BFM Nice Côte d&#039;Azur
+https://live.freeshot.workers.dev/?ID=BFMNCdAzur
+#EXTINF:-1 tvg-name="France 5" tvg-logo="https://freeshot.live/upload/source/France5-logo.png" group-title="France",France 5
+https://live.freeshot.workers.dev/?ID=France5
+#EXTINF:-1 tvg-name="BFM Grand Marseille" tvg-logo="https://freeshot.live/upload/source/BFMGRANDMarseille-logo.png" group-title="France",BFM Grand Marseille
+https://live.freeshot.workers.dev/?ID=BFMGRANDMarseille
+#EXTINF:-1 tvg-name="BFM Grand Lyon" tvg-logo="https://freeshot.live/upload/source/BFMLyon-logo.png" group-title="France",BFM Grand Lyon
+https://live.freeshot.workers.dev/?ID=BFMGRANDLyon
+#EXTINF:-1 tvg-name="BFM Grand Littoral" tvg-logo="https://freeshot.live/upload/source/BFMGrandLittoral-logo.png" group-title="France",BFM Grand Littoral
+https://live.freeshot.workers.dev/?ID=BFMGrandLittoral
+#EXTINF:-1 tvg-name="BFM Grand Lille" tvg-logo="https://freeshot.live/upload/source/BFMGrandLille-logo.png" group-title="France",BFM Grand Lille
+https://live.freeshot.workers.dev/?ID=BFMGrandLille
+#EXTINF:-1 tvg-name="BFM DICI Alpes du Sud" tvg-logo="https://freeshot.live/upload/source/BFM-DICI_Alpes_du_Sud-logo.png" group-title="France",BFM DICI Alpes du Sud
+https://live.freeshot.workers.dev/?ID=BFMDICIAlpesduSud
+#EXTINF:-1 tvg-name="France 4" tvg-logo="https://freeshot.live/upload/source/France4-logo.png" group-title="France",France 4
+https://live.freeshot.workers.dev/?ID=France4
+#EXTINF:-1 tvg-name="L&#039;Equipe Live 2" tvg-logo="https://freeshot.live/upload/source/le-equipe-logo.png" group-title="France",L&#039;Equipe Live 2
+https://live.freeshot.workers.dev/?ID=LEquipeLive2
+#EXTINF:-1 tvg-name="L&#039;Equipe Live 1" tvg-logo="https://freeshot.live/upload/source/le-equipe-logo.png" group-title="France",L&#039;Equipe Live 1
+https://live.freeshot.workers.dev/?ID=LEquipeLive1
+#EXTINF:-1 tvg-name="Secret Story France" tvg-logo="https://freeshot.live/upload/source/SecretStory-logo.png" group-title="France",Secret Story France
+https://live.freeshot.workers.dev/?ID=SecretStoryFR
+#EXTINF:-1 tvg-name="TV5MONDE Info" tvg-logo="https://freeshot.live/upload/source/tv5-monde-logo.png" group-title="France",TV5MONDE Info
+https://live.freeshot.workers.dev/?ID=TV5Monde
+#EXTINF:-1 tvg-name="DAZN Mondial des Clubs" tvg-logo="https://freeshot.live/upload/source/FIFA_Club_World_Cup_2025.png" group-title="France",DAZN Mondial des Clubs
+https://live.freeshot.workers.dev/?ID=MondialdesClubs
+#EXTINF:-1 tvg-name="CANAL+ SPORT 5 Afrique" tvg-logo="https://freeshot.live/upload/source/Canal+Sport-5-Afrique-logo.png" group-title="France",CANAL+ SPORT 5 Afrique
+https://live.freeshot.workers.dev/?ID=Canal+Sport5AF
+#EXTINF:-1 tvg-name="CANAL+ SPORT 4 Afrique" tvg-logo="https://freeshot.live/upload/source/Canal+Sport-4-Afrique-logo.png" group-title="France",CANAL+ SPORT 4 Afrique
+https://live.freeshot.workers.dev/?ID=Canal+Sport4AF
+#EXTINF:-1 tvg-name="CANAL+ SPORT 3 Afrique" tvg-logo="https://freeshot.live/upload/source/Canal+Sport-3-Afrique-logo.png" group-title="France",CANAL+ SPORT 3 Afrique
+https://live.freeshot.workers.dev/?ID=Canal+Sport3AF
+#EXTINF:-1 tvg-name="CANAL+ SPORT 2 Afrique" tvg-logo="https://freeshot.live/upload/source/Canal+Sport-2-Afrique-logo.png" group-title="France",CANAL+ SPORT 2 Afrique
+https://live.freeshot.workers.dev/?ID=Canal+Sport2AF
+#EXTINF:-1 tvg-name="CANAL+ SPORT 1 Afrique" tvg-logo="https://freeshot.live/upload/source/Canal+Sport-Afrique-logo.png" group-title="France",CANAL+ SPORT 1 Afrique
+https://live.freeshot.workers.dev/?ID=Canal+SportAF
+#EXTINF:-1 tvg-name="DAZN 1 FR" tvg-logo="https://freeshot.live/upload/source/DAZN-1-logo.png" group-title="France",DAZN 1 FR
+https://live.freeshot.workers.dev/?ID=DAZN1FR
+#EXTINF:-1 tvg-name="BFM Alsace" tvg-logo="https://freeshot.live/upload/source/BFMAlsace-logo.png" group-title="France",BFM Alsace
+https://live.freeshot.workers.dev/?ID=BFMAlsace
+#EXTINF:-1 tvg-name="BFM Paris" tvg-logo="https://freeshot.live/upload/source/BFMParis-logo.png" group-title="France",BFM Paris
+https://live.freeshot.workers.dev/?ID=BFMParis
+#EXTINF:-1 tvg-name="France 3" tvg-logo="https://freeshot.live/upload/source/France3-logo.png" group-title="France",France 3
+https://live.freeshot.workers.dev/?ID=France3
+#EXTINF:-1 tvg-name="CNews" tvg-logo="https://freeshot.live/upload/source/CNews-logo.png" group-title="France",CNews
+https://live.freeshot.workers.dev/?ID=CNewsFR
+#EXTINF:-1 tvg-name="France 2" tvg-logo="https://freeshot.live/upload/source/France2-logo.png" group-title="France",France 2
+https://live.freeshot.workers.dev/?ID=France2
+#EXTINF:-1 tvg-name="TF1" tvg-logo="https://freeshot.live/upload/source/TF1-logo.png" group-title="France",TF1
+https://live.freeshot.workers.dev/?ID=TF1FR
+#EXTINF:-1 tvg-name="BFM Business" tvg-logo="https://freeshot.live/upload/source/BFM-Business-logo.png" group-title="France",BFM Business
+https://live.freeshot.workers.dev/?ID=BFMBusiness
+#EXTINF:-1 tvg-name="RMC TALK INFO" tvg-logo="https://freeshot.live/upload/source/RMCTALKINFO-logo.png" group-title="France",RMC TALK INFO
+https://live.freeshot.workers.dev/?ID=RMCTALKINFO
+#EXTINF:-1 tvg-name="RMC Découverte" tvg-logo="https://freeshot.live/upload/source/RMCDecouverte-logo.png" group-title="France",RMC Découverte
+https://live.freeshot.workers.dev/?ID=RMCDecouverte
+#EXTINF:-1 tvg-name="RMC STORY" tvg-logo="https://freeshot.live/upload/source/rmc-story-logo.png" group-title="France",RMC STORY
+https://live.freeshot.workers.dev/?ID=RMCSTORYFR
+#EXTINF:-1 tvg-name="BFMTV" tvg-logo="https://freeshot.live/upload/source/bfm-tv-fr-logo.png" group-title="France",BFMTV
+https://live.freeshot.workers.dev/?ID=BFMTV
+#EXTINF:-1 tvg-name="M6" tvg-logo="https://freeshot.live/upload/source/M6-logo.png" group-title="France",M6
+https://live.freeshot.workers.dev/?ID=M6FR
+#EXTINF:-1 tvg-name="EUROSPORT 2 FR" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="France",EUROSPORT 2 FR
+https://live.freeshot.workers.dev/?ID=Eurosport2FR
+#EXTINF:-1 tvg-name="EUROSPORT 1 FR" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="France",EUROSPORT 1 FR
+https://live.freeshot.workers.dev/?ID=Eurosport1FR
+#EXTINF:-1 tvg-name="CANAL+ DOCS FR" tvg-logo="https://freeshot.live/upload/source/Canal+Docs-logo.png" group-title="France",CANAL+ DOCS FR
+https://live.freeshot.workers.dev/?ID=CanalPlusDOCSFR
+#EXTINF:-1 tvg-name="L&#039;ÉQUIPE FR" tvg-logo="https://freeshot.live/upload/source/le-equipe-logo.png" group-title="France",L&#039;ÉQUIPE FR
+https://live.freeshot.workers.dev/?ID=LEquipeFR
+#EXTINF:-1 tvg-name="RMC Sport 2 FR" tvg-logo="https://freeshot.live/upload/source/RMC_Sport_2-logo.png" group-title="France",RMC Sport 2 FR
+https://live.freeshot.workers.dev/?ID=RMCSport2
+#EXTINF:-1 tvg-name="RMC Sport 1 FR" tvg-logo="https://freeshot.live/upload/source/RMC_Sport_1-logo.png" group-title="France",RMC Sport 1 FR
+https://live.freeshot.workers.dev/?ID=RMCSport1
+#EXTINF:-1 tvg-name="INFOSPORT+ FR" tvg-logo="https://freeshot.live/upload/source/infosport_plus-logo.png" group-title="France",INFOSPORT+ FR
+https://live.freeshot.workers.dev/?ID=Infosport+FR
+#EXTINF:-1 tvg-name="CANAL+ FOOT FR" tvg-logo="https://freeshot.live/upload/source/Canal+Foot-logo.png" group-title="France",CANAL+ FOOT FR
+https://live.freeshot.workers.dev/?ID=FootPlusFR
+#EXTINF:-1 tvg-name="CANAL+ MOTO GP FR" tvg-logo="https://freeshot.live/upload/source/Canal+motogp_logo.png" group-title="France",CANAL+ MOTO GP FR
+https://live.freeshot.workers.dev/?ID=Canal+MotoGPFR
+#EXTINF:-1 tvg-name="CANAL+ FORMULE 1 FR" tvg-logo="https://freeshot.live/upload/source/Canal+F1_logo.png" group-title="France",CANAL+ FORMULE 1 FR
+https://live.freeshot.workers.dev/?ID=Canal+F1
+#EXTINF:-1 tvg-name="CANAL+ SPORT 360 FR" tvg-logo="https://freeshot.live/upload/source/canal-plus-sport-360-logo.png" group-title="France",CANAL+ SPORT 360 FR
+https://live.freeshot.workers.dev/?ID=Canal+Sport360
+#EXTINF:-1 tvg-name="CANAL+ SPORT FR" tvg-logo="https://freeshot.live/upload/source/Canal+Sport-poland_logo.png" group-title="France",CANAL+ SPORT FR
+https://live.freeshot.workers.dev/?ID=Canal+SportFR
+#EXTINF:-1 tvg-name="Sport en France" tvg-logo="https://freeshot.live/upload/source/SportenFrance-logo.png" group-title="France",Sport en France
+https://live.freeshot.workers.dev/?ID=SportenFrance
+#EXTINF:-1 tvg-name="beIN SPORTS Max 9" tvg-logo="https://freeshot.live/upload/source/BeIn_Sports_Max_9-logo.png" group-title="France",beIN SPORTS Max 9
+https://live.freeshot.workers.dev/?ID=beINSPORTSMax9FR
+#EXTINF:-1 tvg-name="beIN SPORTS Max 8" tvg-logo="https://freeshot.live/upload/source/BeIn-Sports-Max-8-logo.png" group-title="France",beIN SPORTS Max 8
+https://live.freeshot.workers.dev/?ID=beINSPORTSMax8FR
+#EXTINF:-1 tvg-name="beIN SPORTS Max 7" tvg-logo="https://freeshot.live/upload/source/BeIn_Sports_Max_7-logo.png" group-title="France",beIN SPORTS Max 7
+https://live.freeshot.workers.dev/?ID=beINSPORTSMax7FR
+#EXTINF:-1 tvg-name="beIN SPORTS Max 6" tvg-logo="https://freeshot.live/upload/source/BeIn_Sports_Max-6-logo.png" group-title="France",beIN SPORTS Max 6
+https://live.freeshot.workers.dev/?ID=beINSPORTSMax6FR
+#EXTINF:-1 tvg-name="beIN SPORTS Max 5" tvg-logo="https://freeshot.live/upload/source/bein_sports-5-logo.png" group-title="France",beIN SPORTS Max 5
+https://live.freeshot.workers.dev/?ID=beINSPORTSMax5FR
+#EXTINF:-1 tvg-name="beIN SPORTS Max 4" tvg-logo="https://freeshot.live/upload/source/bein_sports4-max-logo.png" group-title="France",beIN SPORTS Max 4
+https://live.freeshot.workers.dev/?ID=beINSPORTSMax4FR
+#EXTINF:-1 tvg-name="beIN SPORTS 3 FR" tvg-logo="https://freeshot.live/upload/source/bein-sports_3-logo.png" group-title="France",beIN SPORTS 3 FR
+https://live.freeshot.workers.dev/?ID=beINSPORTS3FR
+#EXTINF:-1 tvg-name="beIN SPORTS 2 FR" tvg-logo="https://freeshot.live/upload/source/bein-sports-2-logo.png" group-title="France",beIN SPORTS 2 FR
+https://live.freeshot.workers.dev/?ID=beINSPORTS2FR
+#EXTINF:-1 tvg-name="beIN SPORTS 1 FR" tvg-logo="https://freeshot.live/upload/source/bein_sports1-logo.png" group-title="France",beIN SPORTS 1 FR
+https://live.freeshot.workers.dev/?ID=beINSPORTS1FR
+#EXTINF:-1 tvg-name="arte FR" tvg-logo="https://freeshot.live/upload/source/arte-logo.png" group-title="France",arte FR
+https://live.freeshot.workers.dev/?ID=artefr
+#EXTINF:-1 tvg-name="ER1 FR" tvg-logo="https://freeshot.live/upload/source/ER1-logo.png" group-title="France",ER1 FR
+https://live.freeshot.workers.dev/?ID=ER1FR
+#EXTINF:-1 tvg-name="Sport1 DE" tvg-logo="https://freeshot.live/upload/source/Sport1-logo.png" group-title="Germany",Sport1 DE
+https://live.freeshot.workers.dev/?ID=Sport1DE
+#EXTINF:-1 tvg-name="Sky Sport Mix DE" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Mix-Logo.png" group-title="Germany",Sky Sport Mix DE
+https://live.freeshot.workers.dev/?ID=SkySportMixDE
+#EXTINF:-1 tvg-name="ServusTV DE" tvg-logo="https://freeshot.live/upload/source/ServusTV-logo.png" group-title="Germany",ServusTV DE
+https://live.freeshot.workers.dev/?ID=ServusTV
+#EXTINF:-1 tvg-name="Sportdigital DE" tvg-logo="https://freeshot.live/upload/source/Sportdigital-logo.png" group-title="Germany",Sportdigital DE
+https://live.freeshot.workers.dev/?ID=Sportdigital
+#EXTINF:-1 tvg-name="EUROSPORT 2 DE" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="Germany",EUROSPORT 2 DE
+https://live.freeshot.workers.dev/?ID=EurosportDE2
+#EXTINF:-1 tvg-name="EUROSPORT 1 DE" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="Germany",EUROSPORT 1 DE
+https://live.freeshot.workers.dev/?ID=EurosportDE1
+#EXTINF:-1 tvg-name="Sky Sport Austria 1" tvg-logo="https://freeshot.live/upload/source/SkySportAustria-logo.png" group-title="Germany",Sky Sport Austria 1
+https://live.freeshot.workers.dev/?ID=SkySportAustria
+#EXTINF:-1 tvg-name="Sky Sport Golf DE" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Golf-Logo.png" group-title="Germany",Sky Sport Golf DE
+https://live.freeshot.workers.dev/?ID=SkySportGolfDE
+#EXTINF:-1 tvg-name="Sky Sport F1 DE" tvg-logo="https://freeshot.live/upload/source/sky-sport-F1-logo.png" group-title="Germany",Sky Sport F1 DE
+https://live.freeshot.workers.dev/?ID=SkySportF1DE
+#EXTINF:-1 tvg-name="Sky Atlantic Deutschland" tvg-logo="https://freeshot.live/upload/source/Sky-Atlantic_logo.png" group-title="Germany",Sky Atlantic Deutschland
+https://live.freeshot.workers.dev/?ID=SkyAtlanticDE
+#EXTINF:-1 tvg-name="Sky Sport Premier League DE" tvg-logo="https://freeshot.live/upload/source/SkySportPremierLeague-logo.png" group-title="Germany",Sky Sport Premier League DE
+https://live.freeshot.workers.dev/?ID=SkySportPremierLeagueDE
+#EXTINF:-1 tvg-name="Sky Sports News DE" tvg-logo="https://freeshot.live/upload/source/sky_sport-news-logo.png" group-title="Germany",Sky Sports News DE
+https://live.freeshot.workers.dev/?ID=SkySportNewsDE
+#EXTINF:-1 tvg-name="Sky Sports Tennis DE" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png" group-title="Germany",Sky Sports Tennis DE
+https://live.freeshot.workers.dev/?ID=SkySportTennisDE
+#EXTINF:-1 tvg-name="Sky Sport top event DE" tvg-logo="https://freeshot.live/upload/source/sky-sport-top-event.png" group-title="Germany",Sky Sport top event DE
+https://live.freeshot.workers.dev/?ID=SkySporttopeventDE
+#EXTINF:-1 tvg-name="DAZN 2 DE" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="Germany",DAZN 2 DE
+https://live.freeshot.workers.dev/?ID=DAZN2DE
+#EXTINF:-1 tvg-name="DAZN 1 DE" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="Germany",DAZN 1 DE
+https://live.freeshot.workers.dev/?ID=DAZN1DE
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga DE" tvg-logo="https://freeshot.live/upload/source/sky-sports-bundesliga-logo.png" group-title="Germany",Sky Sport Bundesliga DE
+https://live.freeshot.workers.dev/?ID=SkySportBundesliga
+#EXTINF:-1 tvg-name="Reshet 13" tvg-logo="https://freeshot.live/upload/source/Reshet-13-logo.png" group-title="Israel",Reshet 13
+https://live.freeshot.workers.dev/?ID=Reshet13
+#EXTINF:-1 tvg-name="PMC Israel" tvg-logo="https://freeshot.live/upload/source/PMC-logo.png" group-title="Israel",PMC Israel
+https://live.freeshot.workers.dev/?ID=PMCIsrael
+#EXTINF:-1 tvg-name="Makan 33 Israel" tvg-logo="https://freeshot.live/upload/source/makan-33-il-logo.png" group-title="Israel",Makan 33 Israel
+https://live.freeshot.workers.dev/?ID=makan-33-il
+#EXTINF:-1 tvg-name="KAN 11 Israel" tvg-logo="https://freeshot.live/upload/source/KAN11-Israel-logo.png" group-title="Israel",KAN 11 Israel
+https://live.freeshot.workers.dev/?ID=KAN11Israel
+#EXTINF:-1 tvg-name="ONE 2 Israel" tvg-logo="https://freeshot.live/upload/source/one-il-2-logo.png" group-title="Israel",ONE 2 Israel
+https://live.freeshot.workers.dev/?ID=ONEIL2
+#EXTINF:-1 tvg-name="ONE Israel" tvg-logo="https://freeshot.live/upload/source/one-il-logo.png" group-title="Israel",ONE Israel
+https://live.freeshot.workers.dev/?ID=ONEIL
+#EXTINF:-1 tvg-name="SPORT 5 GOLD Israel" tvg-logo="https://freeshot.live/upload/source/Sport_5_Star_Israel.png" group-title="Israel",SPORT 5 GOLD Israel
+https://live.freeshot.workers.dev/?ID=Sport5GoldIsrael
+#EXTINF:-1 tvg-name="SPORT 5 STARS Israel" tvg-logo="https://freeshot.live/upload/source/Sport_5_Star_Israel.png" group-title="Israel",SPORT 5 STARS Israel
+https://live.freeshot.workers.dev/?ID=Sport5StarIsrael
+#EXTINF:-1 tvg-name="SPORT 5 LIVE Israel" tvg-logo="https://freeshot.live/upload/source/sport_5_israel_logo.png" group-title="Israel",SPORT 5 LIVE Israel
+https://live.freeshot.workers.dev/?ID=Sport5LiveIsrael
+#EXTINF:-1 tvg-name="SPORT 5 PLUS Israel" tvg-logo="https://freeshot.live/upload/source/sport_5_israel_logo.png" group-title="Israel",SPORT 5 PLUS Israel
+https://live.freeshot.workers.dev/?ID=Sport5PLUSIsrael
+#EXTINF:-1 tvg-name="Yes Sport 5 Israel" tvg-logo="https://freeshot.live/upload/source/sport_5_israel_logo.png" group-title="Israel",Yes Sport 5 Israel
+https://live.freeshot.workers.dev/?ID=Sport5Israel
+#EXTINF:-1 tvg-name="Yes Sport 4 Israel" tvg-logo="https://freeshot.live/upload/source/sport_4_israel_logo.png" group-title="Israel",Yes Sport 4 Israel
+https://live.freeshot.workers.dev/?ID=Sport4Israel
+#EXTINF:-1 tvg-name="Yes Sport 3 Israel" tvg-logo="https://freeshot.live/upload/source/sport_3_israel_logo.png" group-title="Israel",Yes Sport 3 Israel
+https://live.freeshot.workers.dev/?ID=Sport3Israel
+#EXTINF:-1 tvg-name="Yes Sport 2 Israel" tvg-logo="https://freeshot.live/upload/source/sport_2_israel_logo.png" group-title="Israel",Yes Sport 2 Israel
+https://live.freeshot.workers.dev/?ID=Sport2Israel
+#EXTINF:-1 tvg-name="Yes Sport 1 Israel" tvg-logo="https://freeshot.live/upload/source/sport_1_israel_logo.png" group-title="Israel",Yes Sport 1 Israel
+https://live.freeshot.workers.dev/?ID=Sport1Israel
+#EXTINF:-1 tvg-name="ITALIA 2 TV" tvg-logo="https://freeshot.live/upload/source/ITALIA-2-TV-logo.png" group-title="Italia",ITALIA 2 TV
+https://live.freeshot.workers.dev/?ID=ITALIA2TV
+#EXTINF:-1 tvg-name="Bike Channel" tvg-logo="https://freeshot.live/upload/source/BikeChannel-logo.png" group-title="Italia",Bike Channel
+https://live.freeshot.workers.dev/?ID=BikeIT
+#EXTINF:-1 tvg-name="Inter TV" tvg-logo="https://freeshot.live/upload/source/InterTV-logo.png" group-title="Italia",Inter TV
+https://live.freeshot.workers.dev/?ID=InterTV
+#EXTINF:-1 tvg-name="EUROSPORT 2 IT" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="Italia",EUROSPORT 2 IT
+https://live.freeshot.workers.dev/?ID=Eurosport2IT
+#EXTINF:-1 tvg-name="EUROSPORT 1 IT" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="Italia",EUROSPORT 1 IT
+https://live.freeshot.workers.dev/?ID=Eurosport1IT
+#EXTINF:-1 tvg-name="Milan TV" tvg-logo="https://freeshot.live/upload/source/Milan-TV-logo.png" group-title="Italia",Milan TV
+https://live.freeshot.workers.dev/?ID=MilanTV
+#EXTINF:-1 tvg-name="Sky Sport Max IT" tvg-logo="https://freeshot.live/upload/source/Sky-Sport-Max-logo.png" group-title="Italia",Sky Sport Max IT
+https://live.freeshot.workers.dev/?ID=SkySportMaxIT
+#EXTINF:-1 tvg-name="Sky Sport Mix IT" tvg-logo="https://freeshot.live/upload/source/Sky-Sport-Mix-logo.png" group-title="Italia",Sky Sport Mix IT
+https://live.freeshot.workers.dev/?ID=SkySportMixIT
+#EXTINF:-1 tvg-name="LA7d" tvg-logo="https://freeshot.live/upload/source/LA7d-logo.png" group-title="Italia",LA7d
+https://live.freeshot.workers.dev/?ID=LA7d
+#EXTINF:-1 tvg-name="La7" tvg-logo="https://freeshot.live/upload/source/la7-logo.png" group-title="Italia",La7
+https://live.freeshot.workers.dev/?ID=La7
+#EXTINF:-1 tvg-name="SoloCalcio" tvg-logo="https://freeshot.live/upload/source/Sportitalia-logo.png" group-title="Italia",SoloCalcio
+https://live.freeshot.workers.dev/?ID=SoloCalcio
+#EXTINF:-1 tvg-name="Sportitalia" tvg-logo="https://freeshot.live/upload/source/Sportitalia-logo.png" group-title="Italia",Sportitalia
+https://live.freeshot.workers.dev/?ID=Sportitalia
+#EXTINF:-1 tvg-name="Rai News 24" tvg-logo="https://freeshot.live/upload/source/RaiNews24-logo.png" group-title="Italia",Rai News 24
+https://live.freeshot.workers.dev/?ID=RaiNews24
+#EXTINF:-1 tvg-name="SuperTennis" tvg-logo="https://freeshot.live/upload/source/SuperTennis-logo.png" group-title="Italia",SuperTennis
+https://live.freeshot.workers.dev/?ID=SuperTennisIT
+#EXTINF:-1 tvg-name="Sky Sports Arena IT" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Arena-Logo.png" group-title="Italia",Sky Sports Arena IT
+https://live.freeshot.workers.dev/?ID=SkySportArenaIT
+#EXTINF:-1 tvg-name="Sky Sport 24 IT" tvg-logo="https://freeshot.live/upload/source/SkySport24-logo.png" group-title="Italia",Sky Sport 24 IT
+https://live.freeshot.workers.dev/?ID=SkySport24IT
+#EXTINF:-1 tvg-name="Sky Sport Calcio IT" tvg-logo="https://freeshot.live/upload/source/SkySportCalcio-logo.png" group-title="Italia",Sky Sport Calcio IT
+https://live.freeshot.workers.dev/?ID=SkySportCalcioIT
+#EXTINF:-1 tvg-name="Rai Sport + HD" tvg-logo="https://freeshot.live/upload/source/Rais_Sort1-logo.png" group-title="Italia",Rai Sport + HD
+https://live.freeshot.workers.dev/?ID=RaiSport
+#EXTINF:-1 tvg-name="Zona DAZN IT" tvg-logo="https://freeshot.live/upload/source/ZonaDAZN-logo.png" group-title="Italia",Zona DAZN IT
+https://live.freeshot.workers.dev/?ID=ZonaDAZN
+#EXTINF:-1 tvg-name="Sky Sport Moto GP IT" tvg-logo="https://freeshot.live/upload/source/sky_sport_motogp_logo.png" group-title="Italia",Sky Sport Moto GP IT
+https://live.freeshot.workers.dev/?ID=SkySportMotoGPIT
+#EXTINF:-1 tvg-name="Rai Italia IT" tvg-logo="https://freeshot.live/upload/source/RaiItalia-logo.png" group-title="Italia",Rai Italia IT
+https://live.freeshot.workers.dev/?ID=RaiItalia
+#EXTINF:-1 tvg-name="Sky Sport Golf IT" tvg-logo="https://freeshot.live/upload/source/SkySportGolfIT-logo.png" group-title="Italia",Sky Sport Golf IT
+https://live.freeshot.workers.dev/?ID=SkySportGolfIT
+#EXTINF:-1 tvg-name="Mediaset Extra IT" tvg-logo="https://freeshot.live/upload/source/MediasetExtra-logo.png" group-title="Italia",Mediaset Extra IT
+https://live.freeshot.workers.dev/?ID=MediasetExtra
+#EXTINF:-1 tvg-name="Sky Sport Tennis IT" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png" group-title="Italia",Sky Sport Tennis IT
+https://live.freeshot.workers.dev/?ID=SkySportTennisIT
+#EXTINF:-1 tvg-name="Canale 5" tvg-logo="https://freeshot.live/upload/source/Canale-5-logo.png" group-title="Italia",Canale 5
+https://live.freeshot.workers.dev/?ID=Canale-5
+#EXTINF:-1 tvg-name="Rai 4" tvg-logo="https://freeshot.live/upload/source/Rai-4-logo.png" group-title="Italia",Rai 4
+https://live.freeshot.workers.dev/?ID=Rai4IT
+#EXTINF:-1 tvg-name="Rai 3" tvg-logo="https://freeshot.live/upload/source/Rai-3-logo.png" group-title="Italia",Rai 3
+https://live.freeshot.workers.dev/?ID=Rai3IT
+#EXTINF:-1 tvg-name="Rai 2" tvg-logo="https://freeshot.live/upload/source/Rai-2-logo.png" group-title="Italia",Rai 2
+https://live.freeshot.workers.dev/?ID=Rai2IT
+#EXTINF:-1 tvg-name="Rai 1" tvg-logo="https://freeshot.live/upload/source/Rai-1-logo.png" group-title="Italia",Rai 1
+https://live.freeshot.workers.dev/?ID=Rai1IT
+#EXTINF:-1 tvg-name="Sky Sport F1 IT" tvg-logo="https://freeshot.live/upload/source/sky-sport-F1-logo.png" group-title="Italia",Sky Sport F1 IT
+https://live.freeshot.workers.dev/?ID=SkySportF1Italia
+#EXTINF:-1 tvg-name="Sky Sport Uno IT" tvg-logo="https://freeshot.live/upload/source/sky-sport-uno-logo.png" group-title="Italia",Sky Sport Uno IT
+https://live.freeshot.workers.dev/?ID=SkySportUnoItalia
+#EXTINF:-1 tvg-name="Polsat Sport Premium 2" tvg-logo="https://freeshot.live/upload/source/Polsat_Sport_Premium_2_logo.png" group-title="Poland",Polsat Sport Premium 2
+https://live.freeshot.workers.dev/?ID=PolsatSportPremium2
+#EXTINF:-1 tvg-name="Polsat Sport Premium 1" tvg-logo="https://freeshot.live/upload/source/Polsat_Sport_Premium_1_logo.png" group-title="Poland",Polsat Sport Premium 1
+https://live.freeshot.workers.dev/?ID=PolsatSportPremium1
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 PL" tvg-logo="https://freeshot.live/upload/source/ElevenSports4-logo.png" group-title="Poland",ELEVEN SPORTS 4 PL
+https://live.freeshot.workers.dev/?ID=ElevenSports4PL
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 PL" tvg-logo="https://freeshot.live/upload/source/ElevenSports3-logo.png" group-title="Poland",ELEVEN SPORTS 3 PL
+https://live.freeshot.workers.dev/?ID=ElevenSports3PL
+#EXTINF:-1 tvg-name="Polsat Sport Fight PL" tvg-logo="https://freeshot.live/upload/source/polsat-sport-fight-logo.png" group-title="Poland",Polsat Sport Fight PL
+https://live.freeshot.workers.dev/?ID=PolsatSportFight
+#EXTINF:-1 tvg-name="CANAL+ EXTRA 2 PL" tvg-logo="https://freeshot.live/upload/source/CLPLExtra2-logo.png" group-title="Poland",CANAL+ EXTRA 2 PL
+https://live.freeshot.workers.dev/?ID=CLPLExtra2
+#EXTINF:-1 tvg-name="CANAL+ EXTRA 1 PL" tvg-logo="https://freeshot.live/upload/source/CLPLExtra1-logo.png" group-title="Poland",CANAL+ EXTRA 1 PL
+https://live.freeshot.workers.dev/?ID=CLPLExtra1
+#EXTINF:-1 tvg-name="CANAL+ SPORT 5 PL" tvg-logo="https://freeshot.live/upload/source/Canal+Sport5-poland_logo.png" group-title="Poland",CANAL+ SPORT 5 PL
+https://live.freeshot.workers.dev/?ID=Canal+Sport5PL
+#EXTINF:-1 tvg-name="CANAL+ SPORT 4 PL" tvg-logo="https://freeshot.live/upload/source/Canal+Sport4-poland_logo.png" group-title="Poland",CANAL+ SPORT 4 PL
+https://live.freeshot.workers.dev/?ID=Canal+Sport4PL
+#EXTINF:-1 tvg-name="CANAL+ SPORT 3 PL" tvg-logo="https://freeshot.live/upload/source/Canal+Sport3-poland_logo.png" group-title="Poland",CANAL+ SPORT 3 PL
+https://live.freeshot.workers.dev/?ID=Canal+Sport3PL
+#EXTINF:-1 tvg-name="Motowizja" tvg-logo="https://freeshot.live/upload/source/Motowizja-ikona-logo.png" group-title="Poland",Motowizja
+https://live.freeshot.workers.dev/?ID=Motowizja
+#EXTINF:-1 tvg-name="Polsat Poland" tvg-logo="https://freeshot.live/upload/source/polsat-poland.png" group-title="Poland",Polsat Poland
+https://live.freeshot.workers.dev/?ID=PolsatPoland
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 PL" tvg-logo="https://freeshot.live/upload/source/ElevenSports2-logo.png" group-title="Poland",ELEVEN SPORTS 2 PL
+https://live.freeshot.workers.dev/?ID=ElevenSports2PL
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 PL" tvg-logo="https://freeshot.live/upload/source/ElevenSports1-logo.png" group-title="Poland",ELEVEN SPORTS 1 PL
+https://live.freeshot.workers.dev/?ID=ElevenSportsPL
+#EXTINF:-1 tvg-name="EUROSPORT 2 PL" tvg-logo="https://freeshot.live/upload/source/Eurosport-2-poland-logo.png" group-title="Poland",EUROSPORT 2 PL
+https://live.freeshot.workers.dev/?ID=Eurosport2PL
+#EXTINF:-1 tvg-name="EUROSPORT 1 PL" tvg-logo="https://freeshot.live/upload/source/Eurosport-1-poland-logo.png" group-title="Poland",EUROSPORT 1 PL
+https://live.freeshot.workers.dev/?ID=EurosportPL
+#EXTINF:-1 tvg-name="Polsat Sport 3 PL" tvg-logo="https://freeshot.live/upload/source/Polsat-sport-3-logo.png" group-title="Poland",Polsat Sport 3 PL
+https://live.freeshot.workers.dev/?ID=PolsatSportNews
+#EXTINF:-1 tvg-name="Polsat Sport 2 PL" tvg-logo="https://freeshot.live/upload/source/Polsat-sport-2-logo.png" group-title="Poland",Polsat Sport 2 PL
+https://live.freeshot.workers.dev/?ID=PolsatSportExtra
+#EXTINF:-1 tvg-name="Polsat Sport PL" tvg-logo="https://freeshot.live/upload/source/Polsat-sport_logo.png" group-title="Poland",Polsat Sport PL
+https://live.freeshot.workers.dev/?ID=PolsatSportPL
+#EXTINF:-1 tvg-name="CANAL+ SPORT 2 PL" tvg-logo="https://freeshot.live/upload/source/Canal+Sport2-poland_logo.png" group-title="Poland",CANAL+ SPORT 2 PL
+https://live.freeshot.workers.dev/?ID=Canal+Sport2PL
+#EXTINF:-1 tvg-name="CANAL+ SPORT PL" tvg-logo="https://freeshot.live/upload/source/Canal+Sport-poland_logo.png" group-title="Poland",CANAL+ SPORT PL
+https://live.freeshot.workers.dev/?ID=Canal+SportPL
+#EXTINF:-1 tvg-name="Sport Extra RO" tvg-logo="https://freeshot.live/upload/source/Sport-Extra-RO-logo.png" group-title="Romania",Sport Extra RO
+https://live.freeshot.workers.dev/?ID=SportExtraRO
+#EXTINF:-1 tvg-name="PRIMA Sport 5" tvg-logo="https://freeshot.live/upload/source/PrimaSport5-logo.png" group-title="Romania",PRIMA Sport 5
+https://live.freeshot.workers.dev/?ID=PrimaSport5
+#EXTINF:-1 tvg-name="EUROSPORT 2 RO" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="Romania",EUROSPORT 2 RO
+https://live.freeshot.workers.dev/?ID=Eurosport2RO
+#EXTINF:-1 tvg-name="EUROSPORT 1 RO" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="Romania",EUROSPORT 1 RO
+https://live.freeshot.workers.dev/?ID=Eurosport1RO
+#EXTINF:-1 tvg-name="PRIMA Sport 4" tvg-logo="https://freeshot.live/upload/source/PrimaSport4-logo.png" group-title="Romania",PRIMA Sport 4
+https://live.freeshot.workers.dev/?ID=PrimaSport4
+#EXTINF:-1 tvg-name="PRIMA Sport 3" tvg-logo="https://freeshot.live/upload/source/PrimaSport3-logo.png" group-title="Romania",PRIMA Sport 3
+https://live.freeshot.workers.dev/?ID=PrimaSport3
+#EXTINF:-1 tvg-name="PRIMA Sport 2" tvg-logo="https://freeshot.live/upload/source/PrimaSport2-logo.png" group-title="Romania",PRIMA Sport 2
+https://live.freeshot.workers.dev/?ID=PrimaSport2
+#EXTINF:-1 tvg-name="PRIMA Sport" tvg-logo="https://freeshot.live/upload/source/PrimaSport1-logo.png" group-title="Romania",PRIMA Sport
+https://live.freeshot.workers.dev/?ID=PrimaSport1
+#EXTINF:-1 tvg-name="DIGI SPORT 4" tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_4.png" group-title="Romania",DIGI SPORT 4
+https://live.freeshot.workers.dev/?ID=DigiSport4
+#EXTINF:-1 tvg-name="DIGI SPORT 3" tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_3.png" group-title="Romania",DIGI SPORT 3
+https://live.freeshot.workers.dev/?ID=DigiSport3
+#EXTINF:-1 tvg-name="DIGI SPORT 2" tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_2-logo.png" group-title="Romania",DIGI SPORT 2
+https://live.freeshot.workers.dev/?ID=DigiSport2
+#EXTINF:-1 tvg-name="DIGI SPORT 1" tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_1_logo.png" group-title="Romania",DIGI SPORT 1
+https://live.freeshot.workers.dev/?ID=DigiSport1
+#EXTINF:-1 tvg-name="Extreme Sports" tvg-logo="https://freeshot.live/upload/source/ExtremeSports-logo.png" group-title="Russia",Extreme Sports
+https://live.freeshot.workers.dev/?ID=ExtremeSports
+#EXTINF:-1 tvg-name="FightBox" tvg-logo="https://freeshot.live/upload/source/FightBox-logo.png" group-title="Russia",FightBox
+https://live.freeshot.workers.dev/?ID=FightBox
+#EXTINF:-1 tvg-name="Setanta Sports KZ" tvg-logo="https://freeshot.live/upload/source/SetantaSportsQazaqstan-LOGO.png" group-title="Russia",Setanta Sports KZ
+https://live.freeshot.workers.dev/?ID=SetantaSportsKZ
+#EXTINF:-1 tvg-name="UDAR RU" tvg-logo="https://freeshot.live/upload/source/UDAR-TV-logo.png" group-title="Russia",UDAR RU
+https://live.freeshot.workers.dev/?ID=UDAR
+#EXTINF:-1 tvg-name="EUROSPORT 2 RU" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="Russia",EUROSPORT 2 RU
+https://live.freeshot.workers.dev/?ID=EURO2RU
+#EXTINF:-1 tvg-name="EUROSPORT 1 RU" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="Russia",EUROSPORT 1 RU
+https://live.freeshot.workers.dev/?ID=EURO1RU
+#EXTINF:-1 tvg-name="RT News" tvg-logo="https://freeshot.live/upload/source/RTNews-logo.png" group-title="Russia",RT News
+https://live.freeshot.workers.dev/?ID=RTNews
+#EXTINF:-1 tvg-name="KHL Prime" tvg-logo="https://freeshot.live/upload/source/KHL-Prime-ru-logo.png" group-title="Russia",KHL Prime
+https://live.freeshot.workers.dev/?ID=KHLPrime
+#EXTINF:-1 tvg-name="viju+ sport RU" tvg-logo="https://freeshot.live/upload/source/viju-plus-sport-ru-logo.png" group-title="Russia",viju+ sport RU
+https://live.freeshot.workers.dev/?ID=vijusport
+#EXTINF:-1 tvg-name="Setanta Sports 2" tvg-logo="https://freeshot.live/upload/source/SetantaSport2Russia-logo.png" group-title="Russia",Setanta Sports 2
+https://live.freeshot.workers.dev/?ID=SetantaSport2Russia
+#EXTINF:-1 tvg-name="Setanta Sports 1" tvg-logo="https://freeshot.live/upload/source/SetantaSport1Russia-logo.png" group-title="Russia",Setanta Sports 1
+https://live.freeshot.workers.dev/?ID=SetantaSport1Russia
+#EXTINF:-1 tvg-name="KHL RU" tvg-logo="https://freeshot.live/upload/source/KHL-ru-logo.png" group-title="Russia",KHL RU
+https://live.freeshot.workers.dev/?ID=KHL
+#EXTINF:-1 tvg-name="МАТЧ! БОЕЦ" tvg-logo="https://freeshot.live/upload/source/МАТЧ! БОЕЦ Russia.png" group-title="Russia",МАТЧ! БОЕЦ
+https://live.freeshot.workers.dev/?ID=МАТЧ
+#EXTINF:-1 tvg-name="Match Football 3" tvg-logo="https://freeshot.live/upload/source/MatchFootball3logo.png" group-title="Russia",Match Football 3
+https://live.freeshot.workers.dev/?ID=MatchFootball3
+#EXTINF:-1 tvg-name="Match Football 2" tvg-logo="https://freeshot.live/upload/source/Match_Football_2_Russia_logo.png" group-title="Russia",Match Football 2
+https://live.freeshot.workers.dev/?ID=MatchFootball2
+#EXTINF:-1 tvg-name="Match Football 1" tvg-logo="https://freeshot.live/upload/source/Match_Football_1_Russia.png" group-title="Russia",Match Football 1
+https://live.freeshot.workers.dev/?ID=MatchFootball1
+#EXTINF:-1 tvg-name="Match TV Russia" tvg-logo="https://freeshot.live/upload/source/Match_TV_Russia_logo.png" group-title="Russia",Match TV Russia
+https://live.freeshot.workers.dev/?ID=MatchTV
+#EXTINF:-1 tvg-name="EUROSPORT 2 Denmark" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="Scandinavia",EUROSPORT 2 Denmark
+https://live.freeshot.workers.dev/?ID=Eurosport2DK
+#EXTINF:-1 tvg-name="EUROSPORT 1 Denmark" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="Scandinavia",EUROSPORT 1 Denmark
+https://live.freeshot.workers.dev/?ID=Eurosport1DK
+#EXTINF:-1 tvg-name="SPORT LIVE Denmark" tvg-logo="https://freeshot.live/upload/source/SPORTLIVE-logo.png" group-title="Scandinavia",SPORT LIVE Denmark
+https://live.freeshot.workers.dev/?ID=SPORTLIVE
+#EXTINF:-1 tvg-name="TV3 Sport Denmark" tvg-logo="https://freeshot.live/upload/source/TV3Sport-logo.png" group-title="Scandinavia",TV3 Sport Denmark
+https://live.freeshot.workers.dev/?ID=TV3Sport
+#EXTINF:-1 tvg-name="TV 2 Sport X Denmark" tvg-logo="https://freeshot.live/upload/source/TV2SportX-logo.png" group-title="Scandinavia",TV 2 Sport X Denmark
+https://live.freeshot.workers.dev/?ID=TV2SportX
+#EXTINF:-1 tvg-name="TV 2 Sport Denmark" tvg-logo="https://freeshot.live/upload/source/TV2Sport-logo.png" group-title="Scandinavia",TV 2 Sport Denmark
+https://live.freeshot.workers.dev/?ID=TV2Sport
+#EXTINF:-1 tvg-name="TV 2 Sport Premium 2 Norway" tvg-logo="https://freeshot.live/upload/source/TV2SportPremium-2-logo.png" group-title="Scandinavia",TV 2 Sport Premium 2 Norway
+https://live.freeshot.workers.dev/?ID=TV2SportPremium2
+#EXTINF:-1 tvg-name="TV 2 Sport Premium Norway" tvg-logo="https://freeshot.live/upload/source/TV2SportPremium-logo.png" group-title="Scandinavia",TV 2 Sport Premium Norway
+https://live.freeshot.workers.dev/?ID=TV2SportPremium
+#EXTINF:-1 tvg-name="TV 2 Sport 2 Norway" tvg-logo="https://freeshot.live/upload/source/TV2Sport2-logo.png" group-title="Scandinavia",TV 2 Sport 2 Norway
+https://live.freeshot.workers.dev/?ID=TV2Sport2
+#EXTINF:-1 tvg-name="TV 2 Sport 1 Norway" tvg-logo="https://freeshot.live/upload/source/TV2Sport1-logo.png" group-title="Scandinavia",TV 2 Sport 1 Norway
+https://live.freeshot.workers.dev/?ID=TV2Sport1
+#EXTINF:-1 tvg-name="Canal Motor TV Norway" tvg-logo="https://freeshot.live/upload/source/CanalMotorTV-logo.png" group-title="Scandinavia",Canal Motor TV Norway
+https://live.freeshot.workers.dev/?ID=CanalMotorTV
+#EXTINF:-1 tvg-name="EUROSPORT Norge" tvg-logo="https://freeshot.live/upload/source/eurosport-norge-logo.png" group-title="Scandinavia",EUROSPORT Norge
+https://live.freeshot.workers.dev/?ID=EurosportNorge
+#EXTINF:-1 tvg-name="Viasat Sport Motor Norway" tvg-logo="https://freeshot.live/upload/source/Viasat-Sport-Motor.png" group-title="Scandinavia",Viasat Sport Motor Norway
+https://live.freeshot.workers.dev/?ID=ViasatSportMotorSE
+#EXTINF:-1 tvg-name="Viasat Sport Premium Sweden" tvg-logo="https://freeshot.live/upload/source/Viasat-Sport-Premium.png" group-title="Scandinavia",Viasat Sport Premium Sweden
+https://live.freeshot.workers.dev/?ID=ViasatSportPremiumSE
+#EXTINF:-1 tvg-name="Viasat Sport 1 Sweden" tvg-logo="https://freeshot.live/upload/source/Viasat-Sport-1-Sweden.png" group-title="Scandinavia",Viasat Sport 1 Sweden
+https://live.freeshot.workers.dev/?ID=ViasatSportSE
+#EXTINF:-1 tvg-name="EUROSPORT 2 Sweden" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="Scandinavia",EUROSPORT 2 Sweden
+https://live.freeshot.workers.dev/?ID=Eurosport2SE
+#EXTINF:-1 tvg-name="EUROSPORT 1 Sweden" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="Scandinavia",EUROSPORT 1 Sweden
+https://live.freeshot.workers.dev/?ID=Eurosport1SE
+#EXTINF:-1 tvg-name="Vodafone Sport Iceland" tvg-logo="https://freeshot.live/upload/source/Vodafone-sport-logo.png" group-title="Scandinavia",Vodafone Sport Iceland
+https://live.freeshot.workers.dev/?ID=VodafoneSportIS
+#EXTINF:-1 tvg-name="Stöð 2 Sport 5 Iceland" tvg-logo="https://freeshot.live/upload/source/Sportstod2-5-logo.png" group-title="Scandinavia",Stöð 2 Sport 5 Iceland
+https://live.freeshot.workers.dev/?ID=Sportstod2-5
+#EXTINF:-1 tvg-name="Stöð 2 Sport 4 Iceland" tvg-logo="https://freeshot.live/upload/source/Sportstod2-4-logo.png" group-title="Scandinavia",Stöð 2 Sport 4 Iceland
+https://live.freeshot.workers.dev/?ID=Sportstod2-4
+#EXTINF:-1 tvg-name="Stöð 2 Sport 3 Iceland" tvg-logo="https://freeshot.live/upload/source/Sportstod2-3-logo.png" group-title="Scandinavia",Stöð 2 Sport 3 Iceland
+https://live.freeshot.workers.dev/?ID=Sportstod2-3
+#EXTINF:-1 tvg-name="Stöð 2 Sport 2 Iceland" tvg-logo="https://freeshot.live/upload/source/Sportstod2-2-logo.png" group-title="Scandinavia",Stöð 2 Sport 2 Iceland
+https://live.freeshot.workers.dev/?ID=Sportstod2-2
+#EXTINF:-1 tvg-name="Stöð 2 Sport Iceland" tvg-logo="https://freeshot.live/upload/source/Sportstod2-logo.png" group-title="Scandinavia",Stöð 2 Sport Iceland
+https://live.freeshot.workers.dev/?ID=Sportstod2
+#EXTINF:-1 tvg-name="Síminn Sport 5 Iceland" tvg-logo="https://freeshot.live/upload/source/Siminn-Sport-5-logo.png" group-title="Scandinavia",Síminn Sport 5 Iceland
+https://live.freeshot.workers.dev/?ID=SiminnSport5
+#EXTINF:-1 tvg-name="Síminn Sport 4 Iceland" tvg-logo="https://freeshot.live/upload/source/Siminn-Sport-4-logo.png" group-title="Scandinavia",Síminn Sport 4 Iceland
+https://live.freeshot.workers.dev/?ID=SiminnSport4
+#EXTINF:-1 tvg-name="Síminn Sport 3 Iceland" tvg-logo="https://freeshot.live/upload/source/Siminn-Sport-3-logo.png" group-title="Scandinavia",Síminn Sport 3 Iceland
+https://live.freeshot.workers.dev/?ID=SiminnSport3
+#EXTINF:-1 tvg-name="Síminn Sport 2 Iceland" tvg-logo="https://freeshot.live/upload/source/Siminn-Sport-2-logo.png" group-title="Scandinavia",Síminn Sport 2 Iceland
+https://live.freeshot.workers.dev/?ID=SiminnSport2
+#EXTINF:-1 tvg-name="Síminn Sport 1 Iceland" tvg-logo="https://freeshot.live/upload/source/Siminn-Sport-logo.png" group-title="Scandinavia",Síminn Sport 1 Iceland
+https://live.freeshot.workers.dev/?ID=SiminnSport1
+#EXTINF:-1 tvg-name="EUROSPORT 2 Iceland" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="Scandinavia",EUROSPORT 2 Iceland
+https://live.freeshot.workers.dev/?ID=Eurosport2IS
+#EXTINF:-1 tvg-name="EUROSPORT 1 Iceland" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="Scandinavia",EUROSPORT 1 Iceland
+https://live.freeshot.workers.dev/?ID=Eurosport1IS
+#EXTINF:-1 tvg-name="mtv max Finland" tvg-logo="https://freeshot.live/upload/source/mtv-max-fi-logo.png" group-title="Scandinavia",mtv max Finland
+https://live.freeshot.workers.dev/?ID=mtv-max
+#EXTINF:-1 tvg-name="TV4 Sportkanalen Sweden" tvg-logo="https://freeshot.live/upload/source/TV4-Sportkanalen-logo.png" group-title="Scandinavia",TV4 Sportkanalen Sweden
+https://live.freeshot.workers.dev/?ID=TV4Sportkanalen
+#EXTINF:-1 tvg-name="TV4 Sport Live 4 Sweden" tvg-logo="https://freeshot.live/upload/source/TV4-Sport-Live-4-logo.png" group-title="Scandinavia",TV4 Sport Live 4 Sweden
+https://live.freeshot.workers.dev/?ID=TV4SportLive4
+#EXTINF:-1 tvg-name="TV4 Sport Live 3 Sweden" tvg-logo="https://freeshot.live/upload/source/TV4-Sport-Live-3-logo.png" group-title="Scandinavia",TV4 Sport Live 3 Sweden
+https://live.freeshot.workers.dev/?ID=TV4SportLive3
+#EXTINF:-1 tvg-name="TV4 Sport Live 2 Sweden" tvg-logo="https://freeshot.live/upload/source/TV4-Sport-Live-2-logo.png" group-title="Scandinavia",TV4 Sport Live 2 Sweden
+https://live.freeshot.workers.dev/?ID=TV4SportLive2
+#EXTINF:-1 tvg-name="TV4 Sport Live 1 Sweden" tvg-logo="https://freeshot.live/upload/source/TV4-Sport-Live-1-logo.png" group-title="Scandinavia",TV4 Sport Live 1 Sweden
+https://live.freeshot.workers.dev/?ID=TV4SportLive1
+#EXTINF:-1 tvg-name="TV4 Tennis Sweden" tvg-logo="https://freeshot.live/upload/source/TV4-Tennis-logo.png" group-title="Scandinavia",TV4 Tennis Sweden
+https://live.freeshot.workers.dev/?ID=TV4Tennis
+#EXTINF:-1 tvg-name="TV4 Hockey Sweden" tvg-logo="https://freeshot.live/upload/source/TV4-Hockey-logo.png" group-title="Scandinavia",TV4 Hockey Sweden
+https://live.freeshot.workers.dev/?ID=TV4Hockey
+#EXTINF:-1 tvg-name="TV4 Fotball Sweden" tvg-logo="https://freeshot.live/upload/source/TV4-Fotball-logo.png" group-title="Scandinavia",TV4 Fotball Sweden
+https://live.freeshot.workers.dev/?ID=TV4Fotball
+#EXTINF:-1 tvg-name="Movistar #Vamos" tvg-logo="https://freeshot.live/upload/source/vamoslogo.png" group-title="Spain",Movistar #Vamos
+https://live.freeshot.workers.dev/?ID=MovistarVamos
+#EXTINF:-1 tvg-name="Barça TV" tvg-logo="https://freeshot.live/upload/source/BarcelonaTV-logo.png" group-title="Spain",Barça TV
+https://live.freeshot.workers.dev/?ID=BarcelonaTV
+#EXTINF:-1 tvg-name="DAZN 4" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="Spain",DAZN 4
+https://live.freeshot.workers.dev/?ID=DAZN4ES
+#EXTINF:-1 tvg-name="Bein Sports Ñ" tvg-logo="https://freeshot.live/upload/source/bein-sports-la-liga.png" group-title="Spain",Bein Sports Ñ
+https://live.freeshot.workers.dev/?ID=BeinSportsES
+#EXTINF:-1 tvg-name="DAZN LaLiga ES" tvg-logo="https://freeshot.live/upload/source/DAZNLaLigalogo.png" group-title="Spain",DAZN LaLiga ES
+https://live.freeshot.workers.dev/?ID=DAZNLaLiga
+#EXTINF:-1 tvg-name="DAZN F1 ES" tvg-logo="https://freeshot.live/upload/source/DAZN-F1-ES-LOGO.png" group-title="Spain",DAZN F1 ES
+https://live.freeshot.workers.dev/?ID=DAZNF1ES
+#EXTINF:-1 tvg-name="Movistar Golf" tvg-logo="https://freeshot.live/upload/source/Movistar_Golf-logo.png" group-title="Spain",Movistar Golf
+https://live.freeshot.workers.dev/?ID=MovistarGolf
+#EXTINF:-1 tvg-name="DAZN 3 ES" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="Spain",DAZN 3 ES
+https://live.freeshot.workers.dev/?ID=DAZN3ES
+#EXTINF:-1 tvg-name="DAZN 2 ES" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="Spain",DAZN 2 ES
+https://live.freeshot.workers.dev/?ID=DAZN2ES
+#EXTINF:-1 tvg-name="DAZN 1 ES" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="Spain",DAZN 1 ES
+https://live.freeshot.workers.dev/?ID=DAZN1ES
+#EXTINF:-1 tvg-name="Movistar Copa del Rey" tvg-logo="https://freeshot.live/upload/source/copa-del-rey-logo.png" group-title="Spain",Movistar Copa del Rey
+https://live.freeshot.workers.dev/?ID=CopadelRey
+#EXTINF:-1 tvg-name="EUROSPORT 2 ES" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="Spain",EUROSPORT 2 ES
+https://live.freeshot.workers.dev/?ID=Eurosport2ES
+#EXTINF:-1 tvg-name="EUROSPORT 1 ES" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="Spain",EUROSPORT 1 ES
+https://live.freeshot.workers.dev/?ID=EurosportES
+#EXTINF:-1 tvg-name="Real Madrid TV ES" tvg-logo="https://freeshot.live/upload/source/realmadrid-tv-logo.png" group-title="Spain",Real Madrid TV ES
+https://live.freeshot.workers.dev/?ID=RealMadridTV
+#EXTINF:-1 tvg-name="Movistar Deportes" tvg-logo="https://freeshot.live/upload/source/movistar-deportes-logo.png" group-title="Spain",Movistar Deportes
+https://live.freeshot.workers.dev/?ID=MovistarDeportes
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones" tvg-logo="https://freeshot.live/upload/source/movistar-liga-de-campeones-logo.png" group-title="Spain",Movistar Liga de Campeones
+https://live.freeshot.workers.dev/?ID=MovistarLigadeCampeones
+#EXTINF:-1 tvg-name="Movistar LaLiga" tvg-logo="https://freeshot.live/upload/source/Movistar_LaLiga-logo.png" group-title="Spain",Movistar LaLiga
+https://live.freeshot.workers.dev/?ID=MovistarLaLiga
+#EXTINF:-1 tvg-name="A Spor" tvg-logo="https://freeshot.live/upload/source/A-Spor-logo.png" group-title="Turkey",A Spor
+https://live.freeshot.workers.dev/?ID=A-Spor
+#EXTINF:-1 tvg-name="EUROSPORT 2 Turkey" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="Turkey",EUROSPORT 2 Turkey
+https://live.freeshot.workers.dev/?ID=EUROSPORT2TR
+#EXTINF:-1 tvg-name="EUROSPORT 1 Turkey" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="Turkey",EUROSPORT 1 Turkey
+https://live.freeshot.workers.dev/?ID=EUROSPORT1TR
+#EXTINF:-1 tvg-name="sports tv Turkey" tvg-logo="https://freeshot.live/upload/source/sports-tv-turkey-logo.png" group-title="Turkey",sports tv Turkey
+https://live.freeshot.workers.dev/?ID=sportstvTR
+#EXTINF:-1 tvg-name="Tivibu SPOR 3 Turkey" tvg-logo="https://freeshot.live/upload/source/Tivibu-SPOR-3-logo.png" group-title="Turkey",Tivibu SPOR 3 Turkey
+https://live.freeshot.workers.dev/?ID=TivibuSPOR3
+#EXTINF:-1 tvg-name="Tivibu SPOR 2 Turkey" tvg-logo="https://freeshot.live/upload/source/Tivibu-SPOR-2-logo.png" group-title="Turkey",Tivibu SPOR 2 Turkey
+https://live.freeshot.workers.dev/?ID=TivibuSPOR2
+#EXTINF:-1 tvg-name="Tivibu SPOR Turkey" tvg-logo="https://freeshot.live/upload/source/Tivibu-SPOR-logo.png" group-title="Turkey",Tivibu SPOR Turkey
+https://live.freeshot.workers.dev/?ID=TivibuSPOR
+#EXTINF:-1 tvg-name="HT SPOR Turkey" tvg-logo="https://freeshot.live/upload/source/HT-SPOR-logo.png" group-title="Turkey",HT SPOR Turkey
+https://live.freeshot.workers.dev/?ID=HT-SPOR
+#EXTINF:-1 tvg-name="TRT SPOR Turkey" tvg-logo="https://freeshot.live/upload/source/TRT_SPOR-logo.png" group-title="Turkey",TRT SPOR Turkey
+https://live.freeshot.workers.dev/?ID=TRTSPOR
+#EXTINF:-1 tvg-name="TRT Spor Yıldız Turkey" tvg-logo="https://freeshot.live/upload/source/TRT_SPOR_Yıldız-logo.png" group-title="Turkey",TRT Spor Yıldız Turkey
+https://live.freeshot.workers.dev/?ID=TRTSPORY
+#EXTINF:-1 tvg-name="beIN SPORTS 5 Turkey" tvg-logo="https://freeshot.live/upload/source/beINSPORTS5-logo.png" group-title="Turkey",beIN SPORTS 5 Turkey
+https://live.freeshot.workers.dev/?ID=beINSPORTS5TR
+#EXTINF:-1 tvg-name="beIN SPORTS 4 Turkey" tvg-logo="https://freeshot.live/upload/source/bein-sports-4-logo.png" group-title="Turkey",beIN SPORTS 4 Turkey
+https://live.freeshot.workers.dev/?ID=beINSPORTS4TR
+#EXTINF:-1 tvg-name="beIN SPORTS 3 Turkey" tvg-logo="https://freeshot.live/upload/source/bein-sports_3-logo.png" group-title="Turkey",beIN SPORTS 3 Turkey
+https://live.freeshot.workers.dev/?ID=beINSPORTS3TR
+#EXTINF:-1 tvg-name="beIN SPORTS 2 Turkey" tvg-logo="https://freeshot.live/upload/source/bein-sports-2-logo.png" group-title="Turkey",beIN SPORTS 2 Turkey
+https://live.freeshot.workers.dev/?ID=beINSPORTS2TR
+#EXTINF:-1 tvg-name="beIN SPORTS 1 Turkey" tvg-logo="https://freeshot.live/upload/source/bein_sports1-logo.png" group-title="Turkey",beIN SPORTS 1 Turkey
+https://live.freeshot.workers.dev/?ID=beINSPORTS1TR
+#EXTINF:-1 tvg-name="Rally TV" tvg-logo="https://freeshot.live/upload/source/RallyTV-logo.png" group-title="United Kingdom",Rally TV
+https://live.freeshot.workers.dev/?ID=RallyTV
+#EXTINF:-1 tvg-name="Gold UK" tvg-logo="https://freeshot.live/upload/source/GoldUK-logo.png" group-title="United Kingdom",Gold UK
+https://live.freeshot.workers.dev/?ID=GoldUK
+#EXTINF:-1 tvg-name="Film4 UK" tvg-logo="https://freeshot.live/upload/source/Film4-logo.png" group-title="United Kingdom",Film4 UK
+https://live.freeshot.workers.dev/?ID=Film4UK
+#EXTINF:-1 tvg-name="S4C UK" tvg-logo="https://freeshot.live/upload/source/S4C-logo.png" group-title="United Kingdom",S4C UK
+https://live.freeshot.workers.dev/?ID=S4CUK
+#EXTINF:-1 tvg-name="Sky History UK" tvg-logo="https://freeshot.live/upload/source/Sky-History-logo.png" group-title="United Kingdom",Sky History UK
+https://live.freeshot.workers.dev/?ID=SkyHistoryUK
+#EXTINF:-1 tvg-name="Sky Crime UK" tvg-logo="https://freeshot.live/upload/source/Sky-Crime-logo.png" group-title="United Kingdom",Sky Crime UK
+https://live.freeshot.workers.dev/?ID=SkyCrimeUK
+#EXTINF:-1 tvg-name="Sky Comedy UK" tvg-logo="https://freeshot.live/upload/source/Sky-Comedy-logo.png" group-title="United Kingdom",Sky Comedy UK
+https://live.freeshot.workers.dev/?ID=SkyComedyUK
+#EXTINF:-1 tvg-name="Sky Arts UK" tvg-logo="https://freeshot.live/upload/source/Sky-Arts-logo.png" group-title="United Kingdom",Sky Arts UK
+https://live.freeshot.workers.dev/?ID=SkyArtsUK
+#EXTINF:-1 tvg-name="Sky Showcase" tvg-logo="https://freeshot.live/upload/source/Sky-Showcase-logo.png" group-title="United Kingdom",Sky Showcase
+https://live.freeshot.workers.dev/?ID=SkyShowcaseUK
+#EXTINF:-1 tvg-name="Sky Cinema Sci-Fi Horror UK" tvg-logo="https://freeshot.live/upload/source/Sky_Cinema_Sci-Fi_Horror-logo.png" group-title="United Kingdom",Sky Cinema Sci-Fi Horror UK
+https://live.freeshot.workers.dev/?ID=SkyCinemaSci-FiHorrorUK
+#EXTINF:-1 tvg-name="Sky Cinema Drama UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Drama-logo.png" group-title="United Kingdom",Sky Cinema Drama UK
+https://live.freeshot.workers.dev/?ID=SkyCinemaDramaUK
+#EXTINF:-1 tvg-name="Sky Cinema Thriller UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Thriller-logo.png" group-title="United Kingdom",Sky Cinema Thriller UK
+https://live.freeshot.workers.dev/?ID=SkyCinemaThrillerUK
+#EXTINF:-1 tvg-name="Sky Cinema Comedy UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Comedy-logo.png" group-title="United Kingdom",Sky Cinema Comedy UK
+https://live.freeshot.workers.dev/?ID=SkyCinemaComedyUK
+#EXTINF:-1 tvg-name="Sky Cinema Action UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Action-logo.png" group-title="United Kingdom",Sky Cinema Action UK
+https://live.freeshot.workers.dev/?ID=SkyCinemaActionUK
+#EXTINF:-1 tvg-name="Sky Cinema Family UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Family-logo.png" group-title="United Kingdom",Sky Cinema Family UK
+https://live.freeshot.workers.dev/?ID=SkyCinemaFamilyUK
+#EXTINF:-1 tvg-name="Sky Cinema Animation UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Animation-logo.png" group-title="United Kingdom",Sky Cinema Animation UK
+https://live.freeshot.workers.dev/?ID=SkyCinemaAnimationUK
+#EXTINF:-1 tvg-name="Sky Cinema Hits UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Hits-logo.png" group-title="United Kingdom",Sky Cinema Hits UK
+https://live.freeshot.workers.dev/?ID=SkyCinemaHitsUK
+#EXTINF:-1 tvg-name="Sky Cinema Greats UK" tvg-logo="https://freeshot.live/upload/source/SkyCinemaGreats-logo.png" group-title="United Kingdom",Sky Cinema Greats UK
+https://live.freeshot.workers.dev/?ID=SkyCinemaGreatsUK
+#EXTINF:-1 tvg-name="Sky Cinema Select UK" tvg-logo="https://freeshot.live/upload/source/SkyCinemaSelect-logo.png" group-title="United Kingdom",Sky Cinema Select UK
+https://live.freeshot.workers.dev/?ID=SkyCinemaSelectUK
+#EXTINF:-1 tvg-name="Sky Cinema Premiere UK" tvg-logo="https://freeshot.live/upload/source/Sky-Cinema-Premiere-logo.png" group-title="United Kingdom",Sky Cinema Premiere UK
+https://live.freeshot.workers.dev/?ID=SkyCinemaPremiereUK
+#EXTINF:-1 tvg-name="DAZN Club World Cup" tvg-logo="https://freeshot.live/upload/source/FIFA_Club_World_Cup_2025.png" group-title="United Kingdom",DAZN Club World Cup
+https://live.freeshot.workers.dev/?ID=ClubWorldCup
+#EXTINF:-1 tvg-name="BBC News UK" tvg-logo="https://freeshot.live/upload/source/BBCNews-logo.png" group-title="United Kingdom",BBC News UK
+https://live.freeshot.workers.dev/?ID=BBCNewsUK
+#EXTINF:-1 tvg-name="MTV UK" tvg-logo="https://freeshot.live/upload/source/MTV-logo.png" group-title="United Kingdom",MTV UK
+https://live.freeshot.workers.dev/?ID=MTVUK
+#EXTINF:-1 tvg-name="ITV4 UK" tvg-logo="https://freeshot.live/upload/source/ITV4-logo.png" group-title="United Kingdom",ITV4 UK
+https://live.freeshot.workers.dev/?ID=ITV4
+#EXTINF:-1 tvg-name="ITV3 UK" tvg-logo="https://freeshot.live/upload/source/ITV3-logo.png" group-title="United Kingdom",ITV3 UK
+https://live.freeshot.workers.dev/?ID=ITV3
+#EXTINF:-1 tvg-name="ITV2 UK" tvg-logo="https://freeshot.live/upload/source/ITV2-logo.png" group-title="United Kingdom",ITV2 UK
+https://live.freeshot.workers.dev/?ID=ITV2
+#EXTINF:-1 tvg-name="ITV1 UK" tvg-logo="https://freeshot.live/upload/source/ITV1-logo.png" group-title="United Kingdom",ITV1 UK
+https://live.freeshot.workers.dev/?ID=ITV1
+#EXTINF:-1 tvg-name="BBC Three UK" tvg-logo="https://freeshot.live/upload/source/BBCThree-logo.png" group-title="United Kingdom",BBC Three UK
+https://live.freeshot.workers.dev/?ID=BBCThreeUK
+#EXTINF:-1 tvg-name="BBC Two UK" tvg-logo="https://freeshot.live/upload/source/BBCTwo-logo.png" group-title="United Kingdom",BBC Two UK
+https://live.freeshot.workers.dev/?ID=BBCTwoUK
+#EXTINF:-1 tvg-name="BBC One UK" tvg-logo="https://freeshot.live/upload/source/BBCone-logo.png" group-title="United Kingdom",BBC One UK
+https://live.freeshot.workers.dev/?ID=BBConeUK
+#EXTINF:-1 tvg-name="Sky Sports Tennis UK" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png" group-title="United Kingdom",Sky Sports Tennis UK
+https://live.freeshot.workers.dev/?ID=SkySportsTennisUK
+#EXTINF:-1 tvg-name="Horse and Country" tvg-logo="https://freeshot.live/upload/source/HorseandCountry-logo.png" group-title="United Kingdom",Horse and Country
+https://live.freeshot.workers.dev/?ID=HorseandCountry
+#EXTINF:-1 tvg-name="Sky News" tvg-logo="https://freeshot.live/upload/source/Sky_news_logo.png" group-title="United Kingdom",Sky News
+https://live.freeshot.workers.dev/?ID=SkyNews
+#EXTINF:-1 tvg-name="Real Madrid TV UK" tvg-logo="https://freeshot.live/upload/source/realmadrid-tv-logo.png" group-title="United Kingdom",Real Madrid TV UK
+https://live.freeshot.workers.dev/?ID=RealMadridTVUK
+#EXTINF:-1 tvg-name="LFCTV UK" tvg-logo="https://freeshot.live/upload/source/LFCTV_logo.png" group-title="United Kingdom",LFCTV UK
+https://live.freeshot.workers.dev/?ID=LFCTV
+#EXTINF:-1 tvg-name="Racing TV UK" tvg-logo="https://freeshot.live/upload/source/RacingTV-logo.png" group-title="United Kingdom",Racing TV UK
+https://live.freeshot.workers.dev/?ID=RacingTV
+#EXTINF:-1 tvg-name="La Liga TV UK" tvg-logo="https://freeshot.live/upload/source/LaLigaTV-logo.png" group-title="United Kingdom",La Liga TV UK
+https://live.freeshot.workers.dev/?ID=LaLigaTVUK
+#EXTINF:-1 tvg-name="Premier Sports 2 UK" tvg-logo="https://freeshot.live/upload/source/PremierSports-logo.png" group-title="United Kingdom",Premier Sports 2 UK
+https://live.freeshot.workers.dev/?ID=PremierSports2
+#EXTINF:-1 tvg-name="Premier Sports 1 UK" tvg-logo="https://freeshot.live/upload/source/PremierSports-logo.png" group-title="United Kingdom",Premier Sports 1 UK
+https://live.freeshot.workers.dev/?ID=PremierSports1
+#EXTINF:-1 tvg-name="Sky Sports NFL" tvg-logo="https://freeshot.live/upload/source/sky-sports-NFL-logo.png" group-title="United Kingdom",Sky Sports NFL
+https://live.freeshot.workers.dev/?ID=SkySportsNFL
+#EXTINF:-1 tvg-name="Free Sports" tvg-logo="https://freeshot.live/upload/source/FreeSports-logo.png" group-title="United Kingdom",Free Sports
+https://live.freeshot.workers.dev/?ID=FreeSports
+#EXTINF:-1 tvg-name="Motor Racing" tvg-logo="https://freeshot.live/upload/source/MotorsTV-logo.png" group-title="United Kingdom",Motor Racing
+https://live.freeshot.workers.dev/?ID=MotorRacing
+#EXTINF:-1 tvg-name="U&amp;Dave UK" tvg-logo="https://freeshot.live/upload/source/Dave-UK-logo.png" group-title="United Kingdom",U&amp;Dave UK
+https://live.freeshot.workers.dev/?ID=Dave
+#EXTINF:-1 tvg-name="MUTV UK" tvg-logo="https://freeshot.live/upload/source/MUTV-logo.png" group-title="United Kingdom",MUTV UK
+https://live.freeshot.workers.dev/?ID=MUTV
+#EXTINF:-1 tvg-name="Sky Sports Racing UK" tvg-logo="https://freeshot.live/upload/source/sky-sports-racing-logo.png" group-title="United Kingdom",Sky Sports Racing UK
+https://live.freeshot.workers.dev/?ID=SkySportsRacing
+#EXTINF:-1 tvg-name="EUROSPORT 2 UK" tvg-logo="https://freeshot.live/upload/source/Eurosport_2_logo.png" group-title="United Kingdom",EUROSPORT 2 UK
+https://live.freeshot.workers.dev/?ID=Eurosport2UK
+#EXTINF:-1 tvg-name="EUROSPORT 1 UK" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png" group-title="United Kingdom",EUROSPORT 1 UK
+https://live.freeshot.workers.dev/?ID=Eurosport1UK
+#EXTINF:-1 tvg-name="Sky Atlantic UK" tvg-logo="https://freeshot.live/upload/source/Sky-Atlantic_logo.png" group-title="United Kingdom",Sky Atlantic UK
+https://live.freeshot.workers.dev/?ID=SkyAtlanticUK
+#EXTINF:-1 tvg-name="Sky Sports LaLiga UK" tvg-logo="https://freeshot.live/upload/source/SkySportsLaLiga-logo.png" group-title="United Kingdom",Sky Sports LaLiga UK
+https://live.freeshot.workers.dev/?ID=SkySportsLaLigaUK
+#EXTINF:-1 tvg-name="Sky Sports Mix UK" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Mix-Logo.png" group-title="United Kingdom",Sky Sports Mix UK
+https://live.freeshot.workers.dev/?ID=SkySportMix
+#EXTINF:-1 tvg-name="Sky Sports Plus UK" tvg-logo="https://freeshot.live/upload/source/sky-sports-plus-logo.png" group-title="United Kingdom",Sky Sports Plus UK
+https://live.freeshot.workers.dev/?ID=SkySportsPlus
+#EXTINF:-1 tvg-name="Sky Sports Action UK" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Action_logo.png" group-title="United Kingdom",Sky Sports Action UK
+https://live.freeshot.workers.dev/?ID=SkySportAction
+#EXTINF:-1 tvg-name="Sky Sports Cricket UK" tvg-logo="https://freeshot.live/upload/source/sky-sports-cricket-logo.png" group-title="United Kingdom",Sky Sports Cricket UK
+https://live.freeshot.workers.dev/?ID=SkySportsCricket
+#EXTINF:-1 tvg-name="Sky Sports Golf UK" tvg-logo="https://freeshot.live/upload/source/Sky_Sport_Golf-Logo.png" group-title="United Kingdom",Sky Sports Golf UK
+https://live.freeshot.workers.dev/?ID=SkySportGolf
+#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-logo="https://freeshot.live/upload/source/sky-sport-F1-logo.png" group-title="United Kingdom",Sky Sports F1 UK
+https://live.freeshot.workers.dev/?ID=SkySportF1
+#EXTINF:-1 tvg-name="Sky Sports Premier League UK" tvg-logo="https://freeshot.live/upload/source/sky-sports-premier-league_logo.png" group-title="United Kingdom",Sky Sports Premier League UK
+https://live.freeshot.workers.dev/?ID=SkySportsPremierLeague
+#EXTINF:-1 tvg-name="Sky Sports News UK" tvg-logo="https://freeshot.live/upload/source/sky_sport-news-logo.png" group-title="United Kingdom",Sky Sports News UK
+https://live.freeshot.workers.dev/?ID=SkySportsNews
+#EXTINF:-1 tvg-name="Sky Sports Main Event Live UK" tvg-logo="https://freeshot.live/upload/source/sky-sports-main-event-logo.png" group-title="United Kingdom",Sky Sports Main Event Live UK
+https://live.freeshot.workers.dev/?ID=SkySportsMainEvent
+#EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="https://freeshot.live/upload/source/sky-sports-football-logo.png" group-title="United Kingdom",Sky Sports Football UK
+https://live.freeshot.workers.dev/?ID=SkySportsFootball
+#EXTINF:-1 tvg-name="TNT SPORTS 4 UK" tvg-logo="https://freeshot.live/upload/source/TNT-Sports-4-logo.png" group-title="United Kingdom",TNT SPORTS 4 UK
+https://live.freeshot.workers.dev/?ID=BTSPORT4UK
+#EXTINF:-1 tvg-name="TNT SPORTS 3 UK" tvg-logo="https://freeshot.live/upload/source/TNT-Sports-3-logo.png" group-title="United Kingdom",TNT SPORTS 3 UK
+https://live.freeshot.workers.dev/?ID=BTSPORT3UK
+#EXTINF:-1 tvg-name="TNT SPORTS 2 UK" tvg-logo="https://freeshot.live/upload/source/TNT-Sports-2-logo.png" group-title="United Kingdom",TNT SPORTS 2 UK
+https://live.freeshot.workers.dev/?ID=BTSPORT2UK
+#EXTINF:-1 tvg-name="TNT SPORTS 1 UK" tvg-logo="https://freeshot.live/upload/source/TNT-Sports-1-logo.png" group-title="United Kingdom",TNT SPORTS 1 UK
+https://live.freeshot.workers.dev/?ID=BTSPORT1UK
+#EXTINF:-1 tvg-name="beIN SPORTS 2 UK" tvg-logo="https://freeshot.live/upload/source/bein-sports-2-logo.png" group-title="United Kingdom",beIN SPORTS 2 UK
+https://live.freeshot.workers.dev/?ID=beINSPORTS2EN
+#EXTINF:-1 tvg-name="beIN SPORTS 1 UK" tvg-logo="https://freeshot.live/upload/source/bein_sports1-logo.png" group-title="United Kingdom",beIN SPORTS 1 UK
+https://live.freeshot.workers.dev/?ID=beINSPORTS1EN
+#EXTINF:-1 tvg-name="SYFY USA" tvg-logo="https://freeshot.live/upload/source/Syfy-logo.png" group-title="USA",SYFY USA
+https://live.freeshot.workers.dev/?ID=SYFYUSA
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://freeshot.live/upload/source/Nickelodeon-logo.png" group-title="USA",Nickelodeon
+https://live.freeshot.workers.dev/?ID=Nickelodeon
+#EXTINF:-1 tvg-name="HLN" tvg-logo="https://freeshot.live/upload/source/HLN-logo.png" group-title="USA",HLN
+https://live.freeshot.workers.dev/?ID=HLN
+#EXTINF:-1 tvg-name="TLC USA" tvg-logo="https://freeshot.live/upload/source/TLC-logo.png" group-title="USA",TLC USA
+https://live.freeshot.workers.dev/?ID=TLC
+#EXTINF:-1 tvg-name="Bravo" tvg-logo="https://freeshot.live/upload/source/Bravo-logo.png" group-title="USA",Bravo
+https://live.freeshot.workers.dev/?ID=BravoTV
+#EXTINF:-1 tvg-name="UniMás" tvg-logo="https://freeshot.live/upload/source/UniMas-logo.png" group-title="USA",UniMás
+https://live.freeshot.workers.dev/?ID=UniMas
+#EXTINF:-1 tvg-name="Telemundo" tvg-logo="https://freeshot.live/upload/source/Telemundo-logo.png" group-title="USA",Telemundo
+https://live.freeshot.workers.dev/?ID=Telemundo
+#EXTINF:-1 tvg-name="ESPNU USA" tvg-logo="https://freeshot.live/upload/source/ESPNU-logo.png" group-title="USA",ESPNU USA
+https://live.freeshot.workers.dev/?ID=ESPNUUSA
+#EXTINF:-1 tvg-name="AMC USA" tvg-logo="https://freeshot.live/upload/source/AMC-logo.png" group-title="USA",AMC USA
+https://live.freeshot.workers.dev/?ID=AMCUSA
+#EXTINF:-1 tvg-name="A&amp;E" tvg-logo="https://freeshot.live/upload/source/TV-Network-logo.png" group-title="USA",A&amp;E
+https://live.freeshot.workers.dev/?ID=TV-network
+#EXTINF:-1 tvg-name="Freeform" tvg-logo="https://freeshot.live/upload/source/Freeform-logo.png" group-title="USA",Freeform
+https://live.freeshot.workers.dev/?ID=Freeform
+#EXTINF:-1 tvg-name="Animal Planet USA" tvg-logo="https://freeshot.live/upload/source/Animal-Planet-logo.png" group-title="USA",Animal Planet USA
+https://live.freeshot.workers.dev/?ID=AnimalPlanet
+#EXTINF:-1 tvg-name="Hallmark Channel" tvg-logo="https://freeshot.live/upload/source/HallmarkChannel-logo.png" group-title="USA",Hallmark Channel
+https://live.freeshot.workers.dev/?ID=HallmarkChannel
+#EXTINF:-1 tvg-name="Game Show Network" tvg-logo="https://freeshot.live/upload/source/GameShowNetwork-logo.png" group-title="USA",Game Show Network
+https://live.freeshot.workers.dev/?ID=GameShowNetwork
+#EXTINF:-1 tvg-name="Oprah Winfrey Network" tvg-logo="https://freeshot.live/upload/source/OprahWinfreyNetwork-logo.png" group-title="USA",Oprah Winfrey Network
+https://live.freeshot.workers.dev/?ID=OprahWinfreyNetwork
+#EXTINF:-1 tvg-name="Lifetime Movie Network" tvg-logo="https://freeshot.live/upload/source/LMN-logo.png" group-title="USA",Lifetime Movie Network
+https://live.freeshot.workers.dev/?ID=LMN
+#EXTINF:-1 tvg-name="The Weather Channel" tvg-logo="https://freeshot.live/upload/source/The_Weather_Channel-logo.png" group-title="USA",The Weather Channel
+https://live.freeshot.workers.dev/?ID=TheWeatherChannel
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://freeshot.live/upload/source/HGTV-logo.png" group-title="USA",HGTV
+https://live.freeshot.workers.dev/?ID=HGTV
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://freeshot.live/upload/source/FOXNews-logo.png" group-title="USA",Fox News
+https://live.freeshot.workers.dev/?ID=FOXNews
+#EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://freeshot.live/upload/source/cbs_sports_network-logo.png" group-title="USA",CBS Sports Network
+https://live.freeshot.workers.dev/?ID=CBS-SportsNetwork
+#EXTINF:-1 tvg-name="Willow Xtra" tvg-logo="https://freeshot.live/upload/source/WillowXtra-logo.png" group-title="USA",Willow Xtra
+https://live.freeshot.workers.dev/?ID=WillowExtra
+#EXTINF:-1 tvg-name="Fox Soccer Plus" tvg-logo="https://freeshot.live/upload/source/FoxSoccerPlus.png" group-title="USA",Fox Soccer Plus
+https://live.freeshot.workers.dev/?ID=FoxSoccerPlus
+#EXTINF:-1 tvg-name="NBC Golf" tvg-logo="https://freeshot.live/upload/source/NBCGolf-logo.png" group-title="USA",NBC Golf
+https://live.freeshot.workers.dev/?ID=NBCGolf
+#EXTINF:-1 tvg-name="Tennis Channel +1" tvg-logo="https://freeshot.live/upload/source/Tennis_Channel-logo.png" group-title="USA",Tennis Channel +1
+https://live.freeshot.workers.dev/?ID=TennisChannel+1
+#EXTINF:-1 tvg-name="SEC ESPN USA" tvg-logo="https://freeshot.live/upload/source/SEC-ESPN-Network-logo.png" group-title="USA",SEC ESPN USA
+https://live.freeshot.workers.dev/?ID=SEC-ESPN-Network
+#EXTINF:-1 tvg-name="FOX DEPORTES" tvg-logo="https://freeshot.live/upload/source/Fox-Deportes-logo.png" group-title="USA",FOX DEPORTES
+https://live.freeshot.workers.dev/?ID=FoxDeportes
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://freeshot.live/upload/source/Tennis_Channel-logo.png" group-title="USA",Tennis Channel
+https://live.freeshot.workers.dev/?ID=TennisChannel
+#EXTINF:-1 tvg-name="WWE Network USA" tvg-logo="https://freeshot.live/upload/source/WWE-channel-logo.png" group-title="USA",WWE Network USA
+https://live.freeshot.workers.dev/?ID=WWETV
+#EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="https://freeshot.live/upload/source/Willow_Cricket_logo.png" group-title="USA",Willow Cricket
+https://live.freeshot.workers.dev/?ID=WillowCricket
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://freeshot.live/upload/source/NBA-TV-logo.png" group-title="USA",NBA TV
+https://live.freeshot.workers.dev/?ID=NBATVUSA
+#EXTINF:-1 tvg-name="BeIN Sports USA" tvg-logo="https://freeshot.live/upload/source/bein-sports-USA-logo.png" group-title="USA",BeIN Sports USA
+https://live.freeshot.workers.dev/?ID=BeINSportsUSA
+#EXTINF:-1 tvg-name="CNN USA" tvg-logo="https://freeshot.live/upload/source/CNN-logo.png" group-title="USA",CNN USA
+https://live.freeshot.workers.dev/?ID=CNNUSA
+#EXTINF:-1 tvg-name="FOX SPORTS 2 USA" tvg-logo="https://freeshot.live/upload/source/Fox-Sports-2-logo.png" group-title="USA",FOX SPORTS 2 USA
+https://live.freeshot.workers.dev/?ID=FOXSPORTS2USA
+#EXTINF:-1 tvg-name="FOX SPORTS 1 USA" tvg-logo="https://freeshot.live/upload/source/Fox-Sports-1.png" group-title="USA",FOX SPORTS 1 USA
+https://live.freeshot.workers.dev/?ID=FOXSPORTS1USA
+#EXTINF:-1 tvg-name="ESPN 2 USA" tvg-logo="https://freeshot.live/upload/source/ESPN-2-USA-logo.png" group-title="USA",ESPN 2 USA
+https://live.freeshot.workers.dev/?ID=ESPN2USA
+#EXTINF:-1 tvg-name="ESPN USA" tvg-logo="https://freeshot.live/upload/source/ESPN-USA-logo.png" group-title="USA",ESPN USA
+https://live.freeshot.workers.dev/?ID=ESPNUSA

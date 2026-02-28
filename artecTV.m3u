@@ -1,0 +1,249 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="U CHILE TV" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/UCHILETV.png",U CHILE TV
+http://live.artectv.workers.dev/?ID=UCHILETV
+#EXTINF:-1 tvg-name="TV+" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TVMAS.png",TV+
+http://live.artectv.workers.dev/?ID=TVMAS
+#EXTINF:-1 tvg-name="LA RED" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/LARED.png",LA RED
+http://live.artectv.workers.dev/?ID=LARED
+#EXTINF:-1 tvg-name="TVN" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TVN.png",TVN
+http://live.artectv.workers.dev/?ID=TVN
+#EXTINF:-1 tvg-name="MEGA" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/MEGA.png",MEGA
+http://live.artectv.workers.dev/?ID=MEGA
+#EXTINF:-1 tvg-name="CHILEVISION" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/CHILEVISION.png",CHILEVISION
+http://live.artectv.workers.dev/?ID=CHILEVISION
+#EXTINF:-1 tvg-name="CANAL 13" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/CANAL13.png",CANAL 13
+http://live.artectv.workers.dev/?ID=CANAL13
+#EXTINF:-1 tvg-name="TVR" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TVR.png",TVR
+http://live.artectv.workers.dev/?ID=TVR
+#EXTINF:-1 tvg-name="24 HORAS" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/24HORAS.png",24 HORAS
+http://live.artectv.workers.dev/?ID=24HORAS
+#EXTINF:-1 tvg-name="CNN CHILE" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/CNNCHILE.png",CNN CHILE
+http://live.artectv.workers.dev/?ID=CNNCHILE
+#EXTINF:-1 tvg-name="CNN ESPAÑOL" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/CNNESP.png",CNN ESPAÑOL
+http://live.artectv.workers.dev/?ID=CNNESP
+#EXTINF:-1 tvg-name="CNN INTERNACIONAL" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/CNNINTER.png",CNN INTERNACIONAL
+http://live.artectv.workers.dev/?ID=CNNINTER
+#EXTINF:-1 tvg-name="EURO CHANNEL" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/EURONEWS.png",EURO CHANNEL
+http://live.artectv.workers.dev/?ID=EURONEWS
+#EXTINF:-1 tvg-name="STAR CHANNEL" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/STARCHANNEL.png",STAR CHANNEL
+http://live.artectv.workers.dev/?ID=STARCHANNEL
+#EXTINF:-1 tvg-name="WARNER" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/WARNER.png",WARNER
+http://live.artectv.workers.dev/?ID=WARNER
+#EXTINF:-1 tvg-name="A&E" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/AYE.png",A&E
+http://live.artectv.workers.dev/?ID=AYE
+#EXTINF:-1 tvg-name="SONY" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/SONY.png",SONY
+http://live.artectv.workers.dev/?ID=SONY
+#EXTINF:-1 tvg-name="AXN" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/AXN.png",AXN
+http://live.artectv.workers.dev/?ID=AXN
+#EXTINF:-1 tvg-name="AMC" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/AMC.png",AMC
+http://live.artectv.workers.dev/?ID=AMC
+#EXTINF:-1 tvg-name="TNT SERIES" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TNTSERIES.png",TNT SERIES
+http://live.artectv.workers.dev/?ID=TNTSERIES
+#EXTINF:-1 tvg-name="A3 SERIES" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/A3SERIES.png",A3 SERIES
+http://live.artectv.workers.dev/?ID=A3SERIES
+#EXTINF:-1 tvg-name="A3CINE" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/A3CINE.png",A3CINE
+http://live.artectv.workers.dev/?ID=A3CINE
+#EXTINF:-1 tvg-name="TNT NOVELAS" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TNTNOVELAS.png",TNT NOVELAS
+http://live.artectv.workers.dev/?ID=TNTNOVELAS
+#EXTINF:-1 tvg-name="COMEDY CENTRAL" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/COMEDYCENTRAL.png",COMEDY CENTRAL
+http://live.artectv.workers.dev/?ID=COMEDYCENTRAL
+#EXTINF:-1 tvg-name="FX" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/FX.png",FX
+http://live.artectv.workers.dev/?ID=FX
+#EXTINF:-1 tvg-name="USA" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/USA.png",USA
+http://live.artectv.workers.dev/?ID=USA
+#EXTINF:-1 tvg-name="UNIVERSAL" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/UNIVERSAL.png",UNIVERSAL
+http://live.artectv.workers.dev/?ID=UNIVERSAL
+#EXTINF:-1 tvg-name="ADULT SWIM" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/ADULTSWIM.png",ADULT SWIM
+http://live.artectv.workers.dev/?ID=ADULTSWIM
+#EXTINF:-1 tvg-name="HOLA TV" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/HOLATV.png",HOLA TV
+http://live.artectv.workers.dev/?ID=HOLATV
+#EXTINF:-1 tvg-name="E!" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/E.png",E!
+http://live.artectv.workers.dev/?ID=E
+#EXTINF:-1 tvg-name="ID" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/ID.png",ID
+http://live.artectv.workers.dev/?ID=ID
+#EXTINF:-1 tvg-name="PASIONES" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/PASIONES.png",PASIONES
+http://live.artectv.workers.dev/?ID=PASIONES
+#EXTINF:-1 tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/CHDELASESTRELLAS.png",CANAL DE LAS ESTRELLAS
+http://live.artectv.workers.dev/?ID=CHDELASESTRELLAS
+#EXTINF:-1 tvg-name="AZ CORAZON" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/AZCORAZON.png",AZ CORAZON
+http://live.artectv.workers.dev/?ID=AZCORAZON
+#EXTINF:-1 tvg-name="LIFETIME" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/LIFETIME.png",LIFETIME
+http://live.artectv.workers.dev/?ID=LIFETIME
+#EXTINF:-1 tvg-name="DISCOVERY H&H" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/DISCOVERYHYH.png",DISCOVERY H&H
+http://live.artectv.workers.dev/?ID=DISCOVERYHYH
+#EXTINF:-1 tvg-name="AMC SERIES" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/AMCSERIES.png",AMC SERIES
+http://live.artectv.workers.dev/?ID=AMCSERIES
+#EXTINF:-1 tvg-name="TELEMUNDO" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TELEMUNDO.png",TELEMUNDO
+http://live.artectv.workers.dev/?ID=TELEMUNDO
+#EXTINF:-1 tvg-name="EL GOURMET" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/ELGOURMET.png",EL GOURMET
+http://live.artectv.workers.dev/?ID=ELGOURMET
+#EXTINF:-1 tvg-name="FOOD NETWORK" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/FOODNETWORK.png",FOOD NETWORK
+http://live.artectv.workers.dev/?ID=FOODNETWORK
+#EXTINF:-1 tvg-name="MTVHITS" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/MTVHITS.png",MTVHITS
+http://live.artectv.workers.dev/?ID=MTVHITS
+#EXTINF:-1 tvg-name="MTV 80s" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/MTV80s.png",MTV 80s
+http://live.artectv.workers.dev/?ID=MTV80s
+#EXTINF:-1 tvg-name="MTV 00s" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/MTV00s.png",MTV 00s
+http://live.artectv.workers.dev/?ID=MTV00s
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/MTVLIVE.png",MTV LIVE
+http://live.artectv.workers.dev/?ID=MTVLIVE
+#EXTINF:-1 tvg-name="MTV" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/MTV.png",MTV
+http://live.artectv.workers.dev/?ID=MTV
+#EXTINF:-1 tvg-name="CLUB MTV" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/CLUBMTV.png",CLUB MTV
+http://live.artectv.workers.dev/?ID=CLUBMTV
+#EXTINF:-1 tvg-name="NICKMUSIC" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/NICKMUSIC.png",NICKMUSIC
+http://live.artectv.workers.dev/?ID=NICKMUSIC
+#EXTINF:-1 tvg-name="HTV" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/HTV.png",HTV
+http://live.artectv.workers.dev/?ID=HTV
+#EXTINF:-1 tvg-name="AZ CLIC" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/AZCLIC.png",AZ CLIC
+http://live.artectv.workers.dev/?ID=AZCLIC
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/CARTOONNETWORK.png",CARTOON NETWORK
+http://live.artectv.workers.dev/?ID=CARTOONNETWORK
+#EXTINF:-1 tvg-name="NICK" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/NICK.png",NICK
+http://live.artectv.workers.dev/?ID=NICK
+#EXTINF:-1 tvg-name="NICK JR" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/NICKJR.png",NICK JR
+http://live.artectv.workers.dev/?ID=NICKJR
+#EXTINF:-1 tvg-name="TEENNICK" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TEENNICK.png",TEENNICK
+http://live.artectv.workers.dev/?ID=TEENNICK
+#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/DISNEYCHANNEL.png",DISNEY CHANNEL
+http://live.artectv.workers.dev/?ID=DISNEYCHANNEL
+#EXTINF:-1 tvg-name="DISNEY JUNIOR" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/DISNEYJUNIOR.png",DISNEY JUNIOR
+http://live.artectv.workers.dev/?ID=DISNEYJUNIOR
+#EXTINF:-1 tvg-name="ZOOMOO" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/ZOOMOO.png",ZOOMOO
+http://live.artectv.workers.dev/?ID=ZOOMOO
+#EXTINF:-1 tvg-name="CLAN" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/CLAN.png",CLAN
+http://live.artectv.workers.dev/?ID=CLAN
+#EXTINF:-1 tvg-name="DISCOVERY KIDS" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/DISCOVERYKIDS.png",DISCOVERY KIDS
+http://live.artectv.workers.dev/?ID=DISCOVERYKIDS
+#EXTINF:-1 tvg-name="CARTOONITO" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/CARTOONITO.png",CARTOONITO
+http://live.artectv.workers.dev/?ID=CARTOONITO
+#EXTINF:-1 tvg-name="BABYTV" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/BABYTV.png",BABYTV
+http://live.artectv.workers.dev/?ID=BABYTV
+#EXTINF:-1 tvg-name="TOONCAST" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TOONCAST.png",TOONCAST
+http://live.artectv.workers.dev/?ID=TOONCAST
+#EXTINF:-1 tvg-name="PAKAPAKA" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/PAKAPAKA.png",PAKAPAKA
+http://live.artectv.workers.dev/?ID=PAKAPAKA
+#EXTINF:-1 tvg-name="GRACIA TV" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/GRACIATV.png",GRACIA TV
+http://live.artectv.workers.dev/?ID=GRACIATV
+#EXTINF:-1 tvg-name="CANAL ENCUENTRO" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/CANALENCUENTRO.png",CANAL ENCUENTRO
+http://live.artectv.workers.dev/?ID=CANALENCUENTRO
+#EXTINF:-1 tvg-name="EWTN" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/EWTN.png",EWTN
+http://live.artectv.workers.dev/?ID=EWTN
+#EXTINF:-1 tvg-name="TNT" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TNT.png",TNT
+http://live.artectv.workers.dev/?ID=TNT
+#EXTINF:-1 tvg-name="TCM" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TCM.png",TCM
+http://live.artectv.workers.dev/?ID=TCM
+#EXTINF:-1 tvg-name="CINECANAL" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/CINECANAL.png",CINECANAL
+http://live.artectv.workers.dev/?ID=CINECANAL
+#EXTINF:-1 tvg-name="STUDIO UNIVERSAL" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/STUDIOUNIVERSAL.png",STUDIO UNIVERSAL
+http://live.artectv.workers.dev/?ID=STUDIOUNIVERSAL
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/CINEMAX.png",CINEMAX
+http://live.artectv.workers.dev/?ID=CINEMAX
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/PARAMOUNT.png",PARAMOUNT
+http://live.artectv.workers.dev/?ID=PARAMOUNT
+#EXTINF:-1 tvg-name="DHE" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/DHE.png",DHE
+http://live.artectv.workers.dev/?ID=DHE
+#EXTINF:-1 tvg-name="AZ CINEMA" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/AZCINEMA.png",AZ CINEMA
+http://live.artectv.workers.dev/?ID=AZCINEMA
+#EXTINF:-1 tvg-name="SPACE" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/SPACE.png",SPACE
+http://live.artectv.workers.dev/?ID=SPACE
+#EXTINF:-1 tvg-name="CINEAR" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/CINEAR.png",CINEAR
+http://live.artectv.workers.dev/?ID=CINEAR
+#EXTINF:-1 tvg-name="STAR TVE" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/STARTVE.png",STAR TVE
+http://live.artectv.workers.dev/?ID=STARTVE
+#EXTINF:-1 tvg-name="HBO" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/HBO.png",HBO
+http://live.artectv.workers.dev/?ID=HBO
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/ESPN.png",ESPN
+http://live.artectv.workers.dev/?ID=ESPN
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/ESPN2.png",ESPN 2
+http://live.artectv.workers.dev/?ID=ESPN2
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/ESPN3.png",ESPN 3
+http://live.artectv.workers.dev/?ID=ESPN3
+#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/ESPN4.png",ESPN 4
+http://live.artectv.workers.dev/?ID=ESPN4
+#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/ESPN5.png",ESPN 5
+http://live.artectv.workers.dev/?ID=ESPN5
+#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/ESPN6.png",ESPN 6
+http://live.artectv.workers.dev/?ID=ESPN6
+#EXTINF:-1 tvg-name="ESPN 7" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/ESPN7.png",ESPN 7
+http://live.artectv.workers.dev/?ID=ESPN7
+#EXTINF:-1 tvg-name="ESPN PREMIUM" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/ESPNP.png",ESPN PREMIUM
+http://live.artectv.workers.dev/?ID=ESPNP
+#EXTINF:-1 tvg-name="DW" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/DW.png",DW
+http://live.artectv.workers.dev/?ID=DW
+#EXTINF:-1 tvg-name="TNT SPORTS BASICO" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TNTSPORTS3.png",TNT SPORTS BASICO
+http://live.artectv.workers.dev/?ID=TNTSPORTS3
+#EXTINF:-1 tvg-name="TNT SPORTS PREMIUM" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TNTSPORTSHD.png",TNT SPORTS PREMIUM
+http://live.artectv.workers.dev/?ID=TNTSPORTSHD
+#EXTINF:-1 tvg-name="AMERICA SPORTS" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/AMERICASPORTS.png",AMERICA SPORTS
+http://live.artectv.workers.dev/?ID=AMERICASPORTS
+#EXTINF:-1 tvg-name="TELETRAK" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TELETRAK.png",TELETRAK
+http://live.artectv.workers.dev/?ID=TELETRAK
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/NATGEO.png",NATIONAL GEOGRAPHIC
+http://live.artectv.workers.dev/?ID=NATGEO
+#EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/DISCOVERYTHEATER.png",DISCOVERY THEATER
+http://live.artectv.workers.dev/?ID=DISCOVERYTHEATER
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/DISCOVERYCHANNEL.png",DISCOVERY CHANNEL
+http://live.artectv.workers.dev/?ID=DISCOVERYCHANNEL
+#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/ANIMALPLANET.png",ANIMAL PLANET
+http://live.artectv.workers.dev/?ID=ANIMALPLANET
+#EXTINF:-1 tvg-name="DISCOVERY WORLD" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/DISCOVERYWORLD.png",DISCOVERY WORLD
+http://live.artectv.workers.dev/?ID=DISCOVERYWORLD
+#EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/DISCOVERYTURBO.png",DISCOVERY TURBO
+http://live.artectv.workers.dev/?ID=DISCOVERYTURBO
+#EXTINF:-1 tvg-name="DISCOVERY TLC" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/DISCOVERYTLC.png",DISCOVERY TLC
+http://live.artectv.workers.dev/?ID=DISCOVERYTLC
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/DISCOVERYSCIENCE.png",DISCOVERY SCIENCE
+http://live.artectv.workers.dev/?ID=DISCOVERYSCIENCE
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/HGTV.png",HGTV
+http://live.artectv.workers.dev/?ID=HGTV
+#EXTINF:-1 tvg-name="TRAVEL XP" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/LOVENATURE.png",TRAVEL XP
+http://live.artectv.workers.dev/?ID=LOVENATURE
+#EXTINF:-1 tvg-name="AZ MUNDO" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/AZMUNDO.png",AZ MUNDO
+http://live.artectv.workers.dev/?ID=AZMUNDO
+#EXTINF:-1 tvg-name="HISTORY" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/HISTORY.png",HISTORY
+http://live.artectv.workers.dev/?ID=HISTORY
+#EXTINF:-1 tvg-name="HISTORY 2" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/HISTORY2.png",HISTORY 2
+http://live.artectv.workers.dev/?ID=HISTORY2
+#EXTINF:-1 tvg-name="FILMS AND ARTS" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/FILMSANDARTS.png",FILMS AND ARTS
+http://live.artectv.workers.dev/?ID=FILMSANDARTS
+#EXTINF:-1 tvg-name="EUROPA EUROPA" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/EUROPAEUROPA.png",EUROPA EUROPA
+http://live.artectv.workers.dev/?ID=EUROPAEUROPA
+#EXTINF:-1 tvg-name="ATV" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/ATV.png",ATV
+http://live.artectv.workers.dev/?ID=ATV
+#EXTINF:-1 tvg-name="TR3CE" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TR3CE.png",TR3CE
+http://live.artectv.workers.dev/?ID=TR3CE
+#EXTINF:-1 tvg-name="SENAL COLOMBIA" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/SENALCOLOMBIA.png",SENAL COLOMBIA
+http://live.artectv.workers.dev/?ID=SENALCOLOMBIA
+#EXTINF:-1 tvg-name="CANAL 1" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/CANAL1.png",CANAL 1
+http://live.artectv.workers.dev/?ID=CANAL1
+#EXTINF:-1 tvg-name="CANALTRO" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/CANALTRO.png",CANALTRO
+http://live.artectv.workers.dev/?ID=CANALTRO
+#EXTINF:-1 tvg-name="CITYTV" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/CITYTV.png",CITYTV
+http://live.artectv.workers.dev/?ID=CITYTV
+#EXTINF:-1 tvg-name="TELEANTIOQUIA" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TELEANTIOQUIA.png",TELEANTIOQUIA
+http://live.artectv.workers.dev/?ID=TELEANTIOQUIA
+#EXTINF:-1 tvg-name="TELECAFE" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TELECAFE.png",TELECAFE
+http://live.artectv.workers.dev/?ID=TELECAFE
+#EXTINF:-1 tvg-name="TELECARIBE" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TELECARIBE.png",TELECARIBE
+http://live.artectv.workers.dev/?ID=TELECARIBE
+#EXTINF:-1 tvg-name="TRACE SPORT STARS" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TRACESPORTSTARS.png",TRACE SPORT STARS
+http://live.artectv.workers.dev/?ID=TRACESPORTSTARS
+#EXTINF:-1 tvg-name="TELEPACIFICO" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TELEPACIFICO.png",TELEPACIFICO
+http://live.artectv.workers.dev/?ID=TELEPACIFICO
+#EXTINF:-1 tvg-name="TEC TV" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TECTV.png",TEC TV
+http://live.artectv.workers.dev/?ID=TECTV
+#EXTINF:-1 tvg-name="TELESUR" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/TELESUR.png",TELESUR
+http://live.artectv.workers.dev/?ID=TELESUR
+#EXTINF:-1 tvg-name="CANAL RURAL" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/CANALRURAL.png",CANAL RURAL
+http://live.artectv.workers.dev/?ID=CANALRURAL
+#EXTINF:-1 tvg-name="GALICIA TV" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/GALICIATV.png",GALICIA TV
+http://live.artectv.workers.dev/?ID=GALICIATV
+#EXTINF:-1 tvg-name="CANAL 10" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/BOLIVISION.png",CANAL 10
+http://live.artectv.workers.dev/?ID=BOLIVISION
+#EXTINF:-1 tvg-name="CANAL CAPITAL" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/CANALCAPITAL.png",CANAL CAPITAL
+http://live.artectv.workers.dev/?ID=CANALCAPITAL
+#EXTINF:-1 tvg-name="MARIA VISIÓN" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/MARIAVISION.png",MARIA VISIÓN
+http://live.artectv.workers.dev/?ID=MARIAVISION
+#EXTINF:-1 tvg-name="CANAL INSTITUCIONAL" tvg-logo="http://static.srv.artec.i.mtvreg.com/cache/logos512/CANALINSTITUCIONAL.png",CANAL INSTITUCIONAL
+http://live.artectv.workers.dev/?ID=CANALINSTITUCIONAL

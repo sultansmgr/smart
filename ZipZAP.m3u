@@ -1,0 +1,513 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="BHT1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/bht1.png",BHT1
+http://live.zipzaptv.workers.dev/?ID=bht1
+#EXTINF:-1 tvg-name="Federalna TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/ftv.png",Federalna TV
+http://live.zipzaptv.workers.dev/?ID=ftv
+#EXTINF:-1 tvg-name="RTRS" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtrs.png",RTRS
+http://live.zipzaptv.workers.dev/?ID=rtrs
+#EXTINF:-1 tvg-name="TV Zenica" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tv_zenica.png",TV Zenica
+http://live.zipzaptv.workers.dev/?ID=tv_zenica
+#EXTINF:-1 tvg-name="OBN" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/obn.png",OBN
+http://live.zipzaptv.workers.dev/?ID=obn
+#EXTINF:-1 tvg-name="Hayat" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hayat.png",Hayat
+http://live.zipzaptv.workers.dev/?ID=hayat
+#EXTINF:-1 tvg-name="Hayat2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hayat2.png",Hayat2
+http://live.zipzaptv.workers.dev/?ID=hayat2
+#EXTINF:-1 tvg-name="Nova BH" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/nova_bh.png",Nova BH
+http://live.zipzaptv.workers.dev/?ID=nova_bh
+#EXTINF:-1 tvg-name="Face TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/face.png",Face TV
+http://live.zipzaptv.workers.dev/?ID=face
+#EXTINF:-1 tvg-name="Pink BH" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_bh.png",Pink BH
+http://live.zipzaptv.workers.dev/?ID=pink_bh
+#EXTINF:-1 tvg-name="BN" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/bn_tv.png",BN
+http://live.zipzaptv.workers.dev/?ID=bn_tv
+#EXTINF:-1 tvg-name="BN 2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/bn_tv2.png",BN 2
+http://live.zipzaptv.workers.dev/?ID=bn_tv2
+#EXTINF:-1 tvg-name="Alfa TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/alfa_tv.png",Alfa TV
+http://live.zipzaptv.workers.dev/?ID=alfa_tv
+#EXTINF:-1 tvg-name="O Kanal" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/o_kanal.png",O Kanal
+http://live.zipzaptv.workers.dev/?ID=o_kanal
+#EXTINF:-1 tvg-name="TV Sarajevo" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tvsa.png",TV Sarajevo
+http://live.zipzaptv.workers.dev/?ID=tvsa
+#EXTINF:-1 tvg-name="Vogošća" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/vogosca.png",Vogošća
+http://live.zipzaptv.workers.dev/?ID=vogosca
+#EXTINF:-1 tvg-name="Visoko" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/visoko.png",Visoko
+http://live.zipzaptv.workers.dev/?ID=visoko
+#EXTINF:-1 tvg-name="Smart TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/smart.png",Smart TV
+http://live.zipzaptv.workers.dev/?ID=smart
+#EXTINF:-1 tvg-name="USK" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/usk.png",USK
+http://live.zipzaptv.workers.dev/?ID=usk
+#EXTINF:-1 tvg-name="Lukavac" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/lukavac.png",Lukavac
+http://live.zipzaptv.workers.dev/?ID=lukavac
+#EXTINF:-1 tvg-name="RTV Živinice" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/zivinice.png",RTV Živinice
+http://live.zipzaptv.workers.dev/?ID=zivinice
+#EXTINF:-1 tvg-name="Bugojno" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/bugojno.png",Bugojno
+http://live.zipzaptv.workers.dev/?ID=bugojno
+#EXTINF:-1 tvg-name="TK" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tvtk.png",TK
+http://live.zipzaptv.workers.dev/?ID=tvtk
+#EXTINF:-1 tvg-name="Maglaj" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/maglaj.png",Maglaj
+http://live.zipzaptv.workers.dev/?ID=maglaj
+#EXTINF:-1 tvg-name="Jata" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/jata.png",Jata
+http://live.zipzaptv.workers.dev/?ID=jata
+#EXTINF:-1 tvg-name="Kanal 6" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/kanal6.png",Kanal 6
+http://live.zipzaptv.workers.dev/?ID=kanal6
+#EXTINF:-1 tvg-name="Hema" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hema.png",Hema
+http://live.zipzaptv.workers.dev/?ID=hema
+#EXTINF:-1 tvg-name="HIT" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hit_tv.png",HIT
+http://live.zipzaptv.workers.dev/?ID=hit_tv
+#EXTINF:-1 tvg-name="TataBrada.TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tatabrada_tv.png",TataBrada.TV
+http://live.zipzaptv.workers.dev/?ID=tatabrada_tv
+#EXTINF:-1 tvg-name="Dobra TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/dobra_tv.png",Dobra TV
+http://live.zipzaptv.workers.dev/?ID=dobra_tv
+#EXTINF:-1 tvg-name="Neon" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/neon.png",Neon
+http://live.zipzaptv.workers.dev/?ID=neon
+#EXTINF:-1 tvg-name="Slon Extra" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/slon_extra.png",Slon Extra
+http://live.zipzaptv.workers.dev/?ID=slon_extra
+#EXTINF:-1 tvg-name="Glas Drine" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/glas_drine.png",Glas Drine
+http://live.zipzaptv.workers.dev/?ID=glas_drine
+#EXTINF:-1 tvg-name="ATV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/atv.png",ATV
+http://live.zipzaptv.workers.dev/?ID=atv
+#EXTINF:-1 tvg-name="K3" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/k3.png",K3
+http://live.zipzaptv.workers.dev/?ID=k3
+#EXTINF:-1 tvg-name="Istočno Sarajevo" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtv_is.png",Istočno Sarajevo
+http://live.zipzaptv.workers.dev/?ID=rtv_is
+#EXTINF:-1 tvg-name="RTRS Plus" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtrs_plus.png",RTRS Plus
+http://live.zipzaptv.workers.dev/?ID=rtrs_plus
+#EXTINF:-1 tvg-name="Herceg TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/herceg_tv.png",Herceg TV
+http://live.zipzaptv.workers.dev/?ID=herceg_tv
+#EXTINF:-1 tvg-name="TV M" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tv_m.png",TV M
+http://live.zipzaptv.workers.dev/?ID=tv_m
+#EXTINF:-1 tvg-name="NTV IC" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/ntvic_kakanj.png",NTV IC
+http://live.zipzaptv.workers.dev/?ID=ntvic_kakanj
+#EXTINF:-1 tvg-name="MTV Igman" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/mtv_igman.png",MTV Igman
+http://live.zipzaptv.workers.dev/?ID=mtv_igman
+#EXTINF:-1 tvg-name="Televizija 5" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tv5.png",Televizija 5
+http://live.zipzaptv.workers.dev/?ID=tv5
+#EXTINF:-1 tvg-name="BIR TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/bir.png",BIR TV
+http://live.zipzaptv.workers.dev/?ID=bir
+#EXTINF:-1 tvg-name="Saudi Quran" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/saudi_quran.png",Saudi Quran
+http://live.zipzaptv.workers.dev/?ID=saudi_quran
+#EXTINF:-1 tvg-name="Podrinje" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/podrinje.png",Podrinje
+http://live.zipzaptv.workers.dev/?ID=podrinje
+#EXTINF:-1 tvg-name="Sandžak TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/sandzak_tv.png",Sandžak TV
+http://live.zipzaptv.workers.dev/?ID=sandzak_tv
+#EXTINF:-1 tvg-name="Novi Pazar" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/novi_pazar_stream_p8.png",Novi Pazar
+http://live.zipzaptv.workers.dev/?ID=novi_pazar_stream_p8
+#EXTINF:-1 tvg-name="Super Media TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/super_media.png",Super Media TV
+http://live.zipzaptv.workers.dev/?ID=super_media
+#EXTINF:-1 tvg-name="RTV HB" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hb.png",RTV HB
+http://live.zipzaptv.workers.dev/?ID=hb
+#EXTINF:-1 tvg-name="HRT1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hrt1.png",HRT1
+http://live.zipzaptv.workers.dev/?ID=hrt1
+#EXTINF:-1 tvg-name="HRT2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hrt2.png",HRT2
+http://live.zipzaptv.workers.dev/?ID=hrt2
+#EXTINF:-1 tvg-name="HRT3" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hrt3.png",HRT3
+http://live.zipzaptv.workers.dev/?ID=hrt3
+#EXTINF:-1 tvg-name="HRT4" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hrt4.png",HRT4
+http://live.zipzaptv.workers.dev/?ID=hrt4
+#EXTINF:-1 tvg-name="Nova" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/nova_hr.png",Nova
+http://live.zipzaptv.workers.dev/?ID=nova_hr
+#EXTINF:-1 tvg-name="Doma" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/doma.png",Doma
+http://live.zipzaptv.workers.dev/?ID=doma
+#EXTINF:-1 tvg-name="RTL" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtl.png",RTL
+http://live.zipzaptv.workers.dev/?ID=rtl
+#EXTINF:-1 tvg-name="RTL2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtl2.png",RTL2
+http://live.zipzaptv.workers.dev/?ID=rtl2
+#EXTINF:-1 tvg-name="Z1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/z1.png",Z1
+http://live.zipzaptv.workers.dev/?ID=z1
+#EXTINF:-1 tvg-name="Libertas TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/libertas_tv.png",Libertas TV
+http://live.zipzaptv.workers.dev/?ID=libertas_tv
+#EXTINF:-1 tvg-name="Jadran TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/jadran_tv.png",Jadran TV
+http://live.zipzaptv.workers.dev/?ID=jadran_tv
+#EXTINF:-1 tvg-name="Zapad TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/zapad_tv.png",Zapad TV
+http://live.zipzaptv.workers.dev/?ID=zapad_tv
+#EXTINF:-1 tvg-name="Pink M" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_m.png",Pink M
+http://live.zipzaptv.workers.dev/?ID=pink_m
+#EXTINF:-1 tvg-name="MNE" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/mne.png",MNE
+http://live.zipzaptv.workers.dev/?ID=mne
+#EXTINF:-1 tvg-name="TVCG1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tvcg1.png",TVCG1
+http://live.zipzaptv.workers.dev/?ID=tvcg1
+#EXTINF:-1 tvg-name="TVCG2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tvcg2.png",TVCG2
+http://live.zipzaptv.workers.dev/?ID=tvcg2
+#EXTINF:-1 tvg-name="TVCG3" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tvcg3.png",TVCG3
+http://live.zipzaptv.workers.dev/?ID=tvcg3
+#EXTINF:-1 tvg-name="Pink" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_sr.png",Pink
+http://live.zipzaptv.workers.dev/?ID=pink_sr
+#EXTINF:-1 tvg-name="Pink Plus" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_plus.png",Pink Plus
+http://live.zipzaptv.workers.dev/?ID=pink_plus
+#EXTINF:-1 tvg-name="Pink Extra" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_extra.png",Pink Extra
+http://live.zipzaptv.workers.dev/?ID=pink_extra
+#EXTINF:-1 tvg-name="Vesti" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/vesti.png",Vesti
+http://live.zipzaptv.workers.dev/?ID=vesti
+#EXTINF:-1 tvg-name="Narodna TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/narodna.png",Narodna TV
+http://live.zipzaptv.workers.dev/?ID=narodna
+#EXTINF:-1 tvg-name="RED" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/red.png",RED
+http://live.zipzaptv.workers.dev/?ID=red
+#EXTINF:-1 tvg-name="RTS1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rts1.png",RTS1
+http://live.zipzaptv.workers.dev/?ID=rts1
+#EXTINF:-1 tvg-name="RTS2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rts2.png",RTS2
+http://live.zipzaptv.workers.dev/?ID=rts2
+#EXTINF:-1 tvg-name="RTS Svet" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rts_svet.png",RTS Svet
+http://live.zipzaptv.workers.dev/?ID=rts_svet
+#EXTINF:-1 tvg-name="RTS Trezor" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rts_trezor.png",RTS Trezor
+http://live.zipzaptv.workers.dev/?ID=rts_trezor
+#EXTINF:-1 tvg-name="RTV1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtv1.png",RTV1
+http://live.zipzaptv.workers.dev/?ID=rtv1
+#EXTINF:-1 tvg-name="RTV2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtv2.png",RTV2
+http://live.zipzaptv.workers.dev/?ID=rtv2
+#EXTINF:-1 tvg-name="Balkan TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/balkan_tv.png",Balkan TV
+http://live.zipzaptv.workers.dev/?ID=balkan_tv
+#EXTINF:-1 tvg-name="Tropik TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tropik.png",Tropik TV
+http://live.zipzaptv.workers.dev/?ID=tropik
+#EXTINF:-1 tvg-name="Hayatovci" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hayatovci.png",Hayatovci
+http://live.zipzaptv.workers.dev/?ID=hayatovci
+#EXTINF:-1 tvg-name="TNT Kids" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tnt_kids.png",TNT Kids
+http://live.zipzaptv.workers.dev/?ID=tnt_kids
+#EXTINF:-1 tvg-name="RTL Kockica" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtl_kockica.png",RTL Kockica
+http://live.zipzaptv.workers.dev/?ID=rtl_kockica
+#EXTINF:-1 tvg-name="Nick Jr." tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/nick_jr.png",Nick Jr.
+http://live.zipzaptv.workers.dev/?ID=nick_jr
+#EXTINF:-1 tvg-name="Nicktoons" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/nicktoons.png",Nicktoons
+http://live.zipzaptv.workers.dev/?ID=nicktoons
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/nickelodeon.png",Nickelodeon
+http://live.zipzaptv.workers.dev/?ID=nickelodeon
+#EXTINF:-1 tvg-name="Disney" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/disney.png",Disney
+http://live.zipzaptv.workers.dev/?ID=disney
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/baby_tv.png",Baby TV
+http://live.zipzaptv.workers.dev/?ID=baby_tv
+#EXTINF:-1 tvg-name="MiniMax" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/minimax.png",MiniMax
+http://live.zipzaptv.workers.dev/?ID=minimax
+#EXTINF:-1 tvg-name="Pink Kids" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_kids.png",Pink Kids
+http://live.zipzaptv.workers.dev/?ID=pink_kids
+#EXTINF:-1 tvg-name="Pink Super Kids" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_super_kids.png",Pink Super Kids
+http://live.zipzaptv.workers.dev/?ID=pink_super_kids
+#EXTINF:-1 tvg-name="Toggo" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/toggo_de.png",Toggo
+http://live.zipzaptv.workers.dev/?ID=toggo_de
+#EXTINF:-1 tvg-name="Toggo Plus" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/toggo_plus_de.png",Toggo Plus
+http://live.zipzaptv.workers.dev/?ID=toggo_plus_de
+#EXTINF:-1 tvg-name="Pink Family" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_family.png",Pink Family
+http://live.zipzaptv.workers.dev/?ID=pink_family
+#EXTINF:-1 tvg-name="RTS Poletarac" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rts_poletarac.png",RTS Poletarac
+http://live.zipzaptv.workers.dev/?ID=rts_poletarac
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/animal_planet.png",Animal Planet
+http://live.zipzaptv.workers.dev/?ID=animal_planet
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/discovery.png",Discovery
+http://live.zipzaptv.workers.dev/?ID=discovery
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/ngc.png",National Geographic
+http://live.zipzaptv.workers.dev/?ID=ngc
+#EXTINF:-1 tvg-name="National Geographic Wild" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/ngc_wild.png",National Geographic Wild
+http://live.zipzaptv.workers.dev/?ID=ngc_wild
+#EXTINF:-1 tvg-name="Viasat History" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/viasat_history.png",Viasat History
+http://live.zipzaptv.workers.dev/?ID=viasat_history
+#EXTINF:-1 tvg-name="Viasat Explorer" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/viasat_explorer.png",Viasat Explorer
+http://live.zipzaptv.workers.dev/?ID=viasat_explorer
+#EXTINF:-1 tvg-name="Viasat Nature" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/viasat_nature.png",Viasat Nature
+http://live.zipzaptv.workers.dev/?ID=viasat_nature
+#EXTINF:-1 tvg-name="RTL Living" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtl_living.png",RTL Living
+http://live.zipzaptv.workers.dev/?ID=rtl_living
+#EXTINF:-1 tvg-name="Pink Kuvar" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_kuvar.png",Pink Kuvar
+http://live.zipzaptv.workers.dev/?ID=pink_kuvar
+#EXTINF:-1 tvg-name="Pink Pedia" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_pedia.png",Pink Pedia
+http://live.zipzaptv.workers.dev/?ID=pink_pedia
+#EXTINF:-1 tvg-name="Pink World" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_world.png",Pink World
+http://live.zipzaptv.workers.dev/?ID=pink_world
+#EXTINF:-1 tvg-name="RTS Život" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rts_zivot.png",RTS Život
+http://live.zipzaptv.workers.dev/?ID=rts_zivot
+#EXTINF:-1 tvg-name="Star" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/star.png",Star
+http://live.zipzaptv.workers.dev/?ID=star
+#EXTINF:-1 tvg-name="Star Movies" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/star_movies.png",Star Movies
+http://live.zipzaptv.workers.dev/?ID=star_movies
+#EXTINF:-1 tvg-name="Star Crime" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/star_crime.png",Star Crime
+http://live.zipzaptv.workers.dev/?ID=star_crime
+#EXTINF:-1 tvg-name="Star Life" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/star_life.png",Star Life
+http://live.zipzaptv.workers.dev/?ID=star_life
+#EXTINF:-1 tvg-name="CineStar1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/cinestar1.png",CineStar1
+http://live.zipzaptv.workers.dev/?ID=cinestar1
+#EXTINF:-1 tvg-name="CineStar2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/cinestar2.png",CineStar2
+http://live.zipzaptv.workers.dev/?ID=cinestar2
+#EXTINF:-1 tvg-name="CineStar Action" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/cinestar_action.png",CineStar Action
+http://live.zipzaptv.workers.dev/?ID=cinestar_action
+#EXTINF:-1 tvg-name="CineStar Fantasy" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/cinestar_fantasy.png",CineStar Fantasy
+http://live.zipzaptv.workers.dev/?ID=cinestar_fantasy
+#EXTINF:-1 tvg-name="Pink Action" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_action.png",Pink Action
+http://live.zipzaptv.workers.dev/?ID=pink_action
+#EXTINF:-1 tvg-name="Pink Thriller" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_thriller.png",Pink Thriller
+http://live.zipzaptv.workers.dev/?ID=pink_thriller
+#EXTINF:-1 tvg-name="Pink Movies" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_movies.png",Pink Movies
+http://live.zipzaptv.workers.dev/?ID=pink_movies
+#EXTINF:-1 tvg-name="Pink Premium" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_premium.png",Pink Premium
+http://live.zipzaptv.workers.dev/?ID=pink_premium
+#EXTINF:-1 tvg-name="Pink Horror" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_horror.png",Pink Horror
+http://live.zipzaptv.workers.dev/?ID=pink_horror
+#EXTINF:-1 tvg-name="Pink SciFi & Fantasy" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_scifi_fantasy.png",Pink SciFi & Fantasy
+http://live.zipzaptv.workers.dev/?ID=pink_scifi_fantasy
+#EXTINF:-1 tvg-name="Pink Crime & Mistery" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_crime_mistery.png",Pink Crime & Mistery
+http://live.zipzaptv.workers.dev/?ID=pink_crime_mistery
+#EXTINF:-1 tvg-name="Pink World Cinema" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_world_cinema.png",Pink World Cinema
+http://live.zipzaptv.workers.dev/?ID=pink_world_cinema
+#EXTINF:-1 tvg-name="Pink Classic" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_classic.png",Pink Classic
+http://live.zipzaptv.workers.dev/?ID=pink_classic
+#EXTINF:-1 tvg-name="Pink Western" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_western.png",Pink Western
+http://live.zipzaptv.workers.dev/?ID=pink_western
+#EXTINF:-1 tvg-name="Pink Romance" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_romance.png",Pink Romance
+http://live.zipzaptv.workers.dev/?ID=pink_romance
+#EXTINF:-1 tvg-name="Pink Comedy" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_comedy.png",Pink Comedy
+http://live.zipzaptv.workers.dev/?ID=pink_comedy
+#EXTINF:-1 tvg-name="Pink Soap" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_soap.png",Pink Soap
+http://live.zipzaptv.workers.dev/?ID=pink_soap
+#EXTINF:-1 tvg-name="Pink Serije" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_serije.png",Pink Serije
+http://live.zipzaptv.workers.dev/?ID=pink_serije
+#EXTINF:-1 tvg-name="Pink Film" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_film.png",Pink Film
+http://live.zipzaptv.workers.dev/?ID=pink_film
+#EXTINF:-1 tvg-name="Klasik" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/klasik.png",Klasik
+http://live.zipzaptv.workers.dev/?ID=klasik
+#EXTINF:-1 tvg-name="RTL Crime" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtl_crime.png",RTL Crime
+http://live.zipzaptv.workers.dev/?ID=rtl_crime
+#EXTINF:-1 tvg-name="Sehara Online" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/sehara_online.png",Sehara Online
+http://live.zipzaptv.workers.dev/?ID=sehara_online
+#EXTINF:-1 tvg-name="RTS Drama" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rts_drama.png",RTS Drama
+http://live.zipzaptv.workers.dev/?ID=rts_drama
+#EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/esp1_sr.png",Eurosport 1
+http://live.zipzaptv.workers.dev/?ID=esp1_sr
+#EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/esp2_sr.png",Eurosport 2
+http://live.zipzaptv.workers.dev/?ID=esp2_sr
+#EXTINF:-1 tvg-name="Arena 1 Premium" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena1pr_sr.png",Arena 1 Premium
+http://live.zipzaptv.workers.dev/?ID=arena1pr_sr
+#EXTINF:-1 tvg-name="Arena 2 Premium" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena2pr_sr.png",Arena 2 Premium
+http://live.zipzaptv.workers.dev/?ID=arena2pr_sr
+#EXTINF:-1 tvg-name="Arena 3 Premium" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena3pr_sr.png",Arena 3 Premium
+http://live.zipzaptv.workers.dev/?ID=arena3pr_sr
+#EXTINF:-1 tvg-name="Arena Sport 1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena1_bh.png",Arena Sport 1
+http://live.zipzaptv.workers.dev/?ID=arena1_bh
+#EXTINF:-1 tvg-name="Arena Sport 2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena2_bh.png",Arena Sport 2
+http://live.zipzaptv.workers.dev/?ID=arena2_bh
+#EXTINF:-1 tvg-name="Arena Sport 3" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena3_bh.png",Arena Sport 3
+http://live.zipzaptv.workers.dev/?ID=arena3_bh
+#EXTINF:-1 tvg-name="Arena Sport 4" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena4_sr.png",Arena Sport 4
+http://live.zipzaptv.workers.dev/?ID=arena4_sr
+#EXTINF:-1 tvg-name="Arena Sport 5" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena5_sr.png",Arena Sport 5
+http://live.zipzaptv.workers.dev/?ID=arena5_sr
+#EXTINF:-1 tvg-name="Arena Sport 6" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena6_sr.png",Arena Sport 6
+http://live.zipzaptv.workers.dev/?ID=arena6_sr
+#EXTINF:-1 tvg-name="Arena Sport 1 Hr" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena1_hr.png",Arena Sport 1 Hr
+http://live.zipzaptv.workers.dev/?ID=arena1_hr
+#EXTINF:-1 tvg-name="Arena Sport 3 Hr" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena3_hr.png",Arena Sport 3 Hr
+http://live.zipzaptv.workers.dev/?ID=arena3_hr
+#EXTINF:-1 tvg-name="Arena Sport 1x2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena1x2.png",Arena Sport 1x2
+http://live.zipzaptv.workers.dev/?ID=arena1x2
+#EXTINF:-1 tvg-name="Arena eSport" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena_esport.png",Arena eSport
+http://live.zipzaptv.workers.dev/?ID=arena_esport
+#EXTINF:-1 tvg-name="Arena Fight" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena_fight.png",Arena Fight
+http://live.zipzaptv.workers.dev/?ID=arena_fight
+#EXTINF:-1 tvg-name="Fight Network" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/fight_network.png",Fight Network
+http://live.zipzaptv.workers.dev/?ID=fight_network
+#EXTINF:-1 tvg-name="City TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/city_tv.png",City TV
+http://live.zipzaptv.workers.dev/?ID=city_tv
+#EXTINF:-1 tvg-name="Sportska" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/sportska.png",Sportska
+http://live.zipzaptv.workers.dev/?ID=sportska
+#EXTINF:-1 tvg-name="SOS Kanal" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/sos.png",SOS Kanal
+http://live.zipzaptv.workers.dev/?ID=sos
+#EXTINF:-1 tvg-name="Happy" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/happy.png",Happy
+http://live.zipzaptv.workers.dev/?ID=happy
+#EXTINF:-1 tvg-name="Pink Reality" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_reality.png",Pink Reality
+http://live.zipzaptv.workers.dev/?ID=pink_reality
+#EXTINF:-1 tvg-name="Elita 1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_elita1.png",Elita 1
+http://live.zipzaptv.workers.dev/?ID=pink_elita1
+#EXTINF:-1 tvg-name="Elita 2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_elita2.png",Elita 2
+http://live.zipzaptv.workers.dev/?ID=pink_elita2
+#EXTINF:-1 tvg-name="Elita 3" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_elita3.png",Elita 3
+http://live.zipzaptv.workers.dev/?ID=pink_elita3
+#EXTINF:-1 tvg-name="Elita 4" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_elita4.png",Elita 4
+http://live.zipzaptv.workers.dev/?ID=pink_elita4
+#EXTINF:-1 tvg-name="LOL" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/lol.png",LOL
+http://live.zipzaptv.workers.dev/?ID=lol
+#EXTINF:-1 tvg-name="HAHA" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/haha.png",HAHA
+http://live.zipzaptv.workers.dev/?ID=haha
+#EXTINF:-1 tvg-name="Pink Zabava" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_zabava.png",Pink Zabava
+http://live.zipzaptv.workers.dev/?ID=pink_zabava
+#EXTINF:-1 tvg-name="Pink Show" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_show.png",Pink Show
+http://live.zipzaptv.workers.dev/?ID=pink_show
+#EXTINF:-1 tvg-name="Pink Style" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_style.png",Pink Style
+http://live.zipzaptv.workers.dev/?ID=pink_style
+#EXTINF:-1 tvg-name="Pink Fashion" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_fashion.png",Pink Fashion
+http://live.zipzaptv.workers.dev/?ID=pink_fashion
+#EXTINF:-1 tvg-name="Hayat Folk Box" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hayat_folk_box.png",Hayat Folk Box
+http://live.zipzaptv.workers.dev/?ID=hayat_folk_box
+#EXTINF:-1 tvg-name="Hayat Music Box" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hayat_music_box.png",Hayat Music Box
+http://live.zipzaptv.workers.dev/?ID=hayat_music_box
+#EXTINF:-1 tvg-name="Sevdah TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/sevdah_tv.png",Sevdah TV
+http://live.zipzaptv.workers.dev/?ID=sevdah_tv
+#EXTINF:-1 tvg-name="BN Music" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/bn_music.png",BN Music
+http://live.zipzaptv.workers.dev/?ID=bn_music
+#EXTINF:-1 tvg-name="Izvorna TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/izvorna.png",Izvorna TV
+http://live.zipzaptv.workers.dev/?ID=izvorna
+#EXTINF:-1 tvg-name="Sehara" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/sehara.png",Sehara
+http://live.zipzaptv.workers.dev/?ID=sehara
+#EXTINF:-1 tvg-name="Extra TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/extra_tv_stream_a7.png",Extra TV
+http://live.zipzaptv.workers.dev/?ID=extra_tv_stream_a7
+#EXTINF:-1 tvg-name="Bravo!" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/bravo_tv.png",Bravo!
+http://live.zipzaptv.workers.dev/?ID=bravo_tv
+#EXTINF:-1 tvg-name="Jugoton" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/jugoton.png",Jugoton
+http://live.zipzaptv.workers.dev/?ID=jugoton
+#EXTINF:-1 tvg-name="CMC" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/cmc.png",CMC
+http://live.zipzaptv.workers.dev/?ID=cmc
+#EXTINF:-1 tvg-name="Muzzik" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik.png",Muzzik
+http://live.zipzaptv.workers.dev/?ID=muzzik
+#EXTINF:-1 tvg-name="Muzzik Mix" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik_mix.png",Muzzik Mix
+http://live.zipzaptv.workers.dev/?ID=muzzik_mix
+#EXTINF:-1 tvg-name="Restart" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik_restart.png",Restart
+http://live.zipzaptv.workers.dev/?ID=muzzik_restart
+#EXTINF:-1 tvg-name="Pop Star" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik_pop_star.png",Pop Star
+http://live.zipzaptv.workers.dev/?ID=muzzik_pop_star
+#EXTINF:-1 tvg-name="Electro" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik_electro.png",Electro
+http://live.zipzaptv.workers.dev/?ID=muzzik_electro
+#EXTINF:-1 tvg-name="FlashBack" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik_flashback.png",FlashBack
+http://live.zipzaptv.workers.dev/?ID=muzzik_flashback
+#EXTINF:-1 tvg-name="WWM" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik_wwm.png",WWM
+http://live.zipzaptv.workers.dev/?ID=muzzik_wwm
+#EXTINF:-1 tvg-name="Jeka" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik_jekka.png",Jeka
+http://live.zipzaptv.workers.dev/?ID=muzzik_jekka
+#EXTINF:-1 tvg-name="ZZ TV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik_zz.png",ZZ TV
+http://live.zipzaptv.workers.dev/?ID=muzzik_zz
+#EXTINF:-1 tvg-name="Rock & Roll" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik_rockroll.png",Rock & Roll
+http://live.zipzaptv.workers.dev/?ID=muzzik_rockroll
+#EXTINF:-1 tvg-name="BMC" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/bmc.png",BMC
+http://live.zipzaptv.workers.dev/?ID=bmc
+#EXTINF:-1 tvg-name="BMC Etno" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/bmc_etno.png",BMC Etno
+http://live.zipzaptv.workers.dev/?ID=bmc_etno
+#EXTINF:-1 tvg-name="MTV" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/mtv.png",MTV
+http://live.zipzaptv.workers.dev/?ID=mtv
+#EXTINF:-1 tvg-name="Bravo Music" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/bravo_music.png",Bravo Music
+http://live.zipzaptv.workers.dev/?ID=bravo_music
+#EXTINF:-1 tvg-name="Pink Hits" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_hits1.png",Pink Hits
+http://live.zipzaptv.workers.dev/?ID=pink_hits1
+#EXTINF:-1 tvg-name="Pink Hits 2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_hits2.png",Pink Hits 2
+http://live.zipzaptv.workers.dev/?ID=pink_hits2
+#EXTINF:-1 tvg-name="Pink Music" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_music1.png",Pink Music
+http://live.zipzaptv.workers.dev/?ID=pink_music1
+#EXTINF:-1 tvg-name="Pink Music 2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_music2.png",Pink Music 2
+http://live.zipzaptv.workers.dev/?ID=pink_music2
+#EXTINF:-1 tvg-name="Pink N Roll" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_n_roll.png",Pink N Roll
+http://live.zipzaptv.workers.dev/?ID=pink_n_roll
+#EXTINF:-1 tvg-name="Pink Koncert" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_koncert.png",Pink Koncert
+http://live.zipzaptv.workers.dev/?ID=pink_koncert
+#EXTINF:-1 tvg-name="City play" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/city_play.png",City play
+http://live.zipzaptv.workers.dev/?ID=city_play
+#EXTINF:-1 tvg-name="Banovina" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/banovina.png",Banovina
+http://live.zipzaptv.workers.dev/?ID=banovina
+#EXTINF:-1 tvg-name="DM Sat" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/dm_sat.png",DM Sat
+http://live.zipzaptv.workers.dev/?ID=dm_sat
+#EXTINF:-1 tvg-name="Pink Folk" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_folk.png",Pink Folk
+http://live.zipzaptv.workers.dev/?ID=pink_folk
+#EXTINF:-1 tvg-name="Pink Folk 2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_folk2.png",Pink Folk 2
+http://live.zipzaptv.workers.dev/?ID=pink_folk2
+#EXTINF:-1 tvg-name="KCN1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/kcn1.png",KCN1
+http://live.zipzaptv.workers.dev/?ID=kcn1
+#EXTINF:-1 tvg-name="K::CN 2 Music" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/kcn2.png",K::CN 2 Music
+http://live.zipzaptv.workers.dev/?ID=kcn2
+#EXTINF:-1 tvg-name="K::CN 3 Svet+" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/kcn3.png",K::CN 3 Svet+
+http://live.zipzaptv.workers.dev/?ID=kcn3
+#EXTINF:-1 tvg-name="RTS Muzika" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rts_muzika.png",RTS Muzika
+http://live.zipzaptv.workers.dev/?ID=rts_muzika
+#EXTINF:-1 tvg-name="RTS Klasika" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rts_klasika.png",RTS Klasika
+http://live.zipzaptv.workers.dev/?ID=rts_klasika
+#EXTINF:-1 tvg-name="RTS Kolo" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rts_kolo.png",RTS Kolo
+http://live.zipzaptv.workers.dev/?ID=rts_kolo
+#EXTINF:-1 tvg-name="RTV Puls" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtv_puls.png",RTV Puls
+http://live.zipzaptv.workers.dev/?ID=rtv_puls
+#EXTINF:-1 tvg-name="Krajina" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/krajina.png",Krajina
+http://live.zipzaptv.workers.dev/?ID=krajina
+#EXTINF:-1 tvg-name="Kristal" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/kristal.png",Kristal
+http://live.zipzaptv.workers.dev/?ID=kristal
+#EXTINF:-1 tvg-name="Yu Planet" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/yu_planet.png",Yu Planet
+http://live.zipzaptv.workers.dev/?ID=yu_planet
+#EXTINF:-1 tvg-name="RTL De" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtl_de.png",RTL De
+http://live.zipzaptv.workers.dev/?ID=rtl_de
+#EXTINF:-1 tvg-name="RTL2 De" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtl2_de.png",RTL2 De
+http://live.zipzaptv.workers.dev/?ID=rtl2_de
+#EXTINF:-1 tvg-name="RTL Nitro" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtl_nitro_de.png",RTL Nitro
+http://live.zipzaptv.workers.dev/?ID=rtl_nitro_de
+#EXTINF:-1 tvg-name="VOX" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/vox.png",VOX
+http://live.zipzaptv.workers.dev/?ID=vox
+#EXTINF:-1 tvg-name="SAT.1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/sat1.png",SAT.1
+http://live.zipzaptv.workers.dev/?ID=sat1
+#EXTINF:-1 tvg-name="Pro Sieben" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pro_sieben.png",Pro Sieben
+http://live.zipzaptv.workers.dev/?ID=pro_sieben
+#EXTINF:-1 tvg-name="Kabel Eins" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/kabel1_de.png",Kabel Eins
+http://live.zipzaptv.workers.dev/?ID=kabel1_de
+#EXTINF:-1 tvg-name="Kabel Eins Doku" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/kabel1_docu_de.png",Kabel Eins Doku
+http://live.zipzaptv.workers.dev/?ID=kabel1_docu_de
+#EXTINF:-1 tvg-name="France24 (In English)" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/france24_en.png",France24 (In English)
+http://live.zipzaptv.workers.dev/?ID=france24_en
+#EXTINF:-1 tvg-name="France24 (In English)" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/france24_fr.png",France24 (In English)
+http://live.zipzaptv.workers.dev/?ID=france24_fr
+#EXTINF:-1 tvg-name="Radio Zenit" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_zenit.png",Radio Zenit
+http://live.zipzaptv.workers.dev/?ID=radio_zenit
+#EXTINF:-1 tvg-name="Radio eXtra" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_extra.png",Radio eXtra
+http://live.zipzaptv.workers.dev/?ID=radio_extra
+#EXTINF:-1 tvg-name="Radio TNT Zenica" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_tnt_zenica.png",Radio TNT Zenica
+http://live.zipzaptv.workers.dev/?ID=radio_tnt_zenica
+#EXTINF:-1 tvg-name="Radio Narodni Zenica" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_narodni_zenica.png",Radio Narodni Zenica
+http://live.zipzaptv.workers.dev/?ID=radio_narodni_zenica
+#EXTINF:-1 tvg-name="Radio TNT Travnik" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_tnt_travnik.png",Radio TNT Travnik
+http://live.zipzaptv.workers.dev/?ID=radio_tnt_travnik
+#EXTINF:-1 tvg-name="Radio TNT Sarajevo" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_tnt_sarajevo.png",Radio TNT Sarajevo
+http://live.zipzaptv.workers.dev/?ID=radio_tnt_sarajevo
+#EXTINF:-1 tvg-name="Radio Narodni Sarajevo" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_narodni_sarajevo.png",Radio Narodni Sarajevo
+http://live.zipzaptv.workers.dev/?ID=radio_narodni_sarajevo
+#EXTINF:-1 tvg-name="Radio TNT Tuzla" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_tnt_tuzla.png",Radio TNT Tuzla
+http://live.zipzaptv.workers.dev/?ID=radio_tnt_tuzla
+#EXTINF:-1 tvg-name="Radio Narodni Tuzla" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_narodni_tuzla.png",Radio Narodni Tuzla
+http://live.zipzaptv.workers.dev/?ID=radio_narodni_tuzla
+#EXTINF:-1 tvg-name="Radio DeeJay" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_deejay_hr.png",Radio DeeJay
+http://live.zipzaptv.workers.dev/?ID=radio_deejay_hr
+#EXTINF:-1 tvg-name="Radio BIR" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_bir.png",Radio BIR
+http://live.zipzaptv.workers.dev/?ID=radio_bir
+#EXTINF:-1 tvg-name="Radio BHR1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_bhr1.png",Radio BHR1
+http://live.zipzaptv.workers.dev/?ID=radio_bhr1
+#EXTINF:-1 tvg-name="Radio RTRS" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_rtrs.png",Radio RTRS
+http://live.zipzaptv.workers.dev/?ID=radio_rtrs
+#EXTINF:-1 tvg-name="Radio Zenica" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_zenica.png",Radio Zenica
+http://live.zipzaptv.workers.dev/?ID=radio_zenica
+#EXTINF:-1 tvg-name="Radio Glas Drine" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_glas_drine.png",Radio Glas Drine
+http://live.zipzaptv.workers.dev/?ID=radio_glas_drine
+#EXTINF:-1 tvg-name="Radio Pink" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_pink.png",Radio Pink
+http://live.zipzaptv.workers.dev/?ID=radio_pink
+#EXTINF:-1 tvg-name="Radio Banovina" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_banovina.png",Radio Banovina
+http://live.zipzaptv.workers.dev/?ID=radio_banovina
+#EXTINF:-1 tvg-name="Radio RTV Puls" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_rtv_puls.png",Radio RTV Puls
+http://live.zipzaptv.workers.dev/?ID=radio_rtv_puls
+#EXTINF:-1 tvg-name="Radio HR1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_hr1.png",Radio HR1
+http://live.zipzaptv.workers.dev/?ID=radio_hr1
+#EXTINF:-1 tvg-name="Radio HR2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_hr2.png",Radio HR2
+http://live.zipzaptv.workers.dev/?ID=radio_hr2
+#EXTINF:-1 tvg-name="Radio HR3" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_hr3.png",Radio HR3
+http://live.zipzaptv.workers.dev/?ID=radio_hr3
+#EXTINF:-1 tvg-name="Radio Stari Grad" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_rsg.png",Radio Stari Grad
+http://live.zipzaptv.workers.dev/?ID=radio_rsg
+#EXTINF:-1 tvg-name="Radio Tuzlanski kanton" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_tk.png",Radio Tuzlanski kanton
+http://live.zipzaptv.workers.dev/?ID=radio_tk
+#EXTINF:-1 tvg-name="Radio Sehara" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_sehara.png",Radio Sehara
+http://live.zipzaptv.workers.dev/?ID=radio_sehara
+#EXTINF:-1 tvg-name="Radio Lukavac" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_lukavac.png",Radio Lukavac
+http://live.zipzaptv.workers.dev/?ID=radio_lukavac
+#EXTINF:-1 tvg-name="Radio Vogošća" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_vogosca.png",Radio Vogošća
+http://live.zipzaptv.workers.dev/?ID=radio_vogosca
+#EXTINF:-1 tvg-name="Radio Kakanj" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_kakanj.png",Radio Kakanj
+http://live.zipzaptv.workers.dev/?ID=radio_kakanj
+#EXTINF:-1 tvg-name="Radio Bosanski Brod" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_bosanski_brod_stream_0t.png",Radio Bosanski Brod
+http://live.zipzaptv.workers.dev/?ID=radio_bosanski_brod_stream_0t
+#EXTINF:-1 tvg-name="Radio Džungla I" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_dzungla1.png",Radio Džungla I
+http://live.zipzaptv.workers.dev/?ID=radio_dzungla1
+#EXTINF:-1 tvg-name="Radio Džungla II" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_dzungla.png",Radio Džungla II
+http://live.zipzaptv.workers.dev/?ID=radio_dzungla
+#EXTINF:-1 tvg-name="Radio Džungla III" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_dzungla3.png",Radio Džungla III
+http://live.zipzaptv.workers.dev/?ID=radio_dzungla3
+#EXTINF:-1 tvg-name="Radio WTF" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_wtf.png",Radio WTF
+http://live.zipzaptv.workers.dev/?ID=radio_wtf
+#EXTINF:-1 tvg-name="B92" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/b92.png",B92
+http://live.zipzaptv.workers.dev/?ID=b92
+#EXTINF:-1 tvg-name="Prva Hercegovačka" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/prva_hercegovacka.png",Prva Hercegovačka
+http://live.zipzaptv.workers.dev/?ID=prva_hercegovacka
+#EXTINF:-1 tvg-name="Valentino Etno" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/otv_etno.png",Valentino Etno
+http://live.zipzaptv.workers.dev/?ID=otv_etno

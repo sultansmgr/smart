@@ -2,14 +2,14 @@ name: YouTube Liste Guncelleyici
 
 on:
   schedule:
-    - cron: "0 */5 * * *"
-  workflow_dispatch:
+    - cron: "0 */5 * * *" # Her 5 saatte bir çalışır
+  workflow_dispatch: # Manuel çalıştırma butonu ekler
 
 jobs:
   update-json:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Dosyayı geri yazabilmek için kritik izin
 
     steps:
       - name: Depoyu Kontrol Et
@@ -17,16 +17,16 @@ jobs:
 
       - name: Worker'dan Verileri Cek
         run: |
+          # -f: HTTP hata kodlarında (404, 500 vb) hata döndürür
           # -L: Yönlendirmeleri takip eder
-          # -k: SSL sertifika hatalarını görmezden gelir (bağlantı hatasını çözer)
-          # -s: Sessiz mod
-          curl -L -k -s "https://live.weebtv.workers.dev/" -o YouTube.json
+          # -v: Hata olursa detaylı rapor verir
+          curl -fL -k -v "https://live.weebtv.workers.dev/" -o YouTube.json
 
       - name: Dosya Boyutunu Kontrol Et
         run: |
-          # Eğer dosya boşsa işlemi durdur (hatalı kayıt yapmamak için)
+          # Eğer dosya boşsa veya oluşmadıysa işlemi durdur
           if [ ! -s YouTube.json ]; then
-            echo "HATA: Veri çekilemedi, dosya boş!"
+            echo "HATA: Veri çekilemedi veya dosya boş!"
             exit 1
           fi
 
@@ -34,6 +34,13 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          
+          # Değişiklik var mı kontrol et, yoksa hata vermeden geç
           git add YouTube.json
-          git commit -m "YouTube.json Guncellendi: $(date)" || exit 0
-          git push
+          if git diff --staged --quiet; then
+            echo "Herhangi bir değişiklik yok, push atılmıyor."
+            exit 0
+          fi
+          
+          git commit -m "YouTube.json Guncellendi: $(date)"
+          git push origin main

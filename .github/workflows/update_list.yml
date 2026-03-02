@@ -1,0 +1,29 @@
+name: YouTube Liste Guncelleyici
+
+on:
+  schedule:
+    - cron: "0 */5 * * *" # Her 5 saatte bir otomatik calisir
+  workflow_dispatch: # Manuel calistirma butonu ekler
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Depoyu Kontrol Et
+        uses: actions/checkout@v4
+
+      - name: Worker'dan Veriyi Cek
+        run: |
+          # BURAYA KENDI WORKER LINKINI YAZ
+          curl -s "URL_BURAYA" -o YouTube.json
+
+      - name: Degisiklikleri GitHub'a Kaydet
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add YouTube.json
+          git commit -m "YouTube.json guncellendi: $(date)" || exit 0
+          git push

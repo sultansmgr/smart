@@ -2,7 +2,7 @@ name: YouTube Liste Guncelleyici
 
 on:
   schedule:
-    - cron: "0 */2 * * *" # Her 2 saatte bir çalışır
+    - cron: "0 */3 * * *" # Her 3 saatte bir çalışır
   workflow_dispatch:      # Manuel tetikleme için
 
 jobs:
